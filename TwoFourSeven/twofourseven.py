@@ -101,5 +101,7 @@ class TransferPortal:
         df['Rating'] = df['Rating'].str.strip()
         df = df.replace('N/A', 'NULL')
         df.insert(0, 'Year', year)
+        df['OriginalTeam'] = df['OriginalTeam'].replace(r'^\s*$', 'NULL', regex = True)
+        df['NewTeam'] = df['NewTeam'].replace(r'^\s*$', 'NULL', regex = True)
 
         return df
