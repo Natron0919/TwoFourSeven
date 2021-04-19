@@ -13,7 +13,7 @@ setup(
     description = "Package to scrape 247Sports website for recruiting data",
     long_description = readme,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/Natron0919/TwoFourSeven/",
+    url = "https://github.com/Natron0919/twofourseven/",
     packages = find_packages(),
     install_requires = requirements,
     classifiers = [
