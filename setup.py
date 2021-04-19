@@ -15,7 +15,7 @@ setup(
     long_description_content_type = "text/markdown",
     url = "https://github.com/Natron0919/TwoFourSeven/",
     packages = find_packages(),
-    install_requirements = requirements,
+    install_requires = requirements,
     classifiers = [
         "Programming Language :: Python :: 3.9.1",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
