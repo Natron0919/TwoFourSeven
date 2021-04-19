@@ -55,6 +55,52 @@ class Recruit:
 
         return df
 
+    def getAllTime(self, team):
+        self.team = str(team)
+        self.team = self.team.replace(' ', '-')
+        self.team = self.team.lower()
+
+        res = self.session.get('https://247sports.com/college/' + self.team + '/Sport/Football/AllTimeRecruits/', headers = {'User-Agent': 'Mozilla/5.0'})
+        res.raise_for_status()
+        site = html.fromstring(res.content)
+
+        players = site.xpath("//div[@class='recruit']/a/text()")
+        pos = site.xpath("//li[@class='ri-page__list-item']/div/div[@class='position']/text()")
+        metrics = site.xpath("//li[@class='ri-page__list-item']/div/div[@class='metrics']/text()")
+        ht = [x.split('/')[0].strip() for x in metrics]
+        wt = [x.split('/')[1].strip() for x in metrics]
+        hometown = site.xpath("//div[@class='recruit']/span[1]/text()")
+        hometown = [x.strip() for x in hometown if x.strip()]
+        score = site.xpath("//div[@class='rating']/div/span[@class='score']/text()")
+        nat_rank = site.xpath("//a[@class='natrank']/text()")
+        pos_rank = site.xpath("//a[@class='posrank']/text()")
+        st_rank = site.xpath("//a[@class='sttrank']/text()")
+        clas = site.xpath("//div[@class='recruit']/span[2]/text()")
+        clas = [x.split('Class of ')[1] for x in clas]
+
+        di = {
+        'Player' : players, 
+        'POS' : pos,
+        'HT' : ht,
+        'WT' : wt,
+        'Class' : clas,
+        'Hometown': hometown,
+        'Rating' : score,
+        'National_Rank' : nat_rank,
+        'Position_Rank' : pos_rank,
+        'State_Rank' : st_rank
+        }
+
+        df = pd.DataFrame(di)
+
+        return df
+
+
+
+
+
+
+
 class TransferPortal:
 
     def __init__(self):
