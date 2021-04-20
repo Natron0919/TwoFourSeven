@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 import csv
 from lxml import html
+import numpy as np
 
 class Recruit:
 
@@ -140,5 +141,6 @@ class TransferPortal:
         df = df.drop(columns = {'Team'})
         df = pd.merge(df, self.collegedf, left_on = ['Team_New'], right_on = ['Team'], how = 'left', suffixes = ['_Old', '_New'])
         df = df.drop(columns = {'Team'})
+        df = df.replace(np.nan, 'NULL')
 
         return df

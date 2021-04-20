@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = ["pandas>=1", "requests>=2", "lxml>=4"]
+requirements = ["pandas>=1", "requests>=2", "lxml>=4", "numpy>=1"]
 
 setup(
     name = "twofourseven",
-    version = "0.0.6",
+    version = "0.0.7",
     author = "Nathan Reeb",
     author_email = "Nathan.Reeb94@outlook.com",
     description = "Package to scrape 247Sports website for recruiting data",
