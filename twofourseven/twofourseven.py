@@ -90,6 +90,7 @@ class TransferPortal:
 
     def __init__(self):
         self.session = requests.Session()
+        self.collegedf = pd.read_csv('https://raw.githubusercontent.com/Natron0919/twofourseven/main/Data/colleges.csv')
 
     def getData(self, year):
         
@@ -123,7 +124,7 @@ class TransferPortal:
         team2 = [''.join(x) for x in team2] # Turn all entries into strings instead of one length lists
 
         # Create dictionary from all lists
-        di = {'Player' : players, 'POS' : positions, 'Rating' : scores, 'OriginalTeam' : team1, 'NewTeam' : team2}
+        di = {'Player' : players, 'POS' : positions, 'Rating' : scores, 'Team_Old' : team1, 'Team_New' : team2}
 
         # Turn dictionary into DataFrame
         df = pd.DataFrame(di)
@@ -132,7 +133,12 @@ class TransferPortal:
         df['Rating'] = df['Rating'].str.strip()
         df = df.replace('N/A', 'NULL')
         df.insert(0, 'Year', year)
-        df['OriginalTeam'] = df['OriginalTeam'].replace(r'^\s*$', 'NULL', regex = True)
-        df['NewTeam'] = df['NewTeam'].replace(r'^\s*$', 'NULL', regex = True)
+        df['Team_Old'] = df['Team_Old'].replace(r'^\s*$', 'NULL', regex = True)
+        df['Team_New'] = df['Team_New'].replace(r'^\s*$', 'NULL', regex = True)
+
+        df = pd.merge(df, self.collegedf, left_on = ['Team_Old'], right_on = ['Team'], how = 'left')
+        df = df.drop(columns = {'Team'})
+        df = pd.merge(df, self.collegedf, left_on = ['Team_New'], right_on = ['Team'], how = 'left', suffixes = ['_Old', '_New'])
+        df = df.drop(columns = {'Team'})
 
         return df
