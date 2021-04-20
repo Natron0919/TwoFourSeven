@@ -1,1 +1,1 @@
-from twofourseven import *
+from twofourseven import twofourseven
