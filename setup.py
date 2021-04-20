@@ -7,7 +7,7 @@ requirements = ["pandas>=1", "requests>=2", "lxml>=4"]
 
 setup(
     name = "twofourseven",
-    version = "0.0.3",
+    version = "0.0.4",
     author = "Nathan Reeb",
     author_email = "Nathan.Reeb94@outlook.com",
     description = "Package to scrape 247Sports website for recruiting data",
