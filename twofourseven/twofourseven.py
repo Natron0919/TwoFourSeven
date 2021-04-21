@@ -139,7 +139,7 @@ class TransferPortal:
                 else:
                     raise ValueError('No Original Team')
             except:
-                team1.append('NULL')
+                team2.append('NULL')
 
         # team1 = [''.join(x) for x in team1] # Turn all entries into strings instead of one length lists
         team1 = [x.lower() for x in team1]
@@ -198,6 +198,7 @@ class TransferPortal:
                     raise ValueError('No Original Team')
             except:
                 team1.append('NULL')
+
         for x in player_list: # For-loop to get all players new team
             try:
                 url = x.xpath("div[contains(@class, 'transfer-institution')]/a[2]/@href")
@@ -209,7 +210,7 @@ class TransferPortal:
                 else:
                     raise ValueError('No New Team')
             except:
-                team1.append('NULL')
+                team2.append('NULL')
 
         # team1 = [''.join(x) for x in team1] # Turn all entries into strings instead of one length lists
         team1 = [x.lower() for x in team1]
