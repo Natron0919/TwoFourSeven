@@ -1,0 +1,344 @@
+,Team,Conference
+0,boston college,ACC
+1,clemson,ACC
+2,duke,ACC
+3,florida state,ACC
+4,georgia tech,ACC
+5,louisville,ACC
+6,miami,ACC
+7,north carolina state,ACC
+8,north carolina,ACC
+9,notre dame,ACC
+10,pittsburgh,ACC
+11,syracuse,ACC
+12,virginia,ACC
+13,virginia tech,ACC
+14,wake forest,ACC
+15,baylor,Big 12
+16,iowa state,Big 12
+17,kansas,Big 12
+18,kansas state,Big 12
+19,oklahoma,Big 12
+20,oklahoma state,Big 12
+21,tcu,Big 12
+22,texas,Big 12
+23,texas tech,Big 12
+24,west virginia,Big 12
+25,illinois,Big Ten
+26,indiana,Big Ten
+27,iowa,Big Ten
+28,maryland,Big Ten
+29,michigan state,Big Ten
+30,michigan,Big Ten
+31,minnesota,Big Ten
+32,nebraska,Big Ten
+33,northwestern,Big Ten
+34,ohio state,Big Ten
+35,penn state,Big Ten
+36,purdue,Big Ten
+37,rutgers,Big Ten
+38,wisconsin,Big Ten
+39,arizona state,Pacific-12
+40,arizona,Pacific-12
+41,california,Pacific-12
+42,colorado,Pacific-12
+43,oregon,Pacific-12
+44,oregon state,Pacific-12
+45,stanford,Pacific-12
+46,ucla,Pacific-12
+47,usc,Pacific-12
+48,utah,Pacific-12
+49,washington,Pacific-12
+50,washington state,Pacific-12
+51,alabama,SEC
+52,arkansas,SEC
+53,auburn,SEC
+54,florida,SEC
+55,georgia,SEC
+56,kentucky,SEC
+57,lsu,SEC
+58,mississippi state,SEC
+59,missouri,SEC
+60,ole miss,SEC
+61,south carolina,SEC
+62,tennessee,SEC
+63,texas am,SEC
+64,vanderbilt,SEC
+65,albany,America East
+66,binghamton,America East
+67,hartford,America East
+68,maine,America East
+69,new hampshire,America East
+70,stony brook,America East
+71,umbc,America East
+72,vermont,America East
+73,cincinnati,American Athletic
+74,east carolina,American Athletic
+75,houston,American Athletic
+76,memphis,American Athletic
+77,smu,American Athletic
+78,south florida,American Athletic
+79,temple,American Athletic
+80,tulane,American Athletic
+81,tulsa,American Athletic
+82,central florida,American Athletic
+83,wichita state,American Athletic
+84,davidson,Atlantic 10
+85,dayton,Atlantic 10
+86,duquesne,Atlantic 10
+87,fordham,Atlantic 10
+88,george mason,Atlantic 10
+89,george washington,Atlantic 10
+90,la salle,Atlantic 10
+91,rhode island,Atlantic 10
+92,richmond,Atlantic 10
+93,saint josephs,Atlantic 10
+94,saint louis,Atlantic 10
+95,saint bonaventure,Atlantic 10
+96,massachusetts,Atlantic 10
+97,virginia commonwealth,Atlantic 10
+98,florida gulf coast,Atlantic Sun
+99,jacksonville,Atlantic Sun
+100,kennesaw state,Atlantic Sun
+101,liberty,Atlantic Sun
+102,lipscomb,Atlantic Sun
+103,mercer,Atlantic Sun
+104,north florida,Atlantic Sun
+105,south carolina upstate,Atlantic Sun
+106,stetson,Atlantic Sun
+107,butler,Big East
+108,uconn,Big East
+109,creighton,Big East
+110,depaul,Big East
+111,georgetown,Big East
+112,marquette,Big East
+113,providence,Big East
+114,seton hall,Big East
+115,saint johns,Big East
+116,villanova,Big East
+117,xavier,Big East
+118,cal poly,Big West
+119,cal state fullerton,Big West
+120,cal state northridge,Big West
+121,hawaii,Big West
+122,long beach state,Big West
+123,uc davis,Big West
+124,uc irvine,Big West
+125,uc riverside,Big West
+126,uc santa barbara,Big West
+127,charlotte,Conference USA
+128,florida international,Conference USA
+129,florida atlantic,Conference USA
+130,louisiana tech,Conference USA
+131,marshall,Conference USA
+132,middle tennessee state,Conference USA
+133,north texas,Conference USA
+134,old dominion,Conference USA
+135,rice,Conference USA
+136,southern mississippi,Conference USA
+137,utsa,Conference USA
+138,alabama birmingham,Conference USA
+139,utep,Conference USA
+140,western kentucky,Conference USA
+141,cleveland state,Horizon
+142,detroit,Horizon
+143,northern kentucky,Horizon
+144,oakland,Horizon
+145,uic,Horizon
+146,wisconsin green bay,Horizon
+147,wisconsin milwaukee,Horizon
+148,wright state,Horizon
+149,youngstown state,Horizon
+150,canisius,MAAC
+151,fairfield,MAAC
+152,iona,MAAC
+153,manhattan,MAAC
+154,marist,MAAC
+155,monmouth,MAAC
+156,niagra,MAAC
+157,quinnipiac,MAAC
+158,rider,MAAC
+159,saint peters,MAAC
+160,siena,MAAC
+161,akron,Mid-American
+162,ball state,Mid-American
+163,bowling green,Mid-American
+164,buffalo,Mid-American
+165,central michigan,Mid-American
+166,eastern michigan,Mid-American
+167,kent state,Mid-American
+168,miami ohio,Mid-American
+169,northern illinois,Mid-American
+170,ohio,Mid-American
+171,toledo,Mid-American
+172,western michigan,Mid-American
+173,bradley,Missouri Valley
+174,drake,Missouri Valley
+175,evansville,Missouri Valley
+176,illinois state,Missouri Valley
+177,indiana state,Missouri Valley
+178,loyola,Missouri Valley
+179,missouri state,Missouri Valley
+180,northern iowa,Missouri Valley
+181,southern illinois,Missouri Valley
+182,valparaiso,Missouri Valley
+183,air force,Mountain West
+184,boise state,Mountain West
+185,colorado state,Mountain West
+186,fresno state,Mountain West
+187,nevada,Mountain West
+188,new mexico,Mountain West
+189,san diego state,Mountain West
+190,san jose state,Mountain West
+191,unlv,Mountain West
+192,utah state,Mountain West
+193,wyoming,Mountain West
+194,denver,Summit
+195,ipfw,Summit
+196,iupui,Summit
+197,nebraska omaha,Summit
+198,north dakota,Summit
+199,north dakota state,Summit
+200,south dakota,Summit
+201,south dakota state,Summit
+202,western illinois,Summit
+203,appalachian state,Sun Belt
+204,arkansas state,Sun Belt
+205,arkansas little rock,Sun Belt
+206,coastal carolina,Sun Belt
+207,georgia southern,Sun Belt
+208,georgia state,Sun Belt
+209,louisiana,Sun Belt
+210,louisiana monroe,Sun Belt
+211,south alabama,Sun Belt
+212,texas state,Sun Belt
+213,troy,Sun Belt
+214,texas arlington,Sun Belt
+215,cal state bakersfield,WAC
+216,chicago state,WAC
+217,new mexico state,WAC
+218,seattle,WAC
+219,umkc,WAC
+220,utah valley,WAC
+221,utrgv,WAC
+222,byu,West Coast
+223,gonzaga,West Coast
+224,pacific,West Coast
+225,pepperdine,West Coast
+226,portland,West Coast
+227,san diego,West Coast
+228,st marys,West Coast
+229,eastern washington,Big Sky
+230,idaho state,Big Sky
+231,idaho,Big Sky
+232,montana,Big Sky
+233,montana state,Big Sky
+234,northern arizona,Big Sky
+235,northern colorado,Big Sky
+236,portland state,Big Sky
+237,sacramento state,Big Sky
+238,southern utah,Big Sky
+239,weber state,Big Sky
+240,campbell,Big South
+241,charleston southern,Big South
+242,gardner webb,Big South
+243,high point,Big South
+244,longwood,Big South
+245,presbyterian,Big South
+246,radford,Big South
+247,unca,Big South
+248,winthrop,Big South
+249,delaware,CAA
+250,drexel,CAA
+251,elon,CAA
+252,hofstra,CAA
+253,james madison,CAA
+254,northeastern,CAA
+255,towson,CAA
+256,uncw,CAA
+257,wm,CAA
+258,brown,Ivy
+259,columbia,Ivy
+260,cornell,Ivy
+261,dartmouth,Ivy
+262,harvard,Ivy
+263,pennsylvania,Ivy
+264,princeton,Ivy
+265,yale,Ivy
+266,bethune cookman,MEAC
+267,coppin state,MEAC
+268,delaware state,MEAC
+269,famu,MEAC
+270,hampton,MEAC
+271,howard,MEAC
+272,umes,MEAC
+273,morgan state,MEAC
+274,norfolk state,MEAC
+275,ncat,MEAC
+276,nccu,MEAC
+277,savannah state,MEAC
+278,south carolina state,MEAC
+279,bryant,Northeast
+280,ccsu,Northeast
+281,fairleigh dickinson,Northeast
+282,liu brooklyn,Northeast
+283,mount st marys,Northeast
+284,robert morris,Northeast
+285,sacred heart,Northeast
+286,saint francis,Northeast
+287,sfny,Northeast
+288,wagner,Northeast
+289,austin peay,Ohio Valley
+290,belmont,Ohio Valley
+291,eastern illinois,Ohio Valley
+292,eastern kentucky,Ohio Valley
+293,jacksonville state,Ohio Valley
+294,morehead state,Ohio Valley
+295,murray state,Ohio Valley
+296,siue,Ohio Valley
+297,semo,Ohio Valley
+298,tennessee state,Ohio Valley
+299,tennessee tech,Ohio Valley
+300,tennessee martin,Ohio Valley
+301,american,Patriot League
+302,army,Patriot League
+303,boston,Patriot League
+304,bucknell,Patriot League
+305,colgate,Patriot League
+306,holy cross,Patriot League
+307,lafayette,Patriot League
+308,lehigh,Patriot League
+309,loyola maryland,Patriot League
+310,navy,Patriot League
+311,chattanooga,Southern
+312,etsu,Southern
+313,furman,Southern
+314,samford,Southern
+315,citadel,Southern
+316,uncg,Southern
+317,vmi,Southern
+318,western carolina,Southern
+319,wofford,Southern
+320,central arkansas,Southland
+321,houston baptist,Southland
+322,uiw,Southland
+323,lamar,Southland
+324,mcneese state,Southland
+325,new orleans,Southland
+326,nicholls state,Southland
+327,northwestern state,Southland
+328,oral roberts,Southland
+329,sam houston state,Southland
+330,southeastern louisiana,Southland
+331,sfasu,Southland
+332,tamucc,Southland
+333,aamu,SWAC
+334,alabama state,SWAC
+335,alcorn state,SWAC
+336,arkansas pine bluff,SWAC
+337,grambling state,SWAC
+338,jackson state,SWAC
+339,mvsu,SWAC
+340,pvamu,SWAC
+341,southern,SWAC
+342,texas southern,SWAC
