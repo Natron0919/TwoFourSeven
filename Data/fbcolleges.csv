@@ -1,254 +1,254 @@
-,Team,Conference
-0,boston college,ACC
-1,clemson,ACC
-2,duke,ACC
-3,florida state,ACC
-4,georgia tech,ACC
-5,louisville,ACC
-6,miami,ACC
-7,north carolina state,ACC
-8,north carolina,ACC
-9,pittsburgh,ACC
-10,syracuse,ACC
-11,virginia,ACC
-12,virginia tech,ACC
-13,wake forest,ACC
-14,baylor,Big 12
-15,iowa state,Big 12
-16,kansas,Big 12
-17,kansas state,Big 12
-18,oklahoma,Big 12
-19,oklahoma state,Big 12
-20,tcu,Big 12
-21,texas,Big 12
-22,texas tech,Big 12
-23,west virginia,Big 12
-24,illinois,Big Ten
-25,indiana,Big Ten
-26,iowa,Big Ten
-27,maryland,Big Ten
-28,michigan state,Big Ten
-29,michigan,Big Ten
-30,minnesota,Big Ten
-31,nebraska,Big Ten
-32,northwestern,Big Ten
-33,ohio state,Big Ten
-34,penn state,Big Ten
-35,purdue,Big Ten
-36,rutgers,Big Ten
-37,wisconsin,Big Ten
-38,arizona state,Pacific-12
-39,arizona,Pacific-12
-40,california,Pacific-12
-41,colorado,Pacific-12
-42,oregon,Pacific-12
-43,oregon state,Pacific-12
-44,stanford,Pacific-12
-45,ucla,Pacific-12
-46,usc,Pacific-12
-47,utah,Pacific-12
-48,washington,Pacific-12
-49,washington state,Pacific-12
-50,alabama,SEC
-51,arkansas,SEC
-52,auburn,SEC
-53,florida,SEC
-54,georgia,SEC
-55,kentucky,SEC
-56,lsu,SEC
-57,mississippi state,SEC
-58,missouri,SEC
-59,ole miss,SEC
-60,south carolina,SEC
-61,tennessee,SEC
-62,texas am,SEC
-63,vanderbilt,SEC
-64,cincinnati,American Athletic
-65,east carolina,American Athletic
-66,houston,American Athletic
-67,memphis,American Athletic
-68,navy,American Athletic
-69,smu,American Athletic
-70,south florida,American Athletic
-71,temple,American Athletic
-72,tulane,American Athletic
-73,tulsa,American Athletic
-74,central florida,American Athletic
-75,charlotte,Conference USA
-76,florida international,Conference USA
-77,florida atlantic,Conference USA
-78,louisiana tech,Conference USA
-79,marshall,Conference USA
-80,middle tennessee state,Conference USA
-81,north texas,Conference USA
-82,old dominion,Conference USA
-83,rice,Conference USA
-84,southern mississippi,Conference USA
-85,alabama birmingham,Conference USA
-86,utep,Conference USA
-87,utsa,Conference USA
-88,western kentucky,Conference USA
-89,army,FBS Independents
-90,byu,FBS Independents
-91,uconn,FBS Independents
-92,liberty,FBS Independents
-93,new mexico state,FBS Independents
-94,notre dame,FBS Independents
-95,massachusetts,FBS Independents
-96,akron,Mid-American
-97,ball state,Mid-American
-98,bowling green,Mid-American
-99,buffalo,Mid-American
-100,central michigan,Mid-American
-101,eastern michigan,Mid-American
-102,kent state,Mid-American
-103,miami ohio,Mid-American
-104,northern illinois,Mid-American
-105,ohio,Mid-American
-106,toledo,Mid-American
-107,western michigan,Mid-American
-108,air force,Mountain West
-109,boise state,Mountain West
-110,colorado state,Mountain West
-111,fresno state,Mountain West
-112,hawaii,Mountain West
-113,nevada,Mountain West
-114,new mexico,Mountain West
-115,san diego state,Mountain West
-116,san jose state,Mountain West
-117,unlv,Mountain West
-118,utah state,Mountain West
-119,wyoming,Mountain West
-120,appalachian state,Sun Belt
-121,arkansas state,Sun Belt
-122,coastal carolina,Sun Belt
-123,georgia southern,Sun Belt
-124,georgia state,Sun Belt
-125,louisiana,Sun Belt
-126,louisiana monroe,Sun Belt
-127,south alabama,Sun Belt
-128,texas state,Sun Belt
-129,troy,Sun Belt
-130,cal poly,Big Sky
-131,eastern washington,Big Sky
-132,idaho state,Big Sky
-133,idaho,Big Sky
-134,montana,Big Sky
-135,montana state,Big Sky
-136,northern arizona,Big Sky
-137,northern colorado,Big Sky
-138,portland state,Big Sky
-139,sacramento state,Big Sky
-140,southern utah,Big Sky
-141,uc davis,Big Sky
-142,weber state,Big Sky
-143,charleston southern,Big South
-144,gardner webb,Big South
-145,kennesaw state,Big South
-146,monmouth,Big South
-147,presbyterian,Big South
-148,albany,CAA
-149,delaware,CAA
-150,elon,CAA
-151,james madison,CAA
-152,maine,CAA
-153,new hampshire,CAA
-154,rhode island,CAA
-155,richmond,CAA
-156,stony brook,CAA
-157,towson,CAA
-158,villanova,CAA
-159,wm,CAA
-160,brown,Ivy
-161,columbia,Ivy
-162,cornell,Ivy
-163,dartmouth,Ivy
-164,harvard,Ivy
-165,pennsylvania,Ivy
-166,princeton,Ivy
-167,yale,Ivy
-168,bethune cookman,MEAC
-169,delaware state,MEAC
-170,famu,MEAC
-171,hampton,MEAC
-172,howard,MEAC
-173,morgan state,MEAC
-174,norfolk state,MEAC
-175,ncat,MEAC
-176,nccu,MEAC
-177,savannah state,MEAC
-178,south carolina state,MEAC
-179,illinois state,Missouri Valley
-180,indiana state,Missouri Valley
-181,missouri state,Missouri Valley
-182,north dakota,Missouri Valley
-183,north dakota state,Missouri Valley
-184,northern iowa,Missouri Valley
-185,south dakota,Missouri Valley
-186,south dakota state,Missouri Valley
-187,southern illinois,Missouri Valley
-188,western illinois,Missouri Valley
-189,youngstown state,Missouri Valley
-190,bryant,Northeast
-191,ccsu,Northeast
-192,duquesne,Northeast
-193,robert morris,Northeast
-194,sacred heart,Northeast
-195,saint francis,Northeast
-196,wagner,Northeast
-197,austin peay,Ohio Valley
-198,eastern illinois,Ohio Valley
-199,eastern kentucky,Ohio Valley
-200,jacksonville state,Ohio Valley
-201,murray state,Ohio Valley
-202,semo,Ohio Valley
-203,tennessee state,Ohio Valley
-204,tennessee tech,Ohio Valley
-205,tennessee martin,Ohio Valley
-206,bucknell,Patriot League
-207,colgate,Patriot League
-208,fordham,Patriot League
-209,georgetown,Patriot League
-210,holy cross,Patriot League
-211,lafayette,Patriot League
-212,lehigh,Patriot League
-213,butler,Pioneer
-214,campbell,Pioneer
-215,davidson,Pioneer
-216,dayton,Pioneer
-217,drake,Pioneer
-218,jacksonville,Pioneer
-219,marist,Pioneer
-220,morehead state,Pioneer
-221,san diego,Pioneer
-222,stetson,Pioneer
-223,valparaiso,Pioneer
-224,chattanooga,Southern
-225,etsu,Southern
-226,furman,Southern
-227,mercer,Southern
-228,samford,Southern
-229,citadel,Southern
-230,vmi,Southern
-231,western carolina,Southern
-232,wofford,Southern
-233,central arkansas,Southland
-234,houston baptist,Southland
-235,uiw,Southland
-236,lamar,Southland
-237,mcneese state,Southland
-238,nicholls state,Southland
-239,northwestern state,Southland
-240,sam houston state,Southland
-241,southeastern louisiana,Southland
-242,sfasu,Southland
-243,aamu,SWAC
-244,alabama state,SWAC
-245,alcorn state,SWAC
-246,arkansas pine bluff,SWAC
-247,grambling state,SWAC
-248,jackson state,SWAC
-249,mvsu,SWAC
-250,pvamu,SWAC
-251,southern,SWAC
-252,texas southern,SWAC
+Team,Conference
+boston college,ACC
+clemson,ACC
+duke,ACC
+florida state,ACC
+georgia tech,ACC
+louisville,ACC
+miami,ACC
+north carolina state,ACC
+north carolina,ACC
+pittsburgh,ACC
+syracuse,ACC
+virginia,ACC
+virginia tech,ACC
+wake forest,ACC
+baylor,Big 12
+iowa state,Big 12
+kansas,Big 12
+kansas state,Big 12
+oklahoma,Big 12
+oklahoma state,Big 12
+tcu,Big 12
+texas,Big 12
+texas tech,Big 12
+west virginia,Big 12
+illinois,Big Ten
+indiana,Big Ten
+iowa,Big Ten
+maryland,Big Ten
+michigan state,Big Ten
+michigan,Big Ten
+minnesota,Big Ten
+nebraska,Big Ten
+northwestern,Big Ten
+ohio state,Big Ten
+penn state,Big Ten
+purdue,Big Ten
+rutgers,Big Ten
+wisconsin,Big Ten
+arizona state,Pacific-12
+arizona,Pacific-12
+california,Pacific-12
+colorado,Pacific-12
+oregon,Pacific-12
+oregon state,Pacific-12
+stanford,Pacific-12
+ucla,Pacific-12
+usc,Pacific-12
+utah,Pacific-12
+washington,Pacific-12
+washington state,Pacific-12
+alabama,SEC
+arkansas,SEC
+auburn,SEC
+florida,SEC
+georgia,SEC
+kentucky,SEC
+lsu,SEC
+mississippi state,SEC
+missouri,SEC
+ole miss,SEC
+south carolina,SEC
+tennessee,SEC
+texas am,SEC
+vanderbilt,SEC
+cincinnati,American Athletic
+east carolina,American Athletic
+houston,American Athletic
+memphis,American Athletic
+navy,American Athletic
+smu,American Athletic
+south florida,American Athletic
+temple,American Athletic
+tulane,American Athletic
+tulsa,American Athletic
+central florida,American Athletic
+charlotte,Conference USA
+florida international,Conference USA
+florida atlantic,Conference USA
+louisiana tech,Conference USA
+marshall,Conference USA
+middle tennessee state,Conference USA
+north texas,Conference USA
+old dominion,Conference USA
+rice,Conference USA
+southern mississippi,Conference USA
+alabama birmingham,Conference USA
+utep,Conference USA
+utsa,Conference USA
+western kentucky,Conference USA
+army,FBS Independents
+byu,FBS Independents
+uconn,FBS Independents
+liberty,FBS Independents
+new mexico state,FBS Independents
+notre dame,FBS Independents
+massachusetts,FBS Independents
+akron,Mid-American
+ball state,Mid-American
+bowling green,Mid-American
+buffalo,Mid-American
+central michigan,Mid-American
+eastern michigan,Mid-American
+kent state,Mid-American
+miami ohio,Mid-American
+northern illinois,Mid-American
+ohio,Mid-American
+toledo,Mid-American
+western michigan,Mid-American
+air force,Mountain West
+boise state,Mountain West
+colorado state,Mountain West
+fresno state,Mountain West
+hawaii,Mountain West
+nevada,Mountain West
+new mexico,Mountain West
+san diego state,Mountain West
+san jose state,Mountain West
+unlv,Mountain West
+utah state,Mountain West
+wyoming,Mountain West
+appalachian state,Sun Belt
+arkansas state,Sun Belt
+coastal carolina,Sun Belt
+georgia southern,Sun Belt
+georgia state,Sun Belt
+louisiana,Sun Belt
+louisiana monroe,Sun Belt
+south alabama,Sun Belt
+texas state,Sun Belt
+troy,Sun Belt
+cal poly,Big Sky
+eastern washington,Big Sky
+idaho state,Big Sky
+idaho,Big Sky
+montana,Big Sky
+montana state,Big Sky
+northern arizona,Big Sky
+northern colorado,Big Sky
+portland state,Big Sky
+sacramento state,Big Sky
+southern utah,Big Sky
+uc davis,Big Sky
+weber state,Big Sky
+charleston southern,Big South
+gardner webb,Big South
+kennesaw state,Big South
+monmouth,Big South
+presbyterian,Big South
+albany,CAA
+delaware,CAA
+elon,CAA
+james madison,CAA
+maine,CAA
+new hampshire,CAA
+rhode island,CAA
+richmond,CAA
+stony brook,CAA
+towson,CAA
+villanova,CAA
+wm,CAA
+brown,Ivy
+columbia,Ivy
+cornell,Ivy
+dartmouth,Ivy
+harvard,Ivy
+pennsylvania,Ivy
+princeton,Ivy
+yale,Ivy
+bethune cookman,MEAC
+delaware state,MEAC
+famu,MEAC
+hampton,MEAC
+howard,MEAC
+morgan state,MEAC
+norfolk state,MEAC
+ncat,MEAC
+nccu,MEAC
+savannah state,MEAC
+south carolina state,MEAC
+illinois state,Missouri Valley
+indiana state,Missouri Valley
+missouri state,Missouri Valley
+north dakota,Missouri Valley
+north dakota state,Missouri Valley
+northern iowa,Missouri Valley
+south dakota,Missouri Valley
+south dakota state,Missouri Valley
+southern illinois,Missouri Valley
+western illinois,Missouri Valley
+youngstown state,Missouri Valley
+bryant,Northeast
+ccsu,Northeast
+duquesne,Northeast
+robert morris,Northeast
+sacred heart,Northeast
+saint francis,Northeast
+wagner,Northeast
+austin peay,Ohio Valley
+eastern illinois,Ohio Valley
+eastern kentucky,Ohio Valley
+jacksonville state,Ohio Valley
+murray state,Ohio Valley
+semo,Ohio Valley
+tennessee state,Ohio Valley
+tennessee tech,Ohio Valley
+tennessee martin,Ohio Valley
+bucknell,Patriot League
+colgate,Patriot League
+fordham,Patriot League
+georgetown,Patriot League
+holy cross,Patriot League
+lafayette,Patriot League
+lehigh,Patriot League
+butler,Pioneer
+campbell,Pioneer
+davidson,Pioneer
+dayton,Pioneer
+drake,Pioneer
+jacksonville,Pioneer
+marist,Pioneer
+morehead state,Pioneer
+san diego,Pioneer
+stetson,Pioneer
+valparaiso,Pioneer
+chattanooga,Southern
+etsu,Southern
+furman,Southern
+mercer,Southern
+samford,Southern
+citadel,Southern
+vmi,Southern
+western carolina,Southern
+wofford,Southern
+central arkansas,Southland
+houston baptist,Southland
+uiw,Southland
+lamar,Southland
+mcneese state,Southland
+nicholls state,Southland
+northwestern state,Southland
+sam houston state,Southland
+southeastern louisiana,Southland
+sfasu,Southland
+aamu,SWAC
+alabama state,SWAC
+alcorn state,SWAC
+arkansas pine bluff,SWAC
+grambling state,SWAC
+jackson state,SWAC
+mvsu,SWAC
+pvamu,SWAC
+southern,SWAC
+texas southern,SWAC
