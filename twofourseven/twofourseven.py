@@ -3,6 +3,7 @@ import pandas as pd
 import csv
 from lxml import html
 import numpy as np
+import re
 
 class Recruit:
 
@@ -112,20 +113,37 @@ class TransferPortal:
         player_list = site.xpath("//li[@class='portal-list_itm']")
         team1 = [] # Empty list for original team
         team2 = [] # Empty list for new team
+        pattern = "college/(.*?)/"
+
         for x in player_list: # For-loop to get all players original team
             try:
-                team2.append(x.xpath("div[contains(@class, 'transfer-institution')]/a[2]/img/@alt"))
+                url = x.xpath("div[contains(@class, 'transfer-institution')]/a[1]/@href")
+                url = url[0]
+
+                if re.search(pattern, url):
+                    substring = re.search(pattern, url).group(1)
+                    substring = substring.replace('-', ' ')
+                    team1.append(substring)
+                else:
+                    raise ValueError('No Original Team')
             except:
-                team2.append('NULL')
+                team1.append('NULL')
         for x in player_list: # For-loop to get all players new team
             try:
-                team1.append(x.xpath("div[contains(@class, 'transfer-institution')]/a[1]/img/@alt"))
+                url = x.xpath("div[contains(@class, 'transfer-institution')]/a[2]/@href")
+                url = url[0]
+                if re.search(pattern, url):
+                    substring = re.search(pattern, url).group(1)
+                    substring = substring.replace('-', ' ')
+                    team2.append(substring)
+                else:
+                    raise ValueError('No Original Team')
             except:
                 team1.append('NULL')
 
-        team1 = [''.join(x) for x in team1] # Turn all entries into strings instead of one length lists
+        # team1 = [''.join(x) for x in team1] # Turn all entries into strings instead of one length lists
         team1 = [x.lower() for x in team1]
-        team2 = [''.join(x) for x in team2] # Turn all entries into strings instead of one length lists
+        # team2 = [''.join(x) for x in team2] # Turn all entries into strings instead of one length lists
         team2 = [x.lower() for x in team2]
 
         # Create dictionary from all lists
@@ -166,20 +184,36 @@ class TransferPortal:
         player_list = site.xpath("//li[@class='portal-list_itm']")
         team1 = [] # Empty list for original team
         team2 = [] # Empty list for new team
+        pattern = "college/(.*?)/"
+
         for x in player_list: # For-loop to get all players original team
             try:
-                team2.append(x.xpath("div[contains(@class, 'transfer-institution')]/a[2]/img/@alt"))
+                url = x.xpath("div[contains(@class, 'transfer-institution')]/a[1]/@href")
+                url = url[0]
+                if re.search(pattern, url):
+                    substring = re.search(pattern, url).group(1)
+                    substring = substring.replace('-', ' ')
+                    team1.append(substring)
+                else:
+                    raise ValueError('No Original Team')
             except:
-                team2.append('NULL')
+                team1.append('NULL')
         for x in player_list: # For-loop to get all players new team
             try:
-                team1.append(x.xpath("div[contains(@class, 'transfer-institution')]/a[1]/img/@alt"))
+                url = x.xpath("div[contains(@class, 'transfer-institution')]/a[2]/@href")
+                url = url[0]
+                if re.search(pattern, url):
+                    substring = re.search(pattern, url).group(1)
+                    substring = substring.replace('-', ' ')
+                    team2.append(substring)
+                else:
+                    raise ValueError('No New Team')
             except:
                 team1.append('NULL')
 
-        team1 = [''.join(x) for x in team1] # Turn all entries into strings instead of one length lists
+        # team1 = [''.join(x) for x in team1] # Turn all entries into strings instead of one length lists
         team1 = [x.lower() for x in team1]
-        team2 = [''.join(x) for x in team2] # Turn all entries into strings instead of one length lists
+        # team2 = [''.join(x) for x in team2] # Turn all entries into strings instead of one length lists
         team2 = [x.lower() for x in team2]
 
         # Create dictionary from all lists
