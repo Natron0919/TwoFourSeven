@@ -111,7 +111,6 @@ UAB,C-USA
 UCF,American
 UCLA,Pac-12
 UConn,Independent
-Massachusetts,Independent
 UNLV,"Mountain West"
 USC,Pac-12
 UTEP,C-USA
@@ -140,7 +139,6 @@ Bethune-Cookman,MEAC
 Brown,Ivy
 Bryant,Northeast
 Bucknell,Patriot
-Butler,Pioneer
 "Cal Poly","Big Sky"
 Campbell,"Big South"
 "Central Arkansas",Southland
@@ -152,8 +150,6 @@ Colgate,Patriot
 Columbia,Ivy
 Cornell,Ivy
 Dartmouth,Ivy
-Davidson,Pioneer
-Dayton,Pioneer
 Delaware,CAA
 "Delaware State",MEAC
 Drake,Pioneer
@@ -167,7 +163,6 @@ Elon,CAA
 Fordham,Patriot
 Furman,Southern
 Gardner-Webb,"Big South"
-Georgetown,Patriot
 "Grambling State",SWAC
 Hampton,"Big South"
 Harvard,Ivy
@@ -242,7 +237,6 @@ Towson,CAA
 "UC Davis","Big Sky"
 "UT Martin","Ohio Valley"
 Valparaiso,Pioneer
-Villanova,CAA
 VMI,Southern
 Wagner,Northeast
 "Weber State","Big Sky"
@@ -258,3 +252,63 @@ Jacksonville,ASUN
 "Grand Valley State",GLIAC
 "Southern University",SWAC
 "Long Island",Northeast
+Gonzaga,WCC
+"Wichita State",American
+Marquette,"Big East"
+"Long Beach State","Big West"
+Creighton,"Big East"
+Providence,"Big East"
+"Seton Hall","Big East"
+Xavier,"Big East"
+"Saint Joseph's",A10
+Wisconsin-Milwaukee,Horizon
+"George Washington",A10
+"UC Santa Barbara","Big West"
+"UC Riverside","Big West"
+"Cal State Northridge","Big West"
+"College of Charleston",CAA
+Evansville,"Missouri Valley"
+DePaul,"Big East"
+Manhattan,MAAC
+"Cal State Bakersfield",WAC
+Portland,WCC
+Fairfield,MAAC
+"Utah Valley",WAC
+Bradley,"Missouri Valley"
+Illinois-Chicago,Horizon
+"Cal State Fullerton","Big West"
+"Coppin State",MEAC
+"Florida Gulf Coast",ASUN
+Rider,MAAC
+"UNC Wilmington",CAA
+"St. Bonaventure",A10
+"Mount St. Mary's",Northeast
+"Arkansas-Little Rock","Sun Belt"
+Detroit,Horizon
+"SIU Edwardsville",OVC
+"Loyola (Chi)","Missouri Valley"
+Siena,MAAC
+Northeastern,CAA
+Seattle,WAC
+Vermont,AEC
+Pacific,WCC
+Dayton,A10
+VCU,A10
+Davidson,A10
+"Saint Louis",A10
+"George Mason",A10
+Massachusetts,A10
+"La Salle",A10
+UMBC,AEC
+Hartford,AEC
+"UMass Lowell",AEC
+NJIT,AEC
+Binghamton,AEC
+Maine,AEC
+Bellarmine,ASUN
+Lipscomb,ASUN
+"North Florida",ASUN
+"North Alabama",ASUN
+Villanova,"Big East"
+Butler,"Big East"
+Georgetown,"Big East"
