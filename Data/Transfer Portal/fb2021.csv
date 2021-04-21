@@ -1,0 +1,1432 @@
+Year,Player,POS,Rating,Team_Old,Team_New,Conference_Old,Conference_New
+2021,Tanner Mordecai, DUAL ,0.9092,oklahoma,smu,Big 12,American Athletic
+2021,McKenzie Milton, DUAL ,0.8362,central florida,florida state,American Athletic,ACC
+2021,Ethan Garbers, PRO ,0.9475,washington,ucla,Pacific-12,Pacific-12
+2021,Jack Coan, PRO ,0.8714,wisconsin,notre dame,Big Ten,FBS Independents
+2021,Ryan Hilinski, PRO ,0.9695,south carolina,northwestern,SEC,Big Ten
+2021,Grant Gunnell, PRO ,0.8851,arizona,memphis,Pacific-12,American Athletic
+2021,Tyler Shough, PRO ,0.9422,oregon,texas tech,Pacific-12,Big 12
+2021,Alan Bowman, PRO ,0.8568,texas tech,michigan,Big 12,Big Ten
+2021,Hendon Hooker, PRO ,0.8903,virginia tech,tennessee,ACC,SEC
+2021,Bailey Zappe, PRO ,NULL,houston baptist,western kentucky,Southland,Conference USA
+2021,N'Kosi Perry, DUAL ,0.9218,miami,null,ACC,NULL
+2021,Joe Milton, PRO ,0.9202,michigan,null,Big Ten,NULL
+2021,Bailey Hockman, PRO ,0.8725,north carolina state,middle tennessee state,ACC,Conference USA
+2021,Anthony Russo, PRO ,0.8584,temple,michigan state,American Athletic,Big Ten
+2021,Charlie Brewer, PRO ,0.8506,baylor,utah,Big 12,Pacific-12
+2021,Ja'Quinden Jackson, DUAL ,0.9664,texas,utah,Big 12,Pacific-12
+2021,Jarrett Guarantano, DUAL ,0.9628,tennessee,washington state,SEC,Pacific-12
+2021,Lance LeGendre, DUAL ,0.9036,maryland,louisiana,Big Ten,Sun Belt
+2021,D'Wan Mathis, PRO ,0.8992,georgia,temple,SEC,American Athletic
+2021,Jace Ruder, DUAL ,0.8957,north carolina,north texas,ACC,Conference USA
+2021,Ty Evans, PRO ,0.8830,north carolina state,texas state,ACC,Sun Belt
+2021,Darriel Mack, DUAL ,0.8477,central florida,old dominion,American Athletic,Conference USA
+2021,Jack Abraham, PRO ,0.8237,southern mississippi,mississippi state,Conference USA,SEC
+2021,Jason Brown, PRO ,0.7832,saint francis,south carolina,Northeast,SEC
+2021,Jacob Sirmon, PRO ,0.9559,washington,central michigan,Pacific-12,Mid-American
+2021,Patrick O'Brien, PRO ,0.9189,colorado state,washington,Mountain West,Pacific-12
+2021,Garrett Shrader, DUAL ,0.9106,mississippi state,syracuse,SEC,ACC
+2021,Luke McCaffrey, DUAL ,0.9070,nebraska,louisville,Big Ten,ACC
+2021,Jake Bentley, PRO ,0.9068,utah,south alabama,Pacific-12,Sun Belt
+2021,James Foster, DUAL ,0.9055,texas am,charlotte,SEC,Conference USA
+2021,Peter Parrish, DUAL ,0.8988,lsu,memphis,SEC,American Athletic
+2021,James Graham, DUAL ,0.8958,georgia tech,georgia southern,ACC,Sun Belt
+2021,Micah Bowens, DUAL ,0.8851,penn state,oklahoma,Big Ten,Big 12
+2021,Chandler Morris, DUAL ,0.8827,oklahoma,tcu,Big 12,Big 12
+2021,Chase Brice, PRO ,0.8818,duke,appalachian state,ACC,Sun Belt
+2021,J.T. Shrout, PRO ,0.8696,tennessee,colorado,SEC,Pacific-12
+2021,Will Levis, PRO ,0.8689,penn state,kentucky,Big Ten,SEC
+2021,Tee Webb, PRO ,0.8647,louisville,southern mississippi,ACC,Conference USA
+2021,Rocky Lombardi, DUAL ,0.8641,michigan state,northern illinois,Big Ten,Mid-American
+2021,Gunner Cruz, PRO ,0.8607,arizona,arizona,Pacific-12,Pacific-12
+2021,Tyler Lytle, PRO ,0.8597,colorado,massachusetts,Pacific-12,FBS Independents
+2021,Tucker Gleason, PRO ,0.8521,georgia tech,toledo,ACC,Mid-American
+2021,Taylor Powell, PRO ,0.8519,missouri,troy,SEC,Sun Belt
+2021,Jordan McCloud, DUAL ,0.8249,south florida,arizona,American Athletic,Pacific-12
+2021,Logan Bonner, PRO ,0.7893,arkansas state,utah state,Sun Belt,Mountain West
+2021,Tate Martell, DUAL ,0.9739,miami,null,ACC,NULL
+2021,Dylan McCaffrey, PRO ,0.9435,michigan,northern colorado,Big Ten,Big Sky
+2021,Chris Robison, PRO ,0.9272,florida atlantic,null,Conference USA,NULL
+2021,Austin Kendall, PRO ,0.9239,west virginia,null,Big 12,NULL
+2021,Jawon Pass, DUAL ,0.9209,louisville,towson,ACC,CAA
+2021,Cord Sandberg, DUAL ,0.9112,auburn,eastern kentucky,SEC,Ohio Valley
+2021,Kasim Hill, PRO ,0.9110,tennessee,rhode island,SEC,CAA
+2021,Quincy Patterson, DUAL ,0.9048,virginia tech,north dakota state,ACC,Missouri Valley
+2021,Grant Tisdale, DUAL ,0.8925,ole miss,null,SEC,NULL
+2021,Jalen Mayden, DUAL ,0.8917,mississippi state,san diego state,SEC,Mountain West
+2021,Cale Millen, PRO ,0.8863,oregon,northern arizona,Pacific-12,Big Sky
+2021,James Blackman, PRO ,0.8823,florida state,arkansas state,ACC,Sun Belt
+2021,Allan Walters, PRO ,0.8784,mississippi state,null,SEC,NULL
+2021,Jaden Casey, DUAL ,0.8784,california,null,Pacific-12,NULL
+2021,Spencer Brasch, DUAL ,0.8767,california,null,Pacific-12,NULL
+2021,Terry Wilson, DUAL ,0.8752,kentucky,new mexico,SEC,Mountain West
+2021,Sam Johnson, PRO ,0.8740,boston college,null,ACC,NULL
+2021,Kevaris Thomas, DUAL ,0.8667,western kentucky,null,Conference USA,NULL
+2021,Ben Bryant, PRO ,0.8643,cincinnati,eastern michigan,American Athletic,Mid-American
+2021,Eli Williams, DUAL ,0.8614,tcu,null,Big 12,NULL
+2021,Woody Barrett, DUAL ,0.8590,kent state,null,Mid-American,NULL
+2021,David Baldwin-Griffin, DUAL ,0.8588,appalachian state,null,Sun Belt,NULL
+2021,Jason Shelley, DUAL ,0.8518,utah state,null,Mountain West,NULL
+2021,Chris Katrenick, PRO ,0.8518,duke,null,ACC,NULL
+2021,Keon Howard, DUAL ,0.8518,tulane,null,American Athletic,NULL
+2021,David Summers, PRO ,0.8514,syracuse,null,ACC,NULL
+2021,Kade Renfro, PRO ,0.8511,ole miss,arkansas,SEC,SEC
+2021,Stone Norton, PRO ,0.8497,florida international,southern illinois,Conference USA,Missouri Valley
+2021,Connor Blumrick, PRO ,0.8462,texas am,virginia tech,SEC,ACC
+2021,Nik Scalzo, DUAL ,0.8454,kentucky,kentucky,SEC,SEC
+2021,Jairus Grissom, DUAL ,0.8452,eastern michigan,null,Mid-American,NULL
+2021,Kaiden Bennett, DUAL ,0.8452,nevada,sacramento state,Mountain West,Big Sky
+2021,Devon Modster, PRO ,0.8450,california,null,Pacific-12,NULL
+2021,Tyrrell Pigrome, DUAL ,0.8429,western kentucky,null,Conference USA,NULL
+2021,Matt Valecce, PRO ,0.8423,boston college,null,ACC,NULL
+2021,Kennique Bonner-Steward, DUAL ,0.8423,temple,null,American Athletic,NULL
+2021,Kenyon Oblad, PRO ,0.8416,unlv,null,Mountain West,NULL
+2021,Sheldon Layman, PRO ,0.8410,memphis,austin peay,American Athletic,Ohio Valley
+2021,Michael Lindauer, PRO ,0.8373,cincinnati,null,American Athletic,NULL
+2021,Jakson Thomson, PRO ,0.8343,louisiana tech,null,Conference USA,NULL
+2021,RJ Harvey Jr., DUAL ,0.8317,virginia,central florida,ACC,American Athletic
+2021,Stephon Brown, DUAL ,0.8296,tcu,null,Big 12,NULL
+2021,Brady Martin, DUAL ,0.8282,rhode island,arkansas state,CAA,Sun Belt
+2021,Markevion Quinn, DUAL ,0.8267,memphis,null,American Athletic,NULL
+2021,Messiah deWeaver, DUAL ,0.8264,old dominion,null,Conference USA,NULL
+2021,Clifton McDowell, DUAL ,0.8261,louisiana,null,Sun Belt,NULL
+2021,Asher O'Hara, DUAL ,0.8238,middle tennessee state,sacramento state,Conference USA,Big Sky
+2021,TJ Goodwin, PRO ,0.8234,utep,null,Conference USA,NULL
+2021,Danny Clark, PRO ,0.8217,vanderbilt,null,SEC,NULL
+2021,Ryan Glover, DUAL ,0.8207,pennsylvania,null,Ivy,NULL
+2021,Parker McNeil, PRO ,0.8200,troy,null,Sun Belt,NULL
+2021,Carson Baker, PRO ,0.8199,san diego state,null,Mountain West,NULL
+2021,Jeremiah Oatsvall, DUAL ,0.8194,austin peay,memphis,Ohio Valley,American Athletic
+2021,Colby Suits, PRO ,0.8154,louisiana monroe,louisiana monroe,Sun Belt,Sun Belt
+2021,Isaac Stiebeling, PRO ,0.8151,eastern michigan,null,Mid-American,NULL
+2021,Rhett Rodriguez, DUAL ,0.8149,arizona,null,Pacific-12,NULL
+2021,Logan Holgorsen, PRO ,0.8106,houston,null,American Athletic,NULL
+2021,Marckell Grayson, PRO ,0.8079,unlv,null,Mountain West,NULL
+2021,Isaiah Green, PRO ,0.8073,marshall,tennessee state,Conference USA,Ohio Valley
+2021,Jason Bean, PRO ,0.8054,north texas,kansas,Conference USA,Big 12
+2021,Alec Trujillo, PRO ,0.8052,san jose state,null,Mountain West,NULL
+2021,Michael Bonds, PRO ,0.8046,miami ohio,null,Mid-American,NULL
+2021,Chance Lovertich, PRO ,0.8025,south alabama,mississippi state,Sun Belt,SEC
+2021,Carson Welch, PRO ,0.8014,smu,null,American Athletic,NULL
+2021,Andrew Brito, PRO ,0.8005,massachusetts,null,FBS Independents,NULL
+2021,Fred Payton, DUAL ,0.8004,coastal carolina,mercer,Sun Belt,Southern
+2021,Jack Smith, PRO ,0.7979,arizona state,null,Pacific-12,NULL
+2021,Shai Werts, DUAL ,0.7949,georgia southern,louisville,Sun Belt,ACC
+2021,Ben Wooldridge, PRO ,0.7903,fresno state,louisiana,Mountain West,Sun Belt
+2021,Jake Simmons, PRO ,0.7900,san jose state,null,Mountain West,NULL
+2021,Mark Salazar, PRO ,0.7850,san diego state,null,Mountain West,NULL
+2021,Connor Adair, PRO ,0.7843,memphis,null,American Athletic,NULL
+2021,Davis Shanley, PRO ,0.7824,western kentucky,null,Conference USA,NULL
+2021,Devin Larsen, PRO ,0.7797,iowa state,null,Big 12,NULL
+2021,Mario Nolan-Dillard, DUAL ,0.7750,memphis,tennessee state,American Athletic,Ohio Valley
+2021,Brayden Hawkins, PRO ,0.7681,akron,null,Mid-American,NULL
+2021,Nick Moore, PRO ,0.7667,oregon state,arizona,Pacific-12,Pacific-12
+2021,Michael McFarlane, PRO ,0.7597,coastal carolina,null,Sun Belt,NULL
+2021,Chris Ferguson, PRO ,0.6997,liberty,null,FBS Independents,NULL
+2021,Vincent Amendola, PRO ,NULL,north carolina,towson,ACC,CAA
+2021,Nick Ast, PRO ,NULL,kansas state,null,Big 12,NULL
+2021,Joey Cambron, PRO ,NULL,middle tennessee state,null,Conference USA,NULL
+2021,Jake Constantine, DUAL ,NULL,weber state,rice,Big Sky,Conference USA
+2021,Jack Dawson, PRO ,NULL,troy,jacksonville state,Sun Belt,Ohio Valley
+2021,Westin Elliott, PRO ,NULL,louisiana tech,null,Conference USA,NULL
+2021,Terrance Gipson, DUAL ,NULL,smu,null,American Athletic,NULL
+2021,Darren Grainger, DUAL ,NULL,furman,georgia state,Southern,Sun Belt
+2021,Drew Gunther, PRO ,NULL,syracuse,bowling green,ACC,Mid-American
+2021,Jack Kristofek, DUAL ,NULL,sam houston state,mississippi state,Southland,SEC
+2021,Jack Lindsey, PRO ,NULL,arkansas,null,SEC,NULL
+2021,Johnathan Mosley, PRO ,NULL,kentucky,null,SEC,NULL
+2021,John Seter, PRO ,NULL,georgia,smu,SEC,American Athletic
+2021,Colton Taylor, PRO ,NULL,texas am,null,SEC,NULL
+2021,Greyson Thompson, PRO ,NULL,north texas,jackson state,Conference USA,SWAC
+2021,Demarkcus Bowman, RB ,0.9909,clemson,florida,ACC,SEC
+2021,Eric Gray, RB ,0.9244,tennessee,oklahoma,SEC,Big 12
+2021,Ty Chandler, RB ,0.9679,tennessee,north carolina,SEC,ACC
+2021,Zach Charbonnet, RB ,0.9760,michigan,ucla,Big Ten,Pacific-12
+2021,Keaontay Ingram, RB ,0.9324,texas,usc,Big 12,Pacific-12
+2021,Markese Stepp, RB ,0.8991,usc,nebraska,Pacific-12,Big Ten
+2021,David Bailey, RB ,0.8381,boston college,null,ACC,NULL
+2021,D.J. Williams, RB ,0.8975,auburn,florida state,SEC,ACC
+2021,Jordan Wilmore, RB ,0.8919,utah,fresno state,Pacific-12,Mountain West
+2021,Jaylen Warren, RB ,0.8083,utah state,oklahoma state,Mountain West,Big 12
+2021,Deondrick Glass, RB ,0.9133,oklahoma state,null,Big 12,NULL
+2021,Re'Mahn Davis, RB ,0.8235,temple,vanderbilt,American Athletic,SEC
+2021,Kenneth Walker, RB ,0.8122,wake forest,michigan state,ACC,Big Ten
+2021,T.J. Pledger, RB ,0.9543,oklahoma,utah,Big 12,Pacific-12
+2021,Chris Curry, RB ,0.8924,lsu,utah,SEC,Pacific-12
+2021,John Lovett, RB ,0.8684,baylor,penn state,Big 12,Big Ten
+2021,Tre Siggers, RB ,0.8228,north texas,smu,Conference USA,American Athletic
+2021,Harold Joiner, RB ,0.9375,auburn,michigan state,SEC,Big Ten
+2021,Drake Anderson, RB ,0.8361,northwestern,arizona,Big Ten,Pacific-12
+2021,Iverson Clement, RB ,0.8958,florida,temple,SEC,American Athletic
+2021,Chase Hayden, RB ,0.8899,east carolina,illinois,American Athletic,Big Ten
+2021,Jaren Mangham, RB ,0.8858,colorado,south florida,Pacific-12,American Athletic
+2021,Christian Turner, RB ,0.8784,michigan,wake forest,Big Ten,ACC
+2021,Deshaun Fenwick, APB ,0.8763,south carolina,oregon state,SEC,Pacific-12
+2021,Alan Lamar, RB ,0.7817,yale,arkansas state,Ivy,Sun Belt
+2021,Mark-Antony Richards, RB ,0.9589,auburn,central florida,SEC,American Athletic
+2021,Tirek Murphy, RB ,0.9047,purdue,null,Big Ten,NULL
+2021,Jayvaun Wilson, RB ,0.8863,oregon,unlv,Pacific-12,Mountain West
+2021,Kentrail Moran, RB ,0.8832,new mexico,null,Mountain West,NULL
+2021,Nakia Watson, RB ,0.8822,wisconsin,washington state,Big Ten,Pacific-12
+2021,Cyrus Habibi-Likio, RB ,0.8789,oregon,boise state,Pacific-12,Mountain West
+2021,Bradrick Shaw, RB ,0.8779,california,null,Pacific-12,NULL
+2021,Kareem Walker, RB ,0.8750,mississippi state,null,SEC,NULL
+2021,Robert Burns, RB ,0.8732,miami,null,ACC,NULL
+2021,Jahmir Smith, RB ,0.8721,notre dame,appalachian state,FBS Independents,Sun Belt
+2021,Kay'Ron Adams, RB ,0.8673,rutgers,massachusetts,Big Ten,FBS Independents
+2021,Lee Witherspoon, RB ,0.8668,mississippi state,alabama birmingham,SEC,Conference USA
+2021,Jawhar Jordan, RB ,0.8660,syracuse,null,ACC,NULL
+2021,Devin Brumfield, RB ,0.8646,utah,tulane,Pacific-12,American Athletic
+2021,Isaiah Bowser, RB ,0.8639,northwestern,miami ohio,Big Ten,Mid-American
+2021,Anthony Williams Jr., RB ,0.8635,michigan state,akron,Big Ten,Mid-American
+2021,Zidane Thomas, RB ,0.8625,san diego state,null,Mountain West,NULL
+2021,La’Damian Webb, RB ,0.8615,florida state,troy,ACC,Sun Belt
+2021,Kendrell Flowers, RB ,0.8614,wake forest,null,ACC,NULL
+2021,Keyon Henry-Brooks, RB ,0.8552,vanderbilt,null,SEC,NULL
+2021,Antwuan Branch, RB ,0.8544,north carolina,null,ACC,NULL
+2021,Tyreese Jackson, RB ,0.8539,colorado state,null,Mountain West,NULL
+2021,Demetrious Flowers, RB ,0.8539,arizona state,null,Pacific-12,NULL
+2021,Peter Hayes-Patrick, RB ,0.8538,akron,null,Mid-American,NULL
+2021,Devin Darrington, RB ,0.8498,harvard,virginia,Ivy,ACC
+2021,Jacob Kibodi, RB ,0.8488,uiw,louisiana,Southland,Sun Belt
+2021,Thomas Grayson, RB ,0.8485,kansas state,null,Big 12,NULL
+2021,Paris Brown Jr., RB ,0.8466,pittsburgh,null,ACC,NULL
+2021,DeMarcus Townsend, RB ,0.8466,florida international,null,Conference USA,NULL
+2021,T.J. Green, RB ,0.8465,utah,liberty,Pacific-12,FBS Independents
+2021,Jamari Peacock, RB ,0.8463,virginia,null,ACC,NULL
+2021,Chawntez Moss, RB ,0.8462,grand valley state,null,NULL,NULL
+2021,Alec Sinkfield, RB ,0.8444,west virginia,boston college,Big 12,ACC
+2021,Jahmon McClendon, RB ,0.8444,ucla,null,Pacific-12,NULL
+2021,Garrison Johnson, RB ,0.8431,syracuse,null,ACC,NULL
+2021,Calvin Tyler, RB ,0.8430,oregon state,utah state,Pacific-12,Mountain West
+2021,Da'Joun Hewitt, RB ,0.8418,purdue,null,Big Ten,NULL
+2021,Shadrick Byrd, RB ,0.8389,iowa,charlotte,Big Ten,Conference USA
+2021,Kenyon Sims, RB ,0.8377,illinois,null,Big Ten,NULL
+2021,Malik Staples, RB ,0.8372,western kentucky,null,Conference USA,NULL
+2021,TaMerik Williams, RB ,0.8335,smu,north dakota state,American Athletic,Missouri Valley
+2021,Amare Jones, RB ,0.8326,tulane,georgia southern,American Athletic,Sun Belt
+2021,Jamauri Wakefield, RB ,0.8326,vanderbilt,null,SEC,NULL
+2021,Marcus Williams Jr, APB ,0.8316,appalachian state,louisiana tech,Sun Belt,Conference USA
+2021,Ra'Von Bonner, RB ,0.8315,illinois,temple,Big Ten,American Athletic
+2021,Donovan Marshall, RB ,0.8305,arkansas state,null,Sun Belt,NULL
+2021,Dylan Downing, RB ,0.8287,unlv,purdue,Mountain West,Big Ten
+2021,Isiah Childs, RB ,0.8281,akron,null,Mid-American,NULL
+2021,JR Tran-Reno, RB ,0.8276,vanderbilt,samford,SEC,Southern
+2021,Johnny Ford, RB ,0.8265,south florida,florida atlantic,American Athletic,Conference USA
+2021,Jerry Howard, RB ,0.8258,georgia tech,null,ACC,NULL
+2021,Morian Walker, RB ,0.8222,nevada,western illinois,Mountain West,Missouri Valley
+2021,Kuj Tapusoa, RB ,0.8209,byu,null,FBS Independents,NULL
+2021,Jyran Mitchell, RB ,0.8204,northern illinois,null,Mid-American,NULL
+2021,Cedrick Wilcox, RB ,0.8204,marshall,null,Conference USA,NULL
+2021,Naveon Mitchell, RB ,0.8199,new mexico state,null,FBS Independents,NULL
+2021,Markenzy Pierre, RB ,0.8165,syracuse,null,ACC,NULL
+2021,DeShawn Collins, RB ,0.8155,california,null,Pacific-12,NULL
+2021,Trivenskey Mosley, RB ,0.8154,southern mississippi,null,Conference USA,NULL
+2021,Kory Gainwell, RB ,0.8154,memphis,null,American Athletic,NULL
+2021,Ontario Russell, RB ,0.8143,miami ohio,null,Mid-American,NULL
+2021,PK Kier, RB ,0.8143,virginia,null,ACC,NULL
+2021,Steven Anderson, RB ,0.8128,southern mississippi,null,Conference USA,NULL
+2021,Andrew Clair, RB ,0.8106,bowling green,northwestern,Mid-American,Big Ten
+2021,Jayy McDonald, RB ,0.8100,middle tennessee state,null,Conference USA,NULL
+2021,Jared Cole, APB ,0.8092,massachusetts,virginia tech,FBS Independents,ACC
+2021,Johnnie Lang, RB ,0.7993,iowa state,null,Big 12,NULL
+2021,Miles Reed, RB ,0.7938,hawaii,null,Mountain West,NULL
+2021,Peytton Pickett, RB ,0.7906,liberty,jackson state,FBS Independents,SWAC
+2021,Zach Angelillo, FB ,0.7898,california,null,Pacific-12,NULL
+2021,Jordan Castleberry, RB ,0.7898,maryland,null,Big Ten,NULL
+2021,G'Mone Wilson, RB ,0.7897,marshall,east carolina,Conference USA,American Athletic
+2021,Darius Pinnix, RB ,0.7891,east carolina,null,American Athletic,NULL
+2021,Stephon Huderson, RB ,0.7824,tulane,null,American Athletic,NULL
+2021,Kevin Marks Jr, RB ,0.7709,buffalo,buffalo,Mid-American,Mid-American
+2021,Gaej Walker, RB ,0.7709,western kentucky,null,Conference USA,NULL
+2021,Adam Cofield, RB ,0.7667,north dakota state,western kentucky,Missouri Valley,Conference USA
+2021,Karmi Mackey, RB ,0.7642,eastern michigan,null,Mid-American,NULL
+2021,Saevion Johnson, RB ,0.7631,fresno state,null,Mountain West,NULL
+2021,Kevin Perkins, RB ,0.7598,southern mississippi,null,Conference USA,NULL
+2021,Joshua Crawford, RB ,0.7580,central michigan,null,Mid-American,NULL
+2021,Matthew Laroche, RB ,0.7530,georgia southern,null,Sun Belt,NULL
+2021,Tony Brown, RB ,0.7497,south alabama,null,Sun Belt,NULL
+2021,Baden Pinson, RB ,0.7397,coastal carolina,null,Sun Belt,NULL
+2021,Josh Berry, RB ,NULL,south florida,null,American Athletic,NULL
+2021,Lorenzo Dorr, RB ,NULL,west virginia,null,Big 12,NULL
+2021,Jason Edwards, RB ,NULL,west virginia,null,Big 12,NULL
+2021,Keontae Luckett, RB ,NULL,iowa,null,Big Ten,NULL
+2021,Bryan Lumsden, RB ,NULL,utah state,null,Mountain West,NULL
+2021,Clay Markoff, FB ,NULL,washington state,null,Pacific-12,NULL
+2021,Jared Martino, RB ,NULL,massachusetts,null,FBS Independents,NULL
+2021,Nick Orekoya, RB ,NULL,massachusetts,null,FBS Independents,NULL
+2021,Max Rosenthal, FB ,NULL,michigan state,illinois,Big Ten,Big Ten
+2021,Dave Small, RB ,NULL,south florida,null,American Athletic,NULL
+2021,Gilberto Torres, RB ,NULL,massachusetts,null,FBS Independents,NULL
+2021,Arik Gilbert, TE ,0.9972,lsu,null,SEC,NULL
+2021,Wan'Dale Robinson, WR ,0.9597,nebraska,kentucky,Big Ten,SEC
+2021,Puka Nacua, WR ,0.9404,washington,byu,Pacific-12,FBS Independents
+2021,Charleston Rambo, WR ,0.9289,oklahoma,miami,Big 12,ACC
+2021,Grant Calcaterra, TE ,0.9131,oklahoma,smu,Big 12,American Athletic
+2021,Mookie Cooper, WR ,0.9574,ohio state,missouri,Big Ten,SEC
+2021,Ja'Lynn Polk, WR ,0.8809,texas tech,washington,Big 12,Pacific-12
+2021,Bryan Thompson, WR ,0.8793,utah,arizona state,Pacific-12,Pacific-12
+2021,Tahj Washington, WR ,0.8248,memphis,usc,American Athletic,Pacific-12
+2021,Nate Craig-Myers, WR ,0.9767,colorado state,central florida,Mountain West,American Athletic
+2021,D.J. Matthews, WR ,0.9763,florida state,indiana,ACC,Big Ten
+2021,Jalin Conyers, TE ,0.9197,oklahoma,arizona state,Big 12,Pacific-12
+2021,Mike Woods, WR ,0.8756,arkansas,null,SEC,NULL
+2021,Josh Youngblood, WR ,0.8398,kansas state,rutgers,Big 12,Big Ten
+2021,Samori Toure, WR ,0.7667,montana,nebraska,Big Sky,Big Ten
+2021,Theo Howard, WR ,0.9533,oklahoma,null,Big 12,NULL
+2021,K.D. Nixon, WR ,0.8931,colorado,usc,Pacific-12,Pacific-12
+2021,Tre'Von Morgan, WR ,0.8829,michigan state,kentucky,Big Ten,SEC
+2021,Amad Anderson, WR ,0.8809,purdue,temple,Big Ten,American Athletic
+2021,Jafar Armstrong, WR ,0.8709,notre dame,illinois,FBS Independents,Big Ten
+2021,Daniel Imatorbhebhe, TE ,0.8624,illinois,kansas state,Big Ten,Big 12
+2021,Jelani Woods, TE ,0.8559,oklahoma state,virginia,Big 12,ACC
+2021,Makai Polk, WR ,0.8435,california,mississippi state,Pacific-12,SEC
+2021,Jahcour Pearson, WR ,0.8075,western kentucky,ole miss,Conference USA,SEC
+2021,Dylan Wright, WR ,0.9678,texas am,minnesota,SEC,Big Ten
+2021,Ty Jones, WR ,0.9079,washington,fresno state,Pacific-12,Mountain West
+2021,Shamar Nash, WR ,0.8904,arkansas,memphis,SEC,American Athletic
+2021,Tyrell Shavers, WR ,0.9587,mississippi state,san diego state,SEC,Mountain West
+2021,John Dunmore, WR ,0.9469,penn state,florida atlantic,Big Ten,Conference USA
+2021,Kam Brown, WR ,0.9182,texas am,ucla,SEC,Pacific-12
+2021,Tevailance Hunt, WR ,0.9064,tcu,arkansas state,Big 12,Sun Belt
+2021,Nolan Groulx, WR ,0.8921,wake forest,null,ACC,NULL
+2021,Casey Washington, WR ,0.8323,illinois,wake forest,Big Ten,ACC
+2021,Makiya Tongue, WR ,0.9194,georgia,oregon state,SEC,Pacific-12
+2021,Trey Blount, WR ,0.8919,georgia,old dominion,SEC,Conference USA
+2021,Ahmarean Brown, WR ,0.8709,georgia tech,south carolina,ACC,SEC
+2021,Andrew Parchment, WR ,0.8466,kansas,florida state,Big 12,ACC
+2021,Marquis Spiker, WR ,0.9703,washington,null,Pacific-12,NULL
+2021,Matthew Hill, WR ,0.9562,auburn,south florida,SEC,American Athletic
+2021,Jeremiah Holloman, WR ,0.9431,florida international,null,Conference USA,NULL
+2021,Zack Kuntz, TE ,0.9377,penn state,null,Big Ten,NULL
+2021,Warren Thompson, WR ,0.9361,florida state,null,ACC,NULL
+2021,Trevon Sidney, WR ,0.9360,illinois,null,Big Ten,NULL
+2021,Oliver Martin, WR ,0.9251,iowa,nebraska,Big Ten,Big Ten
+2021,Dee Anderson, WR ,0.9242,oklahoma state,null,Big 12,NULL
+2021,Tommy Bush, WR ,0.9222,georgia,null,SEC,NULL
+2021,Jalen Curry, WR ,0.9209,arizona,arizona,Pacific-12,Pacific-12
+2021,Austin Osborne, WR ,0.9180,washington,null,Pacific-12,NULL
+2021,Jamal Pettigrew, TE ,0.9124,lsu,mcneese state,SEC,Southland
+2021,Isaiah Bolden, WR ,0.9120,florida state,jackson state,ACC,SWAC
+2021,Daquon Green, WR ,0.9102,murray state,null,Ohio Valley,NULL
+2021,Marcus Fleming, WR ,0.9072,nebraska,maryland,Big Ten,Big Ten
+2021,Giles Jackson, WR ,0.9004,michigan,null,Big Ten,NULL
+2021,Jordan Allen, TE ,0.8967,tennessee,weber state,SEC,Big Sky
+2021,Jacob Mathis, TE ,0.8953,south florida,null,American Athletic,NULL
+2021,Rodrick Fisher, WR ,0.8947,washington state,null,Pacific-12,NULL
+2021,Jackson Lowe, TE ,0.8947,tennessee,jacksonville state,SEC,Ohio Valley
+2021,Rashawn Williams, WR ,0.8926,indiana,null,Big Ten,NULL
+2021,Jamire Calvin, WR ,0.8923,washington state,null,Pacific-12,NULL
+2021,Kedrick James, TE ,0.8921,smu,null,American Athletic,NULL
+2021,Ray Rose, WR ,0.8904,north carolina,null,ACC,NULL
+2021,Micah Jones, WR ,0.8902,notre dame,illinois state,FBS Independents,Missouri Valley
+2021,Ricky Smalling, WR ,0.8868,illinois,null,Big Ten,NULL
+2021,Charles Njoku, WR ,0.8862,ucla,null,Pacific-12,NULL
+2021,DJ Turner, WR ,0.8829,maryland,pittsburgh,Big Ten,ACC
+2021,Blayne Toll, TE ,0.8827,arkansas,colorado,SEC,Pacific-12
+2021,Eddie McDoom, WR ,0.8825,south florida,null,American Athletic,NULL
+2021,Darryle Simmons, WR ,0.8824,virginia tech,null,ACC,NULL
+2021,Randal Grimes, WR ,0.8821,unlv,weber state,Mountain West,Big Sky
+2021,Jonah Morris, WR ,0.8813,akron,northern colorado,Mid-American,Big Sky
+2021,Seth Green, WR ,0.8813,minnesota,null,Big Ten,NULL
+2021,Demarcus Gregory, WR ,0.8791,ole miss,south florida,SEC,American Athletic
+2021,Kendall Abdur-Rahman, WR ,0.8789,notre dame,null,FBS Independents,NULL
+2021,JaVonta Payton, WR ,0.8785,mississippi state,null,SEC,NULL
+2021,CJ Boone, WR ,0.8784,missouri,new mexico,SEC,Mountain West
+2021,JR Waters, WR ,0.8777,oregon,null,Pacific-12,NULL
+2021,Munir McClain, WR ,0.8763,usc,usc,Pacific-12,Pacific-12
+2021,Darion Anderson, WR ,0.8751,georgia southern,null,Sun Belt,NULL
+2021,TJ Jones, WR ,0.8750,penn state,null,Big Ten,NULL
+2021,Maurice Massey, WR ,0.8742,missouri,null,SEC,NULL
+2021,John Stephens, WR ,0.8735,tcu,louisiana,Big 12,Sun Belt
+2021,Jamarye Joiner, WR ,0.8734,arizona,arizona,Pacific-12,Pacific-12
+2021,Rontavius Groves, WR ,0.8734,north carolina,null,ACC,NULL
+2021,Glenn Beal, TE ,0.8723,louisiana,null,Sun Belt,NULL
+2021,Elijah Bowick, WR ,0.8709,virginia tech,ncat,ACC,MEAC
+2021,Brandon Johnson, WR ,0.8691,tennessee,central florida,SEC,American Athletic
+2021,Khyheem Waleed, WR ,0.8689,boise state,arkansas state,Mountain West,Sun Belt
+2021,Nolan Matthews, TE ,0.8689,arizona state,smu,Pacific-12,American Athletic
+2021,Keshawn Toney, TE ,0.8689,south carolina,chattanooga,SEC,Southern
+2021,Dylan Thomas, WR ,0.8686,tcu,northern colorado,Big 12,Big Sky
+2021,Evidence Njoku, TE ,0.8675,ucla,null,Pacific-12,NULL
+2021,Nikolas Ognenovic, TE ,0.8668,kentucky,null,SEC,NULL
+2021,Trevon West, WR ,0.8668,oklahoma,null,Big 12,NULL
+2021,Kyziah Pruitt, WR ,0.8668,mississippi state,null,SEC,NULL
+2021,Logan Compton, TE ,0.8667,baylor,null,Big 12,NULL
+2021,Allen Dailey, WR ,0.8667,kentucky,null,SEC,NULL
+2021,Jhari Patterson, WR ,0.8654,marshall,east carolina,Conference USA,American Athletic
+2021,Christian Fitzpatrick, WR ,0.8646,louisville,michigan state,ACC,Big Ten
+2021,Isaiah Johnson-Mack, WR ,0.8646,bowling green,null,Mid-American,NULL
+2021,Eric Kumah, WR ,0.8641,old dominion,null,Conference USA,NULL
+2021,Dontea Jones, TE ,0.8641,mississippi state,null,SEC,NULL
+2021,Sean Brown, TE ,0.8635,tennessee,null,SEC,NULL
+2021,Dennis Smith, WR ,0.8625,duke,null,ACC,NULL
+2021,Malik Washington, WR ,0.8614,northwestern,northwestern,Big Ten,Big Ten
+2021,Ja'Cyais Credle, WR ,0.8614,central florida,georgia state,American Athletic,Sun Belt
+2021,Kassidy Woods, WR ,0.8609,washington state,northern colorado,Pacific-12,Big Sky
+2021,Jared Bubak, TE ,0.8600,nebraska,null,Big Ten,NULL
+2021,KeSean Carter, WR ,0.8593,texas tech,houston,Big 12,American Athletic
+2021,Yusuf Terry, WR ,0.8588,baylor,south florida,Big 12,American Athletic
+2021,Austin Pope, TE ,0.8584,tennessee,tennessee,SEC,SEC
+2021,Jayden Harrison, WR ,0.8573,vanderbilt,marshall,SEC,Conference USA
+2021,Stanley King, WR ,0.8572,rutgers,null,Big Ten,NULL
+2021,Matt Landers, WR ,0.8570,georgia,toledo,SEC,Mid-American
+2021,Keion Wakefield, WR ,0.8563,west virginia,null,Big 12,NULL
+2021,Jeremiah Hawkins, WR ,0.8559,california,texas state,Pacific-12,Sun Belt
+2021,Kurt Rafdal, TE ,0.8559,nebraska,null,Big Ten,NULL
+2021,Al'dontre Davis, WR ,0.8559,tcu,nicholls state,Big 12,Southland
+2021,Drew Dixon, WR ,0.8557,arizona,null,Pacific-12,NULL
+2021,Calvin Lockett, WR ,0.8548,iowa,null,Big Ten,NULL
+2021,Reginald Johnson, WR ,0.8548,louisiana,null,Sun Belt,NULL
+2021,Tobias Little, TE ,0.8543,louisville,missouri state,ACC,Missouri Valley
+2021,Jahquez Evans, WR ,0.8540,south florida,null,American Athletic,NULL
+2021,Justin Bellido, WR ,0.8538,boston college,null,ACC,NULL
+2021,Akeem Hayes, WR ,0.8534,kentucky,null,SEC,NULL
+2021,Ali Jennings, WR ,0.8518,west virginia,old dominion,Big 12,Conference USA
+2021,Maverick Wolfley, TE ,0.8510,akron,null,Mid-American,NULL
+2021,Jordan Kerley, WR ,0.8506,arizona state,smu,Pacific-12,American Athletic
+2021,Skylar Loving-Black, TE ,0.8506,iowa state,null,Big 12,NULL
+2021,Simon Gonzalez, TE ,0.8505,texas tech,smu,Big 12,American Athletic
+2021,Majon Wright, WR ,0.8505,arizona,middle tennessee state,Pacific-12,Conference USA
+2021,Majon Wright, WR ,0.8505,middle tennessee state,arizona,Conference USA,Pacific-12
+2021,Stephon Robinson, WR ,0.8502,kansas,northwestern,Big 12,Big Ten
+2021,Brandon Pierce, WR ,0.8500,arizona state,null,Pacific-12,NULL
+2021,Lincoln Victor, WR ,0.8499,hawaii,washington state,Mountain West,Pacific-12
+2021,Samson Nacua, WR ,0.8493,utah,byu,Pacific-12,FBS Independents
+2021,Bryce Oliver, WR ,0.8493,kentucky,null,SEC,NULL
+2021,Keith Corbin, WR ,0.8492,houston,jackson state,American Athletic,SWAC
+2021,Jeremiah Pruitte, WR ,0.8492,colorado state,famu,Mountain West,MEAC
+2021,Tyquan Johnson, WR ,0.8487,south carolina,null,SEC,NULL
+2021,Daewood Davis, WR ,0.8487,oregon,western kentucky,Pacific-12,Conference USA
+2021,Raykwon Anderson, WR ,0.8485,appalachian state,null,Sun Belt,NULL
+2021,Mike Pettway, WR ,0.8477,washington state,jacksonville state,Pacific-12,Ohio Valley
+2021,Jordan Jakes, WR ,0.8472,indiana,unlv,Big Ten,Mountain West
+2021,Tyler Smith, WR ,0.8464,western kentucky,chattanooga,Conference USA,Southern
+2021,Xavier McGriff, WR ,0.8464,florida international,null,Conference USA,NULL
+2021,Gary Cooper, WR ,0.8460,indiana,null,Big Ten,NULL
+2021,Nykeim Johnson, WR ,0.8453,syracuse,kent state,ACC,Mid-American
+2021,Damond Philyaw-Johnson, WR ,0.8444,duke,null,ACC,NULL
+2021,Jaylen Dixon, WR ,0.8438,utah,utah,Pacific-12,Pacific-12
+2021,Jacob Kainer, TE ,0.8432,tulsa,null,American Athletic,NULL
+2021,I'Shawn Stewart, WR ,0.8430,oregon state,null,Pacific-12,NULL
+2021,Xavier Lane, WR ,0.8422,western kentucky,null,Conference USA,NULL
+2021,Henry Ikahihifo, TE ,0.8416,nevada,null,Mountain West,NULL
+2021,Tyrese Chambers, WR ,0.8400,sacred heart,florida international,Northeast,Conference USA
+2021,Rhett Weidenbacher, TE ,0.8400,memphis,null,American Athletic,NULL
+2021,Sire Woods, TE ,0.8388,pennsylvania,null,Ivy,NULL
+2021,Jordan Chin, WR ,0.8388,washington,null,Pacific-12,NULL
+2021,Rahmon Hart, WR ,0.8384,ball state,duquesne,Mid-American,Northeast
+2021,Javez Alexander, WR ,0.8378,michigan state,null,Big Ten,NULL
+2021,Turon Ivy Jr., TE ,0.8377,indiana,null,Big Ten,NULL
+2021,D.J. Render, WR ,0.8376,kansas state,null,Big 12,NULL
+2021,Kyric McGowan, WR ,0.8372,northwestern,georgia tech,Big Ten,ACC
+2021,Dominic Gicinto, WR ,0.8371,missouri,null,SEC,NULL
+2021,Mo Edwards, WR ,0.8366,south alabama,eastern kentucky,Sun Belt,Ohio Valley
+2021,Dorien Goddard, WR ,0.8364,virginia,null,ACC,NULL
+2021,Cameron Gardner, WR ,0.8338,mississippi state,null,SEC,NULL
+2021,Michael Smith, WR ,0.8332,pittsburgh,null,ACC,NULL
+2021,Casey Washington, WR ,0.8323,wake forest,null,ACC,NULL
+2021,Jaylen Erwin, WR ,0.8316,ucla,houston,Pacific-12,American Athletic
+2021,Jayshon Jackson, WR ,0.8315,cincinnati,null,American Athletic,NULL
+2021,Zack Dobson, WR ,0.8314,west virginia,null,Big 12,NULL
+2021,Trey McBride, TE ,0.8311,colorado state,colorado state,Mountain West,Mountain West
+2021,Luke Johns, TE ,0.8310,georgia tech,null,ACC,NULL
+2021,William Brown, WR ,0.8305,smu,null,American Athletic,NULL
+2021,Marquis McCoy, WR ,0.8300,southern mississippi,null,Conference USA,NULL
+2021,Trenton Waggoner, WR ,0.8299,army,null,FBS Independents,NULL
+2021,James Bomba, TE ,0.8286,miami ohio,null,Mid-American,NULL
+2021,Caden Leggett, WR ,0.8276,texas tech,null,Big 12,NULL
+2021,Jamal Glaspie, WR ,0.8273,fresno state,null,Mountain West,NULL
+2021,Myron Mitchell, WR ,0.8267,alabama birmingham,alabama birmingham,Conference USA,Conference USA
+2021,Tyleek Collins, WR ,0.8265,unlv,null,Mountain West,NULL
+2021,Jallah Zeze, WR ,0.8265,georgia southern,null,Sun Belt,NULL
+2021,Logan Clark, TE ,0.8263,marshall,null,Conference USA,NULL
+2021,Edwin Carter, WR ,0.8255,illinois,null,Big Ten,NULL
+2021,Luke Sanders, TE ,0.8254,western michigan,null,Mid-American,NULL
+2021,Jernard Phillips, WR ,0.8241,south florida,null,American Athletic,NULL
+2021,Brian Smith, WR ,0.8236,louisiana,null,Sun Belt,NULL
+2021,Cameron Jordan, WR ,0.8225,syracuse,null,ACC,NULL
+2021,Kevin Davis, WR ,0.8221,alabama birmingham,null,Conference USA,NULL
+2021,Keshon Williams, TE ,0.8215,tulane,null,American Athletic,NULL
+2021,Brennon Dingle, WR ,0.8211,utsa,null,Conference USA,NULL
+2021,Jadon Walker, WR ,0.8203,colorado state,null,Mountain West,NULL
+2021,Aaron Hackett, TE ,0.8200,syracuse,null,ACC,NULL
+2021,Lonkevious McFadden, WR ,0.8198,kent state,eastern kentucky,Mid-American,Ohio Valley
+2021,Cameron Gardner, WR ,0.8198,utah,null,Pacific-12,NULL
+2021,Evan Fairs, WR ,0.8167,virginia tech,null,ACC,NULL
+2021,Zak Simon, WR ,0.8166,massachusetts,null,FBS Independents,NULL
+2021,Dedrick Wilson, WR ,0.8165,utsa,null,Conference USA,NULL
+2021,Spencer Owens, TE ,0.8156,western kentucky,null,Conference USA,NULL
+2021,Wayne Toussant, WR ,0.8154,louisiana tech,null,Conference USA,NULL
+2021,Charles Ross, WR ,0.8154,nevada,null,Mountain West,NULL
+2021,Terrence Horne, WR ,0.8154,south florida,null,American Athletic,NULL
+2021,Michael Love, WR ,0.8154,northern illinois,null,Mid-American,NULL
+2021,Jay Griffin, WR ,0.8147,new mexico,null,Mountain West,NULL
+2021,Randall St. Felix, WR ,0.8145,south florida,null,American Athletic,NULL
+2021,James Bostic Jr., WR ,0.8141,vanderbilt,null,SEC,NULL
+2021,Eyin Cole, WR ,0.8139,florida atlantic,null,Conference USA,NULL
+2021,Everett Wormley, WR ,0.8134,rutgers,null,Big Ten,NULL
+2021,Brenden Schooler, WR ,0.8111,arizona,texas,Pacific-12,Big 12
+2021,Nolan Givan, TE ,0.8106,san diego state,null,Mountain West,NULL
+2021,Austin Ogunmakin, WR ,0.8104,north texas,liberty,Conference USA,FBS Independents
+2021,Cedric Patterson, WR ,0.8104,new mexico,rice,Mountain West,Conference USA
+2021,Bryce Childress, WR ,0.8100,troy,null,Sun Belt,NULL
+2021,Javon Turner, WR ,0.8100,massachusetts,null,FBS Independents,NULL
+2021,Noah Massey, WR ,0.8098,bowling green,null,Mid-American,NULL
+2021,Ezra Naylor, WR ,0.8094,kansas,null,Big 12,NULL
+2021,Devin Lester, WR ,0.8091,old dominion,null,Conference USA,NULL
+2021,Melquise Stovall, WR ,0.8084,hawaii,pittsburgh,Mountain West,ACC
+2021,Davontavean Martin, WR ,0.8080,washington state,oklahoma state,Pacific-12,Big 12
+2021,Zack Leininger, TE ,0.8073,akron,null,Mid-American,NULL
+2021,Antwan Dixon, WR ,0.8073,kent state,null,Mid-American,NULL
+2021,Aaron Jarman, TE ,0.8054,temple,east carolina,American Athletic,American Athletic
+2021,Shane Hooks, WR ,0.8054,ohio,jackson state,Mid-American,SWAC
+2021,Tyler Hayek, WR ,0.8050,rutgers,null,Big Ten,NULL
+2021,Dimitrios Mitsopoulos, WR ,0.8041,miami ohio,null,Mid-American,NULL
+2021,Dennis Robinson, WR ,0.8025,northern illinois,null,Mid-American,NULL
+2021,Mekhi Stevenson, WR ,0.8025,unlv,albany,Mountain West,CAA
+2021,Tyce Daniel, TE ,0.8025,memphis,null,American Athletic,NULL
+2021,Tyler Kennedy, WR ,0.8013,southern mississippi,null,Conference USA,NULL
+2021,Gregory White, WR ,0.8005,north texas,null,Conference USA,NULL
+2021,Dariyan Wiley, WR ,0.8003,massachusetts,louisiana monroe,FBS Independents,Sun Belt
+2021,Austin Hergott, TE ,0.7999,central michigan,null,Mid-American,NULL
+2021,Samuel Emilus, WR ,0.7998,massachusetts,null,FBS Independents,NULL
+2021,Chandler Whitfield, WR ,0.7993,louisiana monroe,null,Sun Belt,NULL
+2021,Zachari Jackson, WR ,0.7979,louisiana monroe,louisiana monroe,Sun Belt,Sun Belt
+2021,Julian Ortega-Jones, WR ,0.7964,bowling green,texas state,Mid-American,Sun Belt
+2021,Leon Payne, WR ,0.7953,northern illinois,null,Mid-American,NULL
+2021,Jahmarae Sheread, WR ,0.7953,texas state,null,Sun Belt,NULL
+2021,Jerreth Sterns, WR ,0.7953,houston baptist,western kentucky,Southland,Conference USA
+2021,Darnell Pratt Jr., WR ,0.7939,virginia,towson,ACC,CAA
+2021,Tyler Ringwood, WR ,0.7933,charlotte,null,Conference USA,NULL
+2021,Marcus Joyner, TE ,0.7932,old dominion,towson,Conference USA,CAA
+2021,Jamaal Neal, TE ,0.7917,unlv,null,Mountain West,NULL
+2021,Moss Saccomanno, TE ,0.7905,charlotte,null,Conference USA,NULL
+2021,Cee Jay Powell, WR ,0.7903,louisiana tech,null,Conference USA,NULL
+2021,Rico Arnold, WR ,0.7903,charlotte,massachusetts,Conference USA,FBS Independents
+2021,Jeremiah Fails, WR ,0.7902,western kentucky,rhode island,Conference USA,CAA
+2021,Jelani Foster, WR ,0.7898,buffalo,rhode island,Mid-American,CAA
+2021,Jason Heller, WR ,0.7897,marshall,null,Conference USA,NULL
+2021,Kyle McNamara, WR ,0.7892,michigan,null,Big Ten,NULL
+2021,Austin Liles, WR ,0.7891,san jose state,null,Mountain West,NULL
+2021,Josh Pederson, TE ,0.7891,louisiana monroe,louisiana monroe,Sun Belt,Sun Belt
+2021,Jack Luavasa, TE ,0.7889,kansas,null,Big 12,NULL
+2021,EJ Jenkins, WR ,0.7877,saint francis,south carolina,Northeast,SEC
+2021,Jaylin Jackson, WR ,0.7853,florida,null,SEC,NULL
+2021,LeMaro Smith, WR ,0.7853,buffalo,null,Mid-American,NULL
+2021,Rashad Beecham, WR ,0.7833,utep,null,Conference USA,NULL
+2021,Tyler Lamm, TE ,0.7817,louisiana monroe,tulane,Sun Belt,American Athletic
+2021,Shon Strickland, WR ,0.7797,bowling green,null,Mid-American,NULL
+2021,Adam Cousins, WR ,0.7791,utep,null,Conference USA,NULL
+2021,Brandon Bowling, WR ,0.7790,arkansas state,utah state,Sun Belt,Mountain West
+2021,Chris Boudreaux, WR ,0.7783,rice,null,Conference USA,NULL
+2021,Melvin Hill, WR ,0.7781,massachusetts,null,FBS Independents,NULL
+2021,Kameron Wilson, TE ,0.7752,memphis,null,American Athletic,NULL
+2021,Darfnell Gouin, WR ,0.7742,ohio,null,Mid-American,NULL
+2021,Ethan Merriweather, WR ,0.7723,ball state,null,Mid-American,NULL
+2021,Javonis Isaac, TE ,0.7716,arkansas state,null,Sun Belt,NULL
+2021,Perry Carter, WR ,0.7716,louisiana monroe,louisiana monroe,Sun Belt,Sun Belt
+2021,Julian Hicks, WR ,0.7716,akron,null,Mid-American,NULL
+2021,Jacquez Sloan, WR ,0.7709,western kentucky,null,Conference USA,NULL
+2021,Jordan Kress, WR ,0.7700,new mexico,null,Mountain West,NULL
+2021,Dane Saltarelli, TE ,0.7697,oklahoma,western kentucky,Big 12,Conference USA
+2021,Charlie Fish, WR ,0.7697,northern illinois,null,Mid-American,NULL
+2021,Kyre Richardson, WR ,0.7682,oklahoma,null,Big 12,NULL
+2021,Josh Sterns, WR ,0.7667,houston baptist,western kentucky,Southland,Conference USA
+2021,Zac Lefebvre, TE ,0.7667,buffalo,western kentucky,Mid-American,Conference USA
+2021,Hunter Kaufman, WR ,0.7667,kansas,null,Big 12,NULL
+2021,Gabe Lloyd, TE ,0.7667,wisconsin,null,Big Ten,NULL
+2021,Jared Sparks, WR ,0.7649,purdue,louisiana monroe,Big Ten,Sun Belt
+2021,Jeremy Clark, WR ,0.7649,unlv,null,Mountain West,NULL
+2021,Jonathan Sanchez, TE ,0.7642,rice,null,Conference USA,NULL
+2021,Ryan Lezzer, WR ,0.7642,western michigan,null,Mid-American,NULL
+2021,James Sosinski, TE ,0.7609,kansas,null,Big 12,NULL
+2021,Quian Williams, WR ,0.7608,eastern michigan,null,Mid-American,NULL
+2021,Keion Battle, WR ,0.7597,northern illinois,null,Mid-American,NULL
+2021,Cleotis Anglin, TE ,0.7597,ohio,bethune cookman,Mid-American,MEAC
+2021,Deven Thompkins, WR ,0.7497,utah state,utah state,Mountain West,Mountain West
+2021,Stanley Berryhill, WR ,0.7480,arizona,arizona,Pacific-12,Pacific-12
+2021,Kade Warner, WR ,0.7480,nebraska,kansas state,Big Ten,Big 12
+2021,Jeremiah Knight, WR ,0.7397,akron,null,Mid-American,NULL
+2021,Yusuf Ali, WR ,NULL,middle tennessee state,middle tennessee state,Conference USA,Conference USA
+2021,Chris Barrett, TE ,NULL,liberty,null,FBS Independents,NULL
+2021,Ramsey Baty, TE ,NULL,michigan,null,Big Ten,NULL
+2021,Andrew Boykin, WR ,NULL,texas am,null,SEC,NULL
+2021,Scott Boylan, WR ,NULL,brown,duke,Ivy,ACC
+2021,Quin Bright, WR ,NULL,hawaii,null,Mountain West,NULL
+2021,Liam Byrne, WR ,NULL,georgia tech,null,ACC,NULL
+2021,Keith Davis, WR ,NULL,arizona state,null,Pacific-12,NULL
+2021,Dalrone Donaldson, WR ,NULL,cincinnati,null,American Athletic,NULL
+2021,Luke Endsley, WR ,NULL,ball state,null,Mid-American,NULL
+2021,Drew Estrada, WR ,NULL,dartmouth,baylor,Ivy,Big 12
+2021,Zach Farrar, WR ,NULL,tcu,null,Big 12,NULL
+2021,Jaylen Flemmons, WR ,NULL,ball state,null,Mid-American,NULL
+2021,Wykeen Gill, WR ,NULL,kansas state,duquesne,Big 12,Northeast
+2021,Demetric Hardin, WR ,NULL,middle tennessee state,null,Conference USA,NULL
+2021,Joshua Hart, WR ,NULL,arizona state,arkansas pine bluff,Pacific-12,SWAC
+2021,Jalen Jackson, WR ,NULL,kennesaw state,louisiana monroe,Big South,Sun Belt
+2021,Cade Johnson, WR ,NULL,south dakota state,null,Missouri Valley,NULL
+2021,Martin Laham, WR ,NULL,holy cross,massachusetts,Patriot League,FBS Independents
+2021,Grant Lake, WR ,NULL,fresno state,null,Mountain West,NULL
+2021,Elijah Lilly, WR ,NULL,new mexico,idaho,Mountain West,Big Sky
+2021,Tyrese Mack, WR ,NULL,utah state,nevada,Mountain West,Mountain West
+2021,Dexter Manior, TE ,NULL,navy,eastern michigan,American Athletic,Mid-American
+2021,Hayden Metcalf, WR ,NULL,illinois,null,Big Ten,NULL
+2021,Isaiah Montgomery, WR ,NULL,tennessee,jacksonville state,SEC,Ohio Valley
+2021,Alec Muck, WR ,NULL,central michigan,null,Mid-American,NULL
+2021,Terique Owens, WR ,NULL,florida atlantic,null,Conference USA,NULL
+2021,Patrick Palmer, WR ,NULL,south alabama,null,Sun Belt,NULL
+2021,Tannor Park, WR ,NULL,arizona state,null,Pacific-12,NULL
+2021,Ben Ratzlaff, WR ,NULL,houston baptist,western kentucky,Southland,Conference USA
+2021,Corey Reed, WR ,NULL,louisville,jackson state,ACC,SWAC
+2021,Sevonne Rhea, WR ,NULL,texas state,null,Sun Belt,NULL
+2021,Jasiah Richard-Lewis, WR ,NULL,washington state,null,Pacific-12,NULL
+2021,Lawrence Shadd III, WR ,NULL,kansas,null,Big 12,NULL
+2021,Mason Sikes, TE ,NULL,boise state,western illinois,Mountain West,Missouri Valley
+2021,Alex Spadone, WR ,NULL,san diego,null,Pioneer,NULL
+2021,Nate Stewart, WR ,NULL,akron,null,Mid-American,NULL
+2021,Kevin Terry, WR ,NULL,texas tech,kansas,Big 12,Big 12
+2021,True Thompson, WR ,NULL,minnesota,null,Big Ten,NULL
+2021,Maximillian Thrower, TE ,NULL,northern illinois,null,Mid-American,NULL
+2021,Landon Wolf, WR ,NULL,oklahoma state,null,Big 12,NULL
+2021,Kolby Wyatt, TE ,NULL,georgia,hawaii,SEC,Mountain West
+2021,Wanya Morris, OT ,0.9871,tennessee,oklahoma,SEC,Big 12
+2021,Doug Nester, OG ,0.9519,virginia tech,west virginia,ACC,Big 12
+2021,Obinna Eze, OT ,0.9212,memphis,tcu,American Athletic,Big 12
+2021,Bryan Hudson, OC ,0.9189,virginia tech,louisville,ACC,ACC
+2021,Jahmir Johnson, OT ,0.8864,tennessee,texas am,SEC,SEC
+2021,Eric Wilson, OG ,0.8388,harvard,penn state,Ivy,Big Ten
+2021,Justice Oluwaseun, OG ,0.7931,unlv,null,Mountain West,NULL
+2021,Ty'kieast Crawford, OT ,0.9150,charlotte,arkansas,Conference USA,SEC
+2021,Danny Godlevske, OC ,0.8355,miami ohio,oklahoma state,Mid-American,Big 12
+2021,Jarrett Horst, OT ,0.8100,arkansas state,michigan state,Sun Belt,Big Ten
+2021,Karter Shaw, OG ,0.7903,utah state,minnesota,Mountain West,Big Ten
+2021,Zach Carpenter, OG ,0.8776,michigan,indiana,Big Ten,Big Ten
+2021,TJ Storment, OT ,0.7944,tcu,texas tech,Big 12,Big 12
+2021,Kody Russey, OC ,0.7790,louisiana tech,houston,Conference USA,American Athletic
+2021,Vince Picozzi, OG ,NULL,temple,colorado state,American Athletic,Mountain West
+2021,Devontae Dobbs, OT ,0.9747,michigan state,memphis,Big Ten,American Athletic
+2021,CJ Thorpe, OG ,0.9584,penn state,null,Big Ten,NULL
+2021,Marcus Minor, OT ,0.9145,maryland,pittsburgh,Big Ten,ACC
+2021,EJ Ndoma-Ogar, OG ,0.9054,oklahoma,missouri,Big 12,SEC
+2021,Triston Miller, OT ,0.8935,north carolina,arizona state,ACC,Pacific-12
+2021,Brandon Cunningham, OG ,0.8884,mississippi state,null,SEC,NULL
+2021,Bryce Bray, OG ,0.8710,oklahoma state,tulsa,Big 12,American Athletic
+2021,Boe Wilson, OG ,0.8559,nebraska,western kentucky,Big Ten,Conference USA
+2021,Johnny Jordan, OC ,0.8493,maryland,virginia tech,Big Ten,ACC
+2021,Thalen Robinson, OT ,0.8417,missouri,smu,SEC,American Athletic
+2021,Quazzel White, OG ,0.8321,tcu,utah state,Big 12,Mountain West
+2021,Grant Miller, OC ,0.8169,vanderbilt,baylor,SEC,Big 12
+2021,T.J. Fiailoa, OG ,0.8166,louisiana monroe,louisiana,Sun Belt,Sun Belt
+2021,Samuel Williams, OT ,0.8106,louisiana monroe,louisiana tech,Sun Belt,Conference USA
+2021,Chandler Anthony, OT ,0.7750,north texas,oklahoma state,Conference USA,Big 12
+2021,Qadir White, OT ,0.8874,syracuse,null,ACC,NULL
+2021,Billy Ross, OT ,0.8840,north carolina,marshall,ACC,Conference USA
+2021,Kamaar Bell, OG ,0.8750,auburn,florida atlantic,SEC,Conference USA
+2021,Junior Uzebu, OT ,0.8742,west virginia,vanderbilt,Big 12,SEC
+2021,Eli Johnson, OC ,0.8706,ole miss,new mexico state,SEC,FBS Independents
+2021,Nick Pendley, OG ,0.8675,mississippi state,georgia tech,SEC,ACC
+2021,Jacob Farrell, OT ,0.8647,oklahoma state,north texas,Big 12,Conference USA
+2021,Matthew Anderson, OT ,0.8572,nebraska,louisiana,Big Ten,Sun Belt
+2021,Briason Mays, OC ,0.8559,west virginia,southern mississippi,Big 12,Conference USA
+2021,David Nwaogwugwu, OT ,0.8331,temple,rutgers,American Athletic,Big Ten
+2021,Heneli Bloomfield, OG ,NULL,utah state,oregon state,Mountain West,Pacific-12
+2021,Robert Congel, OG ,NULL,arizona,oklahoma,Pacific-12,Big 12
+2021,Brian Foley, OG ,NULL,holy cross,duke,Patriot League,ACC
+2021,John Olmstead, OT ,0.9242,notre dame,lafayette,FBS Independents,Patriot League
+2021,Curtis Dunlap, OG ,0.9168,minnesota,minnesota,Big Ten,Big Ten
+2021,Austin Myers, OT ,0.9114,tcu,memphis,Big 12,American Athletic
+2021,T.J. Moore, OG ,0.9054,florida,null,SEC,NULL
+2021,Reese Moore, OT ,0.8997,texas,null,Big 12,NULL
+2021,Jack Buford, OT ,0.8918,missouri,new mexico,SEC,Mountain West
+2021,Justin Osborne, OT ,0.8809,auburn,smu,SEC,American Athletic
+2021,Tony Gray, OT ,0.8794,central florida,jackson state,American Athletic,SWAC
+2021,Trent Pullen, OG ,0.8743,oklahoma state,null,Big 12,NULL
+2021,Blaine Scott, OG ,0.8729,west virginia,northern colorado,Big 12,Big Sky
+2021,Sean Auwae, OC ,0.8675,vanderbilt,tennessee state,SEC,Ohio Valley
+2021,Chibueze Nwanna, OT ,0.8648,arkansas,null,SEC,NULL
+2021,Jayme Simmons, OT ,0.8647,alabama birmingham,null,Conference USA,NULL
+2021,Cesar Moreno, OG ,0.8600,coastal carolina,null,Sun Belt,NULL
+2021,Will Farrar, OT ,0.8600,texas tech,null,Big 12,NULL
+2021,Willie Allen, OT ,0.8582,louisiana tech,michigan,Conference USA,Big Ten
+2021,Will Farniok, OC ,0.8581,nebraska,tulsa,Big Ten,American Athletic
+2021,Cooper Dawson, OT ,0.8573,syracuse,charleston southern,ACC,Big South
+2021,Jay Williams, OT ,0.8561,florida state,famu,ACC,MEAC
+2021,Kobe McAllister, OT ,0.8551,cincinnati,null,American Athletic,NULL
+2021,Andrew Boselli, OC ,0.8545,florida state,florida atlantic,ACC,Conference USA
+2021,Jean Marcellus, OG ,0.8534,south florida,null,American Athletic,NULL
+2021,Jake Burton, OT ,0.8503,ucla,baylor,Pacific-12,Big 12
+2021,Cameron Stage, OG ,0.8499,bowling green,western kentucky,Mid-American,Conference USA
+2021,Poutasi Poutasi, OG ,0.8478,california,null,Pacific-12,NULL
+2021,Jamari Williams, OG ,0.8472,arizona,middle tennessee state,Pacific-12,Conference USA
+2021,Kellton Hollins, OC ,0.8453,tcu,null,Big 12,NULL
+2021,Zach Hummel, OT ,0.8444,cincinnati,null,American Athletic,NULL
+2021,Malik Jones, OG ,0.8418,florida atlantic,null,Conference USA,NULL
+2021,Lamarius Benson, OG ,0.8413,central florida,null,American Athletic,NULL
+2021,Jacob Nunez, OG ,0.8410,arizona state,null,Pacific-12,NULL
+2021,James Jackson, OC ,0.8405,mississippi state,south alabama,SEC,Sun Belt
+2021,Tyran Hunt, OT ,0.8399,maryland,old dominion,Big Ten,Conference USA
+2021,Britt Beery, OG ,0.8379,indiana,null,Big Ten,NULL
+2021,Zovon Lindsay, OT ,0.8376,north carolina state,coastal carolina,ACC,Sun Belt
+2021,Tilini Livai, OG ,0.8370,fresno state,null,Mountain West,NULL
+2021,Willie Tyler, OG ,0.8367,texas,syracuse,Big 12,ACC
+2021,Nigel Brannon, OT ,0.8364,memphis,null,American Athletic,NULL
+2021,Hunter Mayginnes, OG ,0.8356,washington state,null,Pacific-12,NULL
+2021,Michael Cartwright, OT ,0.8323,nccu,null,MEAC,NULL
+2021,Titus Jones, OG ,0.8322,memphis,nicholls state,American Athletic,Southland
+2021,Jack Franklin, OG ,0.8314,coastal carolina,null,Sun Belt,NULL
+2021,Davis DiVall, OG ,0.8285,baylor,arizona,Big 12,Pacific-12
+2021,Dylan Spencer, OT ,0.8265,missouri,jackson state,SEC,SWAC
+2021,Harrison Jump, OT ,0.8256,georgia tech,null,ACC,NULL
+2021,Samuel Poutasi, OG ,0.8224,oregon,null,Pacific-12,NULL
+2021,Griffin Sestili, OG ,0.8206,temple,null,American Athletic,NULL
+2021,Keydrell Lewis, OT ,0.8200,san jose state,null,Mountain West,NULL
+2021,Maljon Joor, OT ,0.8183,florida international,jackson state,Conference USA,SWAC
+2021,Jalan Robinson, OT ,0.8165,kansas,null,Big 12,NULL
+2021,Mike McNicholas, OG ,0.8154,kent state,null,Mid-American,NULL
+2021,Antione Frazier, OT ,0.8143,kansas,northern iowa,Big 12,Missouri Valley
+2021,Obinna Nwankwo, OG ,0.8127,florida international,null,Conference USA,NULL
+2021,Rob Vanderlaan, OT ,0.8117,oregon state,east carolina,Pacific-12,American Athletic
+2021,Jackson Gregory, OG ,0.8104,louisville,null,ACC,NULL
+2021,Camden Chustz, OT ,0.8100,new mexico state,null,FBS Independents,NULL
+2021,Alexander Wyant, OT ,0.8100,uconn,null,FBS Independents,NULL
+2021,TJ Jackson, OT ,0.8099,virginia tech,ohio,ACC,Mid-American
+2021,Tyler Witt, OG ,0.8092,western kentucky,purdue,Conference USA,Big Ten
+2021,Anterrious Gray, OG ,0.8059,north texas,null,Conference USA,NULL
+2021,Zack Early, OT ,0.8009,uconn,null,FBS Independents,NULL
+2021,Maisen Knight, OT ,0.8000,liberty,utah state,FBS Independents,Mountain West
+2021,Julian Sams, OG ,0.7998,kent state,null,Mid-American,NULL
+2021,Jakari Robinson, OC ,0.7965,cincinnati,memphis,American Athletic,American Athletic
+2021,Kam Burns, OG ,0.7953,florida international,null,Conference USA,NULL
+2021,Blake Walker, OT ,0.7944,new mexico state,null,FBS Independents,NULL
+2021,Antawn Lewis, OT ,0.7905,louisiana tech,south alabama,Conference USA,Sun Belt
+2021,Parker Ogle, OC ,0.7903,massachusetts,null,FBS Independents,NULL
+2021,Ernest Moore, OT ,0.7900,hawaii,null,Mountain West,NULL
+2021,Nathaniel Emer, OT ,0.7857,boston college,null,ACC,NULL
+2021,Logan Swartz, OT ,0.7842,kent state,null,Mid-American,NULL
+2021,Kaimana Wa'a, OG ,0.7831,hawaii,texas state,Mountain West,Sun Belt
+2021,Garrett Beckman, OG ,0.7831,unlv,null,Mountain West,NULL
+2021,James Tunstall, OT ,0.7823,stony brook,cincinnati,CAA,American Athletic
+2021,Jonathan Timmons, OG ,0.7800,charlotte,null,Conference USA,NULL
+2021,Joe Maxwell, OT ,0.7798,bowling green,null,Mid-American,NULL
+2021,Yontez Jarrell, OT ,0.7781,charlotte,null,Conference USA,NULL
+2021,Reece Jordan, OC ,0.7767,texas state,null,Sun Belt,NULL
+2021,Romello Tarver, OT ,0.7742,central michigan,null,Mid-American,NULL
+2021,Andrew Lawson, OG ,0.7731,old dominion,null,Conference USA,NULL
+2021,Brian Parish, OT ,0.7709,north texas,massachusetts,Conference USA,FBS Independents
+2021,Jon Denny, OG ,0.7697,washington state,idaho,Pacific-12,Big Sky
+2021,Brian Abosi, OT ,0.7683,massachusetts,stony brook,FBS Independents,CAA
+2021,Jahaziel Lee, OT ,0.7676,georgia tech,null,ACC,NULL
+2021,Joe Ware, OT ,0.7667,bowling green,null,Mid-American,NULL
+2021,Sean Fitzgerald, OG ,0.7667,coastal carolina,missouri state,Sun Belt,Missouri Valley
+2021,Clive Truschel, OC ,0.7630,fresno state,semo,Mountain West,Ohio Valley
+2021,Charles Fletcher, OG ,0.7397,north carolina state,texas state,ACC,Sun Belt
+2021,Jarious Abercrombie, OT ,NULL,tennessee,illinois state,SEC,Missouri Valley
+2021,Liam Dobson, OG ,NULL,maine,texas state,CAA,Sun Belt
+2021,Jaison Fournet, OC ,NULL,east carolina,null,American Athletic,NULL
+2021,Colin Grunhard, OC ,NULL,notre dame,kansas,FBS Independents,Big 12
+2021,Trumayne Guy, OT ,NULL,howard,null,MEAC,NULL
+2021,Dontae Keys, OG ,NULL,ncat,florida international,MEAC,Conference USA
+2021,Kenneth Kirby, OT ,NULL,norfolk state,georgia tech,MEAC,ACC
+2021,Api Mane, OG ,NULL,kansas,florida international,Big 12,Conference USA
+2021,Kyle Ohlen, OG ,NULL,texas am,null,SEC,NULL
+2021,Kade Parmelly, OG ,NULL,duke,null,ACC,NULL
+2021,Liam Ryan, OG ,NULL,north carolina state,null,ACC,NULL
+2021,Ryan Silvious, OG ,NULL,temple,null,American Athletic,NULL
+2021,Thomas Spann, OC ,NULL,texas am,null,SEC,NULL
+2021,Chandler Zavala, OG ,NULL,north carolina state,null,ACC,NULL
+2021,Siaki Ika, DT ,0.9400,lsu,baylor,SEC,Big 12
+2021,Keion White, WDE ,0.7681,old dominion,georgia tech,Conference USA,ACC
+2021,Antonio Shelton, DT ,0.8284,penn state,florida,Big Ten,SEC
+2021,Jordan Williams, DT ,0.9299,clemson,virginia tech,ACC,ACC
+2021,Randy Charlton, SDE ,0.8641,central florida,mississippi state,American Athletic,SEC
+2021,Ishmael Sopsher, DT ,0.9757,alabama,usc,SEC,Pacific-12
+2021,Big Kat Bryant, WDE ,0.9238,central florida,central florida,American Athletic,American Athletic
+2021,Derrick Tangelo, DT ,0.8310,duke,penn state,ACC,Big Ten
+2021,Arnold Ebiketie, SDE ,0.8025,temple,penn state,American Athletic,Big Ten
+2021,Nyles Pinckney, DT ,0.8920,clemson,minnesota,ACC,Big Ten
+2021,Shane Simmons, SDE ,0.9784,penn state,null,Big Ten,NULL
+2021,Travez Moore, WDE ,0.9074,lsu,arizona state,SEC,Pacific-12
+2021,Andrew Leota, WDE ,0.8689,northwestern,auburn,Big Ten,SEC
+2021,Kenny Turnier, WDE ,0.8517,central florida,tcu,American Athletic,Big 12
+2021,Luiji Vilain, WDE ,0.9734,michigan,wake forest,Big Ten,ACC
+2021,Jowon Briggs, DT ,0.9667,virginia,cincinnati,ACC,American Athletic
+2021,Joseph Anderson, SDE ,0.9412,south carolina,purdue,SEC,Big Ten
+2021,Jeremiah Martin, WDE ,0.9083,texas am,washington,SEC,Pacific-12
+2021,Jason Harris, WDE ,0.9008,colorado,arizona,Pacific-12,Pacific-12
+2021,Daquan Newkirk, DT ,0.8959,auburn,florida,SEC,SEC
+2021,Drew Jordan, WDE ,0.8925,duke,michigan state,ACC,Big Ten
+2021,Cory Durden, DT ,0.8864,florida state,north carolina state,ACC,ACC
+2021,Keir Thomas, DT ,0.8818,south carolina,florida state,SEC,ACC
+2021,Latrell Bankston, DT ,0.8789,iowa state,houston,Big 12,American Athletic
+2021,Marqez Bimage, WDE ,0.8680,texas,null,Big 12,NULL
+2021,Tre Williams, WDE ,0.8670,missouri,houston,SEC,American Athletic
+2021,Lamonte McDougle, DT ,0.8468,washington state,null,Pacific-12,NULL
+2021,Nick McCann, DT ,0.8447,texas tech,texas state,Big 12,Sun Belt
+2021,Ryder Anderson, WDE ,0.8331,ole miss,indiana,SEC,Big Ten
+2021,Ifeanyi Maijeh, DT ,0.7790,temple,rutgers,American Athletic,Big Ten
+2021,Timmy Horne, DT ,0.7731,charlotte,kansas state,Conference USA,Big 12
+2021,Jeremy Meiser, DT ,0.7608,old dominion,northwestern,Conference USA,Big Ten
+2021,Netori Johnson, DT ,0.9588,georgia,middle tennessee state,SEC,Conference USA
+2021,Jahkeem Green, DT ,0.8900,nebraska,south carolina,Big Ten,SEC
+2021,Xach Gill, DT ,0.8802,north carolina,temple,ACC,American Athletic
+2021,Jamarcus Chatman, DT ,0.8784,florida state,troy,ACC,Sun Belt
+2021,Justice Dingle, SDE ,0.8770,georgia tech,kentucky,ACC,SEC
+2021,Ja'Mion Franklin, DT ,0.8742,notre dame,duke,FBS Independents,ACC
+2021,Justin Thomas, SDE ,0.8681,lsu,alabama birmingham,SEC,Conference USA
+2021,Makius Scott, SDE ,0.8639,south carolina,georgia tech,SEC,ACC
+2021,Val Martin, DT ,0.8475,north carolina state,minnesota,ACC,Big Ten
+2021,Jake Byczko, WDE ,0.7783,massachusetts,boston college,FBS Independents,ACC
+2021,Antonio Alfano, SDE ,0.9965,colorado,null,Pacific-12,NULL
+2021,Coynis Miller, DT ,0.9475,auburn,jackson state,SEC,SWAC
+2021,Brandon Bowen, SDE ,0.9311,tcu,null,Big 12,NULL
+2021,Joshua Pakola, WDE ,0.9214,stanford,stanford,Pacific-12,Pacific-12
+2021,Deron Irving-Bey, SDE ,0.9072,central michigan,null,Mid-American,NULL
+2021,Connor Murphy, SDE ,0.9063,usc,unlv,Pacific-12,Mountain West
+2021,Myron Warren, SDE ,0.9025,texas,texas,Big 12,Big 12
+2021,James Sylvester, WDE ,0.8975,baylor,null,Big 12,NULL
+2021,Curtis Fann, WDE ,0.8963,florida state,null,ACC,NULL
+2021,Emmit Gooden, DT ,0.8933,tennessee,null,SEC,NULL
+2021,Savion Williams, SDE ,0.8913,tennessee,famu,SEC,MEAC
+2021,Judge Culpepper, DT ,0.8871,penn state,toledo,Big Ten,Mid-American
+2021,Shamar McCollum, WDE ,0.8847,wake forest,georgia state,ACC,Sun Belt
+2021,Jaquan Henderson, WDE ,0.8813,georgia tech,null,ACC,NULL
+2021,Isaac Townsend, WDE ,0.8809,oregon,wisconsin,Pacific-12,Big Ten
+2021,Matthew Pola-Mao, DT ,0.8784,kansas state,null,Big 12,NULL
+2021,Nelson Jenkins, DT ,0.8773,lsu,null,SEC,NULL
+2021,Daniel Carson, DT ,0.8763,texas,western illinois,Big 12,Missouri Valley
+2021,Michael Allen, WDE ,0.8736,wake forest,null,ACC,NULL
+2021,Brandon Taylor, SDE ,0.8721,penn state,null,Big Ten,NULL
+2021,Jordan Woods, SDE ,0.8702,florida international,null,Conference USA,NULL
+2021,Owen Carney, WDE ,0.8695,illinois,illinois,Big Ten,Big Ten
+2021,Bralen Taylor, WDE ,0.8689,baylor,baylor,Big 12,Big 12
+2021,Damarjhe Lewis, DT ,0.8668,indiana,null,Big Ten,NULL
+2021,Montra Edwards, DT ,0.8667,missouri,southern mississippi,SEC,Conference USA
+2021,Mohamed Diallo, DT ,0.8665,central michigan,null,Mid-American,NULL
+2021,T.K. McLendon, WDE ,0.8656,lsu,eastern kentucky,SEC,Ohio Valley
+2021,D'Vion Harris, WDE ,0.8622,minnesota,old dominion,Big Ten,Conference USA
+2021,Willie Smith, SDE ,0.8616,houston,null,American Athletic,NULL
+2021,Jamari Stewart, WDE ,0.8615,mississippi state,south florida,SEC,American Athletic
+2021,John Mincey, SDE ,0.8614,tennessee,arkansas state,SEC,Sun Belt
+2021,Jason Munoz, SDE ,0.8614,syracuse,null,ACC,NULL
+2021,Tre Lawson, SDE ,0.8594,mississippi state,null,SEC,NULL
+2021,Quay Mays, DT ,0.8589,west virginia,arkansas state,Big 12,Sun Belt
+2021,Zacchaeus McKinney, DT ,0.8574,oklahoma,hawaii,Big 12,Mountain West
+2021,Jeramy Passmore, SDE ,0.8572,indiana,null,Big Ten,NULL
+2021,Mufi Hunt, WDE ,0.8559,utah,null,Pacific-12,NULL
+2021,Bryce English, DT ,0.8555,north texas,null,Conference USA,NULL
+2021,Chris Daniels, DT ,0.8549,missouri,null,SEC,NULL
+2021,Joseph Honeysucker, WDE ,0.8540,memphis,null,American Athletic,NULL
+2021,Alvin Dempsey, DT ,0.8531,florida atlantic,florida atlantic,Conference USA,Conference USA
+2021,Jerquavion Mahone, DT ,0.8530,kentucky,null,SEC,NULL
+2021,Jalen Mayala, WDE ,0.8530,indiana,alabama birmingham,Big Ten,Conference USA
+2021,Julius Coates, SDE ,0.8528,arkansas,null,SEC,NULL
+2021,Trevis Hopper, DT ,0.8527,memphis,null,American Athletic,NULL
+2021,Chico Bennett Jr., WDE ,0.8519,georgia tech,null,ACC,NULL
+2021,Ali Saad, DT ,0.8498,minnesota,null,Big Ten,NULL
+2021,Zion DeBose, WDE ,0.8496,virginia tech,null,ACC,NULL
+2021,Bryce Morais, SDE ,0.8493,boston college,null,ACC,NULL
+2021,Khris Banks, DT ,0.8485,temple,boston college,American Athletic,ACC
+2021,Lancine Turay, SDE ,0.8485,north carolina,temple,ACC,American Athletic
+2021,Steven Hawthorne, WDE ,0.8484,cincinnati,null,American Athletic,NULL
+2021,Elorm Lumor, WDE ,0.8478,rutgers,null,Big Ten,NULL
+2021,Nick Booker-Brown, DT ,0.8477,north carolina state,null,ACC,NULL
+2021,Andrew Faoliu, WDE ,0.8466,oregon,boise state,Pacific-12,Mountain West
+2021,Matthew Thomas, SDE ,0.8464,rutgers,rhode island,Big Ten,CAA
+2021,Devin Baldwin, SDE ,0.8463,rutgers,massachusetts,Big Ten,FBS Independents
+2021,Josh Rogers, DT ,0.8461,texas am,null,SEC,NULL
+2021,Dylan Hall, WDE ,0.8452,boise state,null,Mountain West,NULL
+2021,Everitt Cunningham, WDE ,0.8440,memphis,southern mississippi,American Athletic,Conference USA
+2021,Amadou Fofana, DT ,0.8439,oklahoma state,null,Big 12,NULL
+2021,Dylan Meeks, WDE ,0.8437,akron,null,Mid-American,NULL
+2021,Brandon Brown, DT ,0.8432,tulane,utsa,American Athletic,Conference USA
+2021,Devon Robinson, DT ,0.8431,mississippi state,memphis,SEC,American Athletic
+2021,Kofi Wardlow, WDE ,0.8427,notre dame,charlotte,FBS Independents,Conference USA
+2021,Kevin Lemieux, SDE ,0.8424,syracuse,null,ACC,NULL
+2021,Clinton Anokwuru, SDE ,0.8423,kansas,louisiana,Big 12,Sun Belt
+2021,Gabriel Cherry, SDE ,0.8421,california,california,Pacific-12,Pacific-12
+2021,Ronald Triplette, WDE ,0.8410,kansas state,utsa,Big 12,Conference USA
+2021,Malcolm Robinson, DT ,0.8406,minnesota,null,Big Ten,NULL
+2021,Casey Irons, SDE ,0.8389,colorado state,null,Mountain West,NULL
+2021,Eston Miles, DT ,0.8389,western michigan,null,Mid-American,NULL
+2021,Christopher Whittaker, WDE ,0.8385,florida international,nevada,Conference USA,Mountain West
+2021,Will Rodgers III, WDE ,0.8377,washington state,temple,Pacific-12,American Athletic
+2021,Jorell Baum, WDE ,0.8376,old dominion,null,Conference USA,NULL
+2021,Derrick Ray Jr., WDE ,0.8375,texas state,null,Sun Belt,NULL
+2021,Jamal Holloway, WDE ,0.8372,unlv,null,Mountain West,NULL
+2021,Darius McFarland, SDE ,0.8366,byu,null,FBS Independents,NULL
+2021,Pita Tonga, DT ,0.8362,utah,hawaii,Pacific-12,Mountain West
+2021,Kelton Dawson, SDE ,0.8359,georgia tech,null,ACC,NULL
+2021,Adrian Spellman, WDE ,0.8336,old dominion,null,Conference USA,NULL
+2021,Emmanuel Johnson, SDE ,0.8336,georgia tech,coastal carolina,ACC,Sun Belt
+2021,Kam'ron Green, SDE ,0.8336,central florida,null,American Athletic,NULL
+2021,Jaohne Duggan, DT ,0.8332,rutgers,duquesne,Big Ten,Northeast
+2021,Kylan Wilborn, WDE ,0.8321,arizona,unlv,Pacific-12,Mountain West
+2021,Javasia Brunson, SDE ,0.8305,nevada,null,Mountain West,NULL
+2021,Roland Walder, WDE ,0.8299,bowling green,null,Mid-American,NULL
+2021,Keishon Dawkins, SDE ,0.8282,oregon state,null,Pacific-12,NULL
+2021,Tyrese Black, DT ,0.8269,central florida,null,American Athletic,NULL
+2021,Rob Cummins, SDE ,0.8260,texas,null,Big 12,NULL
+2021,Stephone Atkinson, WDE ,0.8254,western kentucky,null,Conference USA,NULL
+2021,Leevel Tatum, DT ,0.8254,fresno state,null,Mountain West,NULL
+2021,Kyiev Bennermon, DT ,0.8235,boston college,ncat,ACC,MEAC
+2021,Joshua Bailey, DT ,0.8234,iowa state,charlotte,Big 12,Conference USA
+2021,Hozey Haji-Badri, DT ,0.8228,east carolina,western michigan,American Athletic,Mid-American
+2021,Mike Ciaffoni, DT ,0.8222,boston college,colorado state,ACC,Mountain West
+2021,Gaige Hill, DT ,0.8220,toledo,null,Mid-American,NULL
+2021,Ethan Rinke, WDE ,0.8198,tennessee,south alabama,SEC,Sun Belt
+2021,Colby Warkentin, WDE ,0.8192,fresno state,null,Mountain West,NULL
+2021,Antwan Owens, SDE ,0.8192,georgia tech,null,ACC,NULL
+2021,John Kirven, WDE ,0.8183,virginia,null,ACC,NULL
+2021,Elijah Campbell, DT ,0.8154,georgia southern,null,Sun Belt,NULL
+2021,Ricky Barber, SDE ,0.8154,western kentucky,central florida,Conference USA,American Athletic
+2021,Nathan White, WDE ,0.8154,florida international,null,Conference USA,NULL
+2021,Tramar Reece, WDE ,0.8149,indiana,null,Big Ten,NULL
+2021,Caleb Thomas, DT ,0.8147,uconn,null,FBS Independents,NULL
+2021,Chris Green, DT ,0.8146,nevada,null,Mountain West,NULL
+2021,Marques Alexander, WDE ,0.8134,uconn,null,FBS Independents,NULL
+2021,Isaiah Bean, WDE ,0.8125,kansas,null,Big 12,NULL
+2021,Marcus Coleman, DT ,0.8125,ohio,null,Mid-American,NULL
+2021,Davon Wright, DT ,0.8115,tulane,null,American Athletic,NULL
+2021,Solvauhn Moreland, DT ,0.8114,ball state,null,Mid-American,NULL
+2021,B'Ahmad Miller, SDE ,0.8113,maryland,null,Big Ten,NULL
+2021,Stiles Moore, WDE ,0.8107,western michigan,null,Mid-American,NULL
+2021,Noah Hickcox, DT ,0.8106,minnesota,illinois state,Big Ten,Missouri Valley
+2021,Armon Williams, DT ,0.8104,south florida,null,American Athletic,NULL
+2021,Malik Scurlock, WDE ,0.8098,air force,null,Mountain West,NULL
+2021,Prince Okituama, SDE ,0.8083,kent state,null,Mid-American,NULL
+2021,Shannon Carswell, SDE ,0.8064,southern mississippi,null,Conference USA,NULL
+2021,Jakharious Smith, WDE ,0.8056,texas state,null,Sun Belt,NULL
+2021,David Reynolds, WDE ,0.8053,florida international,florida international,Conference USA,Conference USA
+2021,Michael Lewis, WDE ,0.8004,liberty,etsu,FBS Independents,Southern
+2021,Myles Vigne, DT ,0.8002,new mexico state,nicholls state,FBS Independents,Southland
+2021,Beaux Tagaloa, DT ,0.7998,san jose state,null,Mountain West,NULL
+2021,Mason Cholewa, DT ,0.7996,central florida,james madison,American Athletic,CAA
+2021,Tahji Gilbert, DT ,0.7983,georgia state,null,Sun Belt,NULL
+2021,Caden Hilborn, DT ,0.7982,hawaii,null,Mountain West,NULL
+2021,Matt Lorbeck, WDE ,0.7979,iowa,null,Big Ten,NULL
+2021,Dennis Jackson, DT ,0.7975,eastern michigan,null,Mid-American,NULL
+2021,Livingston Paogofie, DT ,0.7961,colorado state,null,Mountain West,NULL
+2021,Jordan Avissey, SDE ,0.7942,buffalo,null,Mid-American,NULL
+2021,Caleb Wright, WDE ,0.7903,northern illinois,null,Mid-American,NULL
+2021,Dakari Bickham, SDE ,0.7900,utep,null,Conference USA,NULL
+2021,Marcus Romboli, SDE ,0.7898,central michigan,null,Mid-American,NULL
+2021,Dylan Boles, SDE ,0.7889,stanford,northern iowa,Pacific-12,Missouri Valley
+2021,Joe Dillon, WDE ,0.7855,louisiana,null,Sun Belt,NULL
+2021,Garrett Crawford, WDE ,0.7853,southern mississippi,southeastern louisiana,Conference USA,Southland
+2021,Quentin Jones, DT ,0.7831,kent state,null,Mid-American,NULL
+2021,Xander Yarberough, WDE ,0.7823,new mexico state,south florida,FBS Independents,American Athletic
+2021,Damon Weldon, SDE ,0.7800,charlotte,null,Conference USA,NULL
+2021,Dylan Perez, DT ,0.7797,army,null,FBS Independents,NULL
+2021,Logan Arnold, SDE ,0.7741,nevada,null,Mountain West,NULL
+2021,Frendy Darelus, WDE ,0.7709,buffalo,null,Mid-American,NULL
+2021,Emmanuel Jones, WDE ,0.7709,colorado state,colorado state,Mountain West,Mountain West
+2021,Davon Bomar, WDE ,0.7697,coastal carolina,null,Sun Belt,NULL
+2021,Jalen Graves, SDE ,0.7642,unlv,null,Mountain West,NULL
+2021,Weston Kramer, DT ,0.7608,northern illinois,null,Mid-American,NULL
+2021,Juwan Ross, DT ,0.7581,old dominion,etsu,Conference USA,Southern
+2021,Cameron Washington, DT ,0.7575,old dominion,null,Conference USA,NULL
+2021,Zaid Hamdan, DT ,0.7097,ohio state,null,Big Ten,NULL
+2021,T.J. Arnold, WDE ,NULL,georgia state,null,Sun Belt,NULL
+2021,Adeeb Atariwa, DT ,NULL,james madison,null,CAA,NULL
+2021,Benedict Brafi, DT ,NULL,tcu,null,Big 12,NULL
+2021,Tagg Bullock, WDE ,NULL,east carolina,ncat,American Athletic,MEAC
+2021,Asher Frow, WDE ,NULL,north texas,null,Conference USA,NULL
+2021,Seun Oluwatimi, DT ,NULL,maryland,null,Big Ten,NULL
+2021,Elmer Pauni, WDE ,NULL,new mexico,null,Mountain West,NULL
+2021,Curtis Ryans, SDE ,NULL,georgia tech,null,ACC,NULL
+2021,George Silvanic, DT ,NULL,air force,null,Mountain West,NULL
+2021,Henry To'o To'o, ILB ,0.9779,tennessee,null,SEC,NULL
+2021,Mike Jones Jr., OLB ,0.9186,clemson,lsu,ACC,SEC
+2021,Palaie Gaoteote IV, ILB ,0.9926,usc,null,Pacific-12,NULL
+2021,Jordan Strachan, OLB ,0.7742,georgia state,south carolina,Sun Belt,SEC
+2021,Lance Dixon, OLB ,0.9276,penn state,west virginia,Big Ten,Big 12
+2021,Chance Campbell, ILB ,0.8368,maryland,ole miss,Big Ten,SEC
+2021,Jermaine Johnson, OLB ,0.9303,georgia,florida state,SEC,ACC
+2021,Ayinde Eley, ILB ,0.8810,maryland,georgia tech,Big Ten,ACC
+2021,Treshaun Hayward, ILB ,0.8120,western michigan,arizona,Mid-American,Pacific-12
+2021,Quavaris Crouch, ILB ,0.9699,tennessee,null,SEC,NULL
+2021,Deandre Johnson, OLB ,0.8519,tennessee,miami,SEC,ACC
+2021,Jack Gibbens, ILB ,NULL,minnesota,null,Big Ten,NULL
+2021,Jack Lamb, ILB ,0.9547,notre dame,colorado,FBS Independents,Pacific-12
+2021,Ayodele Adeoye, ILB ,0.9475,texas,null,Big 12,NULL
+2021,Kevin Harris, OLB ,0.9463,alabama,georgia tech,SEC,ACC
+2021,Ray Thornton, OLB ,0.9206,lsu,texas,SEC,Big 12
+2021,Blaze Alldredge, ILB ,0.8300,rice,missouri,Conference USA,SEC
+2021,Reynard Ellis, ILB ,NULL,georgia southern,null,Sun Belt,NULL
+2021,Jordan Anthony, ILB ,0.9510,michigan,null,Big Ten,NULL
+2021,Ale Kaho, ILB ,0.9448,alabama,ucla,SEC,Pacific-12
+2021,Luke Fulton, ILB ,0.8863,michigan state,kentucky,Big Ten,SEC
+2021,Ben Wilson, ILB ,0.8748,tcu,washington state,Big 12,Pacific-12
+2021,Jesiah Pierre, OLB ,0.8676,florida,texas tech,SEC,Big 12
+2021,Octavius Brothers, OLB ,0.8634,auburn,purdue,SEC,Big Ten
+2021,Calvin Hart, OLB ,0.8378,north carolina state,illinois,ACC,Big Ten
+2021,Chris Kolarevic, ILB ,NULL,northern iowa,nebraska,Missouri Valley,Big Ten
+2021,Ben Davis, OLB ,0.9955,alabama,null,SEC,NULL
+2021,Isaiah Graham-Mobley, ILB ,0.8082,temple,boston college,American Athletic,ACC
+2021,Debo Williams, ILB ,0.8064,delaware,south carolina,CAA,SEC
+2021,Rashie Hodge, ILB ,0.7855,new mexico state,null,FBS Independents,NULL
+2021,J.J. Peterson, OLB ,0.9761,tennessee,null,SEC,NULL
+2021,Keyshawn Greene, OLB ,0.9384,nebraska,florida atlantic,Big Ten,Conference USA
+2021,Jaquan Yulee, ILB ,0.9285,marshall,null,Conference USA,NULL
+2021,Leonard Warner, ILB ,0.9264,florida state,florida state,ACC,ACC
+2021,Sione Lund, ILB ,0.9229,utah,null,Pacific-12,NULL
+2021,Abdul-Malik McClain, OLB ,0.9152,usc,jackson state,Pacific-12,SWAC
+2021,David Adams, ILB ,0.9125,notre dame,null,FBS Independents,NULL
+2021,Trenell Troutman, OLB ,0.9041,louisville,null,ACC,NULL
+2021,Ryan Jones, ILB ,0.9007,oklahoma,east carolina,Big 12,American Athletic
+2021,Osman Savage, OLB ,0.8992,michigan,null,Big Ten,NULL
+2021,Itayvion Brown, OLB ,0.8976,minnesota,michigan state,Big Ten,Big Ten
+2021,Korey Smith, ILB ,0.8837,boston college,null,ACC,NULL
+2021,Byron Vaughns, OLB ,0.8830,texas,utah state,Big 12,Mountain West
+2021,Cortez Andrews, OLB ,0.8817,maryland,null,Big Ten,NULL
+2021,William Mohan, OLB ,0.8816,michigan,null,Big Ten,NULL
+2021,Charles Thomas, ILB ,0.8810,michigan,null,Big Ten,NULL
+2021,MJ Cunningham, ILB ,0.8767,oregon,null,Pacific-12,NULL
+2021,Brandon Hill, OLB ,0.8767,duke,null,ACC,NULL
+2021,Ovie Oghoufo, OLB ,0.8755,notre dame,texas,FBS Independents,Big 12
+2021,Matthew Flint, ILB ,0.8742,north carolina,western kentucky,ACC,Conference USA
+2021,Andrew Johnson, OLB ,0.8742,oregon,georgia southern,Pacific-12,Sun Belt
+2021,Ben VanSumeren, ILB ,0.8709,michigan,michigan state,Big Ten,Big Ten
+2021,Kivon Bennett, OLB ,0.8702,tennessee,null,SEC,NULL
+2021,P.J. Blue, OLB ,0.8696,louisville,null,ACC,NULL
+2021,Patrick Joyner, ILB ,0.8676,miami,utah state,ACC,Mountain West
+2021,Kevon Glenn, ILB ,0.8655,florida state,troy,ACC,Sun Belt
+2021,Thurman Geathers, OLB ,0.8654,louisville,arkansas state,ACC,Sun Belt
+2021,Jon-Michael Terry, OLB ,0.8641,oklahoma,tulsa,Big 12,American Athletic
+2021,Sci Martin, OLB ,0.8639,missouri,null,SEC,NULL
+2021,Colin Schooler, ILB ,0.8631,arizona,texas tech,Pacific-12,Big 12
+2021,Aubrey Miller, ILB ,0.8630,missouri,jackson state,SEC,SWAC
+2021,Isaac Garcia, OLB ,0.8621,oregon state,fresno state,Pacific-12,Mountain West
+2021,Jeremiah Harris, ILB ,0.8614,kansas state,null,Big 12,NULL
+2021,Jeslord Boateng, OLB ,0.8606,michigan state,akron,Big Ten,Mid-American
+2021,Niko Cooper, OLB ,0.8594,nebraska,western kentucky,Big Ten,Conference USA
+2021,James Houston, OLB ,0.8590,florida,null,SEC,NULL
+2021,Tim Hart, OLB ,0.8578,memphis,sam houston state,American Athletic,Southland
+2021,Dimitri Moore, ILB ,0.8577,vanderbilt,null,SEC,NULL
+2021,Marcel Lewis, OLB ,0.8572,michigan state,central michigan,Big Ten,Mid-American
+2021,Alexy Jean-Baptiste, OLB ,0.8564,florida international,florida international,Conference USA,Conference USA
+2021,Matthew Tago, OLB ,0.8550,oregon state,san jose state,Pacific-12,Mountain West
+2021,Zach Morton, OLB ,0.8545,syracuse,null,ACC,NULL
+2021,Jayden Russell, OLB ,0.8531,miami ohio,null,Mid-American,NULL
+2021,Solomon Turner, OLB ,0.8513,baylor,hawaii,Big 12,Mountain West
+2021,Colin Anderson, ILB ,0.8504,vanderbilt,null,SEC,NULL
+2021,Maureese Wren, OLB ,0.8489,texas state,null,Sun Belt,NULL
+2021,Deon Edwards, OLB ,0.8488,arkansas,null,SEC,NULL
+2021,Josh Marsh, OLB ,0.8456,auburn,null,SEC,NULL
+2021,Eric Mitchell, ILB ,0.8444,central florida,null,American Athletic,NULL
+2021,Dorian Holloway, OLB ,0.8440,cincinnati,null,American Athletic,NULL
+2021,Xavier Benson, OLB ,0.8439,texas tech,null,Big 12,NULL
+2021,DeMarrquese Hayes, OLB ,0.8431,kansas state,texas state,Big 12,Sun Belt
+2021,Devin Gil, OLB ,0.8428,south florida,null,American Athletic,NULL
+2021,Cosmas Kwete, OLB ,0.8418,washington state,northern arizona,Pacific-12,Big Sky
+2021,Charlie Benton, OLB ,0.8407,west virginia,alabama birmingham,Big 12,Conference USA
+2021,Jeffrey Blake, OLB ,0.8405,san diego state,new mexico,Mountain West,Mountain West
+2021,Cornelius Evans, OLB ,0.8389,georgia tech,null,ACC,NULL
+2021,Leni Toailoa, OLB ,0.8381,ucla,null,Pacific-12,NULL
+2021,Griffin Lampton, OLB ,0.8376,vanderbilt,null,SEC,NULL
+2021,Graham Faloona, ILB ,0.8356,utah,null,Pacific-12,NULL
+2021,Kyle Bailey, ILB ,0.8355,western kentucky,null,Conference USA,NULL
+2021,Kaelin Himphill, ILB ,0.8333,san diego state,null,Mountain West,NULL
+2021,Roy Yancey, OLB ,0.8317,south alabama,null,Sun Belt,NULL
+2021,Terrance Edgeston, OLB ,0.8312,houston,null,American Athletic,NULL
+2021,Tyson Maeva, OLB ,0.8309,florida international,fresno state,Conference USA,Mountain West
+2021,Devin Richardson, OLB ,0.8276,new mexico state,null,FBS Independents,NULL
+2021,Yahweh Jeudy, OLB ,0.8276,iowa,null,Big Ten,NULL
+2021,Akil Jones, ILB ,0.8272,colorado,null,Pacific-12,NULL
+2021,Justin Rice, ILB ,0.8259,fresno state,arkansas state,Mountain West,Sun Belt
+2021,Justin Rice, ILB ,0.8259,arkansas state,utah state,Sun Belt,Mountain West
+2021,Elijah Juarez, OLB ,0.8254,arizona state,null,Pacific-12,NULL
+2021,Alex Angus, ILB ,0.8248,east carolina,null,American Athletic,NULL
+2021,Paul Scott, ILB ,0.8238,hawaii,null,Mountain West,NULL
+2021,Jack del Rio, OLB ,0.8227,rutgers,null,Big Ten,NULL
+2021,Chance Cover, ILB ,0.8215,texas tech,null,Big 12,NULL
+2021,Tae'Aviion Gray, OLB ,0.8213,south florida,null,American Athletic,NULL
+2021,Mario Wright, ILB ,0.8204,western kentucky,null,Conference USA,NULL
+2021,Mahmud Dioubate, OLB ,0.8200,temple,null,American Athletic,NULL
+2021,Chinedu Ogbonna, ILB ,0.8199,massachusetts,null,FBS Independents,NULL
+2021,Zach Bowers, ILB ,0.8154,hawaii,null,Mountain West,NULL
+2021,Richie Hagarty, OLB ,0.8152,miami ohio,southern illinois,Mid-American,Missouri Valley
+2021,Racheem Booth, ILB ,0.8132,southern mississippi,southern mississippi,Conference USA,Conference USA
+2021,John Brannon, ILB ,0.8123,texas state,null,Sun Belt,NULL
+2021,Tyrell Richards, OLB ,0.8121,syracuse,null,ACC,NULL
+2021,Hal Vinson, OLB ,0.8113,texas state,florida international,Sun Belt,Conference USA
+2021,Michael Ruane, ILB ,0.8113,massachusetts,villanova,FBS Independents,CAA
+2021,Michael Pitts, OLB ,0.8098,cincinnati,western kentucky,American Athletic,Conference USA
+2021,Sayeed Shah, OLB ,0.8098,tennessee,null,SEC,NULL
+2021,Rashaad Harding, OLB ,0.8092,louisiana monroe,liberty,Sun Belt,FBS Independents
+2021,Solomon Wise, OLB ,0.8080,utsa,null,Conference USA,NULL
+2021,Jason Simmons, OLB ,0.8053,new mexico state,syracuse,FBS Independents,ACC
+2021,Jacquez Williams, ILB ,0.8049,wake forest,null,ACC,NULL
+2021,Anthony Smith, ILB ,0.8042,texas state,null,Sun Belt,NULL
+2021,Zach Jones, ILB ,0.8041,south alabama,null,Sun Belt,NULL
+2021,Tim McClendon, ILB ,0.8004,air force,air force,Mountain West,Mountain West
+2021,Cameron Smith, OLB ,0.7998,wyoming,null,Mountain West,NULL
+2021,Wistar Allen, ILB ,0.7998,richmond,east carolina,CAA,American Athletic
+2021,Charles Jones, ILB ,0.7951,central michigan,null,Mid-American,NULL
+2021,Justin Mulbah, ILB ,0.7932,buffalo,null,Mid-American,NULL
+2021,Denzel Feaster, ILB ,0.7914,kansas,utsa,Big 12,Conference USA
+2021,Jacobi Hearn, OLB ,0.7905,new mexico,murray state,Mountain West,Ohio Valley
+2021,Keeath Magee II, ILB ,0.7903,texas am,cofc,SEC,NULL
+2021,Zamar Kirven, OLB ,0.7903,houston,null,American Athletic,NULL
+2021,Jordan Cordova, OLB ,0.7882,louisiana,null,Sun Belt,NULL
+2021,Kholbe Coleman, ILB ,0.7855,bowling green,null,Mid-American,NULL
+2021,Cortez Hogans, OLB ,0.7853,northern illinois,null,Mid-American,NULL
+2021,Joseph Ozougwu, OLB ,0.7832,north texas,arkansas state,Conference USA,Sun Belt
+2021,Justin Whisenhunt, OLB ,0.7790,troy,charlotte,Sun Belt,Conference USA
+2021,Elijah Shelton, OLB ,0.7698,utah state,null,Mountain West,NULL
+2021,Cole McCubrey, ILB ,0.7681,massachusetts,null,FBS Independents,NULL
+2021,Chris Thornton, ILB ,0.7681,north texas,null,Conference USA,NULL
+2021,Xavier Steele, OLB ,0.7681,massachusetts,arizona state,FBS Independents,Pacific-12
+2021,Matthew Young, OLB ,0.7675,new mexico state,null,FBS Independents,NULL
+2021,Roy McCree, OLB ,0.7667,western michigan,null,Mid-American,NULL
+2021,Damon Lowe, ILB ,0.7667,western kentucky,null,Conference USA,NULL
+2021,Caleb Bonner, ILB ,0.7649,arkansas state,arkansas state,Sun Belt,Sun Belt
+2021,Jerry Roberts, ILB ,0.7608,bowling green,arizona,Mid-American,Pacific-12
+2021,Isaiah Karriem, ILB ,0.7600,texas state,null,Sun Belt,NULL
+2021,Jordan Jones, ILB ,0.7197,alabama birmingham,null,Conference USA,NULL
+2021,Justin Booker-Brown, ILB ,NULL,north texas,null,Conference USA,NULL
+2021,Adam Fakih, ILB ,NULL,michigan,null,Big Ten,NULL
+2021,Nyles Gaddy, OLB ,NULL,tennessee,jackson state,SEC,SWAC
+2021,Christian Gomez, OLB ,NULL,florida atlantic,null,Conference USA,NULL
+2021,DeMontae Haigler, OLB ,NULL,bowling green,null,Mid-American,NULL
+2021,Uluaki Katoanga, ILB ,NULL,washington state,null,Pacific-12,NULL
+2021,Erick Kroll, ILB ,NULL,nevada,null,Mountain West,NULL
+2021,Cooper Lucas, ILB ,NULL,arkansas state,null,Sun Belt,NULL
+2021,Maika Magalei, OLB ,NULL,utah state,null,Mountain West,NULL
+2021,C.J. McCray, OLB ,NULL,marshall,virginia tech,Conference USA,ACC
+2021,Justin Michel, ILB ,NULL,florida international,null,Conference USA,NULL
+2021,Eric Munoz, ILB ,NULL,utah state,kansas state,Mountain West,Big 12
+2021,Dru Prox, ILB ,NULL,kansas,null,Big 12,NULL
+2021,Darin Robertson, ILB ,NULL,kansas,null,Big 12,NULL
+2021,Adam Shibley, ILB ,NULL,michigan,null,Big Ten,NULL
+2021,Demetrick Watts, ILB ,NULL,akron,null,Mid-American,NULL
+2021,Johnathon Weir, OLB ,NULL,massachusetts,null,FBS Independents,NULL
+2021,Derion Kendrick, CB ,0.9855,clemson,null,ACC,NULL
+2021,Tyrique Stevenson, CB ,0.9831,georgia,miami,SEC,ACC
+2021,Key Lawrence, S ,0.9647,tennessee,oklahoma,SEC,Big 12
+2021,Tykee Smith, S ,0.8795,west virginia,georgia,Big 12,SEC
+2021,Jaiden Lars-Woodbey, S ,0.9814,florida state,boston college,ACC,ACC
+2021,Kenderick Duncan, S ,0.7850,georgia southern,louisville,Sun Belt,ACC
+2021,Jammie Robinson, S ,0.8891,south carolina,florida state,SEC,ACC
+2021,T.J. Carter, CB ,0.8695,memphis,tcu,American Athletic,Big 12
+2021,Brandon Moore, CB ,0.8011,central florida,florida state,American Athletic,ACC
+2021,Brendan Radley-Hiles, CB ,0.9807,oklahoma,washington,Big 12,Pacific-12
+2021,Xavion Alford, S ,0.9367,texas,usc,Big 12,Pacific-12
+2021,Jordan Moore, S ,0.9143,houston,null,American Athletic,NULL
+2021,Marquis Waters, S ,0.8412,duke,texas tech,ACC,Big 12
+2021,Jalen Green, CB ,0.9762,texas,mississippi state,Big 12,SEC
+2021,Jarques McClellion, CB ,0.8493,arkansas,florida state,SEC,ACC
+2021,Cameron Johnson, S ,0.7998,north texas,ucla,Conference USA,Pacific-12
+2021,Kaleb Ford-Dement, CB ,0.7955,old dominion,null,Conference USA,NULL
+2021,Jaquan Amos, S ,0.7898,villanova,iowa state,CAA,Big 12
+2021,Robert Barnes, S ,0.9574,oklahoma,colorado,Big 12,Pacific-12
+2021,Cyrus Fagan, S ,0.9548,florida state,north carolina state,ACC,ACC
+2021,Kenyatta Watson II, CB ,0.9427,texas,georgia tech,Big 12,ACC
+2021,Xavior Williams, S ,NULL,northern iowa,iowa,Missouri Valley,Big Ten
+2021,John Dixon, CB ,0.8858,south carolina,penn state,SEC,Big Ten
+2021,Elijah Jones, CB ,0.8481,kansas,oregon state,Big 12,Pacific-12
+2021,Darion Dunn, CB ,NULL,mcneese state,texas,Southland,Big 12
+2021,Russ Yeast, S ,0.8983,louisville,kansas state,ACC,Big 12
+2021,Chester Kimbrough, CB ,0.8850,florida,michigan state,SEC,Big Ten
+2021,Eddie Smith, S ,0.8843,alabama,illinois,SEC,Big Ten
+2021,Patrice Rene, CB ,0.8777,north carolina,rutgers,ACC,Big Ten
+2021,Derrek Pitts, S ,0.8721,marshall,north carolina state,Conference USA,ACC
+2021,Gunner Maldonado, S ,0.8681,northwestern,arizona,Big Ten,Pacific-12
+2021,Jordan Genmark Heath, S ,0.8649,notre dame,ucla,FBS Independents,Pacific-12
+2021,Tae Daley, S ,0.8488,vanderbilt,virginia tech,SEC,ACC
+2021,David Spaulding, CB ,0.8466,georgia southern,south carolina,Sun Belt,SEC
+2021,Anthony Johnson, CB ,0.8274,louisville,virginia,ACC,ACC
+2021,Isaiah Rutherford, CB ,0.9171,notre dame,arizona,FBS Independents,Pacific-12
+2021,Trent Gordon, CB ,0.8858,penn state,arkansas,Big Ten,SEC
+2021,Rayshad Williams, CB ,0.8709,ucla,texas tech,Pacific-12,Big 12
+2021,Trey Rucker, S ,0.8465,wake forest,oklahoma state,ACC,Big 12
+2021,Malik Dunlap, CB ,0.8356,north carolina state,texas tech,ACC,Big 12
+2021,Joseph Johnson, CB ,0.8884,penn state,null,Big Ten,NULL
+2021,Julian Barnett, CB ,0.9724,michigan state,memphis,Big Ten,American Athletic
+2021,Nigel Knott, CB ,0.9675,east carolina,null,American Athletic,NULL
+2021,Houston Griffith, CB ,0.9651,notre dame,notre dame,FBS Independents,FBS Independents
+2021,Jahari Rogers, CB ,0.9630,florida,smu,SEC,American Athletic
+2021,Maurice Hampton, S ,0.9432,lsu,null,SEC,NULL
+2021,Christian Williams, CB ,0.9328,miami,south florida,ACC,American Athletic
+2021,Atanza Vongor, S ,0.9251,tcu,null,Big 12,NULL
+2021,Brandon Burton, S ,0.9250,new mexico,murray state,Mountain West,Ohio Valley
+2021,Ayden Hector, CB ,0.9220,washington state,null,Pacific-12,NULL
+2021,LeAnthony Williams Jr., CB ,0.9213,clemson,marshall,ACC,Conference USA
+2021,Kyle Meyers, CB ,0.9076,tulane,null,American Athletic,NULL
+2021,Raymond Woodie III, S ,0.9059,florida state,california,ACC,Pacific-12
+2021,Corione Harris, CB ,0.9052,kansas,mcneese state,Big 12,Southland
+2021,Christian Tutt, CB ,0.9045,auburn,auburn,SEC,SEC
+2021,Taiyon Palmer, CB ,0.9035,north carolina state,troy,ACC,Sun Belt
+2021,Brandon McKinney, S ,0.9029,washington,null,Pacific-12,NULL
+2021,Elijah Gates, CB ,0.9025,ucla,fresno state,Pacific-12,Mountain West
+2021,Isaiah Robertson, S ,0.8986,notre dame,null,FBS Independents,NULL
+2021,Tre Shaw, CB ,0.8919,north carolina,western kentucky,ACC,Conference USA
+2021,Colin Samuel, CB ,0.8912,houston,null,American Athletic,NULL
+2021,Tahj Capehart, CB ,0.8893,maryland,null,Big Ten,NULL
+2021,KJ Jarrell, S ,0.8863,arizona state,null,Pacific-12,NULL
+2021,Donovan Kaufman, S ,0.8860,vanderbilt,null,SEC,NULL
+2021,Carlito Gonzalez, S ,0.8857,memphis,null,American Athletic,NULL
+2021,Myles Mason, S ,0.8851,arkansas,louisiana tech,SEC,Conference USA
+2021,Julius Brents, S ,0.8842,iowa,kansas state,Big Ten,Big 12
+2021,Tre Douglas, S ,0.8835,vanderbilt,coastal carolina,SEC,Sun Belt
+2021,MJ Devonshire, CB ,0.8816,kentucky,pittsburgh,SEC,ACC
+2021,Davion Williams, CB ,0.8815,michigan state,null,Big Ten,NULL
+2021,Christian Jackson, CB ,0.8784,michigan state,washington state,Big Ten,Pacific-12
+2021,Javorrius Selmon, CB ,0.8710,mississippi state,jackson state,SEC,SWAC
+2021,Lakevias Daniel, CB ,0.8709,ole miss,southern mississippi,SEC,Conference USA
+2021,Shilo Sanders, S ,0.8706,south carolina,jackson state,SEC,SWAC
+2021,Dontye Carriere-Williams, CB ,0.8701,vanderbilt,texas state,SEC,Sun Belt
+2021,Korey Charles, CB ,0.8696,mississippi state,western illinois,SEC,Missouri Valley
+2021,Cam Jonas, S ,0.8689,syracuse,null,ACC,NULL
+2021,Reggie Pearson Jr., S ,0.8675,wisconsin,south dakota,Big Ten,Missouri Valley
+2021,Kaleb Oliver, S ,0.8670,georgia tech,null,ACC,NULL
+2021,Will Jones, CB ,0.8668,kansas state,south florida,Big 12,American Athletic
+2021,Vincent Flythe, CB ,0.8667,maryland,null,Big Ten,NULL
+2021,Tank Robinson, S ,0.8643,east carolina,charlotte,American Athletic,Conference USA
+2021,Geovonte Howard, CB ,0.8628,purdue,purdue,Big Ten,Big Ten
+2021,Stuart Head, S ,0.8628,stanford,appalachian state,Pacific-12,Sun Belt
+2021,Shawn Smith, CB ,0.8616,virginia,null,ACC,NULL
+2021,Quincy Lenton, S ,0.8616,florida,null,SEC,NULL
+2021,Alex Hogan, CB ,0.8613,texas tech,houston,Big 12,American Athletic
+2021,Tyler Judson, S ,0.8607,tulane,null,American Athletic,NULL
+2021,Benjamin Sapp III, S ,0.8606,minnesota,northern iowa,Big Ten,Missouri Valley
+2021,Jarrion Street, S ,0.8600,alabama birmingham,null,Conference USA,NULL
+2021,Jamari Brown, CB ,0.8593,kentucky,null,SEC,NULL
+2021,Clifford Chattman, CB ,0.8590,texas am,utsa,SEC,Conference USA
+2021,KJ Trujillo, CB ,0.8586,colorado,null,Pacific-12,NULL
+2021,Aaron Reynolds, CB ,0.8580,texas state,null,Sun Belt,NULL
+2021,Bryson Richardson, S ,0.8580,north carolina,massachusetts,ACC,FBS Independents
+2021,Donald Williams, CB ,0.8580,rutgers,null,Big Ten,NULL
+2021,Dequan Watts, CB ,0.8579,texas tech,null,Big 12,NULL
+2021,Tyrone Lewis, S ,0.8573,kansas state,louisiana,Big 12,Sun Belt
+2021,Tavian Mayo, CB ,0.8571,west virginia,null,Big 12,NULL
+2021,Emmanuel Rugamba, CB ,0.8568,miami ohio,miami ohio,Mid-American,Mid-American
+2021,Baylen Buchanan, CB ,0.8568,tennessee,louisiana tech,SEC,Conference USA
+2021,Khary Crump, CB ,0.8564,arizona,michigan state,Pacific-12,Big Ten
+2021,Isaac James, CB ,0.8563,ball state,null,Mid-American,NULL
+2021,La'Darius Henry, S ,0.8559,florida atlantic,null,Conference USA,NULL
+2021,Randall Haynie, CB ,0.8559,vanderbilt,null,SEC,NULL
+2021,Mason Moran, S ,0.8558,oregon state,northern arizona,Pacific-12,Big Sky
+2021,Jeremiah McDonald, S ,0.8552,northwestern,null,Big Ten,NULL
+2021,Myles Wolfolk, S ,0.8552,north carolina,null,ACC,NULL
+2021,Ronald Delancy III, S ,0.8551,nebraska,toledo,Big Ten,Mid-American
+2021,Telly Plummer, CB ,0.8547,louisville,chattanooga,ACC,Southern
+2021,Lance Robinson, CB ,0.8532,kansas state,tulane,Big 12,American Athletic
+2021,Dominique Long, S ,0.8523,michigan state,null,Big Ten,NULL
+2021,Jay Stanley, S ,0.8519,ole miss,southern mississippi,SEC,Conference USA
+2021,Christian Cumber, CB ,0.8518,colorado state,null,Mountain West,NULL
+2021,Daraun McKinney, CB ,0.8510,iowa,south dakota,Big Ten,Missouri Valley
+2021,Keevan Bailey, CB ,0.8505,colorado state,null,Mountain West,NULL
+2021,Greg Ross, CB ,0.8502,iowa state,james madison,Big 12,CAA
+2021,An'Darius Coffey, CB ,0.8498,memphis,memphis,American Athletic,American Athletic
+2021,Peyton Woulard, S ,0.8490,wake forest,null,ACC,NULL
+2021,Adam Sparks, CB ,0.8482,missouri,louisiana monroe,SEC,Sun Belt
+2021,Bryce Watts, CB ,0.8479,north carolina,massachusetts,ACC,FBS Independents
+2021,Antwaine Richardson, S ,0.8472,maryland,kent state,Big Ten,Mid-American
+2021,Tim Barrow, S ,0.8469,rutgers,wagner,Big Ten,Northeast
+2021,Avonta Crim, S ,0.8465,western kentucky,null,Conference USA,NULL
+2021,Ryan Frank, CB ,0.8465,texas tech,null,Big 12,NULL
+2021,Tacorey Turner, CB ,0.8464,west virginia,null,Big 12,NULL
+2021,Tyrese Ross, S ,0.8464,washington state,null,Pacific-12,NULL
+2021,Tyree Rodgers, S ,0.8462,virginia tech,null,ACC,NULL
+2021,Bronson Boyd, CB ,0.8459,utah,null,Pacific-12,NULL
+2021,CJ Johnson, CB ,0.8452,louisiana tech,null,Conference USA,NULL
+2021,Woodly Appolon, S ,0.8450,northern illinois,null,Mid-American,NULL
+2021,Edric Whitley, CB ,0.8445,arizona,null,Pacific-12,NULL
+2021,Shawn Shamburger, CB ,0.8440,tennessee,tennessee,SEC,SEC
+2021,Nick Roberts, S ,0.8439,south florida,null,American Athletic,NULL
+2021,Trey Davis, CB ,0.8439,washington state,null,Pacific-12,NULL
+2021,Garland LaFrance, S ,0.8431,western kentucky,null,Conference USA,NULL
+2021,Logan Wilson, CB ,0.8424,louisiana monroe,north texas,Sun Belt,Conference USA
+2021,Dajeun Gibson, S ,0.8416,charlotte,null,Conference USA,NULL
+2021,John Davis, CB ,0.8412,texas tech,north texas,Big 12,Conference USA
+2021,Tony Wallace, CB ,0.8412,tcu,null,Big 12,NULL
+2021,Isaiah Essissima, CB ,0.8410,wake forest,nevada,ACC,Mountain West
+2021,Cameron Ruiz, CB ,0.8410,northwestern,temple,Big Ten,American Athletic
+2021,Antwan Collier, CB ,0.8406,central florida,null,American Athletic,NULL
+2021,Garnett Burke, S ,0.8399,north texas,null,Conference USA,NULL
+2021,Junior Summerhill, S ,0.8386,south alabama,null,Sun Belt,NULL
+2021,Jarrett Paul, S ,0.8375,rutgers,null,Big Ten,NULL
+2021,Rush Lansdell, S ,0.8366,tennessee martin,memphis,Ohio Valley,American Athletic
+2021,Marqui Lowery Jr, CB ,0.8361,louisville,michigan state,ACC,Big Ten
+2021,Ton'Quez Ball, CB ,0.8355,tulane,null,American Athletic,NULL
+2021,Marques Evans, CB ,0.8344,boise state,null,Mountain West,NULL
+2021,Kyle Mayberry, CB ,0.8340,kansas,utah state,Big 12,Mountain West
+2021,Jevon Jones, CB ,0.8337,arkansas state,null,Sun Belt,NULL
+2021,William Anglen, S ,0.8335,colorado,null,Pacific-12,NULL
+2021,Frank Coppet, S ,0.8334,vanderbilt,null,SEC,NULL
+2021,Madison Cone, S ,0.8333,wisconsin,buffalo,Big Ten,Mid-American
+2021,Avery Showell, S ,0.8320,georgia tech,null,ACC,NULL
+2021,Chris Gaston, CB ,0.8318,fresno state,null,Mountain West,NULL
+2021,Nico Bolden, S ,0.8308,new mexico,kent state,Mountain West,Mid-American
+2021,Devon King, S ,0.8299,marshall,east carolina,Conference USA,American Athletic
+2021,Chandler Fincher, CB ,0.8298,tcu,arizona state,Big 12,Pacific-12
+2021,Bentlee Sanders, S ,0.8295,south florida,nevada,American Athletic,Mountain West
+2021,Elijah Hamilton, CB ,0.8290,vanderbilt,null,SEC,NULL
+2021,C.J. McWilliams, CB ,0.8276,florida,purdue,SEC,Big Ten
+2021,Romel Goston, CB ,0.8265,northern illinois,null,Mid-American,NULL
+2021,Lamar Campbell, CB ,0.8265,washington state,null,Pacific-12,NULL
+2021,B.J. Gibson, S ,0.8265,navy,null,American Athletic,NULL
+2021,Arnold Azunna, S ,0.8263,iowa state,hawaii,Big 12,Mountain West
+2021,Delano Ware, S ,0.8248,illinois,null,Big Ten,NULL
+2021,Derrion Rakestraw, CB ,0.8244,colorado,tulane,Pacific-12,American Athletic
+2021,Skyler Thomas, S ,0.8241,washington state,liberty,Pacific-12,FBS Independents
+2021,Kaleb Hayes, CB ,0.8234,oregon state,null,Pacific-12,NULL
+2021,Antwain Walker, CB ,0.8227,northern illinois,null,Mid-American,NULL
+2021,Keshaun Taylor, S ,0.8223,wyoming,wyoming,Mountain West,Mountain West
+2021,KJ Johnson, S ,0.8215,coastal carolina,null,Sun Belt,NULL
+2021,Demauryon Holmes, S ,0.8198,tcu,null,Big 12,NULL
+2021,Davon Ferguson, S ,0.8191,kansas,null,Big 12,NULL
+2021,Darius McClendon, S ,0.8181,middle tennessee state,null,Conference USA,NULL
+2021,Greg Francis, CB ,0.8180,unlv,null,Mountain West,NULL
+2021,Jonathan Alexander, S ,0.8163,kansas state,charlotte,Big 12,Conference USA
+2021,Isaiah Isaac, CB ,0.8156,wake forest,null,ACC,NULL
+2021,Lamar Mullins, S ,0.8156,tulsa,null,American Athletic,NULL
+2021,Dupree Williams, S ,0.8154,fresno state,null,Mountain West,NULL
+2021,Demarcus Governor, CB ,0.8154,central michigan,northern iowa,Mid-American,Missouri Valley
+2021,Jarrius Wallace, S ,0.8153,arizona,null,Pacific-12,NULL
+2021,Timarcus Simpson, CB ,0.8143,eastern michigan,null,Mid-American,NULL
+2021,Tyrik Henderson, CB ,0.8143,northern illinois,null,Mid-American,NULL
+2021,Nehemiah Augustus, S ,0.8132,memphis,nicholls state,American Athletic,Southland
+2021,Jakob Robinson, CB ,0.8118,utah state,byu,Mountain West,FBS Independents
+2021,D.J. Ford, S ,0.8115,north carolina,east carolina,ACC,American Athletic
+2021,Xavier Goldsmith, CB ,0.8114,colorado state,null,Mountain West,NULL
+2021,Keilos Swinney, S ,0.8106,louisiana monroe,null,Sun Belt,NULL
+2021,Eric Cuffee, CB ,0.8106,new mexico,null,Mountain West,NULL
+2021,Malik Occiur, S ,0.8104,western kentucky,null,Conference USA,NULL
+2021,Emanuel Dabney, CB ,0.8100,liberty,null,FBS Independents,NULL
+2021,Vance Vallair, CB ,0.8092,utsa,null,Conference USA,NULL
+2021,Eric Sutton, CB ,0.8081,smu,texas state,American Athletic,Sun Belt
+2021,Micahh Smith, S ,0.8080,arkansas,null,SEC,NULL
+2021,Roy Baker, CB ,0.8079,buffalo,eastern kentucky,Mid-American,Ohio Valley
+2021,Troy Lefeged, S ,0.8067,utah state,texas state,Mountain West,Sun Belt
+2021,Ginial Isma, CB ,0.8064,western michigan,null,Mid-American,NULL
+2021,Pierce Withers, S ,0.8054,texas state,null,Sun Belt,NULL
+2021,Mark Aitken, CB ,0.8053,northern illinois,null,Mid-American,NULL
+2021,Demetrius Murray, S ,0.8052,ball state,null,Mid-American,NULL
+2021,Jaxon Gibbs, S ,0.8014,north texas,null,Conference USA,NULL
+2021,Tobias Gilliam, S ,0.8005,utah state,utah state,Mountain West,Mountain West
+2021,Eric Wilson, CB ,0.8005,san diego state,null,Mountain West,NULL
+2021,Treun Pace, CB ,0.8003,georgia southern,null,Sun Belt,NULL
+2021,Jordan Hendy, CB ,0.8000,toledo,null,Mid-American,NULL
+2021,Jerodd Vines, S ,0.7998,eastern michigan,null,Mid-American,NULL
+2021,Isaiah Strong, CB ,0.7998,washington,null,Pacific-12,NULL
+2021,Marlin Brooks, CB ,0.7991,ohio,null,Mid-American,NULL
+2021,Jaden Moreland, CB ,0.7964,georgia southern,null,Sun Belt,NULL
+2021,Robert Kennedy, S ,0.7955,east carolina,old dominion,American Athletic,Conference USA
+2021,Duron Lowe, CB ,0.7955,utep,liberty,Conference USA,FBS Independents
+2021,Keyshawn Paul, CB ,0.7953,uconn,temple,FBS Independents,American Athletic
+2021,Javian Smith, CB ,0.7944,houston,null,American Athletic,NULL
+2021,Jaylen DeCoteau, CB ,0.7942,kent state,sacred heart,Mid-American,Northeast
+2021,Tra Fluellen, S ,0.7942,houston baptist,null,Southland,NULL
+2021,Mike Garrett Jr., CB ,0.7933,tulsa,null,American Athletic,NULL
+2021,Robert King, CB ,0.7924,uconn,null,FBS Independents,NULL
+2021,TyRae Thornton, CB ,0.7924,rice,north texas,Conference USA,Conference USA
+2021,Julian Chandler, CB ,0.7924,kansas,null,Big 12,NULL
+2021,Adrion Taylor, S ,0.7902,navy,null,American Athletic,NULL
+2021,Letayveon Beaton, S ,0.7900,new mexico,null,Mountain West,NULL
+2021,Jeremiah Salaam, CB ,0.7898,kent state,null,Mid-American,NULL
+2021,Devyn Butler, CB ,0.7898,texas tech,null,Big 12,NULL
+2021,Kylan Stribling, S ,0.7891,middle tennessee state,null,Conference USA,NULL
+2021,Devon Wharton, CB ,0.7891,western kentucky,null,Conference USA,NULL
+2021,Roger Cray, CB ,0.7889,western kentucky,null,Conference USA,NULL
+2021,Norman Anderson, CB ,0.7857,central michigan,null,Mid-American,NULL
+2021,Shannon Showers, S ,0.7857,southern mississippi,null,Conference USA,NULL
+2021,Jordan Oliver, CB ,0.7853,louisiana monroe,null,Sun Belt,NULL
+2021,Lance Boykin, CB ,0.7853,old dominion,null,Conference USA,NULL
+2021,Tyrone Scott, S ,0.7853,central michigan,null,Mid-American,NULL
+2021,Linwood Crump, CB ,0.7850,temple,colorado state,American Athletic,Mountain West
+2021,Tyler Glass, S ,0.7844,louisiana monroe,null,Sun Belt,NULL
+2021,John Blunt Jr., CB ,0.7844,western kentucky,null,Conference USA,NULL
+2021,Justin Guy-Robinson, CB ,0.7824,smu,null,American Athletic,NULL
+2021,Willie Langham, CB ,0.7823,tulane,null,American Athletic,NULL
+2021,Dennis Barnes, CB ,0.7800,utep,utep,Conference USA,Conference USA
+2021,Caleb Biggers, CB ,0.7798,bowling green,boise state,Mid-American,Mountain West
+2021,Makyle Sanders, S ,0.7790,north texas,north texas,Conference USA,Conference USA
+2021,Dyvonne Inyang, S ,0.7783,utep,utep,Conference USA,Conference USA
+2021,Evan Jones, CB ,0.7783,georgia state,null,Sun Belt,NULL
+2021,Brandon Brown, CB ,0.7776,central michigan,null,Mid-American,NULL
+2021,Christian Braswell, CB ,0.7756,temple,null,American Athletic,NULL
+2021,Miles Daniel, CB ,0.7750,kent state,null,Mid-American,NULL
+2021,Akil Francisco, CB ,0.7743,hawaii,null,Mountain West,NULL
+2021,Floyd Connell, CB ,0.7742,louisiana monroe,null,Sun Belt,NULL
+2021,Grid Isidore, S ,0.7700,texas state,null,Sun Belt,NULL
+2021,George Jackson, S ,0.7700,troy,null,Sun Belt,NULL
+2021,Kenneth Major, CB ,0.7682,middle tennessee state,null,Conference USA,NULL
+2021,Jordyn Riley, CB ,0.7682,akron,null,Mid-American,NULL
+2021,Cedric Stone, CB ,0.7681,georgia state,liberty,Sun Belt,FBS Independents
+2021,Broderick Harrell, CB ,0.7681,utep,null,Conference USA,NULL
+2021,Chris Coleman, CB ,0.7667,fresno state,null,Mountain West,NULL
+2021,Jacione Fugate, S ,0.7642,charlotte,null,Conference USA,NULL
+2021,JD Harris, CB ,0.7641,northern illinois,null,Mid-American,NULL
+2021,Damari Kelly, CB ,0.7597,coastal carolina,null,Sun Belt,NULL
+2021,Marcus Harris, CB ,0.7497,oregon state,idaho,Pacific-12,Big Sky
+2021,Vincent Thomas, S ,0.7397,navy,maine,American Athletic,CAA
+2021,Jesse Johnson, CB ,0.7096,eastern illinois,null,Ohio Valley,NULL
+2021,Terin Adams, CB ,NULL,utah state,utah state,Mountain West,Mountain West
+2021,Lawuan Axel, CB ,NULL,null,null,NULL,NULL
+2021,Caleb Biggurs, CB ,NULL,tcu,null,Big 12,NULL
+2021,Daron Bland, CB ,NULL,sacramento state,fresno state,Big Sky,Mountain West
+2021,Kameron Burton, S ,NULL,coastal carolina,null,Sun Belt,NULL
+2021,Dante Caputo, S ,NULL,wisconsin,null,Big Ten,NULL
+2021,Taury Dixon, CB ,NULL,mississippi state,null,SEC,NULL
+2021,Romello Edwards, CB ,NULL,tennessee,tennessee,SEC,SEC
+2021,Eric Gallegos, CB ,NULL,oklahoma,null,Big 12,NULL
+2021,Hunter Goetz, S ,NULL,liberty,null,FBS Independents,NULL
+2021,Will Heckman, S ,NULL,washington state,null,Pacific-12,NULL
+2021,Drew Homschek, S ,NULL,north carolina,null,ACC,NULL
+2021,Ja'Marcus Ingram, CB ,NULL,texas tech,null,Big 12,NULL
+2021,AJ Jefferson, CB ,NULL,air force,null,Mountain West,NULL
+2021,Cedric Johnson, S ,NULL,arkansas,null,SEC,NULL
+2021,Aaron Kelly, S ,NULL,massachusetts,null,FBS Independents,NULL
+2021,Keilan Knight, CB ,NULL,alabama birmingham,null,Conference USA,NULL
+2021,Benny McCray IV, CB ,NULL,florida international,null,Conference USA,NULL
+2021,Monte' McGary, CB ,NULL,troy,null,Sun Belt,NULL
+2021,Walter Neil, CB ,NULL,kansas state,utep,Big 12,Conference USA
+2021,Dylan Pate, CB ,NULL,bowling green,null,Mid-American,NULL
+2021,Carlins Platel, CB ,NULL,south carolina,null,SEC,NULL
+2021,Phillip Powell, S ,NULL,washington state,null,Pacific-12,NULL
+2021,Hunter Reynolds, CB ,NULL,michigan,null,Big Ten,NULL
+2021,Brandon Spencer, CB ,NULL,florida atlantic,null,Conference USA,NULL
+2021,Brassir Stocker, CB ,NULL,pittsburgh,null,ACC,NULL
+2021,Caleb Willis, CB ,NULL,middle tennessee state,null,Conference USA,NULL
+2021,Charles Woods, CB ,NULL,illinois state,west virginia,Missouri Valley,Big 12
+2021,Jaylon Worsham, CB ,NULL,florida atlantic,null,Conference USA,NULL
+2021,Chase McGrath, K ,0.8333,usc,tennessee,Pacific-12,SEC
+2021,Joseph Bulovas, K ,0.8321,alabama,vanderbilt,SEC,SEC
+2021,Brent Cimaglia, K ,0.8296,tennessee,georgia tech,SEC,ACC
+2021,Anthony Dinkins-McCall, ATH ,0.8274,georgia southern,null,Sun Belt,NULL
+2021,Caleb Lightbourn, P ,0.8234,oregon state,null,Pacific-12,NULL
+2021,Andrew Mevis, K ,0.8160,fordham,iowa state,Patriot League,Big 12
+2021,Jack Bouwmeester, P ,0.8107,michigan state,null,Big Ten,NULL
+2021,Joe Doyle, P ,0.7959,tennessee,memphis,SEC,American Athletic
+2021,Ben Lennon, P ,0.7946,utah,null,Pacific-12,NULL
+2021,Noah Ruggles, K ,0.7943,north carolina,null,ACC,NULL
+2021,Sir Oliver Everett, ATH ,0.7942,unlv,null,Mountain West,NULL
+2021,Patrick Nations, K ,0.7918,east carolina,null,American Athletic,NULL
+2021,Zack Sessa, K ,0.7810,florida,null,SEC,NULL
+2021,Jared Porter, P ,0.7667,louisiana monroe,null,Sun Belt,NULL
+2021,Crews Holt, K ,0.7542,middle tennessee state,null,Conference USA,NULL
+2021,Brady Buell, K ,0.7541,central michigan,null,Mid-American,NULL
+2021,Myles Prosser, K ,0.7497,coastal carolina,null,Sun Belt,NULL
+2021,Matthew Trickett, K ,0.7097,kent state,minnesota,Mid-American,Big Ten
+2021,Christopher Bartolic, P ,NULL,utah state,null,Mountain West,NULL
+2021,Austyn Chestnut, ATH ,NULL,north carolina,appalachian state,ACC,Sun Belt
+2021,Jace Christmann, K ,NULL,mississippi state,florida,SEC,SEC
+2021,Jack Driggers, K ,NULL,duke,null,ACC,NULL
+2021,Gabe Garber, ATH ,NULL,kansas,kansas state,Big 12,Big 12
+2021,Will Hart, P ,NULL,michigan,null,Big Ten,NULL
+2021,Jay LaRosa, K ,NULL,ole miss,massachusetts,SEC,FBS Independents
+2021,Aidan Livingston, LS ,NULL,boston college,null,ACC,NULL
+2021,Kevin Macias, P ,NULL,arizona state,null,Pacific-12,NULL
+2021,Blake Mazza, K ,NULL,washington state,smu,Pacific-12,American Athletic
+2021,Oren Milstein, K ,NULL,vanderbilt,null,SEC,NULL
+2021,Will Mobley, K ,NULL,temple,minnesota,American Athletic,Big Ten
+2021,Jake Pagel, LS ,NULL,texas am,null,SEC,NULL
+2021,Josh Plaster, P ,NULL,arizona state,oklahoma,Pacific-12,Big 12
+2021,Will Ross, K ,NULL,south carolina,virginia tech,SEC,ACC
+2021,Gabe Siemieniec, K ,NULL,louisiana tech,null,Conference USA,NULL
+2021,Gerald Smith, ATH ,NULL,ball state,null,Mid-American,NULL
+2021,Kyle Thompson, P ,NULL,kansas,null,Big 12,NULL
+2021,Cristian Zendejas, K ,NULL,arizona state,null,Pacific-12,NULL
