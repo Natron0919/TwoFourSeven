@@ -4,13 +4,14 @@ import csv
 from lxml import html
 import numpy as np
 import re
+import time
 
 class Recruit:
 
     def __init__(self):
         self.session = requests.Session()
 
-    def getClass(self, year, team):
+    def getClass(self, year, team): # Return DataFrame of a teams recruiting class from a specific year
         self.year = year
         self.team = str(team)
         self.team = self.team.replace(' ', '-')
@@ -48,7 +49,7 @@ class Recruit:
 
         return df
 
-    def getAllTime(self, team):
+    def getAllTime(self, team): # Return DataFrame of a teams all time greatest recruits
         self.team = str(team)
         self.team = self.team.replace(' ', '-')
         self.team = self.team.lower()
@@ -88,6 +89,104 @@ class Recruit:
 
         return df
 
+
+    def getFBPlayerData(self, year):
+        player_id = []
+        players = []
+        pos = []
+        ht = []
+        wt = []
+        hometown = []
+        score = []
+        nat_rank = []
+        pos_rank = []
+        st_rank = []
+
+        for i in range(20):
+            res = requests.get('https://247sports.com/Season/' + str(year) + '-Football/CompositeRecruitRankings/?ViewPath=~%2FViews%2FSkyNet%2FPlayerSportRanking%2F_SimpleSetForSeason.ascx&InstitutionGroup=HighSchool&Page=' + str(i + 1) + '', headers = {'User-Agent': 'Mozilla/5.0'})
+            site = html.fromstring(res.content)
+
+            ids = site.xpath("//div[@class='recruit']/a[1]/@href")
+            player_id.extend([re.search("([^-]+$)", x).group(1) for x in ids])
+            players.extend(site.xpath("//div[@class='recruit']/a[1]/text()"))
+            pos.extend(site.xpath("//li[@class='rankings-page__list-item']/div/div[@class='position']/text()"))
+            metrics = site.xpath("//li[@class='rankings-page__list-item']/div/div[@class='metrics']/text()")
+            ht.extend([x.split('/')[0].strip() for x in metrics])
+            wt.extend([x.split('/')[1].strip() for x in metrics])
+            hometown_err = site.xpath("//div[@class='recruit']/span/text()")
+            hometown.extend([x.strip() for x in hometown_err if x.strip()])
+            score.extend(site.xpath("//div[@class='rating']/div/span[@class='score']/text()"))
+            nat_rank.extend(site.xpath("//a[@class='natrank']/text()"))
+            pos_rank.extend(site.xpath("//a[@class='posrank']/text()"))
+            st_rank.extend(site.xpath("//a[@class='sttrank']/text()"))
+            time.sleep(2)
+
+        di = {
+        'ID' : player_id,
+        'Player' : players, 
+        'POS' : pos,
+        'HT' : ht,
+        'WT' : wt,
+        'Hometown': hometown,
+        'Rating' : score,
+        'National_Rank' : nat_rank,
+        'Position_Rank' : pos_rank,
+        'State_Rank' : st_rank
+        }
+
+        df = pd.DataFrame(di)
+
+        return df
+
+    def getBBPlayerData(self, year):
+        player_id = []
+        players = []
+        pos = []
+        ht = []
+        wt = []
+        hometown = []
+        score = []
+        nat_rank = []
+        pos_rank = []
+        st_rank = []
+
+        for i in range(20):
+            res = requests.get('https://247sports.com/Season/' + str(year) + '-Basketball/CompositeRecruitRankings/?ViewPath=~%2FViews%2FSkyNet%2FPlayerSportRanking%2F_SimpleSetForSeason.ascx&InstitutionGroup=HighSchool&Page=' + str(i + 1) + '', headers = {'User-Agent': 'Mozilla/5.0'})
+            site = html.fromstring(res.content)
+
+            ids = site.xpath("//div[@class='recruit']/a[1]/@href")
+            player_id.extend([re.search("([^-]+$)", x).group(1) for x in ids])
+            players.extend(site.xpath("//div[@class='recruit']/a[1]/text()"))
+            pos.extend(site.xpath("//li[@class='rankings-page__list-item']/div/div[@class='position']/text()"))
+            metrics = site.xpath("//li[@class='rankings-page__list-item']/div/div[@class='metrics']/text()")
+            ht.extend([x.split('/')[0].strip() for x in metrics])
+            wt.extend([x.split('/')[1].strip() for x in metrics])
+            hometown_err = site.xpath("//div[@class='recruit']/span/text()")
+            hometown.extend([x.strip() for x in hometown_err if x.strip()])
+            score.extend(site.xpath("//div[@class='rating']/div/span[@class='score']/text()"))
+            nat_rank.extend(site.xpath("//a[@class='natrank']/text()"))
+            pos_rank.extend(site.xpath("//a[@class='posrank']/text()"))
+            st_rank.extend(site.xpath("//a[@class='sttrank']/text()"))
+            time.sleep(2)
+
+        di = {
+        'ID' : player_id,
+        'Player' : players, 
+        'POS' : pos,
+        'HT' : ht,
+        'WT' : wt,
+        'Hometown': hometown,
+        'Rating' : score,
+        'National_Rank' : nat_rank,
+        'Position_Rank' : pos_rank,
+        'State_Rank' : st_rank
+        }
+
+        df = pd.DataFrame(di)
+
+        return df
+
+
 class TransferPortal:
 
     def __init__(self):
@@ -108,6 +207,11 @@ class TransferPortal:
         players = site.xpath("//div[@class='player']/a/text()")
         positions = site.xpath("//div[@class='position']/text()")
         scores = site.xpath("//span[child::span[text()='(HS)']]/text()")
+
+        # Get Player specific ID
+        ids = site.xpath("//div[@class='player']/a[1]/@href")
+        ids = [re.search("([^-]+$)", x).group(1) for x in ids]
+
 
         # Return initial team and new team for each player
         player_list = site.xpath("//li[@class='portal-list_itm']")
@@ -142,12 +246,12 @@ class TransferPortal:
                 team2.append('NULL')
 
         # team1 = [''.join(x) for x in team1] # Turn all entries into strings instead of one length lists
-        team1 = [x.lower() for x in team1]
+        # team1 = [x.lower() for x in team1]
         # team2 = [''.join(x) for x in team2] # Turn all entries into strings instead of one length lists
-        team2 = [x.lower() for x in team2]
+        # team2 = [x.lower() for x in team2]
 
         # Create dictionary from all lists
-        di = {'Player' : players, 'POS' : positions, 'Rating' : scores, 'Team_Old' : team1, 'Team_New' : team2}
+        di = {'ID' : ids, 'Player' : players, 'POS' : positions, 'Rating' : scores, 'Team_Old' : team1, 'Team_New' : team2}
 
         # Turn dictionary into DataFrame
         df = pd.DataFrame(di)
@@ -167,6 +271,12 @@ class TransferPortal:
 
         return df
 
+
+
+
+
+
+
     def getBasketballData(self, year):
         
         self.year = year
@@ -179,6 +289,10 @@ class TransferPortal:
         players = site.xpath("//div[@class='player']/a/text()")
         positions = site.xpath("//div[@class='position']/text()")
         scores = site.xpath("//span[child::span[text()='(HS)']]/text()")
+
+        # Get Player specific ID
+        ids = site.xpath("//div[@class='player']/a[1]/@href")
+        ids = [re.search("([^-]+$)", x).group(1) for x in ids]
 
         # Return initial team and new team for each player
         player_list = site.xpath("//li[@class='portal-list_itm']")
@@ -213,12 +327,12 @@ class TransferPortal:
                 team2.append('NULL')
 
         # team1 = [''.join(x) for x in team1] # Turn all entries into strings instead of one length lists
-        team1 = [x.lower() for x in team1]
+        # team1 = [x.lower() for x in team1]
         # team2 = [''.join(x) for x in team2] # Turn all entries into strings instead of one length lists
-        team2 = [x.lower() for x in team2]
+        # team2 = [x.lower() for x in team2]
 
         # Create dictionary from all lists
-        di = {'Player' : players, 'POS' : positions, 'Rating' : scores, 'Team_Old' : team1, 'Team_New' : team2}
+        di = {'ID' : ids, 'Player' : players, 'POS' : positions, 'Rating' : scores, 'Team_Old' : team1, 'Team_New' : team2}
 
         # Turn dictionary into DataFrame
         df = pd.DataFrame(di)
