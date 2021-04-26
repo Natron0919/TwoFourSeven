@@ -268,6 +268,7 @@ class TransferPortal:
         df = pd.merge(df, self.fbcollegedf, left_on = ['Team_New'], right_on = ['Team'], how = 'left', suffixes = ['_Old', '_New'])
         df = df.drop(columns = {'Team'})
         df = df.replace(np.nan, 'NULL')
+        df['ID'] = df['ID'].str.replace('/', '')
 
         return df
 
@@ -349,5 +350,6 @@ class TransferPortal:
         df = pd.merge(df, self.bbcollegedf, left_on = ['Team_New'], right_on = ['Team'], how = 'left', suffixes = ['_Old', '_New'])
         df = df.drop(columns = {'Team'})
         df = df.replace(np.nan, 'NULL')
+        df['ID'] = df['ID'].str.replace('/', '')
 
         return df
