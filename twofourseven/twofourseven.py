@@ -46,6 +46,8 @@ class Recruit:
         }
 
         df = pd.DataFrame(di)
+        df.insert(0, 'Year', year)
+
 
         return df
 
@@ -96,15 +98,22 @@ class Recruit:
         pos = []
         ht = []
         wt = []
-        hometown = []
+        hs = []
+        city = []
+        state = []
         score = []
         nat_rank = []
         pos_rank = []
         st_rank = []
+        team = []
+        pattern = "college/(.*?)/"
 
         for i in range(20):
             res = requests.get('https://247sports.com/Season/' + str(year) + '-Football/CompositeRecruitRankings/?ViewPath=~%2FViews%2FSkyNet%2FPlayerSportRanking%2F_SimpleSetForSeason.ascx&InstitutionGroup=HighSchool&Page=' + str(i + 1) + '', headers = {'User-Agent': 'Mozilla/5.0'})
             site = html.fromstring(res.content)
+
+            status_list = site.xpath("//div[@class='status']")
+
 
             ids = site.xpath("//div[@class='recruit']/a[1]/@href")
             player_id.extend([re.search("([^-]+$)", x).group(1) for x in ids])
@@ -114,11 +123,39 @@ class Recruit:
             ht.extend([x.split('/')[0].strip() for x in metrics])
             wt.extend([x.split('/')[1].strip() for x in metrics])
             hometown_err = site.xpath("//div[@class='recruit']/span/text()")
-            hometown.extend([x.strip() for x in hometown_err if x.strip()])
+            
+            hs_err = [x.split('(')[0] for x in hometown_err]
+            hs.extend(x.strip() for x in hs_err)
+            citystate = [x.split('(')[1] for x in hometown_err]
+            city.extend([x.split(',')[0] for x in citystate])
+            state_err = []
+            for x in citystate:
+                try:
+                    state_err.append(x.split(',')[1])
+                except:
+                    state_err.append('NULL')
+
+            state_err = [x.replace(')', '') for x in state_err]
+            state.extend([x.strip() for x in state_err])
+
             score.extend(site.xpath("//div[@class='rating']/div/span[@class='score']/text()"))
             nat_rank.extend(site.xpath("//a[@class='natrank']/text()"))
             pos_rank.extend(site.xpath("//a[@class='posrank']/text()"))
             st_rank.extend(site.xpath("//a[@class='sttrank']/text()"))
+
+            for x in status_list:
+                try:
+                    url = x.xpath("a[1]/@href")
+                    url = url[0]
+                    if re.search(pattern, url):
+                        substring = re.search(pattern, url).group(1)
+                        substring = substring.replace('-', ' ')
+                        team.append(substring)
+                    else:
+                        raise ValueError('Not Committed Yet')
+                except:
+                    team.append('NULL')
+
             time.sleep(2)
 
         di = {
@@ -127,14 +164,19 @@ class Recruit:
         'POS' : pos,
         'HT' : ht,
         'WT' : wt,
-        'Hometown': hometown,
+        'High School' : hs,
+        'City' : city,
+        'State' : state,
         'Rating' : score,
         'National_Rank' : nat_rank,
         'Position_Rank' : pos_rank,
-        'State_Rank' : st_rank
+        'State_Rank' : st_rank,
+        'Team' : team
         }
 
         df = pd.DataFrame(di)
+        df.insert(0, 'Year', year)
+
 
         return df
 
@@ -144,15 +186,23 @@ class Recruit:
         pos = []
         ht = []
         wt = []
-        hometown = []
+        hs = []
+        city = []
+        state = []
         score = []
         nat_rank = []
         pos_rank = []
         st_rank = []
 
+        team = []
+        pattern = "college/(.*?)/"
+
         for i in range(20):
             res = requests.get('https://247sports.com/Season/' + str(year) + '-Basketball/CompositeRecruitRankings/?ViewPath=~%2FViews%2FSkyNet%2FPlayerSportRanking%2F_SimpleSetForSeason.ascx&InstitutionGroup=HighSchool&Page=' + str(i + 1) + '', headers = {'User-Agent': 'Mozilla/5.0'})
             site = html.fromstring(res.content)
+
+            status_list = site.xpath("//div[@class='status']")
+
 
             ids = site.xpath("//div[@class='recruit']/a[1]/@href")
             player_id.extend([re.search("([^-]+$)", x).group(1) for x in ids])
@@ -162,11 +212,39 @@ class Recruit:
             ht.extend([x.split('/')[0].strip() for x in metrics])
             wt.extend([x.split('/')[1].strip() for x in metrics])
             hometown_err = site.xpath("//div[@class='recruit']/span/text()")
-            hometown.extend([x.strip() for x in hometown_err if x.strip()])
+            
+            hs_err = [x.split('(')[0] for x in hometown_err]
+            hs.extend(x.strip() for x in hs_err)
+            citystate = [x.split('(')[1] for x in hometown_err]
+            city.extend([x.split(',')[0] for x in citystate])
+            state_err = []
+            for x in citystate:
+                try:
+                    state_err.append(x.split(',')[1])
+                except:
+                    state_err.append('NULL')
+
+            state_err = [x.replace(')', '') for x in state_err]
+            state.extend([x.strip() for x in state_err])
+
             score.extend(site.xpath("//div[@class='rating']/div/span[@class='score']/text()"))
             nat_rank.extend(site.xpath("//a[@class='natrank']/text()"))
             pos_rank.extend(site.xpath("//a[@class='posrank']/text()"))
             st_rank.extend(site.xpath("//a[@class='sttrank']/text()"))
+
+            for x in status_list:
+                try:
+                    url = x.xpath("a[1]/@href")
+                    url = url[0]
+                    if re.search(pattern, url):
+                        substring = re.search(pattern, url).group(1)
+                        substring = substring.replace('-', ' ')
+                        team.append(substring)
+                    else:
+                        raise ValueError('Not Committed Yet')
+                except:
+                    team.append('NULL')
+
             time.sleep(2)
 
         di = {
@@ -175,14 +253,19 @@ class Recruit:
         'POS' : pos,
         'HT' : ht,
         'WT' : wt,
-        'Hometown': hometown,
+        'High School' : hs,
+        'City' : city,
+        'State' : state,
         'Rating' : score,
         'National_Rank' : nat_rank,
         'Position_Rank' : pos_rank,
-        'State_Rank' : st_rank
+        'State_Rank' : st_rank,
+        'Team' : team
         }
 
         df = pd.DataFrame(di)
+        df.insert(0, 'Year', year)
+
 
         return df
 

@@ -1,0 +1,322 @@
+Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Rank,State_Rank,Team
+2021,46057349,Chet Holmgren, C ,7-0,190,Minnehaha Academy,Minneapolis,MN,1.0000,1,1,1,gonzaga
+2021,46049474,Jaden Hardy, CG ,6-4,190,Coronado,Henderson,NV,0.9995,2,1,1,NULL
+2021,46055770,Paolo Banchero, PF ,6-9,235,O Dea,Seattle,WA,0.9994,3,1,1,duke
+2021,46050268,Patrick Baldwin Jr., SF ,6-9,190,Hamilton,Sussex,WI,0.9989,4,1,1,NULL
+2021,46058607,Jabari Smith, PF ,6-10,210,Sandy Creek,Tyrone,GA,0.9985,5,2,1,auburn
+2021,46093910,Caleb Houstan, PF ,6-8,205,Montverde Academy,Montverde,FL,0.9972,6,3,1,michigan
+2021,46057844,Hunter Sallis, CG ,6-5,175,Millard North,Omaha,NE,0.9971,7,2,1,gonzaga
+2021,46082389,Peyton Watson, SF ,6-8,190,Long Beach Poly,Long Beach,CA,0.9963,8,2,1,ucla
+2021,46059105,JD Davison, PG ,6-3,175,Calhoun Sch,Letohatchee,AL,0.9960,9,1,1,alabama
+2021,46083516,Daimion Collins, PF ,6-9,210,Atlanta,Atlanta,TX,0.9958,10,4,1,kentucky
+2021,46058292,Kennedy Chandler, PG ,6-1,165,Sunrise Christian,Wichita,KS,0.9958,11,2,1,tennessee
+2021,46056024,AJ Griffin, SF ,6-7,200,Archbishop Stepinac,White Plains,NY,0.9957,12,3,1,duke
+2021,46056681,Harrison Ingram, SF ,6-7,210,St. Mark's,Dallas,TX,0.9951,13,4,2,stanford
+2021,46048914,Michael Foster, PF ,6-9,220,Hillcrest Prep,Phoenix,AZ,0.9951,14,5,1,NULL
+2021,46057211,Kendall Brown, SF ,6-8,205,Sunrise Christian,Wichita,KS,0.9950,15,5,2,baylor
+2021,46057583,Nathan Bittle, C ,6-11,200,Prolific Prep,Napa,CA,0.9942,16,2,2,oregon
+2021,46055369,Max Christie, SG ,6-6,195,Rolling Meadows,Rolling Meadows,IL,0.9939,17,1,1,michigan state
+2021,46047666,Moussa Diabate, PF ,6-10,215,IMG Academy,Bradenton,FL,0.9937,18,6,2,michigan
+2021,46057877,Brandon Huntley-Hatfield, PF ,6-9,230,Scotland Campus,Scotland,PA,0.9933,19,7,1,tennessee
+2021,46050488,Trevor Keels, SG ,6-5,210,Paul VI Catholic,Fairfax,VA,0.9932,20,2,1,duke
+2021,46056342,Aminu Mohammed, SG ,6-5,190,Greenwood Laboratory School,Washington,DC,0.9927,21,3,1,georgetown
+2021,46058875,Bryce McGowens, SG ,6-6,175,Legacy Charter,Greenville,SC,0.9920,22,4,1,nebraska
+2021,46079396,Matthew Cleveland, SF ,6-6,190,Pace Academy,Alpharetta,GA,0.9917,23,6,2,florida state
+2021,46055252,Efton Reid, C ,6-11,225,IMG Academy,Bradenton,FL,0.9914,24,3,3,NULL
+2021,46081442,Manny Obaseki, SG ,6-4,175,John Paul II,Allen,TX,0.9906,25,5,3,texas am
+2021,46057695,TyTy Washington, PG ,6-3,185,Compass Prep,Chandler,AZ,0.9904,26,3,2,NULL
+2021,46083774,Benny Williams, SF ,6-8,180,IMG Academy,Bradenton,FL,0.9901,27,7,4,syracuse
+2021,46057514,Charles Bediako, C ,6-11,215,IMG Academy,Bradenton,FL,0.9890,28,4,5,alabama
+2021,46085757,Nolan Hickman, PG ,6-2,185,Wasatch Academy,Mount Pleasant,UT,0.9884,29,4,1,kentucky
+2021,46059170,Bryce Hopkins, PF ,6-7,220,Fenwick,Oak Park,IL,0.9880,30,8,2,kentucky
+2021,46084262,Malaki Branham, SG ,6-4,175,St. Vincent-St. Mary,Akron,OH,0.9873,31,6,1,ohio state
+2021,46097886,Jaylon Tyson, SF ,6-6,185,John Paul II,Plano,TX,0.9873,32,8,4,texas
+2021,46097662,Jalen Warley, CG ,6-4,175,Westtown School,Norristown,PA,0.9867,33,3,2,florida state
+2021,46058811,Trey Kaufman, PF ,6-8,210,Silver Creek,Sellersburg,IN,0.9865,34,9,1,purdue
+2021,46055460,Kowacie Reeves, SG ,6-6,170,Westside,Macon,GA,0.9857,35,7,3,florida
+2021,46058444,Langston Love, SG ,6-4,190,Montverde Academy,San Antonio,TX,0.9857,36,8,6,baylor
+2021,46086033,Tyrese Hunter, PG ,6-1,175,St Catherines,Racine,WI,0.9856,37,5,2,iowa state
+2021,46096746,Enoch Boakye, C ,6-10,240,George Harris Prep,Mississauga,ON,0.9854,38,5,1,arizona state
+2021,46100032,Josh Minott, SF ,6-8,175,St Andrew's School,Boca Raton,FL,0.9845,39,9,7,memphis
+2021,46076617,Zach Clemence, PF ,6-9,210,Sunrise Christian,San Antonio,TX,0.9840,40,10,3,kansas
+2021,46085755,Kobe Bufkin, CG ,6-4,175,Grand Rapids Christian,Grand Rapids,MI,0.9837,41,4,1,michigan
+2021,46057181,DaRon Holmes, PF ,6-8,195,Montverde Academy,Montverde,FL,0.9836,42,11,8,dayton
+2021,46055603,Arthur Kaluma, PF ,6-8,205,Dream City Christian,Glendale,AZ,0.9831,43,12,3,NULL
+2021,46086331,Tamar Bates, SG ,6-4,175,IMG Academy,Bradenton,FL,0.9822,44,9,9,indiana
+2021,46049202,Will McClendon, SG ,6-3,190,Bishop Gorman,Las Vegas,NV,0.9820,45,10,2,ucla
+2021,46059172,Isael Silva, PG ,6-3,185,Prolific Prep,Napa,CA,0.9819,46,6,3,stanford
+2021,46076625,Jordan Longino, SG ,6-5,195,Germantown Academy,Fort Washington,PA,0.9815,47,11,3,villanova
+2021,46056543,Rahsool Diggins, PG ,6-1,160,Archbishop Wood,Philadelphia,PA,0.9810,48,7,4,uconn
+2021,46086193,Jordan Hawkins, SG ,6-5,170,DeMatha Catholic,Hyattsville,MD,0.9808,49,12,1,uconn
+2021,46057312,Daeshun Ruffin, PG ,5-9,160,Callaway,Jackson,MS,0.9807,50,8,1,ole miss
+2021,46058970,Frankie Collins, PG ,6-1,180,Coronado,Henderson,NV,0.9806,51,9,3,michigan
+2021,46084880,Kaden Perry, C ,6-8,210,Battle Ground,Battle Ground,WA,0.9804,52,6,2,gonzaga
+2021,46057180,Dallan Coleman, SG ,6-6,210,West Nassau County,Callahan,FL,0.9802,53,13,10,georgia tech
+2021,46086703,Jaden Akins, PG ,6-3,160,Ypsi Prep Academy,Ypsilanti,MI,0.9801,54,10,2,michigan state
+2021,46086383,Jonas Aidoo, C ,6-11,215,Liberty Heights Athletic Institute,Charlotte,NC,0.9797,55,7,1,tennessee
+2021,46050303,Caleb Furst, PF ,6-8,215,Blackhawk Christian School,Fort Wayne,IN,0.9794,56,13,2,purdue
+2021,93797,Zion Harmon, PG ,5-10,160,Marshall County,Benton,KY,0.9786,57,11,1,western kentucky
+2021,46082372,Jahmai Mashack, SF ,6-5,190,Etiwanda,Rancho Cucamonga,CA,0.9785,58,10,4,tennessee
+2021,46086385,Lawson Lovering, C ,7-0,220,Cheyenne Central,Cheyenne,WY,0.9783,59,8,1,colorado
+2021,46057789,John Butler, C ,7-1,190,Christ Church Episcopal School,Greenville,SC,0.9776,60,9,2,florida state
+2021,46056812,Dontrez Styles, SF ,6-7,205,Kinston,Kinston,NC,0.9768,61,11,2,north carolina
+2021,46058515,Pierre Brooks, SF ,6-6,205,Douglass Academy,Detroit,MI,0.9768,62,12,3,michigan state
+2021,46097669,Samson Johnson, C ,6-10,205,St. Patrick,Elizabeth,NJ,0.9766,63,10,1,uconn
+2021,46085002,D'Marco Dunn, SG ,6-4,180,Westover,Fayetteville,NC,0.9765,64,14,3,north carolina
+2021,46084344,Ernest Ross, PF ,6-9,210,Santa Fe,Alachua,FL,0.9764,65,14,11,north carolina state
+2021,46056753,Roosevelt Wheeler, C ,6-10,220,John Marshall,Richmond,VA,0.9751,66,11,2,louisville
+2021,46054284,Jerrell Colbert, C ,6-9,210,Houston,Germantown,TN,0.9751,67,12,1,lsu
+2021,46083695,Jackson Grant, C ,6-9,205,Olympia,Olympia,WA,0.9746,68,13,3,washington
+2021,46057565,KJ Adams, PF ,6-7,200,Westlake,Austin,TX,0.9741,69,15,5,kansas
+2021,46049846,Trey Alexander, SG ,6-4,185,Heritage Hall,Oklahoma City,OK,0.9739,70,15,1,NULL
+2021,46099270,Fanbo Zeng, PF ,6-9,190,Windermere Prep,Windermere,FL,0.9735,71,16,12,gonzaga
+2021,46086194,Jakai Robinson, SF ,6-4,200,Rock Creek Christian Academy,Upper Marlboro,MD,0.9729,72,13,2,miami
+2021,46085465,Logan Duncomb, C ,6-9,235,Archbishop Moeller,Cincinnati,OH,0.9728,73,14,2,indiana
+2021,46093891,Michael James, SF ,6-6,195,Oak Ridge,Orlando,FL,0.9719,74,14,13,louisville
+2021,46082135,Mason Miller, PF ,6-9,180,Houston,Germantown,TN,0.9714,75,17,2,creighton
+2021,46085759,Julian Reese, PF ,6-9,230,St. Frances Academy,Owings Mills,MD,0.9714,76,18,3,maryland
+2021,46048816,Ahamad Bynum, SG ,6-1,175,Simeon,Chicago,IL,0.9712,77,16,3,depaul
+2021,46039620,Brandon Weston, SF ,6-5,195,Hillcrest Prep,Phoenix,AZ,0.9710,78,15,4,seton hall
+2021,46080136,Quincy Allen, SF ,6-7,190,Maret School,Washington,DC,0.9699,79,16,1,colorado
+2021,46057749,Shane Nowell, SG ,6-5,190,Eastside Catholic,Sammamish,WA,0.9691,80,17,4,arizona
+2021,46057956,Malik Thomas, CG ,6-3,190,Damien,La Verne,CA,0.9690,81,5,5,usc
+2021,46099741,Taine Murray, SG ,6-5,190,New Zealand,New Zealand,NEW,0.9675,82,18,1,virginia
+2021,46079586,Terquavion Smith, SG ,6-3,180,Farmville Central,Farmville,NC,0.9669,83,19,4,north carolina state
+2021,46084215,Nnanna Njoku, C ,6-9,245,Sanford School,Hockessin,DE,0.9668,84,15,1,villanova
+2021,46093889,Stevie Mitchell, PG ,6-2,175,Wilson,Reading,PA,0.9664,85,12,5,marquette
+2021,46079929,K.J. Simpson, CG ,6-2,175,Chaminade,West Hills,CA,0.9662,86,6,6,NULL
+2021,46059386,Ryan Nembhard, PG ,6-1,165,Montverde Academy,Montverde,FL,0.9656,87,13,14,creighton
+2021,46100999,Miles Kelly, SG ,6-5,175,Hargrave Military Academy,HS) ,NULL,0.9637,88,20,3,georgia tech
+2021,46085454,Jusaun Holt, SF ,6-6,200,St Francis Day School,Roswell,GA,0.9635,89,17,4,alabama
+2021,46079587,Bobby Pettiford, PG ,6-1,175,South Granville Of Business And Global Commun,Durham,NC,0.9629,90,14,5,kansas
+2021,46057671,Shane Dezonie, SG ,6-4,190,Brewster Academy,Wolfeboro,NH,0.9626,91,21,1,NULL
+2021,46055362,Chance Moore, SG ,6-5,195,McEachern,Powder Springs,GA,0.9625,92,22,5,arkansas
+2021,46086079,Tucker DeVries, SF ,6-6,190,Waukee Senior,Waukee,IA,0.9619,93,18,1,drake
+2021,46057562,Bensley Joseph, PG ,6-1,165,Putnam Science Academy,Putnam,CT,0.9613,94,15,1,miami
+2021,46041971,Johnathan Lawson, SF ,6-6,165,Wooddale,Memphis,TN,0.9612,95,19,3,memphis
+2021,46100041,CJ Noland, SG ,6-3,215,Waxahachie,Waxahachie,TX,0.9605,96,23,6,oklahoma
+2021,46059371,Luke Goode, SF ,6-7,200,Homestead,Fort Wayne,IN,0.9573,97,20,3,illinois
+2021,46099866,Brandon Murray, SG ,6-5,200,IMG Academy,Bradenton,FL,0.9572,98,24,15,lsu
+2021,46057858,Wilhelm Breidenbach, C ,6-9,200,Mater Dei,Santa Ana,CA,0.9568,99,16,7,nebraska
+2021,46086336,Casey Simmons, SG ,6-5,170,Milton Academy,Milton,MA,0.9561,100,25,1,northwestern
+2021,46093897,Ramses Melendez, SF ,6-7,190,Central Pointe Christian,Kissimmee,FL,0.9543,101,21,16,illinois
+2021,46094089,Jeremy Sochan, PF ,6-8,215,Orange Academy,Germany,GERM,0.9540,102,19,1,baylor
+2021,46049201,Zaon Collins, PG ,6-1,165,Bishop Gorman,Las Vegas,NV,0.9494,103,16,4,NULL
+2021,46055568,Wesley Cardet, SF ,6-6,175,West Oaks Academy,Orlando,FL,0.9491,104,22,17,samford
+2021,46086980,Kyle Cuffe Jr., SG ,6-2,180,Blair Academy,Blairstown,NJ,0.9480,105,26,2,kansas
+2021,46097661,Ike Cornish, SF ,6-6,185,Legacy Charter,Baltimore,MD,0.9432,106,23,3,maryland
+2021,46093892,Jaylen Blakes, PG ,6-2,195,Blair Academy,Blairstown,NJ,0.9421,107,17,3,duke
+2021,46085899,Isaiah Barnes, SF ,6-6,180,Simeon,Chicago,IL,0.9390,108,24,4,michigan
+2021,46097931,Emarion Ellis, CG ,6-5,175,Assumption,Davenport,IA,0.9389,109,7,2,marquette
+2021,46058132,Wade Taylor, PG ,5-10,180,Lancaster,Lancaster,TX,0.9388,110,18,7,texas am
+2021,46083365,Blake Wesley, SG ,6-4,170,Riley,South Bend,IN,0.9381,111,27,4,notre dame
+2021,46094162,Ryan Mutombo, C ,6-11,235,Lovett School,Atlanta,GA,0.9376,112,17,6,georgetown
+2021,46100043,Darius Johnson, PG ,6-0,180,Episcopal,Alexandria,VA,0.9371,113,19,4,central florida
+2021,46058956,Cesare Edwards, C ,6-10,205,Hartsville,Hartsville,SC,0.9368,114,18,4,xavier
+2021,46085751,Sam Ayomide, C ,6-11,255,The Phelps School,Malvern,PA,0.9364,115,19,6,memphis
+2021,46050550,David Joplin, PF ,6-7,215,Brookfield Central,Brookfield,WI,0.9363,116,20,3,marquette
+2021,46101145,Nisine Poplar, SG ,6-4,180,Math Civics And Sciences Cs,Philadelphia,PA,0.9342,117,28,7,miami
+2021,46109232,Cameron Hildreth, SG ,6-4,180,England,England,ENGL,0.9331,118,29,1,wake forest
+2021,46085760,Jordan Riley, SG ,6-4,195,Brentwood,Brentwood,NY,0.9327,119,30,2,georgetown
+2021,46056383,Chucky Hepburn, PG ,6-1,185,Bellevue West,Bellevue,NE,0.9311,120,20,2,wisconsin
+2021,46103577,Jalon Moore, SF ,6-6,200,Gardendale,Gardendale,AL,0.9305,121,25,2,georgia tech
+2021,46057675,Treyton Thompson, C ,6-11,190,La Lumiere School,La Porte,IN,0.9302,122,20,5,minnesota
+2021,46101199,Rafael Castro, PF ,6-9,200,Dover,Dover,NJ,0.9298,123,21,4,providence
+2021,46080019,Tyler Powell, SF ,6-5,210,Ribet Academy,Los Angeles,CA,0.9291,124,26,8,seton hall
+2021,46086380,Jacobi Wright, CG ,6-2,170,Legacy Charter,Greenville,SC,0.9287,125,8,5,south carolina
+2021,46085167,Angelo Brizzi, CG ,6-3,170,Highland,Warrenton,VA,0.9282,126,9,5,villanova
+2021,46085456,Elijah Tucker, PF ,6-7,190,Cherokee,Canton,GA,0.9280,127,22,7,xavier
+2021,46113052,Camryn Carter, SG ,6-3,180,Oak Hill Academy,Mouth Of Wilson,VA,0.9275,128,31,6,mississippi state
+2021,46103352,Zhuric Phelps, PG ,6-3,175,Duncanville,Duncanville,TX,0.9275,129,21,8,smu
+2021,46080358,Devin Carter, CG ,6-4,175,Brewster Academy,Wolfeboro,NH,0.9273,130,10,2,south carolina
+2021,46085915,Kaleb Washington, SF ,6-7,185,Pebblebrook,Mableton,GA,0.9271,131,27,8,dayton
+2021,46097405,Robert McCray, CG ,6-3,170,A C Flora,Columbia,SC,0.9264,132,11,6,wake forest
+2021,46056541,John Camden, SF ,6-7,195,Brewster Academy,Wolfeboro,NH,0.9264,133,28,3,memphis
+2021,46058630,Joshua Beadle, CG ,6-3,168,Cardinal Newman School,Columbia,SC,0.9260,134,12,7,clemson
+2021,46055704,AJ Neal, CG ,6-1,175,West Oaks Academy,Orlando,FL,0.9256,135,13,18,NULL
+2021,46099488,Ja'Vier Francis, C ,6-8,200,Montverde Academy,Montverde,FL,0.9255,136,21,19,houston
+2021,46102828,Sean Pedulla, CG ,6-1,175,Memorial,Edmond,OK,0.9252,137,14,2,virginia tech
+2021,46085552,J.R. Konieczny, SF ,6-6,170,St Joseph's,South Bend,IN,0.9251,138,29,6,notre dame
+2021,46085855,Peyton Daniels, CG ,6-2,165,Tri-Cities,Atlanta,GA,0.9247,139,15,9,vanderbilt
+2021,46085888,Payton Sandfort, PF ,6-8,210,Waukee Senior,Waukee,IA,0.9235,140,23,3,iowa
+2021,46086865,Jake Wahlin, PF ,6-7,180,Timpview,Provo,UT,0.9231,141,24,2,byu
+2021,46057257,Ryan Conway, PG ,6-1,160,Dulaney,Lutherville Timonium,MD,0.9230,142,22,4,seton hall
+2021,46059504,Kalen Etzler, PF ,6-8,195,Crestview,Convoy,OH,0.9224,143,25,3,ohio state
+2021,46076615,Kenny Pohto, C ,6-11,240,Sunrise Christian,Wichita,KS,0.9219,144,22,4,NULL
+2021,46101000,Will Tschetter, PF ,6-8,225,Stewartville Senior,Stewartville,MN,0.9216,145,26,2,michigan
+2021,46054952,KeShawn Murphy, PF ,6-10,220,Ramsay,Birmingham,AL,0.9216,146,27,3,mississippi state
+2021,46076614,Anton Brookshire, CG ,6-0,155,Kickapoo,Springfield,MO,0.9209,147,16,2,missouri
+2021,46047367,Tyler Beard, CG ,6-2,175,Hargrave Military Academy,HS) ,NULL,0.9203,148,17,7,georgetown
+2021,46057141,Matthew Mors, PF ,6-7,220,Yankton - 01,Yankton,SD,0.9195,149,28,1,wisconsin
+2021,46080586,Yaya Keita, C ,6-9,210,DeSmet,Saint Louis,MO,0.9172,150,23,3,missouri
+2021,46086379,Malachi Smith, CG ,6-0,155,St. Raymond For Boys,Bronx,NY,0.9167,151,18,3,dayton
+2021,46093854,Brooks Barnhizer, SF ,6-6,200,Jefferson,Lafayette,IN,0.9154,152,30,7,northwestern
+2021,46058930,Julian Roper, SG ,6-3,183,St. Mary's,Franklin,MI,0.9150,153,32,4,northwestern
+2021,46100420,Ian Schieffelin, PF ,6-8,225,Grayson,Loganville,GA,0.9142,154,29,10,clemson
+2021,46056678,Chris Hodges, PF ,6-8,235,Schaumburg,Schaumburg,IL,0.9142,155,30,5,wisconsin
+2021,46102625,Keeyan Itejere, PF ,6-9,190,Grace Christian School,Raleigh,NC,0.9142,156,31,6,marquette
+2021,46082379,Marsalis Roberson, SG ,6-5,180,Bishop O'Dowd,Oakland,CA,0.9091,157,33,9,california
+2021,46102373,Brandin Podziemski, SG ,6-5,195,St. John's Northwestern Academies,Delafield,WI,0.9071,158,34,4,illinois
+2021,46086961,"Glenn Taylor, Jr.", SF ,6-6,190,Compass Prep,Chandler,AZ,0.9057,159,31,5,NULL
+2021,46101019,Ramon Walker, SF ,6-5,195,Shadow Creek,Pearland,TX,0.9045,160,32,9,houston
+2021,46102687,Kameron Jones, SG ,6-4,180,Evangelical Christian,Cordova,TN,0.9039,161,35,4,marquette
+2021,46055230,Obinna Anyanwu, PF ,6-7,215,Cathedral Catholic,San Diego,CA,0.9039,162,32,10,california
+2021,46110552,Teafale Lenard, SF ,6-7,170,Link Year Prep,Branson,MO,0.9029,163,33,4,tulsa
+2021,46057212,Alden Applewhite, SF ,6-7,210,Compass Prep,Chandler,AZ,0.9025,164,34,6,mississippi state
+2021,46083463,Breon Pass, PG ,6-0,175,Reidsville,Reidsville,NC,0.8982,165,23,7,north carolina state
+2021,46050625,Jaquan Carlos, PG ,6-1,160,Thomas Jefferson HS,Brooklyn,NY,0.8973,166,24,4,hofstra
+2021,46076613,Kordell Charles, SF ,6-6,190,IMG Academy,Bradenton,FL,0.8972,167,35,20,NULL
+2021,46102367,Jamel King, SF ,6-7,180,Bella Vista Prep,Scottsdale,AZ,0.8967,168,36,7,new mexico
+2021,46101613,Gianni Thompson, PF ,6-8,205,Brimmer And May School,Chestnut Hill,MA,0.8957,169,33,2,boston college
+2021,46097918,Gabe Dorsey, SF ,6-6,200,The Hill School,Pottstown,PA,0.8957,170,37,8,vanderbilt
+2021,46058043,Louis Lesmond, SG ,6-5,190,Notre Dame College Prep,Evanston,IL,0.8955,171,36,6,harvard
+2021,46085093,James Nobles, SG ,6-3,160,Birmingham,Van Nuys,CA,0.8953,172,37,11,NULL
+2021,46086001,"Mike Mitchell, Jr.", PG ,6-2,175,Archbishop Mitty,San Jose,CA,0.8945,173,25,12,pepperdine
+2021,46093802,Lucas Taylor, SG ,6-6,185,Heritage,Wake Forest,NC,0.8945,174,38,8,wake forest
+2021,46084460,Demari Williams, SG ,6-6,210,Dream City Christian,Glendale,AZ,0.8943,175,39,8,arizona state
+2021,46085761,Jalen Brown, SG ,6-3,175,Trezevant,Memphis,TN,0.8940,176,40,5,NULL
+2021,46093836,William Felton, PF ,6-8,220,Hargrave Military Academy,HS) ,NULL,0.8935,177,34,8,arizona state
+2021,46076620,Harrison Hornery, PF ,6-9,210,Mater Dei,Santa Ana,CA,0.8931,178,35,13,usc
+2021,46102819,Mannie Harris, CG ,6-3,170,Mitchell County,Camilla,GA,0.8930,179,19,11,georgia southern
+2021,46097732,"Demarshay Johnson, Jr.", C ,6-9,210,Salesian,Richmond,CA,0.8926,180,24,14,san diego state
+2021,46058669,Bijan Cortes, PG ,6-1,160,Kingfisher,Kingfisher,OK,0.8926,181,26,3,oklahoma
+2021,46101081,James White, SG ,6-5,175,Heritage,Conyers,GA,0.8923,182,41,12,ole miss
+2021,46103325,Trevon Brazile, SF ,6-7,180,Parkview,Springfield,MO,0.8921,183,38,5,missouri
+2021,46083683,Houston Mallette, CG ,6-5,170,Pacifica Christian,Newport Beach,CA,0.8914,184,20,15,pepperdine
+2021,46079376,Lamaj Lewis, CG ,6-4,175,St. John Bosco,Bellflower,CA,0.8912,185,21,16,NULL
+2021,46051866,Seth Wilson, CG ,6-1,185,Lorain,Lorain,OH,0.8911,186,22,4,west virginia
+2021,46085570,Kok Yat, PF ,6-8,185,Norcross,Norcross,GA,0.8908,187,36,13,depaul
+2021,46086320,Erik Reynolds, CG ,6-2,170,The Bullis School,Potomac,MD,0.8901,188,23,5,saint josephs
+2021,46059525,Brayon Freeman, PG ,6-1,160,Huntington Prep,Arlington,VA,0.8898,189,27,1,george washington
+2021,46057444,Alexis Reyes, SG ,6-7,190,Cushing Academy,Roxbury,MA,0.8892,190,42,3,east carolina
+2021,46086727,Oleg Kojenets, C ,6-10,215,Western Reserve Academy,Hudson,OH,0.8890,191,25,17,nebraska
+2021,46109968,Nate Barnhart, C ,6-10,195,De Soto   School,De Soto,KS,0.8886,192,26,5,wyoming
+2021,46101496,Javon Ruffin, SG ,6-5,195,Isidore Newman,New Orleans,LA,0.8886,193,43,1,colorado
+2021,46095050,Harold Yu, C ,7-3,260,Sierra Canyon,Chatsworth,CA,0.8881,194,27,18,NULL
+2021,46099442,Trey Moss, PG ,6-3,170,Windermere Prep,Windermere,FL,0.8880,195,28,21,south florida
+2021,46058067,Jalen Ricks, SG ,6-6,195,Oak Hill Academy,Mouth Of Wilson,VA,0.8876,196,44,9,NULL
+2021,46085640,Eric Van Der Heijden, PF ,6-9,205,Millbrook,Raleigh,NC,0.8874,197,37,9,ole miss
+2021,46059049,Akoldah Gak, PF ,6-11,200,Blair Academy,Australia,AUST,0.8873,198,38,5,NULL
+2021,46101614,Khalil Brantley, PG ,6-0,165,Boys & Girls,Brooklyn,NY,0.8873,199,29,5,NULL
+2021,46056581,Pierce Thomas, SF ,6-5,195,Brownsburg,Brownsburg,IN,0.8872,200,39,8,butler
+2021,46086186,Jalin Billingsley, PF ,6-7,195,Lutheran East,Cleveland,OH,0.8868,201,39,5,georgetown
+2021,46101363,Markus Ilver, PF ,6-8,195,Western Reserve Academy,Hudson,OH,0.8866,202,40,6,wisconsin
+2021,46059501,Josh Farmer, PF ,6-9,180,Sharpstown,Houston,TX,0.8864,203,41,10,utsa
+2021,46076619,John Christofilis, SG ,6-4,170,O'Dea,Seattle,WA,0.8863,204,45,5,creighton
+2021,46058665,Rafael Pinzon, SG ,6-5,175,Long Island Lutheran,Glen Head,NY,0.8859,205,46,6,saint johns
+2021,46079141,Tre Carroll, PF ,6-7,205,Charlotte,Punta Gorda,FL,0.8854,206,42,22,florida atlantic
+2021,46085165,Wayne McKinney, CG ,5-11,185,Coronado,Coronado,CA,0.8854,207,24,19,san diego
+2021,46036338,Elijah Hutchins-Everett, C ,6-10,225,Putnam Science Academy,Orange,NJ,0.8849,208,28,2,austin peay
+2021,46079344,Keshon Gilbert, PG ,6-1,170,Durango,Las Vegas,NV,0.8848,209,30,5,unlv
+2021,46094968,Ty Harper, CG ,6-3,170,Santa Clarita Christian School,Canyon Country,CA,0.8847,210,25,20,louisiana
+2021,46100050,Jalen Miller, PG ,6-3,190,Bishop Walsh School,Washington,DC,0.8846,211,31,6,rutgers
+2021,46101516,Ashton Smith, C ,6-9,230,Legacy the School of Sport Sciences,Spring,TX,0.8845,212,29,11,texas am
+2021,46086235,Robbie Armbrester, PF ,6-6,215,Wasatch Academy,Atlanta,GA,0.8836,213,43,3,houston
+2021,46085715,Nathan Rawlins-Kibonge, PF ,6-7,240,Jefferson,Portland,OR,0.8835,214,44,1,NULL
+2021,46083718,Justin Rochelin, SF ,6-4,175,Heritage Christian,Northridge,CA,0.8831,215,40,21,arizona state
+2021,46102234,Camron McDowell, SG ,6-5,170,McEachern,Powder Springs,GA,0.8830,216,47,14,georgia
+2021,46103157,Jalen Lake, SG ,6-4,185,Waxahachie,Waxahachie,TX,0.8826,217,48,12,colorado state
+2021,46082607,PJ Eason, PF ,6-9,210,Potter's House Christian Academy,Dadeville,AL,0.8823,218,45,23,NULL
+2021,46094905,Grant Slatten, SG ,6-5,192,White County,Sparta,TN,0.8823,219,49,6,ole miss
+2021,46054937,D.J. Hughes, PF ,6-7,215,Lawrence North,Indianapolis,IN,0.8822,220,46,9,butler
+2021,46083631,Bennett Pitcher, C ,6-7.5,273,Deerfield Academy,Deerfield,MA,0.8821,221,30,4,harvard
+2021,46102889,Myles Rice, PG ,6-2,175,Sandy Creek,Tyrone,GA,0.8819,222,32,15,washington state
+2021,46036179,Lynn Greer III, PG ,6-2,185,Roman Catholic,Philadelphia,PA,0.8817,223,33,9,dayton
+2021,46104076,Stefan Todorovic, SF ,6-8,190,Prolific Prep,Napa,CA,0.8814,224,41,22,smu
+2021,46097758,Kuluel Mading, PF ,6-9,190,The Burlington School,Burlington,NC,0.8814,225,47,10,buffalo
+2021,46101923,Logan Landers, C ,6-10,230,Cedarburg,Cedarburg,WI,0.8812,226,31,5,kansas state
+2021,46100948,Sean Durugordon, SF ,6-7,215,Putnam Science Academy,Putnam,CT,0.8811,227,42,3,missouri
+2021,46085356,David Elliott, CG ,6-2,175,Birmingham,Van Nuys,CA,0.8806,228,26,23,NULL
+2021,46057850,Nate Santos, SF ,6-7,205,The Loomis Chaffee School,Windsor,CT,0.8805,229,43,4,pittsburgh
+2021,46086236,AJ White, PG ,5-10,155,Chattahoochee,Alpharetta,GA,0.8800,230,34,16,NULL
+2021,46085094,Brenton Knapper, PG ,5-11,165,Colony,Ontario,CA,0.8798,231,35,24,NULL
+2021,46058182,Bradley Ezewiro, C ,6-8,230,Oak Hill Academy,Torrance,CA,0.8785,232,32,10,lsu
+2021,46085758,Daniel Nixon, SF ,6-7,210,Winston Salem Christian School,New York,NY,0.8780,233,44,11,george washington
+2021,46104178,Julian Hammond, CG ,6-2,180,Cherry Creek,Englewood,CO,0.8779,234,27,1,colorado
+2021,46102708,Saint Thomas, SF ,6-6,200,Millard North,Omaha,NE,0.8778,235,45,3,NULL
+2021,46083575,Jalen Weaver, SF ,6-4,185,Southern California Academy,Castaic,CA,0.8771,236,46,25,nevada
+2021,46050387,Jalen Blackmon, CG ,6-1,155,Marion,Marion,IN,0.8765,237,28,10,NULL
+2021,46100046,Camaron Tongue, PF ,6-8,215,The Rivers School,Weston,MA,0.8756,238,48,5,NULL
+2021,46086203,Jayden Taylor, CG ,6-3,170,Perry Meridian,Indianapolis,IN,0.8756,239,29,11,butler
+2021,46095006,Riley Mulvey, C ,6-11,230,St. Thomas More,Albany,NY,0.8737,240,33,5,iowa
+2021,46076626,Duncan Powell, PF ,6-8,220,DeSoto,DeSoto,TX,0.8726,241,49,13,ncat
+2021,46085141,Denim Dawson, SF ,6-5,180,Colony,Ontario,CA,0.8710,242,47,26,NULL
+2021,46085096,Chris Howell, SG ,6-5,185,San Marcos,San Marcos,CA,0.8694,243,50,27,st marys
+2021,46086195,Andrew McConnell, PG ,6-0,155,Lanier,Buford,GA,0.8689,244,36,17,james madison
+2021,46058937,Kobe Johnson, SG ,6-5,170,Nicolet,Sun Prairie,WI,0.8689,245,51,6,usc
+2021,46085717,Deiman Reyes, C ,6-8,230,Veritas Prep,Garden Grove,CA,0.8689,246,34,28,NULL
+2021,46100047,Legend Geeter, PF ,6-7,220,River Rouge,River Rouge,MI,0.8689,247,50,5,providence
+2021,46102542,Tyrone Baker, PF ,6-9,190,Hightower,Missouri City,TX,0.8689,248,51,14,georgia
+2021,46086313,Tyler Simon, CG ,6-4,180,Dream City Christian,Glendale,AZ,0.8677,249,30,9,harvard
+2021,46083931,Taihland Owens, SG ,6-4,180,Cherokee,Canton,GA,0.8669,250,52,18,NULL
+2021,46100344,R.J. Keene, SF ,6-7,190,Concordia Lutheran,Tomball,TX,0.8669,251,48,15,boise state
+2021,46094090,Tyler Lundblade, SG ,6-4,185,Greensboro Day School,Greensboro,NC,0.8656,252,53,12,NULL
+2021,46054696,Emareyon McDonald, PG ,6-1,150,Scotlandville Magnet,Baton Rouge,LA,0.8656,253,37,2,NULL
+2021,46076621,T.J. Wainwright, PG ,6-3,170,Westchester Senior,Los Angeles,CA,0.8656,254,38,29,NULL
+2021,46103372,Sir Issac Herron, C ,6-9,210,Legacy the School of Sport Sciences,Spring,TX,0.8648,255,35,16,oral roberts
+2021,46054289,Bretner Mutombo, C ,6-10,210,Hamilton Heights Christian Academy,Chattanooga,TN,0.8648,256,36,7,NULL
+2021,46058782,Jaylen Murray, PG ,5-9,140,Putnam Science Academy,Putnam,CT,0.8635,257,39,6,NULL
+2021,46086134,TaQuan Woodley, PF ,6-7,220,Camden,Camden,NJ,0.8635,258,52,6,south carolina
+2021,46057641,Nicholas Kern, SF ,6-5,180,Vashon,Saint Louis,MO,0.8635,259,49,6,virginia commonwealth
+2021,46102630,Nate Tshimanga, C ,6-9,220,North Central Texas Academy,Granbury,TX,0.8635,260,37,17,NULL
+2021,46059533,Kaleb Stewart, PG ,6-3,180,Atascocita,Humble,TX,0.8628,261,40,18,louisiana tech
+2021,46094393,Carlous Williams, PF ,6-6,230,Harrison Central,Gulfport,MS,0.8628,262,53,2,south carolina
+2021,46110287,Jamiya Neal, SF ,6-6,185,Hillcrest Prep,Phoenix,AZ,0.8628,263,50,10,arizona state
+2021,46113454,Alston Mason, PG ,6-1,175,Blue Valley Northwest,Overland Park,KS,0.8628,264,41,6,oklahoma
+2021,46103630,Jarvis Moss, SG ,6-4,170,Cannon School,Concord,NC,0.8628,265,54,13,stanford
+2021,46101960,Mouhamed Lamine Mbaye, PF ,6-9,215,Colorado Prep,Senegal,SENE,0.8628,266,54,2,george mason
+2021,46049793,Trey James, C ,6-10,220,Sheldon Clark,Inez,KY,0.8627,267,38,2,iona
+2021,46102914,Abdou Samb, PF ,6-8,210,Frederick Douglass,Upper Marlboro,MD,0.8625,268,55,7,rhode island
+2021,46081331,Jalen Deloach, PF ,6-8,190,Berkmar,Lilburn,GA,0.8614,269,56,19,virginia commonwealth
+2021,46058294,Nick Davidson, C ,6-8,210,Mater Dei,Santa Ana,CA,0.8614,270,39,30,nevada
+2021,46076624,Chuks Isitua, C ,6-10,220,Yates,Houston,TX,0.8606,271,40,19,NULL
+2021,46098105,Nana Owusu-Anane, PF ,6-8,215,Vermont Academy,Saxtons River,VT,0.8606,272,57,1,brown
+2021,46101255,Hysier Miller, PG ,6-1,170,Neumann Goretti,Philadelphia,PA,0.8602,273,42,10,temple
+2021,46086197,Noah Robledo, SF ,6-6,185,Leander,Leander,TX,0.8594,274,51,20,columbia
+2021,46077065,Shaqir O'Neal, SG ,6-5,170,Union Grove,McDonough,GA,0.8593,275,55,20,NULL
+2021,46058048,Jaylon McDaniel, PF ,6-6,195,Sunrise Christian,Wichita,KS,0.8593,276,58,7,etsu
+2021,46059207,Sekou Gassama, C ,6-10,205,DeSmet,Saint Louis,MO,0.8593,277,41,7,pepperdine
+2021,46083697,Dallin Grant, SF ,6-7,200,Cedar City,Cedar City,UT,0.8581,278,52,4,utah state
+2021,46103377,RJ Noord, PG ,6-3,175,Heritage,Conyers,GA,0.8578,279,43,21,elon
+2021,46094291,Jalen Smith, PG ,6-3,180,Oak Ridge,Orlando,FL,0.8578,280,44,24,smu
+2021,46098914,Denham Wojcik, PG ,6-1,165,Porter-Gaud School,Charleston,SC,0.8578,281,45,8,harvard
+2021,46094074,Isaiah Nelson-Ododa, PF ,6-9,195,Winder-Barrow,Winder,GA,0.8578,282,59,22,NULL
+2021,46086233,Danny Stubbs, CG ,6-0,165,Pebblebrook,Mableton,GA,0.8578,283,31,23,georgia state
+2021,46083625,Joseph Venzant, SG ,6-3,170,Midland Christian,Midland,TX,0.8578,284,56,21,liberty
+2021,46097224,Nate Johnson, SG ,6-3,185,Lakota East,Middletown,OH,0.8578,285,57,7,akron
+2021,46086034,T.J. Morris, SG ,6-3,165,Christ The King Regional,Middle Village,NY,0.8578,286,58,7,NULL
+2021,46094574,Zach Hicks, PF ,6-7,185,Camden Catholic,Cherry Hill,NJ,0.8578,287,60,7,temple
+2021,46058670,Matthew Stone, SF ,6-4,180,Kingfisher,Kingfisher,OK,0.8578,288,53,4,north texas
+2021,46086329,Drew Williams, SF ,6-7,210,Scotland Campus,Chattanooga,TN,0.8578,289,54,11,tennessee state
+2021,46094047,Tyler Shirley, SF ,6-6,185,Pebblebrook,Mableton,GA,0.8578,290,55,24,south alabama
+2021,46103384,O'mar Stanley, C ,6-8,240,Link Year Prep,Branson,MO,0.8578,291,42,8,saint johns
+2021,46113738,Jackie Johnson, PG ,5-10,180,Hargrave Military Academy,HS) ,NULL,0.8578,292,46,11,duquesne
+2021,46115213,Quentin Diboundje, SG ,6-6,185,Montverde Academy,Montverde,FL,0.8573,293,59,25,tennessee
+2021,46079384,Tevin Smith, SF ,6-4,180,Danville,Danville,IL,0.8562,294,56,7,NULL
+2021,46057556,Jadin Johnson, PG ,6-3,170,Millard North,Omaha,NE,0.8562,295,47,4,old dominion
+2021,46103451,Drissa Traore, PF ,6-7,210,Long Island Lutheran,Glen Head,NY,0.8560,296,61,8,saint johns
+2021,46049895,Zaire Wade, CG ,6-3,170,Sierra Canyon,Chatsworth,CA,0.8560,297,32,31,NULL
+2021,46103560,James Repass, C ,6-10,250,Providence,Jacksonville,FL,0.8544,298,43,26,furman
+2021,46057595,Randy Brady, SF ,6-5,190,McEachern,Powder Springs,GA,0.8539,299,57,25,NULL
+2021,46083264,Christian Bento, C ,6-11,210,Bishop Gorman,Las Vegas,NV,0.8536,300,44,6,NULL
+2021,46050465,Malcolm Dread, SG ,6-4,170,Gonzaga,Washington,DC,0.8528,301,60,2,richmond
+2021,46094070,Jason Nelson, PG ,5-10,175,John Marshall,Richmond,VA,0.8528,302,48,12,richmond
+2021,46103469,Justin Neely, SF ,6-5,200,West Oaks Academy,Orlando,FL,0.8528,303,58,27,NULL
+2021,46103020,Brandon Sanders, C ,6-10,205,South Miami Senior,Miami,FL,0.8528,304,45,28,NULL
+2021,46058279,Jason Roche, SG ,6-4,180,St. Mary's College HS,Albany,CA,0.8525,305,61,32,citadel
+2021,46084348,Ryan Riggs, C ,6-9,205,Dowling Catholic,West Des Moines,IA,0.8515,306,46,4,NULL
+2021,46103542,Gavyn Elkamil, CG ,6-3,185,Link Year Prep,Branson,MO,0.8478,307,33,9,tulsa
+2021,46103375,Sterling Chapman, SG ,6-5,200,Campus Haysville,Wichita,KS,0.8478,308,62,8,tulsa
+2021,46110669,Devon Barnes, PG ,6-0,175,Shiloh,Snellville,GA,0.8456,309,49,26,NULL
+2021,46098063,Ben Schwieger, SG ,6-5,180,Waubonsie Valley,Aurora,IL,0.8417,310,63,8,loyola
+2021,46086315,Damon Nicholas, SG ,6-4,180,Duncanville,Duncanville,TX,0.8417,311,64,22,sam houston state
+2021,46104035,Chrisdon Morgan, C ,6-8,225,DeSoto,DeSoto,TX,0.8417,312,47,23,north texas
+2021,46098118,Malcolm Chimezie, PF ,6-7,220,Archbishop Stepinac,White Plains,NY,0.8393,313,62,9,boston
+2021,46102764,Jace Carter, SG ,6-5,210,Astronaut,Titusville,FL,0.8378,314,65,29,uic
+2021,46094130,Will Richard, CG ,6-5,170,Woodward Academy,Atlanta,GA,0.8367,315,34,27,belmont
+2021,46098074,Kyle Ross, PF ,6-7,215,Lake Central,Saint John,IN,0.8306,316,63,12,NULL
+2021,46086234,Jamall Clyce, SF ,6-6,180,Pebblebrook,Mableton,GA,0.8278,317,59,28,georgia state
+2021,46098119,Javian McCollum, CG ,6-0,160,Fort Myers,Fort Myers,FL,0.8278,318,35,30,NULL
+2021,46102818,AJ Braun, C ,6-9,215,Bishop Fenwick,Franklin,OH,0.8231,319,48,8,wright state
+2021,46085370,Michael Jefferson, SG ,6-6,180,Dohn Community,Cincinnati,OH,0.8167,320,66,9,NULL
+2021,46103371,Will Henderson, SF ,6-9,200,Scotland Campus,Richmond,VA,0.8117,321,60,12,NULL
