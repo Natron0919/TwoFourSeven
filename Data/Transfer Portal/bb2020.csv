@@ -1,405 +1,406 @@
-Year,Player,POS,Rating,Team_Old,Team_New,Conference_Old,Conference_New
-2020,Bryan Greenlee, PG ,0.8556,minnesota,san diego,Big Ten,West Coast
-2020,Andrew Nembhard, PG ,0.9926,florida,gonzaga,SEC,West Coast
-2020,Alterique Gilbert, PG ,0.9882,uconn,wichita state,Big East,American Athletic
-2020,DJ Carton, PG ,0.9880,ohio state,marquette,Big Ten,Big East
-2020,Chaundee Brown, SG ,0.9863,wake forest,michigan,ACC,Big Ten
-2020,Jalen Coleman-Lands, PG ,0.9859,depaul,iowa state,Big East,Big 12
-2020,Charles O'Bannon Jr., SG ,0.9837,usc,tcu,Pacific-12,Big 12
-2020,Elijah Weaver, PG ,0.9832,usc,dayton,Pacific-12,Atlantic 10
-2020,Jalen Carey, PG ,0.9788,syracuse,rhode island,ACC,Atlantic 10
-2020,Isaiah Washington, PG ,0.9753,iona,long beach state,MAAC,Big West
-2020,Landers Nolley, SG ,0.9752,virginia tech,memphis,ACC,American Athletic
-2020,Alex O'Connell, SG ,0.9708,duke,creighton,ACC,Big East
-2020,Nojel Eastern, PG ,0.9706,purdue,howard,Big Ten,MEAC
-2020,Luther Muhammad, PG ,0.9704,ohio state,arizona state,Big Ten,Pacific-12
-2020,Darius Perry, PG ,0.9699,louisville,central florida,ACC,American Athletic
-2020,Eli Wright, SG ,0.9675,western kentucky,morgan state,Conference USA,MEAC
-2020,James Akinjo, PG ,0.9645,georgetown,arizona,Big East,Pacific-12
-2020,Trey McGowens, SG ,0.9635,pittsburgh,nebraska,ACC,Big Ten
-2020,Brycen Goodine, SG ,0.9596,syracuse,providence,ACC,Big East
-2020,Khalif Battle, CG ,0.9572,butler,temple,Big East,American Athletic
-2020,David DeJulius, PG ,0.9572,michigan,cincinnati,Big Ten,American Athletic
-2020,Bryce Aiken, PG ,0.9565,harvard,seton hall,Ivy,Big East
-2020,Jaylen Forbes, SG ,0.9555,alabama,tulane,SEC,American Athletic
-2020,Tevian Jones, SG ,0.9423,illinois,southern utah,Big Ten,Big Sky
-2020,Both Gach, SG ,0.9406,utah,minnesota,Pacific-12,Big Ten
-2020,Elias Valtonen, SG ,0.9378,arizona state,null,Pacific-12,NULL
-2020,Dahmir Bishop, CG ,0.9368,xavier,saint josephs,Big East,Atlantic 10
-2020,Tyler Harris, PG ,0.9364,memphis,iowa state,American Athletic,Big 12
-2020,Jordan Lathon, PG ,0.9360,utep,wisconsin milwaukee,Conference USA,Horizon
-2020,Jamal Bieniemy, SG ,0.9294,oklahoma,utep,Big 12,Conference USA
-2020,Issac McBride, PG ,0.9293,kansas,vanderbilt,Big 12,SEC
-2020,Serrel Smith, CG ,0.9277,maryland,etsu,Big Ten,Southern
-2020,Kyle Sturdivant, PG ,0.9274,usc,georgia tech,Pacific-12,ACC
-2020,Blake Harris, PG ,0.9266,north carolina state,ncat,ACC,MEAC
-2020,James Bishop, PG ,0.9244,lsu,george washington,SEC,Atlantic 10
-2020,Jakolby Long, SG ,0.9240,southern utah,southern illinois,Big Sky,Missouri Valley
-2020,Joshua Pierre-Louis, PG ,0.9213,temple,uc santa barbara,American Athletic,Big West
-2020,Grant Sherfield, CG ,0.9206,wichita state,nevada,American Athletic,Mountain West
-2020,Elias Harden, SG ,0.9187,jacksonville state,null,Ohio Valley,NULL
-2020,Flynn Cameron, PG ,0.9173,depaul,uc riverside,Big East,Big West
-2020,Caleb Grill, PG ,0.9111,iowa state,unlv,Big 12,Mountain West
-2020,Jeremiah Francis, PG ,0.9067,north carolina,new mexico,ACC,Mountain West
-2020,Alan Griffin, SG ,0.9038,illinois,syracuse,Big Ten,ACC
-2020,TJ Starks, PG ,0.9012,texas am,cal state northridge,SEC,Big West
-2020,Shawn Olden, CG ,0.9000,tcu,texas southern,Big 12,SWAC
-2020,Payton Willis, CG ,0.8999,minnesota,cofc,Big Ten,NULL
-2020,Samari Curtis, SG ,0.8971,nebraska,evansville,Big Ten,Missouri Valley
-2020,Elijah Hardy, PG ,0.8948,washington,portland state,Pacific-12,Big Sky
-2020,Anthony Nelson, PG ,0.8930,seton hall,manhattan,Big East,MAAC
-2020,Darius Banks, PG ,0.8894,james madison,chattanooga,CAA,Southern
-2020,Tyrese Martin, SG ,0.8880,rhode island,uconn,Atlantic 10,Big East
-2020,Shaun Williams, PG ,0.8862,kansas state,cal state bakersfield,Big 12,WAC
-2020,Noah Fernandes, PG ,0.8861,wichita state,massachusetts,American Athletic,Atlantic 10
-2020,Erik Stevenson, SG ,0.8856,wichita state,washington,American Athletic,Pacific-12
-2020,Mac McClung, PG ,0.8820,georgetown,texas tech,Big East,Big 12
-2020,Kobe King, SG ,0.8820,wisconsin,null,Big Ten,NULL
-2020,Javon Freeman-Liberty, SG ,0.8813,valparaiso,depaul,Missouri Valley,Big East
-2020,Qon Murphy, SG ,0.8813,houston baptist,new hampshire,Southland,America East
-2020,Eric Parrish, SG ,0.8800,nevada,utsa,Mountain West,Conference USA
-2020,Jonah Antonio, SG ,0.8800,unlv,wake forest,Mountain West,ACC
-2020,Brandon Knapper, PG ,0.8780,west virginia,eastern kentucky,Big 12,Ohio Valley
-2020,Sharone Wright Jr., PG ,0.8743,wake forest,null,ACC,NULL
-2020,Amauri Hardy, PG ,0.8740,unlv,oregon,Mountain West,Pacific-12
-2020,Julian Rishwain, SG ,0.8715,boston college,null,ACC,NULL
-2020,Frankie Hughes, PG ,0.8709,duquesne,san diego,Atlantic 10,West Coast
-2020,Bryce Williams, SG ,0.8678,ole miss,oklahoma state,SEC,Big 12
-2020,Zach Scott, PG ,0.8678,florida gulf coast,mcneese state,Atlantic Sun,Southland
-2020,Jalen Windham, SG ,0.8678,creighton,ball state,Big East,Mid-American
-2020,Devin Butts, CG ,0.8678,mississippi state,louisiana,SEC,Sun Belt
-2020,Cameron Mack, PG ,0.8628,nebraska,null,Big Ten,NULL
-2020,Isiah Brown, PG ,0.8628,weber state,null,Big Sky,NULL
-2020,Isaac White, PG ,0.8628,stanford,null,Pacific-12,NULL
-2020,Howard Washington, PG ,0.8616,syracuse,null,ACC,NULL
-2020,Ishmael El-Amin, PG ,0.8616,ball state,null,Mid-American,NULL
-2020,Keishawn Brewton, CG ,0.8600,coastal carolina,buffalo,Sun Belt,Mid-American
-2020,Jarred Hyder, CG ,0.8600,fresno state,california,Mountain West,Pacific-12
-2020,Daylen Kountz, CG ,0.8573,colorado,northern colorado,Pacific-12,Big Sky
-2020,Trey Wertz, SG ,0.8559,notre dame,null,ACC,NULL
-2020,Jamarius Burton, CG ,0.8556,wichita state,texas tech,American Athletic,Big 12
-2020,Trevor Moore, SG ,0.8556,cincinnati,morgan state,American Athletic,MEAC
-2020,Marquis Godwin, SG ,0.8522,old dominion,hampton,Conference USA,MEAC
-2020,Jaizec Lottie, PG ,0.8510,arkansas little rock,null,Sun Belt,NULL
-2020,Zach Chappell, PG ,0.8500,san jose state,sacramento state,Mountain West,Big Sky
-2020,Jake Wojcik, SG ,0.8500,richmond,fairfield,Atlantic 10,MAAC
-2020,Luis Hurtado, PG ,0.8496,alabama birmingham,bryant,Conference USA,Northeast
-2020,Ray Salnave, CG ,0.8435,monmouth,depaul,MAAC,Big East
-2020,Keon Clergeot, PG ,0.8435,massachusetts,southeastern louisiana,Atlantic 10,Southland
-2020,Elijah Thomas, SG ,0.8432,st marys,null,West Coast,NULL
-2020,Jalen Crutchfield, SG ,0.8400,stetson,null,Atlantic Sun,NULL
-2020,Jair Bolden, CG ,0.8385,south carolina,butler,SEC,Big East
-2020,Devin Gage, PG ,0.8385,depaul,fresno state,Big East,Mountain West
-2020,Jalen Harris, PG ,0.8360,arkansas,georgetown,SEC,Big East
-2020,Ryan Murphy, SG ,0.8356,pittsburgh,tulane,ACC,American Athletic
-2020,Ikenna Ndugba, PG ,0.8333,bryant,elon,Northeast,CAA
-2020,Drew Buggs, PG ,0.8333,hawaii,missouri,Big West,SEC
-2020,Terrell Gomez, PG ,0.8333,cal state northridge,san diego state,Big West,Mountain West
-2020,Nigel Hawkins, SG ,0.8300,utep,sfasu,Conference USA,Southland
-2020,David Sloan, PG ,0.8278,kansas state,etsu,Big 12,Southern
-2020,Logan Curtis, SG ,0.8278,east carolina,delaware,American Athletic,CAA
-2020,Asanti Price, SG ,0.8278,georgia tech,null,ACC,NULL
-2020,Davion Mintz, PG ,0.8218,creighton,kentucky,Big East,SEC
-2020,Dimencio Vaughn, SG ,0.8212,rider,ole miss,MAAC,SEC
-2020,Tahj Eaddy, SG ,0.8162,usc,null,Pacific-12,NULL
-2020,Quinn Richey, SG ,0.8005,james madison,null,CAA,NULL
-2020,Justin Thomas, PG ,0.7667,morehead state,null,Ohio Valley,NULL
-2020,Kobe Webster, PG ,0.7667,western illinois,nebraska,Summit,Big Ten
-2020,Quan Jackson, PG ,0.7000,georgia southern,alabama birmingham,Sun Belt,Conference USA
-2020,Tavian Percy, SG ,0.7000,new mexico,weber state,Mountain West,Big Sky
-2020,Darian Adams, SG ,NULL,troy,jacksonville state,Sun Belt,Ohio Valley
-2020,Christian Agnew, PG ,NULL,utep,null,Conference USA,NULL
-2020,Ahmed Ali, PG ,NULL,hawaii,portland,Big West,West Coast
-2020,Quin Barnard, PG ,NULL,washington,null,Pacific-12,NULL
-2020,Allen Betrand, SG ,NULL,towson,rhode island,CAA,Atlantic 10
-2020,Jordan Brinson, CG ,NULL,alabama birmingham,utah valley,Conference USA,WAC
-2020,Terrell Brown Jr., SG ,NULL,seattle,arizona,WAC,Pacific-12
-2020,Zack Bryant, PG ,NULL,alabama birmingham,georgia southern,Conference USA,Sun Belt
-2020,Dachon Burke, SG ,NULL,nebraska,south alabama,Big Ten,Sun Belt
-2020,Mark Carbone, SG ,NULL,new hampshire,null,America East,NULL
-2020,Jalen Cincore, SG ,NULL,georgia southern,null,Sun Belt,NULL
-2020,Brian Coffey, PG ,NULL,north florida,middle tennessee state,Atlantic Sun,Conference USA
-2020,Derrick Cook, SG ,NULL,jacksonville state,null,Ohio Valley,NULL
-2020,Jason Crandall, CG ,NULL,washington,null,Pacific-12,NULL
-2020,Karrington Davis, SG ,NULL,southern illinois,null,Missouri Valley,NULL
-2020,Jason Douglas-Stanley, SG ,NULL,george mason,null,Atlantic 10,NULL
-2020,Sean East, PG ,NULL,massachusetts,bradley,Atlantic 10,Missouri Valley
-2020,Augustine Ene, SG ,NULL,uiw,null,Southland,NULL
-2020,Michael Ertel, PG ,NULL,louisiana monroe,alabama birmingham,Sun Belt,Conference USA
-2020,Aaron Estrada, SG ,NULL,saint peters,oregon,MAAC,Pacific-12
-2020,Ferron Flavors, SG ,NULL,oklahoma state,null,Big 12,NULL
-2020,Michael Flowers, SG ,NULL,western michigan,south alabama,Mid-American,Sun Belt
-2020,Stephan Gabriel, SG ,NULL,bradley,null,Missouri Valley,NULL
-2020,Andrew Garcia, SG ,NULL,stony brook,georgia,America East,SEC
-2020,Umoja Gibson, PG ,NULL,north texas,oklahoma,Conference USA,Big 12
-2020,Ty Gordon, PG ,NULL,troy,null,Sun Belt,NULL
-2020,Jacob Grandison, SG ,NULL,holy cross,illinois,Patriot League,Big Ten
-2020,Jay Green, PG ,NULL,unlv,null,Mountain West,NULL
-2020,Elijah Harkless, PG ,NULL,cal state northridge,oklahoma,Big West,Big 12
-2020,Chris Herren Jr., SG ,NULL,boston college,san diego,ACC,West Coast
-2020,Bo Hodges, PG ,NULL,etsu,butler,Southern,Big East
-2020,Curtis Holland III, SG ,NULL,high point,towson,Big South,CAA
-2020,Cameron Hunter, PG ,NULL,north dakota state,null,Summit,NULL
-2020,Austin Hutcherson, SG ,NULL,illinois,null,Big Ten,NULL
-2020,Christian Jackson, SG ,NULL,massachusetts,null,Atlantic 10,NULL
-2020,Nate Johnson, SG ,NULL,gardner webb,xavier,Big South,Big East
-2020,Kevin Johnson, PG ,NULL,nicholls state,null,Southland,NULL
-2020,Chase Johnston, SG ,NULL,ipfw,null,Summit,NULL
-2020,Carlik Jones, PG ,NULL,radford,louisville,Big South,ACC
-2020,Elijah Jordan, PG ,NULL,new hampshire,null,America East,NULL
-2020,Dave Kasanganay, SG ,NULL,navy,east carolina,Patriot League,American Athletic
-2020,Rich Kelly, PG ,NULL,quinnipiac,boston college,MAAC,ACC
-2020,Justin Kier, SG ,NULL,george mason,georgia,Atlantic 10,SEC
-2020,Teyvion Kirk, SG ,NULL,colorado state,uic,Mountain West,Horizon
-2020,Peter Kiss, PG ,NULL,rutgers,bryant,Big Ten,Northeast
-2020,Lucas Kroft, SG ,NULL,ball state,null,Mid-American,NULL
-2020,Adam Kunkel, SG ,NULL,belmont,xavier,Ohio Valley,Big East
-2020,Joseph Lanzi, SG ,NULL,denver,cofc,Summit,NULL
-2020,Kurk Lee, PG ,NULL,drexel,null,CAA,NULL
-2020,Drew Lowder, PG ,NULL,holy cross,eastern michigan,Patriot League,Mid-American
-2020,Traveon Maddox Jr., SG ,NULL,oakland,cal state fullerton,Horizon,Big West
-2020,Richardson Maitre, PG ,NULL,florida atlantic,samford,Conference USA,Southern
-2020,Chris Martin, PG ,NULL,presbyterian,coppin state,Big South,MEAC
-2020,Malik Martin, CG ,NULL,charlotte,rhode island,Conference USA,Atlantic 10
-2020,Avery Martinez, SG ,NULL,cal state northridge,null,Big West,NULL
-2020,Courvoisier McCauley, SG ,NULL,depaul,null,Big East,NULL
-2020,Mario McKinney, SG ,NULL,missouri,null,SEC,NULL
-2020,Randy Miller, PG ,NULL,nccu,indiana state,MEAC,Missouri Valley
-2020,Franco Miller Jr., PG ,NULL,ole miss,florida gulf coast,SEC,Atlantic Sun
-2020,Charles Minlend, PG ,NULL,louisville,null,ACC,NULL
-2020,Donavan Moore, SG ,NULL,toledo,null,Mid-American,NULL
-2020,Vado Morse, PG ,NULL,mount st marys,james madison,Northeast,CAA
-2020,Trey Murphy, SG ,NULL,rice,virginia,Conference USA,ACC
-2020,Dwight Murray Jr., PG ,NULL,uiw,rider,Southland,MAAC
-2020,Ja'Cor Nelson, SG ,NULL,campbell,null,Big South,NULL
-2020,Elijah Olaniyi, CG ,NULL,stony brook,miami,America East,ACC
-2020,Myles Parker, SG ,NULL,auburn,montana,SEC,Big Sky
-2020,Deshon Parker, SG ,NULL,james madison,appalachian state,CAA,Sun Belt
-2020,Brian Patrick, SG ,NULL,depaul,null,Big East,NULL
-2020,Jose Perez, SG ,NULL,gardner webb,marquette,Big South,Big East
-2020,Abel Porter, PG ,NULL,utah state,ohio state,Mountain West,Big Ten
-2020,Joe Pridgen, SG ,NULL,holy cross,uncw,Patriot League,CAA
-2020,Trevon Reddish, SG ,NULL,cofc,null,NULL,NULL
-2020,Cooper Robb, PG ,NULL,charlotte,eastern kentucky,Conference USA,Ohio Valley
-2020,Anthony Roberts, SG ,NULL,kent state,saint bonaventure,Mid-American,Atlantic 10
-2020,Jacoby Ross, PG ,NULL,alabama state,alcorn state,SWAC,SWAC
-2020,Monty Scott, SG ,NULL,temple,portland state,American Athletic,Big Sky
-2020,Sam Sessoms, PG ,NULL,binghamton,penn state,America East,Big Ten
-2020,Kody Shubert, PG ,NULL,presbyterian,null,Big South,NULL
-2020,Nike Sibande, SG ,NULL,miami ohio,pittsburgh,Mid-American,ACC
-2020,Kevin Simon, PG ,NULL,troy,bethune cookman,Sun Belt,MEAC
-2020,Mike Smith, PG ,NULL,columbia,michigan,Ivy,Big Ten
-2020,Carter Sonneborn, SG ,NULL,washington state,null,Pacific-12,NULL
-2020,Caleb Starks, PG ,NULL,lsu,null,SEC,NULL
-2020,Jalen Tate, SG ,NULL,northern kentucky,arkansas,Horizon,SEC
-2020,Morgan Taylor, SG ,NULL,uiw,null,Southland,NULL
-2020,Calvin Temple, PG ,NULL,louisiana,jackson state,Sun Belt,SWAC
-2020,JC Tharrington, PG ,NULL,appalachian state,null,Sun Belt,NULL
-2020,DeAndre Thomas, PG ,NULL,samford,mount st marys,Southern,Northeast
-2020,Justin Turner, SG ,NULL,bowling green,null,Mid-American,NULL
-2020,A.J. Walker, SG ,NULL,air force,null,Mountain West,NULL
-2020,Gabe Watson, CG ,NULL,southern mississippi,tulane,Conference USA,American Athletic
-2020,Grant Weatherford, SG ,NULL,iupui,georgia southern,Summit,Sun Belt
-2020,Curtis White, SG ,NULL,smu,arkansas little rock,American Athletic,Sun Belt
-2020,Isaiah White, SG ,NULL,utah valley,usc,WAC,Pacific-12
-2020,Ibn Williams, PG ,NULL,coppin state,null,MEAC,NULL
-2020,Daivien Williamson, PG ,NULL,etsu,wake forest,Southern,ACC
-2020,Calvin Wishart, PG ,NULL,georgia southern,uc santa barbara,Sun Belt,Big West
-2020,Holland Woods, PG ,NULL,portland state,arizona state,Big Sky,Pacific-12
-2020,Kahlil Whitney, SF ,0.9957,kentucky,null,SEC,NULL
-2020,CJ Walker, PF ,0.9903,oregon,central florida,Pacific-12,American Athletic
-2020,Johnny Juzang, SF ,0.9885,kentucky,ucla,SEC,Pacific-12
-2020,Shareef O'Neal, PF ,0.9850,ucla,lsu,Pacific-12,SEC
-2020,Khavon Moore, SF ,0.9811,clemson,null,ACC,NULL
-2020,Alonzo Gaffney, SF ,0.9805,ohio state,null,Big Ten,NULL
-2020,Matthew Moyer, PF ,0.9750,vanderbilt,george washington,SEC,Atlantic 10
-2020,Carte'Are Gordon, PF ,0.9731,depaul,null,Big East,NULL
-2020,Jairus Hamilton, SF ,0.9728,boston college,maryland,ACC,Big Ten
-2020,Taurean Thompson, SF ,0.9711,seton hall,detroit,Big East,Horizon
-2020,Vance Jackson, SF ,0.9699,new mexico,arkansas,Mountain West,SEC
-2020,D.J. Williams, SF ,0.9691,george washington,depaul,Atlantic 10,Big East
-2020,Tray Jackson, PF ,0.9673,missouri,seton hall,SEC,Big East
-2020,Marcus Watson, SF ,0.9658,oklahoma state,new mexico,Big 12,Mountain West
-2020,Kaden Archie, SF ,0.9645,utep,georgia southern,Conference USA,Sun Belt
-2020,Justin Smith, PF ,0.9636,indiana,arkansas,Big Ten,SEC
-2020,Sidney Wilson, SF ,0.9524,uconn,siue,Big East,Ohio Valley
-2020,Amanze Ngumezi, PF ,0.9518,georgia,jacksonville state,SEC,Ohio Valley
-2020,Kodye Pugh, SF ,0.9483,stanford,null,Pacific-12,NULL
-2020,Cole Bajema, SF ,0.9443,michigan,washington,Big Ten,Pacific-12
-2020,Josh LeBlanc, SF ,0.9398,georgetown,lsu,Big East,SEC
-2020,Damezi Anderson, SF ,0.9383,indiana,loyola,Big Ten,Missouri Valley
-2020,Zion Griffin, SF ,0.9382,iowa state,uic,Big 12,Horizon
-2020,Elias King, SF ,0.9357,mississippi state,middle tennessee state,SEC,Conference USA
-2020,Ian Steere, PF ,0.9339,saint johns,uncw,Big East,CAA
-2020,Blake Hinson, SF ,0.9299,ole miss,iowa state,SEC,Big 12
-2020,Jacobi Gordon, SF ,0.9290,california,louisiana,Pacific-12,Sun Belt
-2020,Terrence Lewis, SF ,0.9287,iowa state,south alabama,Big 12,Sun Belt
-2020,Payton Dastrup, SF ,0.9260,oregon state,null,Pacific-12,NULL
-2020,Reggie Chaney, PF ,0.9240,arkansas,houston,SEC,American Athletic
-2020,Seth Towns, SF ,0.9183,harvard,ohio state,Ivy,Big Ten
-2020,Makhel Mitchell, PF ,0.9153,maryland,rhode island,Big Ten,Atlantic 10
-2020,Samba Diallo, SF ,0.9145,massachusetts,manhattan,Atlantic 10,MAAC
-2020,Mayan Kiir, PF ,0.9035,south florida,new mexico state,American Athletic,WAC
-2020,Rapolas Ivanauskas, PF ,0.9032,colgate,cincinnati,Patriot League,American Athletic
-2020,Jalen Johnson, SF ,0.9024,tennessee,wake forest,SEC,ACC
-2020,Khalid Thomas, PF ,0.9000,arizona state,portland state,Pacific-12,Big Sky
-2020,Deshawn Corprew, SF ,0.8939,texas tech,null,Big 12,NULL
-2020,Kristian Sjolund, SF ,0.8916,georgia tech,utep,ACC,Conference USA
-2020,Trey Jemison, PF ,0.8907,clemson,alabama birmingham,ACC,Conference USA
-2020,Dana Tate, SF ,0.8896,rhode island,siena,Atlantic 10,MAAC
-2020,Luke Anderson, PF ,0.8893,iowa state,south florida,Big 12,American Athletic
-2020,Dontarius James, SF ,0.8876,xavier,jacksonville,Big East,Atlantic Sun
-2020,Ryan Boyce, SF ,0.8857,georgia state,null,Sun Belt,NULL
-2020,Ryan Boyce, SF ,0.8857,memphis,georgia state,American Athletic,Sun Belt
-2020,Brandon Huffman I, PF ,0.8849,north carolina,jacksonville state,ACC,Ohio Valley
-2020,Jeriah Horne, PF ,0.8803,nebraska,colorado,Big Ten,Pacific-12
-2020,Jeriah Horne, SF ,0.8803,tulsa,null,American Athletic,NULL
-2020,Yor Anei, PF ,0.8800,oklahoma state,smu,Big 12,American Athletic
-2020,Zach Kent, PF ,0.8795,tennessee,delaware state,SEC,MEAC
-2020,Antavion Collum, SF ,0.8785,ole miss,null,SEC,NULL
-2020,PJ Horne, PF ,0.8784,virginia tech,georgia,ACC,SEC
-2020,Goanar Mar, SF ,0.8769,george mason,null,Atlantic 10,NULL
-2020,Marcedus Leech, SF ,0.8764,iowa state,null,Big 12,NULL
-2020,Yavuz Gultekin, PF ,0.8760,texas am,san diego,SEC,West Coast
-2020,Andre Adams, SF ,0.8760,southern utah,boston college,Big Sky,ACC
-2020,Kevin Marfo, SF ,0.8755,quinnipiac,texas am,MAAC,SEC
-2020,Ed Chang, SF ,0.8752,san diego state,missouri,Mountain West,SEC
-2020,Jordan Bruner, SF ,0.8751,yale,alabama,Ivy,SEC
-2020,DeAntoni Gordon, PF ,0.8744,wichita state,null,American Athletic,NULL
-2020,Andre Allen, PF ,0.8728,arizona state,southern,Pacific-12,SWAC
-2020,Donnie Tillman, PF ,0.8726,unlv,new mexico state,Mountain West,WAC
-2020,Mekhi Long, SF ,0.8723,rhode island,old dominion,Atlantic 10,Conference USA
-2020,KeyShawn Feazell, PF ,0.8711,mississippi state,mcneese state,SEC,Southland
-2020,Chris Doherty, SF ,0.8702,notre dame,northeastern,ACC,CAA
-2020,B.J. Mack, PF ,0.8702,south florida,wofford,American Athletic,Southern
-2020,Daron Henson, PF ,0.8678,washington state,seattle,Pacific-12,WAC
-2020,Drew Peterson, SF ,0.8678,rice,usc,Conference USA,Pacific-12
-2020,Oton Jankovic, PF ,0.8678,vanderbilt,tulane,SEC,American Athletic
-2020,Michael Peake, PF ,0.8678,georgia,austin peay,SEC,Ohio Valley
-2020,Cordell Pemsl, SF ,0.8649,iowa,virginia tech,Big Ten,ACC
-2020,Melo Eggleston, SF ,0.8637,arkansas state,bryant,Sun Belt,Northeast
-2020,Makhtar Gueye, SF ,0.8616,alabama birmingham,towson,Conference USA,CAA
-2020,Tomas Murphy, PF ,0.8616,northeastern,vermont,CAA,America East
-2020,Marcus Santos-Silva, PF ,0.8606,virginia commonwealth,texas tech,Atlantic 10,Big 12
-2020,Gabe Osabuohien, SF ,0.8600,arkansas,null,SEC,NULL
-2020,Tyron Brewer, SF ,0.8600,southeastern louisiana,etsu,Southland,Southern
-2020,Isaiah Wilkins, SF ,0.8600,virginia tech,wake forest,ACC,ACC
-2020,Zach Crisler, PF ,0.8600,rice,null,Conference USA,NULL
-2020,Ricky Lindo, PF ,0.8578,maryland,george washington,Big Ten,Atlantic 10
-2020,Kevin Cross, PF ,0.8556,nebraska,tulane,Big Ten,American Athletic
-2020,Bakari Simmons, SF ,0.8556,texas am,null,SEC,NULL
-2020,Carlos Curry, PF ,0.8556,ole miss,null,SEC,NULL
-2020,Nigel Shadd, SF ,0.8530,kansas state,pacific,Big 12,West Coast
-2020,Jaylen Sebree, SF ,0.8530,florida atlantic,null,Conference USA,NULL
-2020,Michael Wynn, SF ,0.8528,wake forest,akron,ACC,Mid-American
-2020,Harrison Henderson, SF ,0.8527,wisconsin milwaukee,southern,Horizon,SWAC
-2020,James Jean-Marie, SF ,0.8517,san diego,hawaii,West Coast,Big West
-2020,Justyn Mutts, SF ,0.8517,delaware,virginia tech,CAA,ACC
-2020,Jakub Dombek, PF ,0.8500,colorado,hartford,Pacific-12,America East
-2020,Josh Linder, PF ,0.8500,georgia state,tennessee state,Sun Belt,Ohio Valley
-2020,Levi Stockard, SF ,0.8496,kansas state,virginia commonwealth,Big 12,Atlantic 10
-2020,Dontay Bassett, SF ,0.8441,florida,weber state,SEC,Big Sky
-2020,E.J. Datcher, PF ,0.8426,mississippi state,null,SEC,NULL
-2020,Kavonte Ivery, SF ,0.8400,georgia state,null,Sun Belt,NULL
-2020,Samson George, PF ,0.8338,pittsburgh,central arkansas,ACC,Southland
-2020,Lemmie Howard, SF ,0.8333,jackson state,null,SWAC,NULL
-2020,Jalen Johnson, SF ,0.8333,louisiana,mississippi state,Sun Belt,SEC
-2020,Bobby Planutis, SF ,0.8333,saint bonaventure,null,Atlantic 10,NULL
-2020,Omar Habwe, SF ,0.8333,mount st marys,stony brook,Northeast,America East
-2020,Chris Seeley, SF ,0.8333,fresno state,null,Mountain West,NULL
-2020,Cedrick Alley Jr., SF ,0.8333,houston,utsa,American Athletic,Conference USA
-2020,Evan Cole, PF ,0.8274,georgia tech,utah valley,ACC,WAC
-2020,James Love, SF ,0.8261,kansas state,eastern michigan,Big 12,Mid-American
-2020,Ody Oguama, PF ,0.8228,wake forest,null,ACC,NULL
-2020,Arnaldo Toro, SF ,0.8218,george washington,saint johns,Atlantic 10,Big East
-2020,Andrei Savrasov, PF ,0.8000,texas tech,georgia southern,Big 12,Sun Belt
-2020,Robert Brown, SF ,0.7857,new mexico state,null,WAC,NULL
-2020,Reed Farley, SF ,0.7667,harvard,null,Ivy,NULL
-2020,Riley Abercrombie, SF ,NULL,boise state,rice,Mountain West,Conference USA
-2020,Warith Alatishe, SF ,NULL,nicholls state,oregon state,Southland,Pacific-12
-2020,Galen Alexander, SF ,NULL,georgetown,texas southern,Big East,SWAC
-2020,Robert Allen, PF ,NULL,samford,ole miss,Southern,SEC
-2020,Bernie Andre, SF ,NULL,northern arizona,vermont,Big Sky,America East
-2020,Christian Anigwe, PF ,NULL,san jose state,uc davis,Mountain West,Big West
-2020,E.J. Anosike, SF ,NULL,sacred heart,tennessee,Northeast,SEC
-2020,Destin Barnes, SF ,NULL,jacksonville,uc santa barbara,Atlantic Sun,Big West
-2020,Jordan Bell, PF ,NULL,pacific,null,West Coast,NULL
-2020,Chudier Bile, SF ,NULL,northwestern state,georgetown,Southland,Big East
-2020,Maxime Boursiquot, SF ,NULL,northeastern,null,CAA,NULL
-2020,Braden Burke, PF ,NULL,michigan state,central michigan,Big Ten,Mid-American
-2020,Marvin Cannon, SF ,NULL,washington state,charlotte,Pacific-12,Conference USA
-2020,Robert Carpenter, SF ,NULL,saint bonaventure,null,Atlantic 10,NULL
-2020,Sy Chatman, PF ,NULL,massachusetts,illinois state,Atlantic 10,Missouri Valley
-2020,Courtese Cooper, PF ,NULL,lsu,southern utah,SEC,Big Sky
-2020,Hunter Dean, PF ,NULL,southern mississippi,george washington,Conference USA,Atlantic 10
-2020,Jake DesJardins, SF ,NULL,arizona,null,Pacific-12,NULL
-2020,Boubacar Diakite, SF ,NULL,weber state,null,Big Sky,NULL
-2020,Kaosi Ezeagu, PF ,NULL,utep,kansas state,Conference USA,Big 12
-2020,LJ Figueroa, SF ,NULL,saint johns,oregon,Big East,Pacific-12
-2020,Myron Gardner, SF ,NULL,georgetown,null,Big East,NULL
-2020,Amir Gholizadeh, SF ,NULL,chicago state,null,WAC,NULL
-2020,Leon Goldsborough, SF ,NULL,winthrop,null,Big South,NULL
-2020,Kayo Goncalves, PF ,NULL,south alabama,null,Sun Belt,NULL
-2020,Chevez Goodwin, PF ,NULL,wofford,usc,Southern,Pacific-12
-2020,Myles Hanson, SF ,NULL,xavier,null,Big East,NULL
-2020,Cory Hightower, PF ,NULL,presbyterian,western carolina,Big South,Southern
-2020,Christian Hinckson, SF ,NULL,manhattan,binghamton,MAAC,America East
-2020,Casdon Jardine, SF ,NULL,utah valley,hawaii,WAC,Big West
-2020,Brandon Johnson, PF ,NULL,western michigan,minnesota,Mid-American,Big Ten
-2020,Chereef Knox, SF ,NULL,saint josephs,coppin state,Atlantic 10,MEAC
-2020,Trevion Lamar, SF ,NULL,georgia southern,null,Sun Belt,NULL
-2020,Greg Lee, PF ,NULL,cal state bakersfield,null,WAC,NULL
-2020,Marten Linssen, PF ,NULL,uncw,saint louis,CAA,Atlantic 10
-2020,J.J. Matthews, PF ,NULL,arkansas state,null,Sun Belt,NULL
-2020,Marquis Moore, SF ,NULL,detroit,southern utah,Horizon,Big Sky
-2020,David Nzekwesi, PF ,NULL,denver,weber state,Summit,Big Sky
-2020,Prince Oduro, PF ,NULL,mississippi state,south florida,SEC,American Athletic
-2020,Mezie Offurum, SF ,NULL,george washington,mount st marys,Atlantic 10,Northeast
-2020,Pauly Paulicap, PF ,NULL,manhattan,depaul,MAAC,Big East
-2020,Trevelin Queen, SF ,NULL,western kentucky,new mexico state,Conference USA,WAC
-2020,Frederick Scott, SF ,NULL,rider,boston college,MAAC,ACC
-2020,Tirus Smith, PF ,NULL,louisiana,mvsu,Sun Belt,SWAC
-2020,Nate Springs, PF ,NULL,ohio,kennesaw state,Mid-American,Atlantic Sun
-2020,Trevon Taylor, SF ,NULL,wyoming,james madison,Mountain West,CAA
-2020,Mark Tikhonenko, SF ,NULL,sam houston state,chattanooga,Southland,Southern
-2020,Sage Tolbert, PF ,NULL,semo,temple,Ohio Valley,American Athletic
-2020,Joshua Tomaic, PF ,NULL,maryland,san diego state,Big Ten,Mountain West
-2020,Jacob Toppin, SF ,NULL,rhode island,kentucky,Atlantic 10,SEC
-2020,Benjamin Uloko, PF ,NULL,houston baptist,null,Southland,NULL
-2020,DeAndre Williams, PF ,NULL,evansville,memphis,Missouri Valley,American Athletic
-2020,Dwight Wilson, SF ,NULL,james madison,ohio,CAA,Mid-American
-2020,Horace Wyatt, SF ,NULL,arkansas little rock,null,Sun Belt,NULL
-2020,Francis Okoro, C ,0.9808,oregon,saint louis,Pacific-12,Atlantic 10
-2020,Makhi Mitchell, C ,0.9731,maryland,rhode island,Big Ten,Atlantic 10
-2020,Romello White, C ,0.9700,arizona state,ole miss,Pacific-12,SEC
-2020,M.J. Cage, C ,0.9447,pepperdine,null,West Coast,NULL
-2020,Colin Castleton, C ,0.9371,michigan,florida,Big Ten,SEC
-2020,Bryan Penn-Johnson, C ,0.9139,washington,lsu,Pacific-12,SEC
-2020,Joshua Morgan, C ,0.9114,long beach state,usc,Big West,Pacific-12
-2020,Raymond Hawkins, C ,0.8978,alabama,long beach state,SEC,Big West
-2020,Joel Mensah, C ,0.8935,san diego state,null,Mountain West,NULL
-2020,Morris Udeze, C ,0.8899,wichita state,null,American Athletic,NULL
-2020,Jared Jones, C ,0.8860,northwestern,middle tennessee state,Big Ten,Conference USA
-2020,Matthew Van Komen, C ,0.8850,utah,st marys,Pacific-12,West Coast
-2020,Chukwuebuka Akabueze, C ,0.8837,alabama birmingham,null,Conference USA,NULL
-2020,Russell Barlow, C ,0.8817,tcu,null,Big 12,NULL
-2020,Rodney Howard, C ,0.8798,georgia,georgia tech,SEC,ACC
-2020,Majur Majak, C ,0.8787,saint peters,null,MAAC,NULL
-2020,Olivier Sarr, C ,0.8752,wake forest,kentucky,ACC,SEC
-2020,Javian Davis, C ,0.8744,alabama,mississippi state,SEC,SEC
-2020,Justyn Hamilton, C ,0.8655,temple,kent state,American Athletic,Mid-American
-2020,Galin Smith, C ,0.8644,alabama,maryland,SEC,Big Ten
-2020,Deshawn Thomas, C ,0.8628,lsu,coastal carolina,SEC,Sun Belt
-2020,Russel Tchewa, C ,0.8628,texas tech,south florida,Big 12,American Athletic
-2020,Gorjok Gak, C ,0.8575,florida,null,SEC,NULL
-2020,Matt Haarms, C ,0.8530,purdue,byu,Big Ten,West Coast
-2020,Darnell Brodie, C ,0.8517,seton hall,drake,Big East,Missouri Valley
-2020,Theo Akwuba, C ,NULL,portland,louisiana,West Coast,Sun Belt
-2020,Noah Bigirumwami, C ,NULL,chicago state,null,WAC,NULL
-2020,Mark Gasperini, C ,NULL,american,massachusetts,Patriot League,Atlantic 10
-2020,James Karnik, C ,NULL,lehigh,boston college,Patriot League,ACC
-2020,Mattias Markusson, C ,NULL,null,null,NULL,NULL
-2020,Brendan Medley-Bacon, C ,NULL,coppin state,virginia commonwealth,MEAC,Atlantic 10
-2020,Jeffrey Otchere, C ,NULL,stony brook,utrgv,America East,WAC
-2020,Liam Robbins, C ,NULL,drake,minnesota,Missouri Valley,Big Ten
-2020,Patrick Tape, C ,NULL,columbia,duke,Ivy,ACC
+Year,ID,Player,POS,Rating,Team_Old,Team_New,Conference_Old,Conference_New
+2020,46057830,Bryan Greenlee, PG ,0.8556,minnesota,san diego,Big Ten,West Coast
+2020,45572620,Andrew Nembhard, PG ,0.9926,florida,gonzaga,SEC,West Coast
+2020,37728,Alterique Gilbert, PG ,0.9882,uconn,wichita state,Big East,American Athletic
+2020,46040438,DJ Carton, PG ,0.9880,ohio state,marquette,Big Ten,Big East
+2020,84584,Chaundee Brown, SG ,0.9863,wake forest,michigan,ACC,Big Ten
+2020,14137,Jalen Coleman-Lands, PG ,0.9859,depaul,iowa state,Big East,Big 12
+2020,58848,Charles O'Bannon Jr., SG ,0.9837,usc,tcu,Pacific-12,Big 12
+2020,86624,Elijah Weaver, PG ,0.9832,usc,dayton,Pacific-12,Atlantic 10
+2020,86031,Jalen Carey, PG ,0.9788,syracuse,rhode island,ACC,Atlantic 10
+2020,76739,Isaiah Washington, PG ,0.9753,iona,long beach state,MAAC,Big West
+2020,46035894,Landers Nolley, SG ,0.9752,virginia tech,memphis,ACC,American Athletic
+2020,89874,Alex O'Connell, SG ,0.9708,duke,creighton,ACC,Big East
+2020,35511,Nojel Eastern, PG ,0.9706,purdue,howard,Big Ten,MEAC
+2020,86036,Luther Muhammad, PG ,0.9704,ohio state,arizona state,Big Ten,Pacific-12
+2020,84007,Darius Perry, PG ,0.9699,louisville,central florida,ACC,American Athletic
+2020,48785,Eli Wright, SG ,0.9675,western kentucky,morgan state,Conference USA,MEAC
+2020,93836,James Akinjo, PG ,0.9645,georgetown,arizona,Big East,Pacific-12
+2020,78096,Trey McGowens, SG ,0.9635,pittsburgh,nebraska,ACC,Big Ten
+2020,46047031,Brycen Goodine, SG ,0.9596,syracuse,providence,ACC,Big East
+2020,45572677,Khalif Battle, CG ,0.9572,butler,temple,Big East,American Athletic
+2020,94189,David DeJulius, PG ,0.9572,michigan,cincinnati,Big Ten,American Athletic
+2020,38855,Bryce Aiken, PG ,0.9565,harvard,seton hall,Ivy,Big East
+2020,46055645,Jaylen Forbes, SG ,0.9555,alabama,tulane,SEC,American Athletic
+2020,91014,Tevian Jones, SG ,0.9423,illinois,southern utah,Big Ten,Big Sky
+2020,46046837,Both Gach, SG ,0.9406,utah,minnesota,Pacific-12,Big Ten
+2020,46036685,Elias Valtonen, SG ,0.9378,arizona state,NULL,Pacific-12,NULL
+2020,46047686,Dahmir Bishop, CG ,0.9368,xavier,saint josephs,Big East,Atlantic 10
+2020,85199,Tyler Harris, PG ,0.9364,memphis,iowa state,American Athletic,Big 12
+2020,87234,Jordan Lathon, PG ,0.9360,utep,wisconsin milwaukee,Conference USA,Horizon
+2020,46036221,Jamal Bieniemy, SG ,0.9294,oklahoma,utep,Big 12,Conference USA
+2020,46057775,Issac McBride, PG ,0.9293,kansas,vanderbilt,Big 12,SEC
+2020,46041221,Serrel Smith, CG ,0.9277,maryland,etsu,Big Ten,Southern
+2020,45572888,Kyle Sturdivant, PG ,0.9274,usc,georgia tech,Pacific-12,ACC
+2020,76198,Blake Harris, PG ,0.9266,north carolina state,ncat,ACC,MEAC
+2020,46043160,James Bishop, PG ,0.9244,lsu,george washington,SEC,Atlantic 10
+2020,67906,Jakolby Long, SG ,0.9240,southern utah,southern illinois,Big Sky,Missouri Valley
+2020,45572936,Joshua Pierre-Louis, PG ,0.9213,temple,uc santa barbara,American Athletic,Big West
+2020,91805,Grant Sherfield, CG ,0.9206,wichita state,nevada,American Athletic,Mountain West
+2020,79501,Elias Harden, SG ,0.9187,jacksonville state,NULL,Ohio Valley,NULL
+2020,46047874,Flynn Cameron, PG ,0.9173,depaul,uc riverside,Big East,Big West
+2020,46057545,Caleb Grill, PG ,0.9111,iowa state,unlv,Big 12,Mountain West
+2020,88613,Jeremiah Francis, PG ,0.9067,north carolina,new mexico,ACC,Mountain West
+2020,45573405,Alan Griffin, SG ,0.9038,illinois,syracuse,Big Ten,ACC
+2020,94504,TJ Starks, PG ,0.9012,texas am,cal state northridge,SEC,Big West
+2020,46039952,Shawn Olden, CG ,0.9000,tcu,texas southern,Big 12,SWAC
+2020,83483,Payton Willis, CG ,0.8999,minnesota,cofc,Big Ten,NULL
+2020,46035525,Samari Curtis, SG ,0.8971,nebraska,evansville,Big Ten,Missouri Valley
+2020,78537,Elijah Hardy, PG ,0.8948,washington,portland state,Pacific-12,Big Sky
+2020,46036019,Anthony Nelson, PG ,0.8930,seton hall,manhattan,Big East,MAAC
+2020,79611,Darius Banks, PG ,0.8894,james madison,chattanooga,CAA,Southern
+2020,46042190,Tyrese Martin, SG ,0.8880,rhode island,uconn,Atlantic 10,Big East
+2020,46048000,Shaun Williams, PG ,0.8862,kansas state,cal state bakersfield,Big 12,WAC
+2020,46046890,Noah Fernandes, PG ,0.8861,wichita state,massachusetts,American Athletic,Atlantic 10
+2020,91812,Erik Stevenson, SG ,0.8856,wichita state,washington,American Athletic,Pacific-12
+2020,46042444,Mac McClung, PG ,0.8820,georgetown,texas tech,Big East,Big 12
+2020,79469,Kobe King, SG ,0.8820,wisconsin,NULL,Big Ten,NULL
+2020,46048662,Javon Freeman-Liberty, SG ,0.8813,valparaiso,depaul,Missouri Valley,Big East
+2020,91474,Qon Murphy, SG ,0.8813,houston baptist,new hampshire,Southland,America East
+2020,46036629,Eric Parrish, SG ,0.8800,nevada,utsa,Mountain West,Conference USA
+2020,46057506,Jonah Antonio, SG ,0.8800,unlv,wake forest,Mountain West,ACC
+2020,76421,Brandon Knapper, PG ,0.8780,west virginia,eastern kentucky,Big 12,Ohio Valley
+2020,94489,Sharone Wright Jr., PG ,0.8743,wake forest,NULL,ACC,NULL
+2020,93788,Amauri Hardy, PG ,0.8740,unlv,oregon,Mountain West,Pacific-12
+2020,46051760,Julian Rishwain, SG ,0.8715,boston college,NULL,ACC,NULL
+2020,77024,Frankie Hughes, PG ,0.8709,duquesne,san diego,Atlantic 10,West Coast
+2020,46058637,Bryce Williams, SG ,0.8678,ole miss,oklahoma state,SEC,Big 12
+2020,86248,Zach Scott, PG ,0.8678,florida gulf coast,mcneese state,Atlantic Sun,Southland
+2020,46051654,Jalen Windham, SG ,0.8678,creighton,ball state,Big East,Mid-American
+2020,46054881,Devin Butts, CG ,0.8678,mississippi state,louisiana,SEC,Sun Belt
+2020,86699,Parker Stewart, SG ,0.8646,tennessee martin,indiana,Ohio Valley,Big Ten
+2020,93946,Cameron Mack, PG ,0.8628,nebraska,NULL,Big Ten,NULL
+2020,75260,Isiah Brown, PG ,0.8628,weber state,NULL,Big Sky,NULL
+2020,46038726,Isaac White, PG ,0.8628,stanford,NULL,Pacific-12,NULL
+2020,42993,Howard Washington, PG ,0.8616,syracuse,NULL,ACC,NULL
+2020,79485,Ishmael El-Amin, PG ,0.8616,ball state,NULL,Mid-American,NULL
+2020,46081440,Keishawn Brewton, CG ,0.8600,coastal carolina,buffalo,Sun Belt,Mid-American
+2020,46056585,Jarred Hyder, CG ,0.8600,fresno state,california,Mountain West,Pacific-12
+2020,91749,Daylen Kountz, CG ,0.8573,colorado,northern colorado,Pacific-12,Big Sky
+2020,46035831,Trey Wertz, SG ,0.8559,notre dame,NULL,ACC,NULL
+2020,46052801,Jamarius Burton, CG ,0.8556,wichita state,texas tech,American Athletic,Big 12
+2020,94464,Trevor Moore, SG ,0.8556,cincinnati,morgan state,American Athletic,MEAC
+2020,77136,Marquis Godwin, SG ,0.8522,old dominion,hampton,Conference USA,MEAC
+2020,94583,Jaizec Lottie, PG ,0.8510,arkansas little rock,NULL,Sun Belt,NULL
+2020,46036026,Zach Chappell, PG ,0.8500,san jose state,sacramento state,Mountain West,Big Sky
+2020,46036724,Jake Wojcik, SG ,0.8500,richmond,fairfield,Atlantic 10,MAAC
+2020,36656,Luis Hurtado, PG ,0.8496,alabama birmingham,bryant,Conference USA,Northeast
+2020,77081,Ray Salnave, CG ,0.8435,monmouth,depaul,MAAC,Big East
+2020,81349,Keon Clergeot, PG ,0.8435,massachusetts,southeastern louisiana,Atlantic 10,Southland
+2020,78022,Elijah Thomas, SG ,0.8432,st marys,NULL,West Coast,NULL
+2020,93893,Jalen Crutchfield, SG ,0.8400,stetson,NULL,Atlantic Sun,NULL
+2020,70718,Jair Bolden, CG ,0.8385,south carolina,butler,SEC,Big East
+2020,84475,Devin Gage, PG ,0.8385,depaul,fresno state,Big East,Mountain West
+2020,81094,Jalen Harris, PG ,0.8360,arkansas,georgetown,SEC,Big East
+2020,25294,Ryan Murphy, SG ,0.8356,pittsburgh,NULL,ACC,NULL
+2020,38701,Ikenna Ndugba, PG ,0.8333,bryant,elon,Northeast,CAA
+2020,46043673,Drew Buggs, PG ,0.8333,hawaii,missouri,Big West,SEC
+2020,46043553,Terrell Gomez, PG ,0.8333,cal state northridge,san diego state,Big West,Mountain West
+2020,46046821,Nigel Hawkins, SG ,0.8300,utep,sfasu,Conference USA,Southland
+2020,79526,David Sloan, PG ,0.8278,kansas state,etsu,Big 12,Southern
+2020,46052867,Logan Curtis, SG ,0.8278,east carolina,delaware,American Athletic,CAA
+2020,46079367,Asanti Price, SG ,0.8278,georgia tech,NULL,ACC,NULL
+2020,85209,Davion Mintz, PG ,0.8218,creighton,kentucky,Big East,SEC
+2020,59812,Dimencio Vaughn, SG ,0.8212,rider,ole miss,MAAC,SEC
+2020,89485,Tahj Eaddy, SG ,0.8162,usc,NULL,Pacific-12,NULL
+2020,46043240,Quinn Richey, SG ,0.8005,james madison,NULL,CAA,NULL
+2020,86558,Justin Thomas, PG ,0.7667,morehead state,NULL,Ohio Valley,NULL
+2020,46044173,Kobe Webster, PG ,0.7667,western illinois,nebraska,Summit,Big Ten
+2020,86626,Quan Jackson, PG ,0.7000,georgia southern,alabama birmingham,Sun Belt,Conference USA
+2020,46050871,Tavian Percy, SG ,0.7000,new mexico,weber state,Mountain West,Big Sky
+2020,46100320,Darian Adams, SG ,NULL,troy,jacksonville state,Sun Belt,Ohio Valley
+2020,46100224,Christian Agnew, PG ,NULL,utep,NULL,Conference USA,NULL
+2020,46055789,Ahmed Ali, PG ,NULL,hawaii,portland,Big West,West Coast
+2020,46059323,Quin Barnard, PG ,NULL,washington,NULL,Pacific-12,NULL
+2020,46046660,Allen Betrand, SG ,NULL,towson,rhode island,CAA,Atlantic 10
+2020,46051757,Jordan Brinson, CG ,NULL,alabama birmingham,utah valley,Conference USA,WAC
+2020,93863,Terrell Brown Jr., SG ,NULL,seattle,arizona,WAC,Pacific-12
+2020,86623,Zack Bryant, PG ,NULL,alabama birmingham,georgia southern,Conference USA,Sun Belt
+2020,46101545,Dachon Burke, SG ,NULL,nebraska,south alabama,Big Ten,Sun Belt
+2020,46100549,Mark Carbone, SG ,NULL,new hampshire,NULL,America East,NULL
+2020,46076810,Jalen Cincore, SG ,NULL,georgia southern,NULL,Sun Belt,NULL
+2020,46036065,Brian Coffey, PG ,NULL,north florida,middle tennessee state,Atlantic Sun,Conference USA
+2020,94467,Derrick Cook, SG ,NULL,jacksonville state,NULL,Ohio Valley,NULL
+2020,46049511,Jason Crandall, CG ,NULL,washington,NULL,Pacific-12,NULL
+2020,46035888,Karrington Davis, SG ,NULL,southern illinois,NULL,Missouri Valley,NULL
+2020,46049460,Jason Douglas-Stanley, SG ,NULL,george mason,NULL,Atlantic 10,NULL
+2020,46083730,Sean East, PG ,NULL,massachusetts,bradley,Atlantic 10,Missouri Valley
+2020,46100182,Augustine Ene, SG ,NULL,uiw,NULL,Southland,NULL
+2020,46035364,Michael Ertel, PG ,NULL,louisiana monroe,alabama birmingham,Sun Belt,Conference USA
+2020,46100429,Aaron Estrada, SG ,NULL,saint peters,oregon,MAAC,Pacific-12
+2020,46100687,Ferron Flavors, SG ,NULL,oklahoma state,NULL,Big 12,NULL
+2020,46100788,Michael Flowers, SG ,NULL,western michigan,south alabama,Mid-American,Sun Belt
+2020,46055851,Stephan Gabriel, SG ,NULL,bradley,NULL,Missouri Valley,NULL
+2020,46101798,Andrew Garcia, SG ,NULL,stony brook,georgia,America East,SEC
+2020,46100917,Umoja Gibson, PG ,NULL,north texas,oklahoma,Conference USA,Big 12
+2020,46100704,Ty Gordon, PG ,NULL,troy,NULL,Sun Belt,NULL
+2020,46099743,Jacob Grandison, SG ,NULL,holy cross,illinois,Patriot League,Big Ten
+2020,46046861,Jay Green, PG ,NULL,unlv,NULL,Mountain West,NULL
+2020,46101054,Elijah Harkless, PG ,NULL,cal state northridge,oklahoma,Big West,Big 12
+2020,46047841,Chris Herren Jr., SG ,NULL,boston college,san diego,ACC,West Coast
+2020,93632,Bo Hodges, PG ,NULL,etsu,butler,Southern,Big East
+2020,46100321,Curtis Holland III, SG ,NULL,high point,towson,Big South,CAA
+2020,72014,Cameron Hunter, PG ,NULL,north dakota state,NULL,Summit,NULL
+2020,46099744,Austin Hutcherson, SG ,NULL,illinois,NULL,Big Ten,NULL
+2020,46084689,Christian Jackson, SG ,NULL,massachusetts,NULL,Atlantic 10,NULL
+2020,46100689,Nate Johnson, SG ,NULL,gardner webb,xavier,Big South,Big East
+2020,46101027,Kevin Johnson, PG ,NULL,nicholls state,NULL,Southland,NULL
+2020,46050557,Chase Johnston, SG ,NULL,ipfw,NULL,Summit,NULL
+2020,46100535,Carlik Jones, PG ,NULL,radford,louisville,Big South,ACC
+2020,89888,Elijah Jordan, PG ,NULL,new hampshire,NULL,America East,NULL
+2020,46102963,Dave Kasanganay, SG ,NULL,navy,east carolina,Patriot League,American Athletic
+2020,46100323,Rich Kelly, PG ,NULL,quinnipiac,boston college,MAAC,ACC
+2020,46101047,Justin Kier, SG ,NULL,george mason,georgia,Atlantic 10,SEC
+2020,46100536,Teyvion Kirk, SG ,NULL,colorado state,uic,Mountain West,Horizon
+2020,46040564,Peter Kiss, PG ,NULL,rutgers,bryant,Big Ten,Northeast
+2020,46055235,Lucas Kroft, SG ,NULL,ball state,NULL,Mid-American,NULL
+2020,46103176,Adam Kunkel, SG ,NULL,belmont,xavier,Ohio Valley,Big East
+2020,45573378,Joseph Lanzi, SG ,NULL,denver,cofc,Summit,NULL
+2020,46100265,Kurk Lee, PG ,NULL,drexel,NULL,CAA,NULL
+2020,46055860,Drew Lowder, PG ,NULL,holy cross,eastern michigan,Patriot League,Mid-American
+2020,45573157,Traveon Maddox Jr., SG ,NULL,oakland,cal state fullerton,Horizon,Big West
+2020,87507,Richardson Maitre, PG ,NULL,florida atlantic,samford,Conference USA,Southern
+2020,46037840,Malik Martin, CG ,NULL,charlotte,rhode island,Conference USA,Atlantic 10
+2020,46100285,Chris Martin, PG ,NULL,presbyterian,coppin state,Big South,MEAC
+2020,46052591,Avery Martinez, SG ,NULL,cal state northridge,NULL,Big West,NULL
+2020,46101342,Courvoisier McCauley, SG ,NULL,depaul,NULL,Big East,NULL
+2020,45572503,Mario McKinney, SG ,NULL,missouri,NULL,SEC,NULL
+2020,34633,Randy Miller, PG ,NULL,nccu,indiana state,MEAC,Missouri Valley
+2020,46054943,Franco Miller Jr., PG ,NULL,ole miss,florida gulf coast,SEC,Atlantic Sun
+2020,75262,Charles Minlend, PG ,NULL,louisville,NULL,ACC,NULL
+2020,46055857,Donavan Moore, SG ,NULL,toledo,NULL,Mid-American,NULL
+2020,46100192,Vado Morse, PG ,NULL,mount st marys,james madison,Northeast,CAA
+2020,46040054,Trey Murphy, SG ,NULL,rice,virginia,Conference USA,ACC
+2020,46100181,Dwight Murray Jr., PG ,NULL,uiw,rider,Southland,MAAC
+2020,46101028,Ja'Cor Nelson, SG ,NULL,campbell,NULL,Big South,NULL
+2020,45572811,Elijah Olaniyi, CG ,NULL,stony brook,miami,America East,ACC
+2020,46035570,Myles Parker, SG ,NULL,auburn,montana,SEC,Big Sky
+2020,46100703,Deshon Parker, SG ,NULL,james madison,appalachian state,CAA,Sun Belt
+2020,46045428,Brian Patrick, SG ,NULL,depaul,NULL,Big East,NULL
+2020,93856,Jose Perez, SG ,NULL,gardner webb,marquette,Big South,Big East
+2020,46101089,Abel Porter, PG ,NULL,utah state,ohio state,Mountain West,Big Ten
+2020,46055547,Joe Pridgen, SG ,NULL,holy cross,uncw,Patriot League,CAA
+2020,46058088,Trevon Reddish, SG ,NULL,cofc,NULL,NULL,NULL
+2020,46047922,Cooper Robb, PG ,NULL,charlotte,eastern kentucky,Conference USA,Ohio Valley
+2020,46100553,Anthony Roberts, SG ,NULL,kent state,saint bonaventure,Mid-American,Atlantic 10
+2020,46100390,Jacoby Ross, PG ,NULL,alabama state,alcorn state,SWAC,SWAC
+2020,46097773,Monty Scott, SG ,NULL,temple,portland state,American Athletic,Big Sky
+2020,46100760,Sam Sessoms, PG ,NULL,binghamton,penn state,America East,Big Ten
+2020,46040809,Kody Shubert, PG ,NULL,presbyterian,NULL,Big South,NULL
+2020,46041249,Nike Sibande, SG ,NULL,miami ohio,pittsburgh,Mid-American,ACC
+2020,46047706,Kevin Simon, PG ,NULL,troy,bethune cookman,Sun Belt,MEAC
+2020,31922,Mike Smith, PG ,NULL,columbia,michigan,Ivy,Big Ten
+2020,46080901,Carter Sonneborn, SG ,NULL,washington state,NULL,Pacific-12,NULL
+2020,46035880,Caleb Starks, PG ,NULL,lsu,NULL,SEC,NULL
+2020,46100628,Jalen Tate, SG ,NULL,northern kentucky,arkansas,Horizon,SEC
+2020,46100180,Morgan Taylor, SG ,NULL,uiw,NULL,Southland,NULL
+2020,46035947,Calvin Temple, PG ,NULL,louisiana,jackson state,Sun Belt,SWAC
+2020,46035794,JC Tharrington, PG ,NULL,appalachian state,NULL,Sun Belt,NULL
+2020,46035553,DeAndre Thomas, PG ,NULL,samford,mount st marys,Southern,Northeast
+2020,46100432,Justin Turner, SG ,NULL,bowling green,NULL,Mid-American,NULL
+2020,46100356,A.J. Walker, SG ,NULL,air force,NULL,Mountain West,NULL
+2020,46101084,Gabe Watson, CG ,NULL,southern mississippi,tulane,Conference USA,American Athletic
+2020,30234,Grant Weatherford, SG ,NULL,iupui,georgia southern,Summit,Sun Belt
+2020,46055874,Curtis White, SG ,NULL,smu,arkansas little rock,American Athletic,Sun Belt
+2020,46100428,Isaiah White, SG ,NULL,utah valley,usc,WAC,Pacific-12
+2020,46048877,Ibn Williams, PG ,NULL,coppin state,NULL,MEAC,NULL
+2020,46101845,Daivien Williamson, PG ,NULL,etsu,wake forest,Southern,ACC
+2020,46047622,Calvin Wishart, PG ,NULL,georgia southern,uc santa barbara,Sun Belt,Big West
+2020,93839,Holland Woods, PG ,NULL,portland state,arizona state,Big Sky,Pacific-12
+2020,45572914,Kahlil Whitney, SF ,0.9957,kentucky,NULL,SEC,NULL
+2020,46035576,CJ Walker, PF ,0.9903,oregon,central florida,Pacific-12,American Athletic
+2020,93002,Johnny Juzang, SF ,0.9885,kentucky,ucla,SEC,Pacific-12
+2020,82839,Shareef O'Neal, PF ,0.9850,ucla,lsu,Pacific-12,SEC
+2020,84993,Khavon Moore, SF ,0.9811,clemson,NULL,ACC,NULL
+2020,90376,Alonzo Gaffney, SF ,0.9805,ohio state,NULL,Big Ten,NULL
+2020,31241,Matthew Moyer, PF ,0.9750,vanderbilt,george washington,SEC,Atlantic 10
+2020,86005,Carte'Are Gordon, PF ,0.9731,depaul,NULL,Big East,NULL
+2020,86949,Jairus Hamilton, SF ,0.9728,boston college,maryland,ACC,Big Ten
+2020,82675,Taurean Thompson, SF ,0.9711,seton hall,detroit,Big East,Horizon
+2020,31412,Vance Jackson, SF ,0.9699,new mexico,arkansas,Mountain West,SEC
+2020,23595,D.J. Williams, SF ,0.9691,george washington,depaul,Atlantic 10,Big East
+2020,46055071,Tray Jackson, PF ,0.9673,missouri,seton hall,SEC,Big East
+2020,45572921,Marcus Watson, SF ,0.9658,oklahoma state,new mexico,Big 12,Mountain West
+2020,46035660,Kaden Archie, SF ,0.9645,utep,georgia southern,Conference USA,Sun Belt
+2020,81339,Justin Smith, PF ,0.9636,indiana,arkansas,Big Ten,SEC
+2020,76737,Sidney Wilson, SF ,0.9524,uconn,siue,Big East,Ohio Valley
+2020,94646,Amanze Ngumezi, PF ,0.9518,georgia,jacksonville state,SEC,Ohio Valley
+2020,35896,Kodye Pugh, SF ,0.9483,stanford,NULL,Pacific-12,NULL
+2020,46057725,Cole Bajema, SF ,0.9443,michigan,washington,Big Ten,Pacific-12
+2020,86245,Josh LeBlanc, SF ,0.9398,georgetown,lsu,Big East,SEC
+2020,88729,Damezi Anderson, SF ,0.9383,indiana,loyola,Big Ten,Missouri Valley
+2020,46047721,Zion Griffin, SF ,0.9382,iowa state,uic,Big 12,Horizon
+2020,45572912,Elias King, SF ,0.9357,mississippi state,middle tennessee state,SEC,Conference USA
+2020,46035783,Ian Steere, PF ,0.9339,saint johns,uncw,Big East,CAA
+2020,78308,Blake Hinson, SF ,0.9299,ole miss,iowa state,SEC,Big 12
+2020,86016,Jacobi Gordon, SF ,0.9290,california,louisiana,Pacific-12,Sun Belt
+2020,75455,Terrence Lewis, SF ,0.9287,iowa state,south alabama,Big 12,Sun Belt
+2020,21772,Payton Dastrup, SF ,0.9260,oregon state,NULL,Pacific-12,NULL
+2020,86000,Reggie Chaney, PF ,0.9240,arkansas,houston,SEC,American Athletic
+2020,31006,Seth Towns, SF ,0.9183,harvard,ohio state,Ivy,Big Ten
+2020,45572933,Makhel Mitchell, PF ,0.9153,maryland,rhode island,Big Ten,Atlantic 10
+2020,45573146,Samba Diallo, SF ,0.9145,massachusetts,manhattan,Atlantic 10,MAAC
+2020,83588,Mayan Kiir, PF ,0.9035,south florida,new mexico state,American Athletic,WAC
+2020,75459,Rapolas Ivanauskas, PF ,0.9032,colgate,cincinnati,Patriot League,American Athletic
+2020,77025,Jalen Johnson, SF ,0.9024,tennessee,wake forest,SEC,ACC
+2020,46057570,Khalid Thomas, PF ,0.9000,arizona state,portland state,Pacific-12,Big Sky
+2020,34316,Deshawn Corprew, SF ,0.8939,texas tech,NULL,Big 12,NULL
+2020,46042946,Kristian Sjolund, SF ,0.8916,georgia tech,utep,ACC,Conference USA
+2020,89894,Trey Jemison, PF ,0.8907,clemson,alabama birmingham,ACC,Conference USA
+2020,46035577,Dana Tate, SF ,0.8896,rhode island,siena,Atlantic 10,MAAC
+2020,46039928,Luke Anderson, PF ,0.8893,iowa state,south florida,Big 12,American Athletic
+2020,46036058,Dontarius James, SF ,0.8876,xavier,jacksonville,Big East,Atlantic Sun
+2020,92186,Ryan Boyce, SF ,0.8857,georgia state,NULL,Sun Belt,NULL
+2020,92186,Ryan Boyce, SF ,0.8857,memphis,georgia state,American Athletic,Sun Belt
+2020,91667,Brandon Huffman I, PF ,0.8849,north carolina,jacksonville state,ACC,Ohio Valley
+2020,82239,Jeriah Horne, PF ,0.8803,nebraska,colorado,Big Ten,Pacific-12
+2020,82239,Jeriah Horne, SF ,0.8803,tulsa,NULL,American Athletic,NULL
+2020,4663855,Yor Anei, PF ,0.8800,oklahoma state,smu,Big 12,American Athletic
+2020,76133,Zach Kent, PF ,0.8795,tennessee,delaware state,SEC,MEAC
+2020,46035838,Antavion Collum, SF ,0.8785,ole miss,NULL,SEC,NULL
+2020,46035597,PJ Horne, PF ,0.8784,virginia tech,georgia,ACC,SEC
+2020,38114,Goanar Mar, SF ,0.8769,george mason,NULL,Atlantic 10,NULL
+2020,93052,Marcedus Leech, SF ,0.8764,iowa state,NULL,Big 12,NULL
+2020,46048800,Yavuz Gultekin, PF ,0.8760,texas am,san diego,SEC,West Coast
+2020,24013,Andre Adams, SF ,0.8760,southern utah,boston college,Big Sky,ACC
+2020,75362,Kevin Marfo, SF ,0.8755,quinnipiac,texas am,MAAC,SEC
+2020,87231,Ed Chang, SF ,0.8752,san diego state,missouri,Mountain West,SEC
+2020,27375,Jordan Bruner, SF ,0.8751,yale,alabama,Ivy,SEC
+2020,45573418,DeAntoni Gordon, PF ,0.8744,wichita state,NULL,American Athletic,NULL
+2020,46076788,Andre Allen, PF ,0.8728,arizona state,southern,Pacific-12,SWAC
+2020,92766,Donnie Tillman, PF ,0.8726,unlv,new mexico state,Mountain West,WAC
+2020,45572916,Mekhi Long, SF ,0.8723,rhode island,old dominion,Atlantic 10,Conference USA
+2020,90423,KeyShawn Feazell, PF ,0.8711,mississippi state,mcneese state,SEC,Southland
+2020,46047604,Chris Doherty, SF ,0.8702,notre dame,northeastern,ACC,CAA
+2020,87323,B.J. Mack, PF ,0.8702,south florida,wofford,American Athletic,Southern
+2020,75137,Daron Henson, PF ,0.8678,washington state,seattle,Pacific-12,WAC
+2020,46036183,Drew Peterson, SF ,0.8678,rice,usc,Conference USA,Pacific-12
+2020,46051901,Oton Jankovic, PF ,0.8678,vanderbilt,tulane,SEC,American Athletic
+2020,46042298,Michael Peake, PF ,0.8678,georgia,austin peay,SEC,Ohio Valley
+2020,30977,Cordell Pemsl, SF ,0.8649,iowa,virginia tech,Big Ten,ACC
+2020,76114,Melo Eggleston, SF ,0.8637,arkansas state,bryant,Sun Belt,Northeast
+2020,91160,Makhtar Gueye, SF ,0.8616,alabama birmingham,towson,Conference USA,CAA
+2020,34684,Tomas Murphy, PF ,0.8616,northeastern,vermont,CAA,America East
+2020,93675,Marcus Santos-Silva, PF ,0.8606,virginia commonwealth,texas tech,Atlantic 10,Big 12
+2020,46040834,Gabe Osabuohien, SF ,0.8600,arkansas,NULL,SEC,NULL
+2020,46044153,Tyron Brewer, SF ,0.8600,southeastern louisiana,etsu,Southland,Southern
+2020,46038088,Isaiah Wilkins, SF ,0.8600,virginia tech,wake forest,ACC,ACC
+2020,45572920,Zach Crisler, PF ,0.8600,rice,NULL,Conference USA,NULL
+2020,46036829,Ricky Lindo, PF ,0.8578,maryland,george washington,Big Ten,Atlantic 10
+2020,46083888,Kevin Cross, PF ,0.8556,nebraska,tulane,Big Ten,American Athletic
+2020,46045633,Bakari Simmons, SF ,0.8556,texas am,NULL,SEC,NULL
+2020,46048887,Carlos Curry, PF ,0.8556,ole miss,NULL,SEC,NULL
+2020,46035954,Nigel Shadd, SF ,0.8530,kansas state,pacific,Big 12,West Coast
+2020,86099,Jaylen Sebree, SF ,0.8530,florida atlantic,NULL,Conference USA,NULL
+2020,93642,Michael Wynn, SF ,0.8528,wake forest,akron,ACC,Mid-American
+2020,36409,Harrison Henderson, SF ,0.8527,wisconsin milwaukee,southern,Horizon,SWAC
+2020,46079055,James Jean-Marie, SF ,0.8517,san diego,hawaii,West Coast,Big West
+2020,79593,Justyn Mutts, SF ,0.8517,delaware,virginia tech,CAA,ACC
+2020,46054489,Jakub Dombek, PF ,0.8500,colorado,hartford,Pacific-12,America East
+2020,94654,Josh Linder, PF ,0.8500,georgia state,tennessee state,Sun Belt,Ohio Valley
+2020,46035526,Levi Stockard, SF ,0.8496,kansas state,virginia commonwealth,Big 12,Atlantic 10
+2020,77072,Dontay Bassett, SF ,0.8441,florida,weber state,SEC,Big Sky
+2020,89750,E.J. Datcher, PF ,0.8426,mississippi state,NULL,SEC,NULL
+2020,46046808,Kavonte Ivery, SF ,0.8400,georgia state,NULL,Sun Belt,NULL
+2020,86369,Samson George, PF ,0.8338,pittsburgh,central arkansas,ACC,Southland
+2020,46044150,Lemmie Howard, SF ,0.8333,jackson state,NULL,SWAC,NULL
+2020,46044217,Jalen Johnson, SF ,0.8333,louisiana,mississippi state,Sun Belt,SEC
+2020,46046203,Bobby Planutis, SF ,0.8333,saint bonaventure,NULL,Atlantic 10,NULL
+2020,45573331,Omar Habwe, SF ,0.8333,mount st marys,stony brook,Northeast,America East
+2020,46043435,Chris Seeley, SF ,0.8333,fresno state,NULL,Mountain West,NULL
+2020,93732,Cedrick Alley Jr., SF ,0.8333,houston,utsa,American Athletic,Conference USA
+2020,94679,Evan Cole, PF ,0.8274,georgia tech,utah valley,ACC,WAC
+2020,87083,James Love, SF ,0.8261,kansas state,eastern michigan,Big 12,Mid-American
+2020,46059384,Ody Oguama, PF ,0.8228,wake forest,NULL,ACC,NULL
+2020,76827,Arnaldo Toro, SF ,0.8218,george washington,saint johns,Atlantic 10,Big East
+2020,46080605,Andrei Savrasov, PF ,0.8000,texas tech,georgia southern,Big 12,Sun Belt
+2020,49440,Robert Brown, SF ,0.7857,new mexico state,NULL,WAC,NULL
+2020,46035930,Reed Farley, SF ,0.7667,harvard,NULL,Ivy,NULL
+2020,46049140,Riley Abercrombie, SF ,NULL,boise state,rice,Mountain West,Conference USA
+2020,46100479,Warith Alatishe, SF ,NULL,nicholls state,oregon state,Southland,Pacific-12
+2020,82021,Galen Alexander, SF ,NULL,georgetown,texas southern,Big East,SWAC
+2020,46035747,Robert Allen, PF ,NULL,samford,ole miss,Southern,SEC
+2020,46100478,Bernie Andre, SF ,NULL,northern arizona,vermont,Big Sky,America East
+2020,46101188,Christian Anigwe, PF ,NULL,san jose state,uc davis,Mountain West,Big West
+2020,94216,E.J. Anosike, SF ,NULL,sacred heart,tennessee,Northeast,SEC
+2020,46044993,Destin Barnes, SF ,NULL,jacksonville,uc santa barbara,Atlantic Sun,Big West
+2020,46100413,Jordan Bell, PF ,NULL,pacific,NULL,West Coast,NULL
+2020,46101262,Chudier Bile, SF ,NULL,northwestern state,georgetown,Southland,Big East
+2020,46100270,Maxime Boursiquot, SF ,NULL,northeastern,NULL,CAA,NULL
+2020,46041813,Braden Burke, PF ,NULL,michigan state,central michigan,Big Ten,Mid-American
+2020,46054156,Marvin Cannon, SF ,NULL,washington state,charlotte,Pacific-12,Conference USA
+2020,46081987,Robert Carpenter, SF ,NULL,saint bonaventure,NULL,Atlantic 10,NULL
+2020,46054954,Sy Chatman, PF ,NULL,massachusetts,illinois state,Atlantic 10,Missouri Valley
+2020,46054560,Courtese Cooper, PF ,NULL,lsu,southern utah,SEC,Big Sky
+2020,46054506,Hunter Dean, PF ,NULL,southern mississippi,george washington,Conference USA,Atlantic 10
+2020,91693,Jake DesJardins, SF ,NULL,arizona,NULL,Pacific-12,NULL
+2020,86971,Boubacar Diakite, SF ,NULL,weber state,NULL,Big Sky,NULL
+2020,46048753,Kaosi Ezeagu, PF ,NULL,utep,kansas state,Conference USA,Big 12
+2020,79303,LJ Figueroa, SF ,NULL,saint johns,oregon,Big East,Pacific-12
+2020,46055859,Myron Gardner, SF ,NULL,georgetown,NULL,Big East,NULL
+2020,46100357,Amir Gholizadeh, SF ,NULL,chicago state,NULL,WAC,NULL
+2020,46040308,Leon Goldsborough, SF ,NULL,winthrop,NULL,Big South,NULL
+2020,46101546,Kayo Goncalves, PF ,NULL,south alabama,NULL,Sun Belt,NULL
+2020,46100550,Chevez Goodwin, PF ,NULL,wofford,usc,Southern,Pacific-12
+2020,46035487,Myles Hanson, SF ,NULL,xavier,NULL,Big East,NULL
+2020,46083324,Cory Hightower, PF ,NULL,presbyterian,western carolina,Big South,Southern
+2020,94262,Christian Hinckson, SF ,NULL,manhattan,binghamton,MAAC,America East
+2020,46045866,Casdon Jardine, SF ,NULL,utah valley,hawaii,WAC,Big West
+2020,46044205,Brandon Johnson, PF ,NULL,western michigan,minnesota,Mid-American,Big Ten
+2020,46100179,Chereef Knox, SF ,NULL,saint josephs,coppin state,Atlantic 10,MEAC
+2020,46076809,Trevion Lamar, SF ,NULL,georgia southern,NULL,Sun Belt,NULL
+2020,46100283,Greg Lee, PF ,NULL,cal state bakersfield,NULL,WAC,NULL
+2020,46100981,Marten Linssen, PF ,NULL,uncw,saint louis,CAA,Atlantic 10
+2020,46044179,J.J. Matthews, PF ,NULL,arkansas state,NULL,Sun Belt,NULL
+2020,46102091,Marquis Moore, SF ,NULL,detroit,southern utah,Horizon,Big Sky
+2020,46102158,David Nzekwesi, PF ,NULL,denver,weber state,Summit,Big Sky
+2020,93909,Prince Oduro, PF ,NULL,mississippi state,south florida,SEC,American Athletic
+2020,45572465,Mezie Offurum, SF ,NULL,george washington,mount st marys,Atlantic 10,Northeast
+2020,46103036,Pauly Paulicap, PF ,NULL,manhattan,depaul,MAAC,Big East
+2020,46049779,Trevelin Queen, SF ,NULL,western kentucky,new mexico state,Conference USA,WAC
+2020,87267,Frederick Scott, SF ,NULL,rider,boston college,MAAC,ACC
+2020,86539,Tirus Smith, PF ,NULL,louisiana,mvsu,Sun Belt,SWAC
+2020,46101300,Nate Springs, PF ,NULL,ohio,kennesaw state,Mid-American,Atlantic Sun
+2020,46049191,Trevon Taylor, SF ,NULL,wyoming,james madison,Mountain West,CAA
+2020,46035345,Mark Tikhonenko, SF ,NULL,sam houston state,chattanooga,Southland,Southern
+2020,46100551,Sage Tolbert, PF ,NULL,semo,temple,Ohio Valley,American Athletic
+2020,93322,Joshua Tomaic, PF ,NULL,maryland,san diego state,Big Ten,Mountain West
+2020,46101115,Jacob Toppin, SF ,NULL,rhode island,kentucky,Atlantic 10,SEC
+2020,46100993,Benjamin Uloko, PF ,NULL,houston baptist,NULL,Southland,NULL
+2020,83746,DeAndre Williams, PF ,NULL,evansville,memphis,Missouri Valley,American Athletic
+2020,46035341,Dwight Wilson, SF ,NULL,james madison,ohio,CAA,Mid-American
+2020,46035706,Horace Wyatt, SF ,NULL,arkansas little rock,NULL,Sun Belt,NULL
+2020,94248,Francis Okoro, C ,0.9808,oregon,saint louis,Pacific-12,Atlantic 10
+2020,88154,Makhi Mitchell, C ,0.9731,maryland,rhode island,Big Ten,Atlantic 10
+2020,75322,Romello White, C ,0.9700,arizona state,ole miss,Pacific-12,SEC
+2020,28950,M.J. Cage, C ,0.9447,pepperdine,NULL,West Coast,NULL
+2020,46041639,Colin Castleton, C ,0.9371,michigan,florida,Big Ten,SEC
+2020,46035620,Bryan Penn-Johnson, C ,0.9139,washington,lsu,Pacific-12,SEC
+2020,46056377,Joshua Morgan, C ,0.9114,long beach state,usc,Big West,Pacific-12
+2020,46038430,Raymond Hawkins, C ,0.8978,alabama,long beach state,SEC,Big West
+2020,86980,Joel Mensah, C ,0.8935,san diego state,NULL,Mountain West,NULL
+2020,46042536,Morris Udeze, C ,0.8899,wichita state,NULL,American Athletic,NULL
+2020,94237,Jared Jones, C ,0.8860,northwestern,middle tennessee state,Big Ten,Conference USA
+2020,46045774,Matthew Van Komen, C ,0.8850,utah,st marys,Pacific-12,West Coast
+2020,94491,Chukwuebuka Akabueze, C ,0.8837,alabama birmingham,NULL,Conference USA,NULL
+2020,94256,Russell Barlow, C ,0.8817,tcu,NULL,Big 12,NULL
+2020,46047842,Rodney Howard, C ,0.8798,georgia,georgia tech,SEC,ACC
+2020,46036028,Majur Majak, C ,0.8787,saint peters,NULL,MAAC,NULL
+2020,45573325,Olivier Sarr, C ,0.8752,wake forest,kentucky,ACC,SEC
+2020,45573129,Javian Davis, C ,0.8744,alabama,mississippi state,SEC,SEC
+2020,87328,Justyn Hamilton, C ,0.8655,temple,kent state,American Athletic,Mid-American
+2020,91452,Galin Smith, C ,0.8644,alabama,maryland,SEC,Big Ten
+2020,45573296,Deshawn Thomas, C ,0.8628,lsu,coastal carolina,SEC,Sun Belt
+2020,46059187,Russel Tchewa, C ,0.8628,texas tech,south florida,Big 12,American Athletic
+2020,80166,Gorjok Gak, C ,0.8575,florida,NULL,SEC,NULL
+2020,46035617,Matt Haarms, C ,0.8530,purdue,byu,Big Ten,West Coast
+2020,84986,Darnell Brodie, C ,0.8517,seton hall,drake,Big East,Missouri Valley
+2020,46101337,Theo Akwuba, C ,NULL,portland,louisiana,West Coast,Sun Belt
+2020,46103511,Noah Bigirumwami, C ,NULL,chicago state,NULL,WAC,NULL
+2020,46100886,Mark Gasperini, C ,NULL,american,massachusetts,Patriot League,Atlantic 10
+2020,46100787,James Karnik, C ,NULL,lehigh,boston college,Patriot League,ACC
+2020,46100222,Mattias Markusson, C ,NULL,NULL,NULL,NULL,NULL
+2020,46100538,Brendan Medley-Bacon, C ,NULL,coppin state,virginia commonwealth,MEAC,Atlantic 10
+2020,46049538,Jeffrey Otchere, C ,NULL,stony brook,utrgv,America East,WAC
+2020,46100934,Liam Robbins, C ,NULL,drake,minnesota,Missouri Valley,Big Ten
+2020,46100518,Patrick Tape, C ,NULL,columbia,duke,Ivy,ACC
