@@ -269,6 +269,55 @@ class Recruit:
 
         return df
 
+    def getDraft(self, year):
+
+        player_id = []
+        player = []
+        position = []
+        rd_pick = []
+        draft_pick = []
+        rd = []
+        rating = []
+
+        for i in range(7):
+            res = requests.get('https://247sports.com/League/NFL/DraftPicks/?year=' + str(year) + '&round=' + str(i+1) + '&mock=0', headers = {'User-Agent': 'Mozilla/5.0'})
+            site = html.fromstring(res.content)
+
+            draft_list = site.xpath("//ul[@class='content-list draft-list league']/li[not(@class)]")
+
+            ids = site.xpath("//div[@class='name']/a[1]/@href")
+            player_id.extend([re.search("([^-]+$)", x).group(1) for x in ids])
+            player.extend(site.xpath("//div[@class='name']/a[1]/text()"))
+            for x in draft_list:
+                try:
+                    position.append(x.xpath("div[@class='list-data left']/ul[@class='metrics-list']/li[1]/text()"))
+                    rd.append(str(i+1))
+                except:
+                    position.append('NULL')
+            rd_pick.extend(site.xpath("//div[@class='pick left']/span[1]/text()"))
+            draft_pick.extend(site.xpath("//div[@class='pick left']/span[2]/text()"))
+            rating.extend(site.xpath("//div[@class='rating']/span[@class='score']/text()"))
+
+            time.sleep(1)
+
+        position = [''.join(x) for x in position] # Turn all entries into strings instead of one length lists
+
+        di = {
+            'ID' : player_id,
+            'Player' : player,
+            'POS' : position,
+            'HS_Rating' : rating,
+            'Round' : rd,
+            'RD_pick' : rd_pick,
+            'Draft_pick' : draft_pick
+        }
+
+        df = pd.DataFrame(di)
+        df['POS'] = df['POS'].replace('', 'NULL')
+        df['HS_Rating'] = df['HS_Rating'].replace(' NA ', 'NULL')
+
+        return df
+
 
 class TransferPortal:
 
