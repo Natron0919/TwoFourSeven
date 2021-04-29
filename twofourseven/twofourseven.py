@@ -108,7 +108,7 @@ class Recruit:
         team = []
         pattern = "college/(.*?)/"
 
-        for i in range(20):
+        for i in range(40):
             res = requests.get('https://247sports.com/Season/' + str(year) + '-Football/CompositeRecruitRankings/?ViewPath=~%2FViews%2FSkyNet%2FPlayerSportRanking%2F_SimpleSetForSeason.ascx&InstitutionGroup=HighSchool&Page=' + str(i + 1) + '', headers = {'User-Agent': 'Mozilla/5.0'})
             site = html.fromstring(res.content)
 

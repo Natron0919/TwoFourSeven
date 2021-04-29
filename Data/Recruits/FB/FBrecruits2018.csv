@@ -1,0 +1,2001 @@
+Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Rank,State_Rank,Team
+2018,61350,Trevor Lawrence, PRO ,6-6,208,Cartersville,Cartersville,GA,0.9999,1,1,1,clemson
+2018,91048,Justin Fields, DUAL ,6-3,221,Harrison,Kennesaw,GA,0.9998,2,1,2,georgia
+2018,81258,Xavier Thomas, SDE ,6-3,260,IMG Academy,Bradenton,FL,0.9988,3,1,1,clemson
+2018,46037175,Eyabi Anoma, WDE ,6-5,235,St. Frances Academy,Baltimore,MD,0.9987,4,1,1,alabama
+2018,77264,Micah Parsons, WDE ,6-3,235,Harrisburg,Harrisburg,PA,0.9982,5,2,1,penn state
+2018,76862,Patrick Surtain II, CB ,6-1.25,199,American Heritage,Fort Lauderdale,FL,0.9973,6,1,2,alabama
+2018,86950,Nicholas Petit-Frere, OT ,6-6,272,Berkeley Prep,Tampa,FL,0.9963,7,1,3,ohio state
+2018,84829,Justin Shorter, WR ,6-4,213,South Brunswick,Monmouth Junction,NJ,0.9962,8,1,1,penn state
+2018,76780,Zamir White, RB ,6-1,210,Scotland County,Laurinburg,NC,0.9957,9,1,1,georgia
+2018,79840,Jamaree Salyer, OG ,6-4,342,Pace Academy,Atlanta,GA,0.9956,10,1,3,georgia
+2018,77160,Amon-Ra St. Brown, WR ,5-11.5,191,Mater Dei,Anaheim,CA,0.9948,11,2,1,usc
+2018,87014,Tyson Campbell, CB ,6-2.5,180,American Heritage,Fort Lauderdale,FL,0.9944,12,2,4,georgia
+2018,82357,Terrace Marshall, WR ,6-2.5,192,Parkway,Bossier City,LA,0.9930,13,3,1,lsu
+2018,83951,KJ Henry, WDE ,6-5.5,235,West Forsyth,Clemmons,NC,0.9928,14,3,2,clemson
+2018,85911,Palaie Gaoteote IV, ILB ,6-2,235,Bishop Gorman,Las Vegas,NV,0.9926,15,1,1,usc
+2018,86433,JT Daniels, PRO ,6-2,205,Mater Dei,Santa Ana,CA,0.9919,16,2,2,usc
+2018,86491,Jackson Carman, OT ,6-6,330,Fairfield,Fairfield,OH,0.9894,17,2,1,clemson
+2018,89276,Adam Anderson, OLB ,6-4,214,Rome,Rome,GA,0.9889,18,1,4,georgia
+2018,81643,Caden Sterns, S ,6-1,192,Steele,Cibolo,TX,0.9886,19,1,1,texas
+2018,81413,Taron Vincent, DT ,6-2,285,IMG Academy,Bradenton,FL,0.9884,20,1,2,ohio state
+2018,32096,Tyreke Johnson, S ,6-1,191,Trinity Christian Academy,Jacksonville,FL,0.9876,21,2,5,ohio state
+2018,69952,Cade Mays, OT ,6-6,318,Knoxville Catholic,Knoxville,TN,0.9869,22,3,1,georgia
+2018,92547,Brenton Cox, SDE ,6-4.5,247,Stockbridge,Stockbridge,GA,0.9867,23,2,5,georgia
+2018,87617,B.J. Foster, S ,6-1,188,Angleton,Angleton,TX,0.9865,24,3,2,texas
+2018,80285,Lorenzo Lingard, RB ,6-0,190,University,Orange City,FL,0.9861,25,2,6,miami
+2018,81854,Derion Kendrick, WR ,6-1,184,South Pointe,Rock Hill,SC,0.9855,26,4,1,clemson
+2018,62537,Ricky Slade, APB ,5-9,185,C. D. Hylton,Woodbridge,VA,0.9853,27,1,1,penn state
+2018,87596,Olaijah Griffin, CB ,6-0,170,Mission Viejo,Mission Viejo,CA,0.9849,28,3,3,usc
+2018,77489,Brey Walker, OT ,6-7,320,Westmoore,Moore,OK,0.9836,29,4,1,oklahoma
+2018,75608,Jaelen Gill, APB ,6-1,182,Westerville South,Westerville,OH,0.9831,30,2,2,ohio state
+2018,94039,Quay Walker, OLB ,6-4,236,Crisp County,Cordele,GA,0.9830,31,2,6,georgia
+2018,87590,Isaac Taylor-Stuart, CB ,6-2,187,Helix,San Diego,CA,0.9827,32,4,4,usc
+2018,85407,Brevin Jordan, TE ,6-3,250,Bishop Gorman,Las Vegas,NV,0.9820,33,1,2,miami
+2018,94014,Tyreke Smith, WDE ,6-3,260,Cleveland Heights,Cleveland,OH,0.9816,34,4,3,ohio state
+2018,84564,Jaiden Lars-Woodbey, S ,6-2,204,St. John Bosco,Fontana,CA,0.9814,35,4,5,florida state
+2018,84699,Dorian Thompson-Robinson, DUAL ,6-1.5,195,Bishop Gorman,Las Vegas,NV,0.9813,36,2,3,ucla
+2018,91686,Jeremy Ruckert, TE ,6-5.5,238,Lindenhurst,Lindenhurst,NY,0.9810,37,2,1,ohio state
+2018,68479,Brendan Radley-Hiles, CB ,5-10,183,IMG Academy,Bradenton,FL,0.9807,38,5,7,oklahoma
+2018,85880,Jaylen Waddle, WR ,5-9.5,175,Episcopal,Bellaire,TX,0.9791,39,5,3,alabama
+2018,46038566,Devon Williams, WR ,6-4,200,Antelope Valley,Lancaster,CA,0.9791,40,6,6,usc
+2018,81155,James Cook, APB ,5-11.5,181,Northwestern,Miami,FL,0.9786,41,3,8,georgia
+2018,88322,Kelvin Joseph, S ,6-1.5,191,Scotlandville Magnet,Baton Rouge,LA,0.9784,42,5,2,lsu
+2018,83404,Justin Rogers, DUAL ,6-4,210,Parkway,Bossier City,LA,0.9772,43,3,3,tcu
+2018,76589,Teradja Mitchell, ILB ,6-2,232,Catholic,Virginia Beach,VA,0.9771,44,2,2,ohio state
+2018,81988,Justyn Ross, WR ,6-4,201,Central,Phenix City,AL,0.9765,45,7,1,clemson
+2018,80173,Tanner McKee, PRO ,6-6,220,Centennial,Corona,CA,0.9764,46,3,7,stanford
+2018,87937,Jalen Green, CB ,6-0,171,Heights,Houston,TX,0.9762,47,6,4,texas
+2018,88704,J.J. Peterson, OLB ,6-2.5,231,Colquitt County,Moultrie,GA,0.9761,48,3,7,tennessee
+2018,78014,Joey Gatewood, ATH ,6-4,232,Bartram Trail,Jacksonville,FL,0.9759,49,1,9,auburn
+2018,81986,A.J. Lytton, CB ,5-10,173,Dr. Henry Wise,Upper Marlboro,MD,0.9757,50,7,3,florida state
+2018,46037882,Luke Ford, TE ,6-6,248,Carterville,Carterville,IL,0.9753,51,3,1,georgia
+2018,46036740,DeMarvion Overshown, S ,6-4,200,Arp,Arp,TX,0.9737,52,6,5,texas
+2018,82370,William Barnes, OT ,6-4,325,Apopka,Apopka,FL,0.9732,53,5,10,north carolina
+2018,83919,Nesta Jade Silvera, DT ,6-2,308,American Heritage,Fort Lauderdale,FL,0.9730,54,2,11,miami
+2018,90830,Tommy Togiai, DT ,6-3,290,Highland,Pocatello,ID,0.9721,55,3,1,ohio state
+2018,88320,Kyler McMichael, CB ,6-1,201,Greater Atlanta Christian School,Norcross,GA,0.9720,56,8,8,clemson
+2018,89959,Penei Sewell, OG ,6-5,349,Desert HIlls,Saint George,UT,0.9709,57,2,1,oregon
+2018,91462,Jordyn Adams, WR ,6-2,175,Green Hope,Cary,NC,0.9707,58,8,3,north carolina
+2018,87554,Marquis Spiker, WR ,6-3,180,Murrieta Valley,Murrieta,CA,0.9703,59,9,8,washington
+2018,78738,Asante Samuel Jr., CB ,5-9.5,166,St. Thomas Aquinas,Fort Lauderdale,FL,0.9702,60,9,12,florida state
+2018,80690,Brennan Eagles, WR ,6-3.5,214,Alief Taylor,Houston,TX,0.9699,61,10,6,texas
+2018,85408,Trey Hill, OG ,6-3.5,346,Houston County,Warner Robins,GA,0.9692,62,3,9,georgia
+2018,68282,Matt Corral, PRO ,6-2,202,Long Beach Poly,Long Beach,CA,0.9690,63,4,9,ole miss
+2018,87941,Anthony Cook, CB ,6-0,168,Lamar,Houston,TX,0.9682,64,10,7,texas
+2018,90159,Rasheed Walker, OT ,6-6,290,North Point,Waldorf,MD,0.9676,65,6,4,penn state
+2018,88703,Ronnie Perkins, WDE ,6-2.5,256,Lutheran North,Saint Louis,MO,0.9666,66,5,1,oklahoma
+2018,75984,Mark Pope, WR ,6-1,175,Miami Southridge,Hialeah,FL,0.9656,67,11,13,miami
+2018,75614,Matthew Jones, OC ,6-4,300,Erasmus Hall,Brooklyn,NY,0.9652,68,1,2,ohio state
+2018,78979,Jacob Copeland, WR ,6-0,192,Escambia,Pensacola,FL,0.9651,69,12,14,florida
+2018,75881,Houston Griffith, CB ,6-1,192,IMG Academy,Bradenton,FL,0.9651,70,11,15,notre dame
+2018,87589,Josh Proctor, S ,6-2,190,Owasso,Owasso,OK,0.9640,71,7,2,ohio state
+2018,83923,Michael Thompson, DT ,6-3.5,291,Parkway North,Saint Louis,MO,0.9638,72,4,2,oklahoma
+2018,87724,Kamryn Babb, WR ,6-1,189,Christian Brothers College,Saint Louis,MO,0.9629,73,13,3,ohio state
+2018,83952,Stephon Wynn, SDE ,6-4,308,IMG Academy,Anderson,SC,0.9624,74,3,16,alabama
+2018,46036520,Leon O'Neal Jr., S ,6-1,190,Cy Springs,Cypress,TX,0.9624,75,8,8,texas am
+2018,46038807,Jayson Oweh, SDE ,6-5,236,Blair Academy,Blairstown,NJ,0.9617,76,4,2,penn state
+2018,89426,Jarren Williams, PRO ,6-2,206,Central Gwinnett,Lawrenceville,GA,0.9614,77,5,10,miami
+2018,80920,PJ Mustipher, DT ,6-4.5,290,McDonogh School,Owings Mills,MD,0.9613,78,5,5,penn state
+2018,94357,Payton Wilson, OLB ,6-4,225,Orange,Hillsborough,NC,0.9613,79,4,4,north carolina state
+2018,81996,Brian Snead, RB ,5-11,200,Armwood,Seffner,FL,0.9607,80,3,17,ohio state
+2018,81993,Richard Gouraige, OT ,6-5,271,Cambridge Christian School,Tampa,FL,0.9603,81,7,18,florida
+2018,83971,Kevin Austin, WR ,6-3,198,North Broward Prep,Pompano Beach,FL,0.9601,82,14,19,notre dame
+2018,86287,Phil Jurkovec, DUAL ,6-5,215,Pine-Richland,Gibsonia,PA,0.9593,83,4,2,notre dame
+2018,82059,Ja'Marr Chase, WR ,6-1,195,Archbishop Rummel,Metairie,LA,0.9589,84,15,4,lsu
+2018,76882,Emory Jones, DUAL ,6-2.5,195,Heard County,Franklin,GA,0.9587,85,5,11,florida
+2018,85423,Solomon Tuliaupupu, ILB ,6-2,220,Mater Dei,Santa Ana,CA,0.9582,86,3,10,usc
+2018,80161,Otis Reese, OLB ,6-4,206,Lee County,Leesburg,GA,0.9575,87,5,12,georgia
+2018,89865,Talanoa Hufanga, ATH ,6-0.5,193,Crescent Valley,Corvallis,OR,0.9571,88,2,1,usc
+2018,79476,Justin Watkins, WR ,5-11,172,East Ridge,Clermont,FL,0.9567,89,16,20,florida
+2018,87355,Shayne Simon, OLB ,6-3,215,St. Peters Prep,Jersey City,NJ,0.9567,90,6,3,notre dame
+2018,78284,Colson Yankoff, DUAL ,6-4,204,Coeur d'Alene,Coeur D Alene,ID,0.9564,91,6,2,washington
+2018,89171,Matthew Hill, WR ,6-2,185,Brookwood,Snellville,GA,0.9562,92,17,13,auburn
+2018,86311,Tyler Friday, DT ,6-3,263,Don Bosco Prep,Ramsey,NJ,0.9560,93,6,4,ohio state
+2018,83546,Jacob Sirmon, PRO ,6-4,227,Bothell,Bothell,WA,0.9559,94,6,1,washington
+2018,78886,Jalen Preston, WR ,6-2,212,Manvel,Manvel,TX,0.9557,95,18,9,texas am
+2018,84998,Joshua Moore, WR ,6-1,170,Yoakum,Yoakum,TX,0.9556,96,19,10,texas
+2018,79872,Al Blades Jr., CB ,6-0,170,St. Thomas Aquinas,Fort Lauderdale,FL,0.9556,97,12,21,miami
+2018,92931,Bryan Addison, ATH ,6-5,180,Junipero Serra,Gardena,CA,0.9552,98,3,11,oregon
+2018,46038110,Jack Lamb, ILB ,6-4,220,Great Oak,Temecula,CA,0.9547,99,4,12,notre dame
+2018,81035,T.J. Pledger, APB ,5-8,190,IMG Academy,Bradenton,FL,0.9543,100,4,22,oklahoma
+2018,46036746,Ron Tatum, SDE ,6-4.5,269,Putnam City,Oklahoma City,OK,0.9541,101,5,3,oklahoma
+2018,81100,Josh Belk, DT ,6-3,309,Lewisville,Richburg,SC,0.9529,102,7,2,clemson
+2018,92060,Channing Tindall, ILB ,6-2,213,Spring Valley,Columbia,SC,0.9526,103,5,3,georgia
+2018,80685,Al'vonte Woodard, WR ,6-1,193,Lamar,Houston,TX,0.9518,104,20,11,texas
+2018,94510,Tuli Letuligasenoa, DT ,6-1,338,De La Salle,Concord,CA,0.9517,105,8,13,washington
+2018,77242,Derrik Allen, S ,6-2,211,Lassiter,Marietta,GA,0.9516,106,9,14,notre dame
+2018,84005,Jalyn Armour-Davis, CB ,6-1,180,St. Paul's Episcopal,Mobile,AL,0.9513,107,13,2,alabama
+2018,91082,Jordan Davis, WDE ,6-5,238,Southwind,Memphis,TN,0.9510,108,6,2,alabama
+2018,84077,Josh Jobe, CB ,6-1,180,Cheshire Academy,Cheshire,CT,0.9509,109,14,1,alabama
+2018,90150,Justin Dedich, OC ,6-2,290,Chaparral,Temecula,CA,0.9507,110,2,14,usc
+2018,83343,Ricky Person, RB ,6-2,202,Heritage,Wake Forest,NC,0.9502,111,4,5,north carolina state
+2018,89597,Aidan Hutchinson, SDE ,6-6,260,Divine Child,Dearborn,MI,0.9498,112,6,1,michigan
+2018,77464,Emil Ekiyor, OC ,6-2,322,Cathedral,Indianapolis,IN,0.9496,113,3,1,alabama
+2018,46036458,Mario Goodrich, ATH ,6-2,180,Lee's Summit West,Lees Summit,MO,0.9492,114,4,4,clemson
+2018,91248,D'shawn Jamison, CB ,5-10,174,Lamar,Houston,TX,0.9486,115,15,12,texas
+2018,83937,Nana Asiedu, OT ,6-5,265,North Stafford,Stafford,VA,0.9484,116,8,3,penn state
+2018,82463,Robert Cooper, DT ,6-2,377,South Gwinnett,Snellville,GA,0.9482,117,9,15,florida state
+2018,89179,Cameron McGrone, OLB ,6-1,215,Lawrence Central,Indianapolis,IN,0.9481,118,7,2,michigan
+2018,46038498,Ayodele Adeoye, ILB ,6-0,231,IMG Academy,Saint Louis,MO,0.9475,119,6,23,texas
+2018,94157,Coynis Miller, DT ,6-1.5,300,Jackson-Olin,Birmingham,AL,0.9475,120,10,3,auburn
+2018,86989,Max Wray, OT ,6-6.5,289,Franklin,Franklin,TN,0.9473,121,9,3,ohio state
+2018,79050,Alontae Taylor, WR ,6-0,184,Coffee County Central,Manchester,TN,0.9471,122,21,4,tennessee
+2018,85929,Keondre Coburn, DT ,6-1,329,Westfield,Houston,TX,0.9468,123,11,13,texas
+2018,86222,Dante Stills, SDE ,6-4,265,Fairmont,Fairmont,WV,0.9467,124,7,1,west virginia
+2018,94617,Junior Angilau, OT ,6-6,297,East,Salt Lake City,UT,0.9458,125,10,2,texas
+2018,76952,L'Christian Smith, ATH ,6-6,205,Wayne,Dayton,OH,0.9454,126,5,4,ohio state
+2018,76820,Jalen Hall, WR ,6-4,192,Long Beach Poly,Long Beach,CA,0.9454,127,22,15,oregon
+2018,78480,Jayson Ademilola, DT ,6-3,290,St. Peters Prep,Jersey City,NJ,0.9453,128,12,5,notre dame
+2018,85411,Merlin Robertson, OLB ,6-3,241,Junipero Serra,Gardena,CA,0.9452,129,8,16,arizona state
+2018,75394,Kearis Jackson, WR ,5-11.5,203,Peach County,Fort Valley,GA,0.9451,130,23,16,georgia
+2018,45572709,Cameron Latu, WDE ,6-5,236,Olympus,Salt Lake City,UT,0.9450,131,7,3,alabama
+2018,82389,Tommy Brown, OG ,6-6.5,313,Mater Dei,Santa Ana,CA,0.9449,132,4,17,alabama
+2018,45572710,Ale Kaho, ILB ,6-1,218,Reno,Reno,NV,0.9448,133,7,4,alabama
+2018,87205,Aashari Crosswell, S ,6-1,185,Long Beach Poly,Long Beach,CA,0.9442,134,10,18,arizona state
+2018,94566,Jalen Redmond, WDE ,6-4,233,Midwest City,Oklahoma City,OK,0.9442,135,8,4,oklahoma
+2018,92634,Greg Emerson, DT ,6-3,280,North Side,Jackson,TN,0.9441,136,13,5,tennessee
+2018,90051,Steve Stephens, S ,6-0,185,Edison,Fresno,CA,0.9430,137,11,19,oregon
+2018,90037,Chase Williams, CB ,6-1,190,Eleanor Roosevelt,Corona,CA,0.9423,138,16,20,usc
+2018,90829,Adrian Martinez, DUAL ,6-2,205,Clovis West,Fresno,CA,0.9423,139,7,21,nebraska
+2018,46039404,Tyler Shough, PRO ,6-4.5,187,Hamilton,Chandler,AZ,0.9422,140,7,1,oregon
+2018,86631,Rick Sandidge, DT ,6-5,285,Concord,Concord,NC,0.9416,141,14,6,south carolina
+2018,80866,Justin Mascoll, WDE ,6-4,237,South Gwinnett,Snellville,GA,0.9412,142,9,17,clemson
+2018,82857,Xavier Williams, WR ,6-0.5,190,Chaminade-Madonna Prep,Hollywood,FL,0.9405,143,24,24,alabama
+2018,46035763,Azeez Ojulari, WDE ,6-4,224,Marietta,Marietta,GA,0.9391,144,10,18,georgia
+2018,94738,Jaelyn Duncan, OT ,6-6,300,St. Frances Academy,Owings,MD,0.9390,145,11,6,maryland
+2018,46037734,Josh Vann, WR ,5-10.5,175,Tucker,Tucker,GA,0.9388,146,25,19,south carolina
+2018,90358,CJ Moore, WR ,6-5,175,Union,Tulsa,OK,0.9388,147,26,5,oklahoma state
+2018,86643,Dylan Wonnum, OT ,6-5,323,Tucker,Tucker,GA,0.9385,148,12,20,south carolina
+2018,89026,DJ Scaife, OG ,6-3,320,Miami Southridge,Miami,FL,0.9378,149,5,25,miami
+2018,79854,Zack Kuntz, TE ,6-7,221,Camp Hill,Camp Hill,PA,0.9377,150,4,3,penn state
+2018,80637,Dax Hollifield, ILB ,6-2,236,Shelby,Shelby,NC,0.9376,151,8,7,virginia tech
+2018,94167,Harold Joiner, RB ,6-3,218,Mountain Brook,Birmingham,AL,0.9375,152,5,4,auburn
+2018,87227,Colten Blanton, OT ,6-7,285,Cy Ranch,Cypress,TX,0.9370,153,13,14,texas am
+2018,83804,Brian Hightower, WR ,6-2.5,202,IMG Academy,)  ,NULL,0.9366,154,27,26,miami
+2018,80259,Raymond Scott, OLB ,6-2,220,Narbonne,Harbor City,CA,0.9361,155,9,22,usc
+2018,46037719,Julius Irvin, S ,6-1,177,Servite,Anaheim,CA,0.9361,156,12,23,washington
+2018,89545,Warren Thompson, WR ,6-3,200,Armwood,Seffner,FL,0.9361,157,28,27,florida state
+2018,89772,Smoke Monday, ATH ,6-3,185,Carver,Atlanta,GA,0.9360,158,6,21,auburn
+2018,58928,Chase Cota, WR ,6-3.5,195,South Medford,Medford,OR,0.9358,159,29,2,ucla
+2018,84131,Austin Fontaine, DT ,6-3,309,DeMatha Catholic,Hyattsville,MD,0.9348,160,15,7,maryland
+2018,46037155,Tre'Shaun Harrison, ATH ,6-2,190,Garfield,Seattle,WA,0.9336,161,7,2,florida state
+2018,80561,Kyle Pitts, TE ,6-5.5,235,Archbishop Wood,Warminster,PA,0.9334,162,5,4,florida
+2018,90347,Anthony Schwartz, WR ,6-0,172,American Heritage,Fort Lauderdale,FL,0.9334,163,30,28,auburn
+2018,94655,Keaontay Ingram, RB ,6-1,190,Carthage,Carthage,TX,0.9324,164,6,15,texas
+2018,93203,Jevon Holland, S ,6-1,182,Bishop O'Dowd,Oakland,CA,0.9324,165,13,24,oregon
+2018,81465,Dallas Gant, OLB ,6-3,225,St. John's Jesuit,Toledo,OH,0.9322,166,10,5,ohio state
+2018,90176,Jack Tuttle, PRO ,6-4,195,Mission Hills,San Marcos,CA,0.9321,167,8,25,utah
+2018,87487,Mustapha Muhammad, TE ,6-4,235,Ridge Point,Missouri City,TX,0.9318,168,6,16,michigan
+2018,87603,Adrian Jackson, OLB ,6-2,210,Mullen,Denver,CO,0.9313,169,11,1,oregon
+2018,82741,Myles Sims, CB ,6-2.5,173,Westlake,Atlanta,GA,0.9312,170,17,22,michigan
+2018,76560,Spencer Sanders, DUAL ,6-2,190,Ryan,Denton,TX,0.9311,171,8,17,oklahoma state
+2018,85252,Malik Heath, WR ,6-3,205,Callaway,Jackson,MS,0.9311,172,31,1,mississippi state
+2018,88505,Cam'Ron Harris, RB ,5-9.5,190,Miami Carol City,Opa Locka,FL,0.9308,173,7,29,miami
+2018,92418,Xavier Peters, OLB ,6-4,225,Lakota West,West Chester,OH,0.9306,174,12,6,florida state
+2018,84543,Nadab Joseph, CB ,6-1.5,180,Miami Norland HS,Miami,FL,0.9304,175,18,30,georgia
+2018,46043265,Christian Barmore, DT ,6-5,290,Neumann Goretti,Philadelphia,PA,0.9298,176,16,5,alabama
+2018,83491,Devonta Jason, WR ,6-2.5,211,Landry-Walker,New Orleans,LA,0.9297,177,32,5,mississippi state
+2018,88960,Amari Burney, S ,6-1,215,Calvary Christian,Clearwater,FL,0.9293,178,14,31,florida
+2018,46038878,Isaah Crocker, WR ,6-1,175,Inderkum,Sacramento,CA,0.9274,179,33,26,oregon
+2018,87486,Tre Turner, WR ,6-4,185,Northwest Guilford,Greensboro,NC,0.9273,180,34,8,virginia tech
+2018,91250,Dyami Brown, ATH ,6-2,180,West Mecklenburg,Charlotte,NC,0.9272,181,8,9,north carolina
+2018,91806,Bobby Brown, DT ,6-4,282,Lamar,Arlington,TX,0.9267,182,17,18,texas am
+2018,89741,Jaquayln Crawford, ATH ,5-9.5,161,Rockdale,Rockdale,TX,0.9267,183,9,19,oklahoma
+2018,88261,Gurvan Hall, S ,5-10.5,173,Palm Beach Gardens,West Palm Beach,FL,0.9265,184,15,32,miami
+2018,83839,Seth Williams, WR ,6-3,212,Paul W Bryant,Cottondale,AL,0.9259,185,35,5,auburn
+2018,46036218,Joseph Ossai, WDE ,6-4,220,Oak Ridge,Conroe,TX,0.9257,186,11,20,texas
+2018,94271,Kyler Gordon, CB ,5-11,177,Archbishop Murphy,Everett,WA,0.9256,187,19,3,washington
+2018,78347,Kalon Gervin, CB ,5-11,180,Cass Technical,Detroit,MI,0.9251,188,20,2,michigan state
+2018,87644,Atanza Vongor, S ,6-1,200,South Grand Prairie,Grand Prairie,TX,0.9251,189,16,21,tcu
+2018,77650,Max Wright, SDE ,6-4,270,Taylor,Katy,TX,0.9245,190,8,22,texas am
+2018,91888,Alim McNeill, DT ,6-2,272,Sanderson,Raleigh,NC,0.9234,191,18,10,north carolina state
+2018,88060,Jahan Dotson, WR ,5-11,165,Nazareth,Nazareth,PA,0.9228,192,36,6,penn state
+2018,83755,Cameron Jurgens, TE ,6-3,240,Beatrice,Beatrice,NE,0.9227,193,7,1,nebraska
+2018,80974,Marquan McCall, OG ,6-4,320,Oak Park,Oak Park,MI,0.9225,194,6,3,kentucky
+2018,93550,Trey Dean, S ,6-2,180,Dutchtown,Hampton,GA,0.9222,195,17,23,florida
+2018,46037220,Tommy Bush, WR ,6-5,191,Samuel Clemens,Schertz,TX,0.9222,196,37,23,georgia
+2018,85806,Zakoby McClain, OLB ,6-0,205,Valdosta,Valdosta,GA,0.9221,197,13,24,auburn
+2018,85244,Jarell Cherry, WDE ,6-3,224,Carter,Dallas,TX,0.9216,198,12,24,lsu
+2018,90392,Kwantel Raines, S ,6-3,200,Aliquippa,Aliquippa,PA,0.9213,199,18,7,west virginia
+2018,88506,Gilbert Frierson, CB ,6-1,185,Coral Gables Senior,Miami,FL,0.9211,200,21,33,miami
+2018,79654,Dameon Pierce, RB ,5-11,205,Bainbridge,Bainbridge,GA,0.9209,201,8,25,florida
+2018,86645,Asa Martin, RB ,5-11.5,200,Austin,Decatur,AL,0.9207,202,9,6,auburn
+2018,82387,Elijah Moore, WR ,5-11,181,St. Thomas Aquinas,Fort Lauderdale,FL,0.9205,203,38,34,ole miss
+2018,89866,Joe Milton, PRO ,6-5.5,230,Olympia,Orlando,FL,0.9202,204,9,35,michigan
+2018,46036886,DaShaun White, OLB ,6-1,222,Richland,North Richland Hills,TX,0.9200,205,14,25,oklahoma
+2018,77309,Dakereon Joyner, DUAL ,6-2,206,Fort Dorchester,North Charleston,SC,0.9199,206,9,4,south carolina
+2018,90706,Maurice Washington, RB ,6-1,190,Trinity Christian School,Cedar Hill,TX,0.9190,207,10,26,nebraska
+2018,93047,Sam Taimani, OG ,6-2,320,East,Salt Lake City,UT,0.9190,208,7,4,washington
+2018,46037954,Jaycee Horn, CB ,6-0,190,Alpharetta,Alpharetta,GA,0.9188,209,22,26,south carolina
+2018,35046,Mike Jones Jr., OLB ,6-0,228,IMG Academy,Bradenton,FL,0.9186,210,15,36,clemson
+2018,82361,Will Mallory, TE ,6-5,207,Providence,Jacksonville,FL,0.9183,211,8,37,miami
+2018,89570,Austin Osborne, WR ,6-2,188,Mission Viejo,Mission Viejo,CA,0.9180,212,39,27,washington
+2018,85814,Andrew Chatfield, WDE ,6-2,221,American Heritage,Fort Lauderdale,FL,0.9180,213,13,38,florida
+2018,78729,Mychale Salahuddin, APB ,5-10,193,Woodson H.D.,Washington,DC,0.9179,214,5,1,pittsburgh
+2018,84307,Braden Lenzy, ATH ,6-0,175,Tigard,Portland,OR,0.9174,215,10,3,notre dame
+2018,84052,Calvin Avery, DT ,6-2,310,Bishop Dunne,Dallas,TX,0.9174,216,19,27,illinois
+2018,81925,K'Vaughan Pope, ILB ,6-2,210,Dinwiddie County,Dinwiddie,VA,0.9170,217,9,4,ohio state
+2018,83972,Curtis Dunlap, OG ,6-4,368,IMG Academy,Bradenton,FL,0.9168,218,8,39,minnesota
+2018,46038508,Javontae Jean-Baptiste, OLB ,6-5,215,Bergen Catholic,Oradell,NJ,0.9168,219,16,6,ohio state
+2018,82485,Nik Bonitto, OLB ,6-2.5,204,St. Thomas Aquinas,Fort Lauderdale,FL,0.9167,220,17,40,oklahoma
+2018,94407,Sevyn Banks, CB ,6-1,180,Jones,Orlando,FL,0.9166,221,23,41,ohio state
+2018,90326,Malcolm Lamar, SDE ,6-5,250,Armwood,Seffner,FL,0.9154,222,9,42,florida state
+2018,46039252,Abdul-Malik McClain, WDE ,6-4,230,J Serra Catholic,San Juan Capistrano,CA,0.9152,223,14,28,usc
+2018,90828,Pat Freiermuth, TE ,6-5,250,Brooks School,North Andover,MA,0.9149,224,9,1,penn state
+2018,84999,Jordan Moore, S ,5-11,192,Yoakum,Yoakum,TX,0.9143,225,19,28,texas am
+2018,46036427,Solomon Enis, WR ,6-4,190,North Canyon,Phoenix,AZ,0.9139,226,40,2,utah
+2018,87922,Malcolm Epps, TE ,6-5.5,218,Dekaney,Houston,TX,0.9137,227,10,29,texas
+2018,90429,Master Teague, RB ,5-11,210,Blackman,Murfreesboro,TN,0.9132,228,11,6,ohio state
+2018,92949,Rondale Moore, WR ,5-8.5,174,Trinity,Louisville,KY,0.9123,229,41,1,purdue
+2018,76603,Jairus Brents, CB ,5-10,178,Waggener Traditional,Louisville,KY,0.9122,230,24,2,louisville
+2018,88682,Isaiah Bolden, CB ,6-2,175,Wesley Chapel,Zephyrhills,FL,0.9120,231,25,43,florida state
+2018,46039240,Chris Murray, OG ,6-3,300,Mater Dei,Santa Ana,CA,0.9119,232,9,29,ucla
+2018,92944,Juice Scruggs, OC ,6-3,270,Cathedral Prep,Erie,PA,0.9118,233,4,8,penn state
+2018,94311,Gerry Bohanon, DUAL ,6-3,218,Earle,Earle,AR,0.9117,234,10,1,baylor
+2018,77544,Jack West, PRO ,6-4,217,Saraland,Saraland,AL,0.9115,235,10,7,stanford
+2018,76808,Trevor Trout, DT ,6-3,315,Chaminade,Saint Louis,MO,0.9115,236,20,5,usc
+2018,83886,BJ Hanspard, ATH ,6-0,170,DeSoto,DeSoto,TX,0.9114,237,11,30,baylor
+2018,85160,Jesse Luketa, ILB ,6-3,238,Mercyhurst Preparatory School,Erie,PA,0.9113,238,10,9,penn state
+2018,87993,Amari Gainer, OLB ,6-2.5,204,Lawton Chiles,Tallahassee,FL,0.9112,239,18,44,florida state
+2018,88387,Robert Hicks, ILB ,6-0,237,Miami Central,Miami,FL,0.9109,240,11,45,louisville
+2018,46036394,Michael Wilson, WR ,6-2,180,Chaminade,West Hills,CA,0.9106,241,42,30,stanford
+2018,46036777,Divaad Wilson, CB ,6-0,180,Northwestern,Miami,FL,0.9106,242,26,46,georgia
+2018,92225,Chasen Hines, DT ,6-2.5,335,Marshall,Marshall,TX,0.9105,243,21,31,lsu
+2018,46036978,Spencer Webb, TE ,6-5,235,Christian Brothers,Sacramento,CA,0.9103,244,11,31,oregon
+2018,90705,Alston Orji, ILB ,6-2,230,Rockwall,Rockwall,TX,0.9103,245,12,32,vanderbilt
+2018,94609,Steven Jones, OG ,6-5,340,Chaparral,Temecula,CA,0.9100,246,10,32,oregon
+2018,86414,Cameron Rising, PRO ,6-2,209,Newbury Park,Newbury Park,CA,0.9096,247,11,33,texas
+2018,94365,Trey Lowe, APB ,5-7,174,Jesuit,Portland,OR,0.9094,248,6,4,washington
+2018,91436,Tanner Mordecai, DUAL ,6-2.5,213,Midway,Waco,TX,0.9092,249,11,33,oklahoma
+2018,80865,Trenton Gillison, TE ,6-5,220,Pickerington Central,Pickerington,OH,0.9089,250,12,7,michigan state
+2018,90941,Bo Calvert, OLB ,6-3.5,218,Oaks Christian,Westlake Village,CA,0.9087,251,19,34,ucla
+2018,83790,Dawson Jaramillo, OT ,6-5,295,Lake Oswego,Lake Oswego,OR,0.9085,252,14,5,oregon
+2018,80809,Tank Jenkins, OG ,6-3,325,Park Crossing,Montgomery,AL,0.9083,253,11,8,texas am
+2018,94536,Jeremiah Martin, WDE ,6-5,240,Cajon,San Bernardino,CA,0.9083,254,15,35,texas am
+2018,94603,Stephan Blaylock, S ,5-10,185,St. John Bosco,Bellflower,CA,0.9082,255,20,36,ucla
+2018,83278,Brant Lawless-Sherrill, DT ,6-3,285,Nashville Christian School,Nashville,TN,0.9080,256,22,7,north carolina
+2018,90465,Jamien Sherwood, S ,6-2,195,Jensen Beach,Jensen Beach,FL,0.9079,257,21,47,auburn
+2018,85176,Lyn-J Dixon, APB ,5-10.5,178,Taylor County,Butler,GA,0.9077,258,7,27,clemson
+2018,85712,Cleveland Reed, OG ,6-3,327,Fort Meade,Fort Meade,FL,0.9075,259,12,48,miami
+2018,46039279,Michael Ezeike, TE ,6-5,220,Colony,Ontario,CA,0.9075,260,13,37,ucla
+2018,90466,Jashaun Corbin, APB ,6-0,191,Rockledge,ROCKLEDGE,FL,0.9074,261,8,49,texas am
+2018,91863,Andres Fox, WDE ,6-4,245,Mobile Christian School,Mobile,AL,0.9073,262,16,9,stanford
+2018,82997,Warren Ericson, OC ,6-4,290,North Gwinnett,Duluth,GA,0.9070,263,5,28,georgia
+2018,77684,Cam Johnson, WR ,6-1,182,Brentwood Academy,Brentwood,TN,0.9070,264,43,8,vanderbilt
+2018,83915,Darrell Simpson, OT ,6-7,336,Northwest,Justin,TX,0.9069,265,15,34,oklahoma
+2018,89162,Joseph Scates, WR ,6-3,180,Dunbar,Dayton,OH,0.9069,266,44,8,iowa state
+2018,46039653,Tevailance Hunt, WR ,6-2,185,Texas High,Texarkana,TX,0.9064,267,45,35,tcu
+2018,94231,Jalen Mayfield, OT ,6-5,273,Catholic Central,Grand Rapids,MI,0.9062,268,16,4,michigan
+2018,46035406,Kingsley Enagbare, SDE ,6-4,257,Hapeville Charter,Atlanta,GA,0.9061,269,10,29,south carolina
+2018,92723,Nick Tarburton, ILB ,6-3.5,242,Pennridge,Perkasie,PA,0.9057,270,13,10,penn state
+2018,86492,James Foster, DUAL ,6-3,210,Lanier,Montgomery,AL,0.9055,271,12,10,texas am
+2018,90567,Pooka Williams Jr., APB ,5-9,175,Hahnville,Boutte,LA,0.9055,272,9,6,kansas
+2018,83492,Corione Harris, CB ,5-11.5,165,Landry-Walker,New Orleans,LA,0.9052,273,27,7,kansas
+2018,81376,Daniel George, WR ,6-1.5,201,Oxon Hill,Oxon Hill,MD,0.9049,274,46,8,penn state
+2018,93325,Quincy Patterson, DUAL ,6-4,232,Solorio Academy,Chicago,IL,0.9048,275,13,2,virginia tech
+2018,75390,Christian Tutt, CB ,5-10.5,193,Thomson,Thomson,GA,0.9045,276,28,30,auburn
+2018,90833,Micah Baskerville, ILB ,6-2,215,Evangel Christian Academy,Shreveport,LA,0.9044,277,14,8,lsu
+2018,82951,Trenell Troutman, S ,5-10,188,St. Thomas Aquinas,Fort Lauderdale,FL,0.9041,278,22,50,louisville
+2018,79857,Jamal Elliott, RB ,5-10,180,Hillside,Durham,NC,0.9038,279,12,11,oregon
+2018,75803,Taiyon Palmer, CB ,6-0,178,Archer,Lawrenceville,GA,0.9035,280,29,31,north carolina state
+2018,46038378,Michael Harris, ILB ,6-2,213,Tucker,Tucker,GA,0.9033,281,15,32,auburn
+2018,91788,Thomas Booker, SDE ,6-5,290,Gilman,Baltimore,MD,0.9032,282,11,9,stanford
+2018,89212,George Takacs, TE ,6-7,242,Gulf Coast,Naples,FL,0.9031,283,14,51,notre dame
+2018,87759,Davin Cotton, DT ,6-1,262,Evangel Christian Academy,Shreveport,LA,0.9027,284,23,9,lsu
+2018,89488,Avery Jones, OG ,6-4,275,Havelock,Havelock,NC,0.9026,285,13,12,north carolina
+2018,88429,Lawrence Keys III, WR ,5-10.5,160,McDonogh 35,New Orleans,LA,0.9026,286,47,10,notre dame
+2018,94534,Elijah Wade, WDE ,6-5,240,Arbor View,Las Vegas,NV,0.9024,287,17,5,ucla
+2018,90140,Kyle Philips, WR ,5-11,176,San Marcos,San Marcos,CA,0.9023,288,48,38,ucla
+2018,85930,Cam'ron Jones, S ,6-0,200,Mansfield,Mansfield,TX,0.9023,289,23,36,nebraska
+2018,87577,Camren McDonald, TE ,6-4,220,Long Beach Poly,Long Beach,CA,0.9023,290,15,39,florida state
+2018,35839,Casey Thompson, DUAL ,6-1,184,Newcastle,Newcastle,OK,0.9021,291,14,6,texas
+2018,46039230,Will Craig, OT ,6-5,265,Granite Bay,Granite Bay,CA,0.9016,292,17,40,california
+2018,85271,Bo Bauer, ILB ,6-2.5,222,Cathedral Prep,Erie,PA,0.9015,293,16,11,notre dame
+2018,93986,Kwatrivous Johnson, OT ,6-7.5,338,Greenwood,Greenwood,MS,0.9009,294,18,2,mississippi state
+2018,46037283,Daniel Faalele, OT ,6-8,400,IMG Academy,Bradenton,FL,0.9008,295,19,52,minnesota
+2018,94539,Devin O'Rourke, SDE ,6-6,240,Lincoln-Way East,Frankfort,IL,0.9008,296,12,3,northwestern
+2018,90439,David Reese, OLB ,6-2,213,Vero Beach,Fort Pierce,FL,0.9003,297,20,53,florida
+2018,86418,Fabian Franklin, RB ,5-11,207,Hattiesburg,Hattiesburg,MS,0.8999,298,13,3,tcu
+2018,77698,Leonard Taylor, TE ,6-5.5,246,Springfield,Springfield,OH,0.8999,299,16,9,cincinnati
+2018,90553,Reese Moore, OT ,6-6,280,Seminole,Seminole,TX,0.8997,300,20,37,texas
+2018,92189,Bryce Thompson, ATH ,6-0,180,Dutch Fork,Irmo,SC,0.8996,301,12,5,tennessee
+2018,90910,Christian Meadows, OG ,6-3,330,Macon County,Montezuma,GA,0.8993,302,14,33,florida state
+2018,46036674,Rafiti Ghirmai, OT ,6-4,290,Wakeland,Frisco,TX,0.8993,303,21,38,texas
+2018,94296,Erik Ezukanma, WR ,6-2,183,Timber Creek,Keller,TX,0.8992,304,49,39,texas tech
+2018,81159,Dare Rosenthal, DT ,6-7,327,Ferriday,Ferriday,LA,0.8992,305,24,11,lsu
+2018,87961,Chris Smith, CB ,5-10.5,169,Hapeville Charter,Atlanta,GA,0.8991,306,30,34,georgia
+2018,83735,Markese Stepp, RB ,6-0,228,Cathedral,Indianapolis,IN,0.8991,307,14,3,usc
+2018,94614,Kana'i Mauga, OLB ,6-2,215,Waianae,Waianae,HI,0.8990,308,21,1,usc
+2018,84069,Richard Jibunor, ATH ,6-3,206,Athens Christian,Athens,GA,0.8985,309,13,35,auburn
+2018,89229,Kayode Oladele, SDE ,6-4,235,Champagnat Catholic - Hialeah,Miami,FL,0.8984,310,13,54,memphis
+2018,86651,Josh Fleeks, WR ,5-11.5,170,Cedar Hill,Cedar Hill,TX,0.8984,311,50,40,baylor
+2018,88365,Gabriel Douglas, WR ,6-2,185,Ryan,Denton,TX,0.8982,312,51,41,NULL
+2018,86595,Xavier Henderson, ATH ,6-0,189,Pickerington Central,Pickerington,OH,0.8981,313,14,10,michigan state
+2018,94476,Darian Kinnard, OT ,6-7,336,St Ignatius,Cleveland,OH,0.8981,314,22,11,kentucky
+2018,46037824,Malik Langham, SDE ,6-5.5,269,Lee,Huntsville,AL,0.8975,315,14,11,florida
+2018,46036878,John FitzPatrick, TE ,6-6,230,Marist School,Atlanta,GA,0.8975,316,17,36,georgia
+2018,86352,Chamarri Conner, S ,6-0,193,Trinity Christian Academy,Jacksonville,FL,0.8975,317,24,55,virginia tech
+2018,81341,Jaylon King, ATH ,6-1,180,Ensworth,Nashville,TN,0.8973,318,15,9,georgia tech
+2018,88203,Tahj Rice, SDE ,6-2,320,Waggener Traditional,Louisville,KY,0.8973,319,15,3,duke
+2018,87661,Nikko Remigio, WR ,5-10,160,Mater Dei,Santa Ana,CA,0.8971,320,52,41,california
+2018,46038452,Tate Wildeman, WDE ,6-6,245,Legend,Parker,CO,0.8971,321,18,2,nebraska
+2018,46040166,Tyquan Thornton, WR ,6-3,165,Booker T. Washington,Miami,FL,0.8971,322,53,56,baylor
+2018,93614,Cameron Brown, WR ,6-1,175,Christian Brothers College,Saint Louis,MO,0.8971,323,54,6,ohio state
+2018,83237,Dennis Briggs, DT ,6-4,252,Gateway,Kissimmee,FL,0.8970,324,25,57,florida state
+2018,89101,Chris Oats, OLB ,6-4,215,Winton Woods,Cincinnati,OH,0.8964,325,22,12,kentucky
+2018,94616,Tyler Manoa, DT ,6-5,260,St. Francis,Mountain View,CA,0.8959,326,26,42,ucla
+2018,45572411,Kenan Jones, WR ,6-3,205,Berwick,Berwick,LA,0.8958,327,55,12,lsu
+2018,45572464,Caleb Tannor, WDE ,6-3,225,Miller Grove,Lithonia,GA,0.8958,328,19,37,nebraska
+2018,86755,Iverson Clement, ATH ,5-11,199,Rancocas Valley Reg H,Mount Holly,NJ,0.8958,329,16,7,florida
+2018,87226,Miles Battle, WR ,6-4,188,Cy Creek,Houston,TX,0.8958,330,56,42,ole miss
+2018,46038842,Matthew Baldwin, PRO ,6-2.5,195,Lake Travis,Austin,TX,0.8958,331,12,43,ohio state
+2018,91927,James Graham, ATH ,6-1,180,Fitzgerald,Fitzgerald,GA,0.8958,332,17,38,georgia tech
+2018,46038884,Darryl Jones, WR ,6-2,180,Princess Anne,Virginia Beach,VA,0.8958,333,57,5,maryland
+2018,45573120,De'Von Graves, ATH ,6-1,180,Appomattox County,Appomattox,VA,0.8958,334,18,6,north carolina state
+2018,46036248,Ryan Hayes, OT ,6-7,252,Traverse City West,Traverse City,MI,0.8958,335,23,5,michigan
+2018,93569,Jace Ruder, DUAL ,6-3,205,Norton,Norton,KS,0.8957,336,15,1,north carolina
+2018,91776,Jack Sanborn, ILB ,6-2,210,Lake Zurich,Lake Zurich,IL,0.8949,337,17,4,wisconsin
+2018,46042442,Rodrick Fisher, WR ,6-2,203,East Valley,Spokane,WA,0.8947,338,58,4,washington state
+2018,86603,Bumper Pool, ILB ,6-2.5,213,Lovejoy,Lucas,TX,0.8947,339,18,44,arkansas
+2018,80766,Brevin White, PRO ,6-2,185,Paraclete,Lancaster,CA,0.8946,340,13,43,princeton
+2018,83740,Connor Noland, PRO ,6-3,205,Greenwood,Greenwood,AR,0.8946,341,14,2,arkansas
+2018,46038778,Jaden Crumedy, WDE ,6-5,240,Oak Grove,Hattiesburg,MS,0.8944,342,20,4,mississippi state
+2018,92964,Verdis Brown, OC ,6-3,294,IMG Academy,Chicago,IL,0.8944,343,6,58,illinois
+2018,82856,Shaun Shivers, APB ,5-7,174,Chaminade-Madonna Prep,Hollywood,FL,0.8939,344,10,59,auburn
+2018,88655,Marquez Ezzard, ATH ,6-1.5,213,Stockbridge,)  ,NULL,0.8939,345,19,39,miami
+2018,81696,Tyrone Sampson Jr., OC ,6-3,295,East English Village Prep,Detroit,MI,0.8937,346,7,6,fresno state
+2018,46038893,Jovaughn Gwyn, OG ,6-2,291,Harding University High,Charlotte,NC,0.8937,347,15,13,south carolina
+2018,53431,Craig Williams, APB ,5-9,170,Crosby,Crosby,TX,0.8937,348,11,45,baylor
+2018,85232,Jordan Miner, CB ,6-1,183,Wiregrass Ranch,TAMPA,FL,0.8937,349,31,60,penn state
+2018,46039444,Antoine Green, WR ,6-2,195,Rockledge,ROCKLEDGE,FL,0.8935,350,59,61,north carolina
+2018,87790,Connor Galvin, OT ,6-6,260,Katy,Katy,TX,0.8928,351,24,46,baylor
+2018,83974,Rosendo Louis, ILB ,6-1,225,Deerfield Beach,Deerfield Beach,FL,0.8927,352,19,62,south carolina
+2018,89274,DJ Ivey, CB ,6-0.5,171,South Dade,Homestead,FL,0.8926,353,32,63,miami
+2018,91214,Caleb Chapman, WR ,6-5,210,Clear Brook,Friendswood,TX,0.8925,354,60,47,texas am
+2018,45572871,Chris Curry, RB ,5-11,200,Lehigh Senior,Lehigh Acres,FL,0.8924,355,15,64,lsu
+2018,92257,Trill Williams, ATH ,6-2,190,Archbishop Stepinac,Yonkers,NY,0.8924,356,20,3,syracuse
+2018,91555,Damone Clark, ILB ,6-3,218,Southern University Lab School,Baton Rouge,LA,0.8923,357,20,13,lsu
+2018,80877,Vernon Jackson, ATH ,6-3,240,Boling,Boling,TX,0.8920,358,21,48,texas am
+2018,87162,Ken Montgomery Jr., CB ,6-1.5,165,Hillsborough,Tampa,FL,0.8918,359,33,65,maryland
+2018,89486,Khalil Shakir, ATH ,6-1,175,Vista Murrieta,Murrieta,CA,0.8918,360,22,44,boise state
+2018,56662,Jalen Mayden, DUAL ,6-2,215,Sachse,Sachse,TX,0.8917,361,16,49,mississippi state
+2018,75770,Finn Dirstine, OG ,6-5,320,Lawrence Academy,Acton,MA,0.8917,362,16,2,boston college
+2018,93370,Cammon Cooper, PRO ,6-4,202,Lehi,Lehi,UT,0.8917,363,15,5,washington state
+2018,88963,Eli'jah Winston, ILB ,6-3,232,Central Catholic,Portland,OR,0.8917,364,21,6,usc
+2018,87843,Alan Tisdale, OLB ,6-3,208,Page,Greensboro,NC,0.8917,365,23,14,virginia tech
+2018,88453,Noah Boykin, CB ,6-2,170,Woodson H.D.,Washington,DC,0.8916,366,34,2,notre dame
+2018,46040957,Rashod Bateman, WR ,6-1.5,180,Tift County,Tifton,GA,0.8914,367,61,40,minnesota
+2018,75986,Luke Matthews, OG ,6-4,305,Elkins,Missouri City,TX,0.8914,368,17,50,texas am
+2018,46038897,Jarrett Patterson, OT ,6-5,285,Mission Viejo,Mission Viejo,CA,0.8912,369,25,45,notre dame
+2018,90594,Jerome Ford, APB ,5-11,195,Armwood,TAMPA,FL,0.8909,370,12,66,alabama
+2018,93612,Brendon Harris, S ,6-0.5,205,Baylor School,Chattanooga,TN,0.8907,371,25,10,vanderbilt
+2018,78431,Devin Leary, PRO ,6-1.5,189,Timber Creek,Sicklerville,NJ,0.8905,372,16,8,north carolina state
+2018,46036319,Draco Bynum, SDE ,6-4,258,Wilsonville,Wilsonville,OR,0.8904,373,16,7,washington
+2018,89718,James Mitchell, WR ,6-4,218,Union,Big Stone Gap,VA,0.8904,374,62,7,virginia tech
+2018,87639,Jerome Carvin, OT ,6-4,330,Cordova,Cordova,TN,0.8904,375,26,11,tennessee
+2018,75888,Micah Jones, WR ,6-5,206,Warren Township,Gurnee,IL,0.8902,376,63,5,notre dame
+2018,92399,Theo Day, PRO ,6-5,197,Divine Child,Dearborn,MI,0.8898,377,17,7,michigan state
+2018,90561,C.J. Smith, S ,6-2,193,Oxbridge Academy,West Palm Beach,FL,0.8897,378,26,67,nebraska
+2018,69248,Dallas Craddieth, S ,6-1,193,Hazelwood Central,Florissant,MO,0.8891,379,27,7,iowa
+2018,93609,John Waggoner, WDE ,6-5,230,Dowling Catholic,West Des Moines,IA,0.8891,380,21,1,iowa
+2018,77026,Barton Clement, OG ,6-3,315,Fort Bend Marshall,Missouri City,TX,0.8891,381,18,51,texas am
+2018,90978,Gemon Green, CB ,6-2,165,DeSoto,DeSoto,TX,0.8891,382,35,52,michigan
+2018,87592,Marcus Riley, ATH ,5-10,165,James Rickards,Tallahassee,FL,0.8891,383,23,68,louisville
+2018,46037472,Kundarrius Taylor, ATH ,6-3,200,Ridgeway,Memphis,TN,0.8891,384,24,12,oklahoma
+2018,89134,Chandler Jones, CB ,5-10,173,Miami Central,MIAMI,FL,0.8891,385,36,69,louisville
+2018,46051365,Jordan Young, WR ,6-2,185,Heritage,Conyers,GA,0.8891,386,64,41,florida state
+2018,89368,Jonathan Gipson, CB ,6-2,182,Mill Creek,Hoschton,GA,0.8887,387,37,42,south carolina
+2018,88700,Chad Bailey, ILB ,6-0,238,Ridge Point,Missouri City,TX,0.8887,388,22,53,missouri
+2018,79039,Montel Parker, WR ,6-2,185,Dickinson,Dickinson,TX,0.8884,389,65,54,texas am
+2018,46038621,Moro Ojomo, DT ,6-3,280,Katy,Katy,TX,0.8884,390,27,55,texas
+2018,87573,Kalon Barnes, WR ,5-11,172,Silsbee,Silsbee,TX,0.8884,391,66,56,baylor
+2018,45572445,Shedrick Jackson, WR ,6-1.5,195,Hoover,Hoover,AL,0.8884,392,67,12,auburn
+2018,46038073,McCallan Castles, TE ,6-5,230,South Tahoe,South Lake Tahoe,CA,0.8884,393,18,46,california
+2018,46039955,Jeremy Banks, RB ,6-2,215,Cordova,Cordova,TN,0.8883,394,16,13,tennessee
+2018,82608,Artur Sitkowski, PRO ,6-5,215,IMG Academy,Old Bridge,NJ,0.8881,395,18,70,rutgers
+2018,85932,Marcus Murphy, ATH ,6-1,190,West Point,West Point,MS,0.8881,396,25,5,mississippi state
+2018,90836,Tennessee Pututau, OLB ,6-1.5,260,East,Salt Lake City,UT,0.8877,397,24,6,utah
+2018,46040137,Matteo Mele, OT ,6-5,277,Salpointe Catholic,Tucson,AZ,0.8876,398,27,3,washington
+2018,46040337,Chris Olave, WR ,6-1,170,Mission Hills,San Marcos,CA,0.8875,399,68,47,ohio state
+2018,93081,Kazmeir Allen, APB ,5-10,185,Tulare Union,Tulare,CA,0.8875,400,13,48,ucla
+2018,90885,Qadir White, OT ,6-7,334,Cardinal Hayes,Bronx,NY,0.8874,401,28,4,syracuse
+2018,80655,Judge Culpepper, SDE ,6-5,256,Plant,Tampa,FL,0.8871,402,17,71,penn state
+2018,88100,Anthony Grant, RB ,5-11,200,Buford,Buford,GA,0.8871,403,17,43,florida state
+2018,78359,Verone McKinley III, CB ,5-10,170,Hebron,Carrollton,TX,0.8871,404,38,57,oregon
+2018,89730,Dominick Watt, WR ,6-1,200,Miramar,Hollywood,FL,0.8871,405,69,72,nebraska
+2018,89689,Christian Armstrong, OT ,6-5,335,Warner Robins,Warner Robins,GA,0.8871,406,29,44,florida state
+2018,46035534,Chris Collins, WDE ,6-5,212,Benedictine,Richmond,VA,0.8871,407,22,8,north carolina
+2018,91879,Evan Gregory, OG ,6-4,285,DeMatha Catholic,Hyattsville,MD,0.8871,408,19,10,maryland
+2018,46038595,Tyler Linderbaum, DT ,6-2,255,Solon,Solon,IA,0.8869,409,28,2,iowa
+2018,46036670,Tavion Thomas, RB ,6-2,225,Dunbar,Dayton,OH,0.8865,410,18,13,cincinnati
+2018,93957,Maureese Wren, ATH ,6-3.5,216,Horn,Mesquite,TX,0.8864,411,26,58,louisiana tech
+2018,46037898,Josh Whyle, TE ,6-6,215,LaSalle,Cincinnati,OH,0.8863,412,19,14,cincinnati
+2018,46037850,Daevon Robinson, ATH ,6-4,210,Shawnee,Medford,NJ,0.8863,413,27,9,rutgers
+2018,77218,Salua Masina, OLB ,6-3.5,205,Brighton,Salt Lake City,UT,0.8863,414,25,7,vanderbilt
+2018,80403,Jackson Sirmon, OLB ,6-2,224,Brentwood Academy,Brentwood,TN,0.8863,415,26,14,washington
+2018,94521,Hunter Lotulelei, OG ,6-2,313,Highland,Salt Lake City,UT,0.8862,416,20,8,utah
+2018,89318,Marcus Johnson, CB ,5-10,175,Villa Park,Villa Park,CA,0.8861,417,39,49,NULL
+2018,46039320,Sean Michael Flanagan, ATH ,6-1,181,Charleston,Charleston,AR,0.8858,418,28,3,oklahoma state
+2018,46039680,John Huggins, S ,6-0,200,Mainland,Daytona Beach,FL,0.8858,419,28,73,florida
+2018,45573282,D'Marcus Adams, WR ,6-0,170,Mainland,Daytona Beach,FL,0.8858,420,70,74,florida state
+2018,93297,Spencer Petras, PRO ,6-5,207,Marin  Catholic,Greenbrae,CA,0.8858,421,19,50,iowa
+2018,78427,Trent Gordon, CB ,5-11,180,Manvel,Manvel,TX,0.8858,422,40,59,penn state
+2018,83743,Quin Williams, OLB ,6-2,240,Morgan County,Madison,GA,0.8858,423,27,45,georgia southern
+2018,86447,Jordan Davis, DT ,6-6,330,Mallard Creek,Charlotte,NC,0.8858,424,29,15,georgia
+2018,86297,Antwan Reed, OT ,6-5.5,326,Muskegon,Muskegon,MI,0.8858,425,30,8,western michigan
+2018,46035436,Kendall Williamson, CB ,6-1,185,Brookwood,Snellville,GA,0.8854,426,41,46,stanford
+2018,87789,Kam Scott, WR ,6-2,165,Manvel,Manvel,TX,0.8851,427,71,60,missouri
+2018,46036706,Cameron Wire, OT ,6-6,280,East Ascension,Gonzales,LA,0.8851,428,31,14,lsu
+2018,89717,Ronnie Walker, RB ,5-10,190,Hopewell,Hopewell,VA,0.8851,429,19,9,indiana
+2018,85401,Myles Mason, S ,6-2,205,Hewitt-Trussville,Trussville,AL,0.8851,430,29,13,arkansas
+2018,88918,Jalen Knox, ATH ,5-11.5,185,Mansfield Timberview,Arlington,TX,0.8851,431,29,61,missouri
+2018,46038852,Jalen Cunningham, DT ,6-6,345,St. Clair County,Odenville,AL,0.8850,432,30,14,ole miss
+2018,46039454,Cole Smith, OC ,6-4,275,Pontotoc,Pontotoc,MS,0.8844,433,8,6,lsu
+2018,90838,TaRiq Bracy, ATH ,6-0,170,Milpitas,Milpitas,CA,0.8843,434,30,51,notre dame
+2018,46038981,Eddie Smith, CB ,6-0,180,Salmen,Slidell,LA,0.8843,435,42,15,alabama
+2018,46038307,Fabien Lovett, SDE ,6-3,285,Olive Branch,Olive Branch,MS,0.8842,436,18,7,mississippi state
+2018,86407,Ke'von Ahmad, WR ,6-1,183,Colleyville Heritage,Colleyville,TX,0.8842,437,72,62,central florida
+2018,46038877,Dimitri Stanley, ATH ,6-0,178,Cherry Creek,Englewood,CO,0.8842,438,31,3,colorado
+2018,89563,Julius Brents, S ,6-2,179,Warren Central,Indianapolis,IN,0.8842,439,30,4,iowa
+2018,88092,Jaylon Robinson, ATH ,5-10,170,All Saints Episcopal,Fort Worth,TX,0.8837,440,32,63,oklahoma
+2018,86256,Armani Chatman, ATH ,6-0,180,Catholic,Virginia Beach,VA,0.8837,441,33,10,virginia tech
+2018,82523,Devon Lawrence, RB ,5-11,195,Wake Forest,Wake Forest,NC,0.8837,442,20,16,north carolina
+2018,88174,Tre Douglas, CB ,6-2,180,Eagles Landing Christian Academy,McDonough,GA,0.8835,443,43,47,vanderbilt
+2018,46047134,Jarrett Bell, OG ,6-5,295,Norco,Norco,CA,0.8831,444,21,52,arizona state
+2018,46038529,Byron Vaughns, OLB ,6-3.5,216,Eastern Hills,Fort Worth,TX,0.8830,445,28,64,texas
+2018,89702,Owen Condon, OT ,6-7,300,Bishop McGuinness,Oklahoma City,OK,0.8830,446,32,7,georgia
+2018,46036264,Chase Kline, ILB ,6-3.5,225,Chardon,Chardon,OH,0.8829,447,23,15,michigan state
+2018,90840,Jaray Jenkins, WR ,6-1,175,Jena,Jena,LA,0.8828,448,73,16,lsu
+2018,90760,Aeneas Hawkins, DT ,6-3,265,Archbishop Moeller,Cincinnati,OH,0.8824,449,31,16,penn state
+2018,85163,Malik Vann, SDE ,6-2.5,270,Fairfield,Fairfield,OH,0.8824,450,19,17,cincinnati
+2018,76263,Darryle Simmons, WR ,6-2,210,St. Joseph's,Philadelphia,PA,0.8824,451,74,12,virginia tech
+2018,84039,Reuben Unije, OT ,6-5,303,IMG Academy,Bradenton,FL,0.8824,452,33,75,illinois
+2018,82435,Miguel Edwards, CB ,6-0,164,Deerfield Beach,Deerfield Beach,FL,0.8824,453,44,76,oklahoma
+2018,45573229,Jordan Kelley, DT ,6-3,293,Union,Tulsa,OK,0.8823,454,32,8,oklahoma
+2018,83914,Jake Venables, OLB ,6-2,229,D W Daniel,Central,SC,0.8822,455,29,6,clemson
+2018,45573237,Nakia Watson, RB ,5-11,212,Westlake,Austin,TX,0.8822,456,21,65,wisconsin
+2018,46038574,Kevontae' Ruggs, OLB ,6-4,210,Robert E. Lee,Montgomery,AL,0.8817,457,30,15,ole miss
+2018,79941,Chris Bleich, OT ,6-6,305,Wyoming Valley West,Plymouth,PA,0.8817,458,34,13,florida
+2018,86169,Michael Dowell, S ,6-0,195,St. Edward,Lakewood,OH,0.8817,459,31,18,michigan state
+2018,94445,Bryson Jackson, WR ,6-0,182,Kingwood Park,Humble,TX,0.8817,460,75,66,tcu
+2018,91774,D.J. Crossen, CB ,6-2,180,Dudley,Greensboro,NC,0.8817,461,45,17,virginia tech
+2018,46036957,James Williams, SDE ,6-5,285,Callaway,Jackson,MS,0.8817,462,20,8,ole miss
+2018,46037644,Ed Hendrix, WR ,6-3,185,Woodson H.D.,Washington,DC,0.8817,463,76,3,syracuse
+2018,83764,Dee Wiggins, WR ,6-3,175,Miami Southridge,Miami,FL,0.8817,464,77,77,miami
+2018,86421,Aaron Brule, S ,6-1,220,Archbishop Rummel,Metairie,LA,0.8816,465,32,17,mississippi state
+2018,90101,Reggie Hughes, OLB ,6-2,208,Calabasas,Calabasas,CA,0.8816,466,31,53,arizona state
+2018,88213,Stanley Garner, CB ,6-3,180,Dillard,Fort Lauderdale,FL,0.8816,467,46,78,kentucky
+2018,94234,TJ Banks, ATH ,6-5,260,East Allegheny,North Versailles,PA,0.8816,468,34,14,west virginia
+2018,89121,Trevon Moehrig, CB ,6-2,190,Smithson Valley,Spring Branch,TX,0.8816,469,47,67,tcu
+2018,46041098,Davion Williams, CB ,6-2,185,Belleville,Belleville,MI,0.8815,470,48,9,michigan state
+2018,46039131,Tyree Wilson, WDE ,6-5.5,230,West Rusk,New London,TX,0.8813,471,23,68,texas am
+2018,45572706,Jaren Kump, OT ,6-6,261,Herriman,Herriman,UT,0.8809,472,35,9,utah
+2018,92243,Amad Anderson, ATH ,5-11,170,Curtis,Staten Island,NY,0.8809,473,35,5,purdue
+2018,90117,Nikko Hall, S ,6-1,171,Calabasas,Calabasas,CA,0.8809,474,33,54,colorado state
+2018,85665,Delon Hurt, WR ,6-0,190,Servite,Anaheim,CA,0.8809,475,78,55,ucla
+2018,94201,Devin Culp, WR ,6-3,235,Gonzaga Preparatory School,Spokane,WA,0.8809,476,79,5,washington
+2018,85436,Isaiah Humphries, S ,5-11,191,Sachse,Sachse,TX,0.8809,477,34,69,penn state
+2018,34391,Mika Tafua, WDE ,6-3,210,Kamehameha Schools Maui,Makawao,HI,0.8809,478,24,2,utah
+2018,93988,Tobe Umerah, WDE ,6-4,237,Stratford Academy,Macon,GA,0.8806,479,25,48,stanford
+2018,88568,Alex Reigelsperger, WDE ,6-3,247,Wayne,Dayton,OH,0.8806,480,26,19,minnesota
+2018,93210,John Campbell, OT ,6-5,284,Dr. Phillips,Orlando,FL,0.8804,481,36,79,miami
+2018,86644,Jalil Irvin, OG ,6-3,296,Stephenson,Stone Mountain,GA,0.8804,482,22,49,auburn
+2018,80859,Tyneil Hopper, TE ,6-2.5,225,Roswell,Roswell,GA,0.8804,483,20,50,boise state
+2018,91761,James Ohonba, OT ,6-4,345,Woodland,Stockbridge,GA,0.8804,484,37,51,michigan state
+2018,90457,Gregory Rousseau, WDE ,6-6,222,Champagnat Catholic - Hialeah,Hialeah,FL,0.8804,485,27,80,miami
+2018,94047,Mike Edwards, OT ,6-6,285,South View,Hope Mills,NC,0.8802,486,38,18,wake forest
+2018,46036339,DJ Brown, CB ,6-1,193,St. John's,Washington,DC,0.8802,487,49,4,notre dame
+2018,93336,Donald Johnson, CB ,6-0,170,North Central,Indianapolis,IN,0.8801,488,50,5,iowa
+2018,90354,Gunner Romney, WR ,6-2,180,Chandler,Chandler,AZ,0.8801,489,80,4,byu
+2018,46040392,Tommy Tremble, TE ,6-4,225,Wesleyan School,Norcross,GA,0.8797,490,21,52,notre dame
+2018,46038953,Blake Zubovic, OT ,6-4.5,310,Belle Vernon,Belle Vernon,PA,0.8797,491,39,15,pittsburgh
+2018,91473,Jamaal Teague, DT ,6-2,289,Marist,Chicago,IL,0.8797,492,33,6,minnesota
+2018,83970,Jonathan Shepherd, WR ,6-4,196,Kilgore,Kilgore,TX,0.8797,493,81,70,oklahoma state
+2018,46037925,Meechi Harris, WR ,6-2,188,Xenia,Xenia,OH,0.8796,494,82,20,cincinnati
+2018,88142,Slade Bolden, APB ,5-11,198,West Monroe,West Monroe,LA,0.8796,495,14,18,alabama
+2018,94085,Daniel Parker, SDE ,6-2.5,268,Blue Springs,Blue Springs,MO,0.8795,496,21,8,missouri
+2018,85505,Maxwell Iyama, OT ,6-5,299,Siegel,Murfreesboro,TN,0.8795,497,40,15,south carolina
+2018,88561,Josh Landry, DT ,6-2,250,Lamar,Houston,TX,0.8791,498,34,71,baylor
+2018,83264,Eriq Gilyard, OLB ,5-11,225,Trinity Christian Academy,Jacksonville,FL,0.8791,499,32,81,central florida
+2018,81539,Demarcus Gregory, WR ,6-3,204,Byrnes,Duncan,SC,0.8791,500,83,7,ole miss
+2018,88193,Randy Russell, S ,5-10,180,Miami Carol City,Opa Locka,FL,0.8789,501,35,82,florida
+2018,46037622,Hank Manos, OC ,6-4,275,Chapin,Chapin,SC,0.8789,502,9,8,south carolina
+2018,46038864,MJ Tafisi, ILB ,6-2,224,Alta,Sandy,UT,0.8788,503,24,10,washington
+2018,88375,Jeffrey Jenkins, OG ,6-4,275,Prairie Ridge,Crystal Lake,IL,0.8786,504,23,7,iowa
+2018,46040629,Liam Douglass, OT ,6-5,273,Harvard Westlake,Studio City,CA,0.8785,505,41,56,usc
+2018,75359,Allan Walters, PRO ,6-1,200,The Peddie School,Hightstown,NJ,0.8784,506,20,10,vanderbilt
+2018,89467,Jamarcus Chatman, DT ,6-2.5,258,Rome,Rome,GA,0.8784,507,35,53,florida state
+2018,77372,Christian Turner, RB ,5-11,187,Buford,Buford,GA,0.8784,508,22,54,michigan
+2018,46036705,Aron Cruickshank, ATH ,5-9,155,Erasmus Hall,Brooklyn,NY,0.8784,509,36,6,wisconsin
+2018,46036860,Jatavious Harris, WR ,6-2,176,Baldwin,Milledgeville,GA,0.8784,510,84,55,louisville
+2018,93540,Christian Jackson, CB ,6-1,185,Lassiter,Marietta,GA,0.8784,511,51,56,michigan state
+2018,45572885,Tyler Baylor, WDE ,6-4,220,Good Counsel,Olney,MD,0.8783,512,28,11,maryland
+2018,94537,Chris Brown, RB ,6-1,218,El Camino,Oceanside,CA,0.8780,513,23,57,california
+2018,94358,Treveon Johnson, WR ,6-1,179,Brenham,Brenham,TX,0.8777,514,85,72,smu
+2018,89714,John Dirksen, OT ,6-5,305,Marion Local,Maria Stein,OH,0.8776,515,42,21,notre dame
+2018,46036174,Luke Jones, OT ,6-5,292,Pulaski Academy,Little Rock,AR,0.8776,516,43,4,notre dame
+2018,46039844,Danny Gray, WR ,6-1,174,James Madison,Dallas,TX,0.8776,517,86,73,missouri
+2018,46042686,Geor'quarius Spivey, TE ,6-6,220,Richwood,Monroe,LA,0.8775,518,22,19,mississippi state
+2018,86983,Nelson Jenkins, DT ,6-3,290,Plaquemine,Plaquemine,LA,0.8773,519,36,20,lsu
+2018,88968,Marcellus Earlington, SDE ,6-4,250,Don Bosco Prep,Ramsey,NJ,0.8770,520,22,11,NULL
+2018,92178,Justice Dingle, ILB ,6-3,245,Bowling Green,Bowling Green,KY,0.8770,521,25,4,georgia tech
+2018,88658,Keshon Artis, ILB ,6-0,230,Oscar Smith,Chesapeake,VA,0.8769,522,26,11,virginia tech
+2018,93508,Billy Ferrell, DT ,6-3,331,Fordyce,Fordyce,AR,0.8768,523,37,5,arkansas
+2018,46041392,MJ Cunningham, ATH ,6-3,230,Madison,Portland,OR,0.8767,524,37,8,oregon
+2018,46040414,Richard Newton, RB ,6-1,183,Palmdale,Palmdale,CA,0.8767,525,24,58,washington
+2018,68852,Michael Williams, ATH ,6-2,240,Dunham School,Baton Rouge,LA,0.8763,526,38,21,texas
+2018,93061,Dominic Livingston, DT ,6-3,340,Aldine Davis,Houston,TX,0.8763,527,38,74,lsu
+2018,93565,Trey Stratford, OC ,6-4,270,Allen,Allen,TX,0.8763,528,10,75,stanford
+2018,46036146,Brian Asamoah, OLB ,6-1,210,St. Francis De Sales,Columbus,OH,0.8763,529,33,22,oklahoma
+2018,89209,Chigoziem Okonkwo, TE ,6-3,224,Hillgrove,Powder Springs,GA,0.8763,530,23,57,maryland
+2018,93092,Shocky Jacques-Louis, WR ,6-1,175,Dunbar,Fort Myers,FL,0.8763,531,87,83,pittsburgh
+2018,78693,Shaquon Anderson-Butts, ATH ,6-0.5,202,Harrisburg,Harrisburg,PA,0.8763,532,39,16,NULL
+2018,91779,Kory Taylor, WR ,6-5,200,Hilliard Bradley,Hilliard,OH,0.8763,533,88,23,purdue
+2018,46035417,Deuntra Hyman, WDE ,6-3,230,Meridian,Meridian,MS,0.8763,534,29,9,southern mississippi
+2018,46038874,Daniel Carson, SDE ,6-5,260,William Chrisman,Independence,MO,0.8763,535,23,9,texas
+2018,46037641,Deshaun Fenwick, APB ,6-3,208,Braden River,Bradenton,FL,0.8763,536,15,84,south carolina
+2018,77907,Drue Jackson, WR ,6-1,186,Sachse,Sachse,TX,0.8763,537,89,76,washington state
+2018,46040333,Chigozie Anusiem, S ,6-2,171,Sonora,La Habra,CA,0.8762,538,36,59,california
+2018,46035505,Walker Culver, OT ,6-6,273,Baylor School,Chattanooga,TN,0.8756,539,44,16,virginia tech
+2018,46035753,Mike Woods, WR ,6-1,188,Magnolia,Magnolia,TX,0.8756,540,90,77,arkansas
+2018,87154,Sean Shaw Jr., WR ,6-6,200,Jones,Jones,OK,0.8755,541,91,9,iowa state
+2018,89566,Charlie Katshir, OLB ,6-3,220,Cumberland Valley,Mechanicsburg,PA,0.8755,542,34,17,penn state
+2018,77876,Holton Ahlers, DUAL ,6-3.5,235,D H Conley,Greenville,NC,0.8755,543,17,19,east carolina
+2018,89330,DeAndre Square, S ,6-1,200,Cass Technical,Detroit,MI,0.8755,544,37,10,kentucky
+2018,81815,Ovie Oghoufo, OLB ,6-3,215,Harrison,Farmington,MI,0.8755,545,35,11,notre dame
+2018,82865,Jermaine Eskridge, ATH ,6-3,185,Jefferson,Tampa,FL,0.8750,546,40,85,NULL
+2018,87751,Jeffery Johnson, DT ,6-3,312,Brookhaven,Brookhaven,MS,0.8750,547,39,10,tulane
+2018,83921,Michael Penix Jr., PRO ,6-2,195,Tampa Bay Tech,Tampa,FL,0.8749,548,21,86,indiana
+2018,83829,Dan Dawkins, OC ,6-3,296,The Peddie School,Hightstown,NJ,0.8749,549,11,12,vanderbilt
+2018,94532,Ben Wilson, ILB ,6-2,220,Sumner,Sumner,WA,0.8748,550,27,6,tcu
+2018,89984,Jermayne Lole, SDE ,6-2,270,Long Beach Poly,Long Beach,CA,0.8748,551,24,60,arizona state
+2018,88633,Johnny Adams, RB ,5-11,196,Ben Davis,Indianapolis,IN,0.8747,552,25,6,california
+2018,87688,Leddie Brown, ATH ,6-0,210,Neumann Goretti,Philadelphia,PA,0.8746,553,41,18,west virginia
+2018,87666,Cam Goode, DT ,6-0,317,St. John's,Washington,DC,0.8745,554,40,5,virginia tech
+2018,46035304,Jaqaun Webb, WR ,6-1,180,Oxford,Oxford,MS,0.8743,555,92,11,marshall
+2018,94528,Jack Plummer, PRO ,6-5,212,Gilbert,Gilbert,AZ,0.8743,556,22,5,purdue
+2018,90803,Gunnar Holmberg, PRO ,6-3,180,Heritage,Wake Forest,NC,0.8743,557,23,20,duke
+2018,90652,TK Chimedza, DT ,6-3,300,IMG Academy,Bradenton,FL,0.8743,558,41,87,georgia tech
+2018,84688,Kevin Doyle, PRO ,6-4,210,St. John's,Washington,DC,0.8743,559,24,6,arizona
+2018,83302,Darnell Jefferies, DT ,6-2.5,285,Newton,Covington,GA,0.8743,560,42,58,clemson
+2018,46035351,Taylor Upshaw, SDE ,6-5,240,Braden River,Bradenton,FL,0.8742,561,25,88,michigan
+2018,46039516,Geordon Porter, WR ,6-2,180,Etiwanda,Rancho Cucamonga,CA,0.8742,562,93,61,arizona state
+2018,46037426,John Jackson, WR ,6-1,180,Junipero Serra,Gardena,CA,0.8742,563,94,62,usc
+2018,94538,J.R. Justice, ATH ,6-3,200,St Augustine,San Diego,CA,0.8742,564,42,63,san diego state
+2018,94569,Andre Hunt, WR ,6-0,175,Paraclete,Lancaster,CA,0.8742,565,95,64,nebraska
+2018,87917,JayVeon Cardwell, CB ,5-11.5,174,Steele,Cibolo,TX,0.8742,566,52,78,oklahoma state
+2018,45572581,Ed Montilus, OG ,6-2,288,Apopka,Apopka,FL,0.8742,567,24,89,north carolina
+2018,85675,D'Andre Litaker, DT ,6-2,285,Riverdale,Murfreesboro,TN,0.8742,568,43,17,tennessee martin
+2018,46036861,Matt Alaimo, TE ,6-5,235,St. Joseph Regional,Montvale,NJ,0.8742,569,24,13,ucla
+2018,88993,Ja'Mion Franklin, DT ,6-1,295,North Caroline,Ridgely,MD,0.8742,570,44,12,notre dame
+2018,46038509,Matthew Flint, OLB ,6-0.5,213,Madison County,Gurley,AL,0.8742,571,36,16,north carolina
+2018,84696,Jasiah Provillon, ATH ,6-1,185,Irvington,Irvington,NJ,0.8742,572,43,14,north carolina state
+2018,92783,Zihir Lacewell, WR ,6-3,190,Tottenville,Staten Island,NY,0.8742,573,96,7,rutgers
+2018,91075,Junior Uzebu, OT ,6-6,305,Alpharetta,Alpharetta,GA,0.8742,574,45,59,west virginia
+2018,46039756,Andrew Johnson, OLB ,6-2,222,Tift County,Tifton,GA,0.8742,575,37,60,oregon
+2018,84208,Miles Jones, ATH ,5-9,170,American Heritage,Fort Lauderdale,FL,0.8741,576,44,90,nebraska
+2018,86329,Taye Barber, ATH ,5-9,185,Cy Springs,Cypress,TX,0.8741,577,45,79,tcu
+2018,91563,LaDarrius Bishop, CB ,6-0,189,Ashdown,Ashdown,AR,0.8741,578,53,6,arkansas
+2018,46039296,Caleb Johnson, WDE ,6-3.5,250,Northside,Columbus,GA,0.8738,579,30,61,auburn
+2018,75551,DeJuan Ellis, ATH ,5-11,178,McDonogh School,Owings Mills,MD,0.8736,580,46,13,virginia tech
+2018,46035409,Jackson Cravens, DT ,6-3,285,Timpview,Provo,UT,0.8735,581,45,11,utah
+2018,46040175,John Stephens, ATH ,6-4,206,Logansport,Logansport,LA,0.8735,582,47,22,tcu
+2018,75547,Kameron Stutts, OT ,6-4,329,Brooks,Killen,AL,0.8735,583,46,17,auburn
+2018,82380,Jamarye Joiner, DUAL ,6-3,205,Cienega,Tucson,AZ,0.8734,584,18,6,arizona
+2018,91743,Nate Thompson, S ,6-3,185,Southern Lee,Sanford,NC,0.8734,585,38,21,duke
+2018,46036333,Max Borghi, APB ,5-10,195,Pomona,Arvada,CO,0.8731,586,16,4,washington state
+2018,46035738,Boyd Dietzen, SDE ,6-3,235,Kimberly,Kimberly,WI,0.8730,587,26,1,wisconsin
+2018,88351,Brenden Bates, TE ,6-5,230,Archbishop Moeller,Cincinnati,OH,0.8730,588,25,24,kentucky
+2018,91067,Jalen Alexander, DT ,6-4,288,Western Branch,Chesapeake,VA,0.8730,589,46,12,maryland
+2018,85534,Stacy Kirby, WDE ,6-3,248,Jones,Orlando,FL,0.8730,590,31,91,south florida
+2018,82711,Jalynn Williams, WR ,5-10,188,St. Petersburg,Saint Petersburg,FL,0.8729,591,97,92,toledo
+2018,88957,Sammy Faustin, CB ,6-2,190,Naples,Naples,FL,0.8729,592,54,93,michigan
+2018,83753,Blaine Scott, OG ,6-4,310,Sciotoville,Portsmouth,OH,0.8729,593,25,25,west virginia
+2018,46037846,Miles Emery, WDE ,6-5,235,Blue Valley North,Leawood,KS,0.8729,594,32,2,kansas
+2018,93990,Starrland Baldwin, CB ,5-10,172,Cy Falls,Houston,TX,0.8728,595,55,80,oklahoma
+2018,90040,Chris Mitchell, S ,6-0,190,Mission Viejo,Mission Viejo,CA,0.8728,596,39,65,boise state
+2018,46038797,Jacob Mangum-Farrar, OLB ,6-3,210,Kempner,Sugar Land,TX,0.8727,597,38,81,stanford
+2018,45572981,Durell Nchami, OLB ,6-3,217,Paint Branch,Burtonsville,MD,0.8727,598,39,14,maryland
+2018,87298,Noah Taylor, OLB ,6-4.5,200,The Avalon School,Bethesda,MD,0.8727,599,40,15,virginia
+2018,46041600,Dorian Camel, S ,6-1,180,Scotlandville Magnet,Baton Rouge,LA,0.8727,600,40,23,tulane
+2018,85942,Glenn Beal, TE ,6-5,265,John Curtis,New Orleans,LA,0.8723,601,26,24,texas am
+2018,79898,Gavin Schoenwald, TE ,6-5,225,Brentwood Academy,Brentwood,TN,0.8722,602,27,18,vanderbilt
+2018,84037,Casey Holman, OT ,6-4,285,Brookwood,Snellville,GA,0.8722,603,47,62,duke
+2018,92192,Joe Foucha, S ,5-10.5,194,McDonogh 35,New Orleans,LA,0.8721,604,41,25,arkansas
+2018,46037064,David Alston, WDE ,6-4.5,225,Woodbury Senior,Saint Paul,MN,0.8721,605,33,1,nebraska
+2018,86744,Malone Mataele, APB ,5-11,170,Santa Margarita Catholic,Rancho Santa Margarita,CA,0.8721,606,17,66,utah
+2018,46038927,Travian Blaylock, CB ,5-11,176,Atascocita,Humble,TX,0.8721,607,56,82,wisconsin
+2018,46039550,Lavonte Valentine, APB ,6-0,188,Melbourne Central Catholic,Melbourne,FL,0.8721,608,18,94,south carolina
+2018,46036511,Jahmir Smith, RB ,6-0,205,Lee County,Sanford,NC,0.8721,609,26,22,notre dame
+2018,88001,Trey Lowe III, DUAL ,6-3,185,Central,Bolivar,TN,0.8719,610,19,19,west virginia
+2018,92247,Carter Bradley, PRO ,6-3,208,Providence,Jacksonville,FL,0.8718,611,25,95,toledo
+2018,89436,Charles Strong, RB ,6-1,220,Union County,Lake Butler,FL,0.8717,612,27,96,texas am
+2018,81411,Dorian Hardy, SDE ,6-5,220,North Brunswick Twp,North Brunswick,NJ,0.8717,613,27,15,east carolina
+2018,85894,Reese Taylor, ATH ,5-11,175,Ben Davis,Indianapolis,IN,0.8714,614,48,7,indiana
+2018,91496,Alex Williams, WDE ,6-7,250,Pickerington North,Pickerington,OH,0.8713,615,34,26,ohio state
+2018,76623,Nolan Edmonds, RB ,5-10.5,206,Alpharetta,Atlanta,GA,0.8713,616,28,63,minnesota
+2018,46039753,Bryce Bray, OG ,6-5,309,Bixby,Bixby,OK,0.8710,617,26,10,oklahoma state
+2018,84058,Tanner McCalister, CB ,5-11,182,Rockwall-Heath,Rockwall,TX,0.8710,618,57,83,oklahoma state
+2018,77636,Brennan Armstrong, DUAL ,6-1.5,210,Shelby,Shelby,OH,0.8710,619,20,27,virginia
+2018,84133,Donte Burton, CB ,6-0,174,Loganville,Loganville,GA,0.8710,620,58,64,wisconsin
+2018,82700,Zion Roland, WR ,5-11,184,Admiral Farragut Academy,Saint Petersburg,FL,0.8710,621,98,97,south florida
+2018,82789,Alfred Thomas, DT ,6-0.5,269,Lanier,Montgomery,AL,0.8710,622,47,18,tulane
+2018,84587,Nadir Thompson, ATH ,5-11,170,Southern Nash,Bailey,NC,0.8710,623,49,23,virginia tech
+2018,46039496,Ben VanSumeren, ATH ,6-3,228,Garber,Essexville,MI,0.8709,624,50,12,michigan
+2018,84062,Brock Sturges, RB ,5-10,200,Allen,Allen,TX,0.8709,625,29,84,arizona state
+2018,90374,Christian Morgan, S ,6-0.5,188,Porter,Porter,TX,0.8709,626,42,85,baylor
+2018,91963,Brian Johnson, S ,6-1.5,185,Manvel,Manvel,TX,0.8709,627,43,86,texas am
+2018,77863,Jacoby Simpson, ILB ,6-0,225,Aldine MacArthur,Houston,TX,0.8709,628,28,87,tcu
+2018,89932,Tramel Walthour, DT ,6-4,277,Liberty County,Hinesville,GA,0.8709,629,48,65,georgia
+2018,81138,Justin Ademilola, WDE ,6-3,240,St. Peters Prep,Jersey City,NJ,0.8709,630,35,16,notre dame
+2018,88594,Joey Ramos, OT ,6-5,305,Deer Valley,Phoenix,AZ,0.8709,631,48,7,iowa state
+2018,78988,Zach Sheffer, TE ,6-3,230,Nease,Ponte Vedra Beach,FL,0.8709,632,28,98,lsu
+2018,46037119,Rayshad Williams, CB ,6-4,183,Whitehaven,Memphis,TN,0.8709,633,59,20,ucla
+2018,46037973,Quintin Wilson, OC ,6-3,290,Turpin,Cincinnati,OH,0.8709,634,12,28,kentucky
+2018,46037223,Bryce Effner, OT ,6-5,285,Metea Valley,Aurora,IL,0.8709,635,49,8,penn state
+2018,46037440,Dante Lang, TE ,6-5,220,Boca Raton,Boca Raton,FL,0.8709,636,29,99,florida
+2018,79904,Dashaun Jerkins, S ,5-11.5,195,Woodbridge,Woodbridge,VA,0.8706,637,44,13,vanderbilt
+2018,46036350,La'Darius Jefferson, ATH ,6-2,209,Muskegon,Muskegon,MI,0.8702,638,51,13,michigan state
+2018,91155,Tyquan Johnson, WR ,6-3,195,Screven County,Sylvania,GA,0.8702,639,99,66,south carolina
+2018,86500,Marcus Hooker, CB ,6-0,185,New Castle,New Castle,PA,0.8701,640,60,19,ohio state
+2018,46037900,J.T. Shrout, PRO ,6-3,190,William S. Hart Senior,Newhall,CA,0.8696,641,26,67,tennessee
+2018,46037125,Jackson Kimble, OT ,6-5,260,Southlake Carroll,Southlake,TX,0.8696,642,50,88,baylor
+2018,88445,Kolin Demens, ILB ,6-0.5,204,Detroit Country Day,Franklin,MI,0.8696,643,29,14,NULL
+2018,92655,Kaleb Eleby, PRO ,6-2,205,Pattonville,Maryland Heights,MO,0.8696,644,27,10,western michigan
+2018,46042297,Julius Welschof, SDE ,6-6,248,Germany,Germany,GERM,0.8694,645,28,1,michigan
+2018,46040101,Johnquarise Patterson, WR ,6-1,170,Pearl,Raymond,MS,0.8693,646,100,12,mississippi state
+2018,91221,Otito Ogbonnia, DT ,6-3,300,Taylor,Katy,TX,0.8689,647,49,89,ucla
+2018,46036627,Bralen Taylor, TE ,6-7,221,Cuero,Cuero,TX,0.8689,648,30,90,baylor
+2018,46038599,Victor Curne, OG ,6-3,313,Second Baptist,Houston,TX,0.8689,649,27,91,washington
+2018,90976,Jalen Jordan, WR ,6-5,210,IMG Academy,Bradenton,FL,0.8689,650,101,100,rutgers
+2018,89692,ArDarius Washington, S ,5-8,175,Evangel Christian Academy,Shreveport,LA,0.8689,651,45,26,tcu
+2018,92779,Will Levis, PRO ,6-4,222,Xavier,Middletown,CT,0.8689,652,28,2,penn state
+2018,91800,Cam Jonas, S ,6-1,187,Dwyer,Palm Beach Gardens,FL,0.8689,653,46,101,syracuse
+2018,45572510,Andrew Leota, WDE ,6-3,220,Asheville,Asheville,NC,0.8689,654,36,24,northwestern
+2018,90475,Israel Mukuamu, S ,6-5,187,Parkway,Bossier City,LA,0.8688,655,47,27,south carolina
+2018,84717,Devon Cooley, WR ,6-1,161,St. John Bosco,Bellflower,CA,0.8688,656,102,68,weber state
+2018,92853,Dimitri Douglas, OT ,6-4,282,Saline,Saline,MI,0.8688,657,51,15,michigan state
+2018,86958,James Head Jr., SDE ,6-5,213,Miami Southridge,Miami,FL,0.8688,658,29,102,indiana
+2018,46038181,Mike O'Laughlin, TE ,6-5,230,Fenwick,Oak Park,IL,0.8688,659,31,9,west virginia
+2018,46040189,Cormac Sampson, WDE ,6-5,230,Memorial,Eau Claire,WI,0.8685,660,37,2,wisconsin
+2018,93279,Ron Stone Jr., SDE ,6-4,215,Valley Christian,San Jose,CA,0.8685,661,30,69,washington state
+2018,91267,Dwayne Boyles, OLB ,6-3,225,Miami Central,Hollywood,FL,0.8685,662,41,103,south florida
+2018,46038272,Dylan Thomas, WR ,6-3,180,Cathedral,Los Angeles,CA,0.8683,663,103,70,colorado
+2018,88245,Nathaniel Watson, ATH ,6-3,200,Maplesville,Maplesville,AL,0.8681,664,52,19,mississippi state
+2018,46037943,Isaih Pacheco, RB ,5-11,190,Vineland South,Vineland,NJ,0.8681,665,30,17,rutgers
+2018,87990,Dillon Spalding, WR ,6-1,216,South County,Lorton,VA,0.8681,666,104,14,west virginia
+2018,91809,Charlie Thomas, S ,6-2,190,Thomasville,Thomasville,GA,0.8681,667,48,67,georgia tech
+2018,77342,Tyrone Tracy, RB ,6-0,185,Decatur Central,Indianapolis,IN,0.8680,668,31,8,iowa
+2018,90834,C.J. Bolar, WR ,6-2,186,Purvis,Purvis,MS,0.8680,669,105,13,vanderbilt
+2018,86103,Stefan Cobbs, WR ,6-0,170,Fossil Ridge,Keller,TX,0.8678,670,106,92,boise state
+2018,46047956,Arak McDuffie, WDE ,6-5,241,Trinity,Louisville,KY,0.8677,671,38,5,marshall
+2018,68273,Tyler DeSue, DUAL ,6-1,185,Catholic,Virginia Beach,VA,0.8676,672,21,15,maryland
+2018,94284,Jammal Houston, WR ,6-2,180,John Ehret,Marrero,LA,0.8676,673,107,28,NULL
+2018,46038939,Patrick Joyner, WDE ,6-2.5,209,South Dade,Homestead,FL,0.8676,674,39,104,miami
+2018,83575,Cade Fortin, PRO ,6-2,207,North Gwinnett,Suwanee,GA,0.8676,675,29,68,north carolina
+2018,83953,Khalid Jones II, ILB ,6-1,225,Byrnes,Greenville,SC,0.8676,676,30,9,northwestern
+2018,83949,Wyatt Blake, OG ,6-3.5,308,Crystal Lake Central,Crystal Lake,IL,0.8676,677,28,10,northwestern
+2018,81954,Kobe Smith, WR ,6-2,174,Junipero Serra,Gardena,CA,0.8675,678,108,71,san diego state
+2018,46036132,Nic McTear, TE ,6-4,220,Heritage,Frisco,TX,0.8675,679,32,93,san diego state
+2018,46037271,Noah Shannon, DT ,6-0.5,305,Oswego,Oswego,IL,0.8675,680,50,11,iowa
+2018,78282,Marvin Alexander, WR ,6-3,175,Chaminade-Madonna Prep,Hollywood,FL,0.8675,681,109,105,kentucky
+2018,46035489,Jake Kradel, OG ,6-4,290,Butler Area,Butler,PA,0.8675,682,29,20,pittsburgh
+2018,90558,Rocky Shelton, OLB ,6-0,205,St. Thomas Aquinas,Fort Lauderdale,FL,0.8675,683,42,106,duke
+2018,81230,Javar Garrett, OLB ,6-2,205,The Peddie School,Penns Grove,NJ,0.8675,684,43,18,virginia
+2018,92014,John Morgan, WDE ,6-2,236,DeMatha Catholic,Hyattsville,MD,0.8675,685,40,16,pittsburgh
+2018,83893,Reggie Pearson Jr., S ,5-10,180,River Rouge,River Rouge,MI,0.8675,686,49,16,wisconsin
+2018,46042085,Devin Danielson, DT ,6-3,290,Thomas Jefferson,Clairton,PA,0.8675,687,51,21,pittsburgh
+2018,46037874,Aidan Rafferty, OT ,6-6,280,Gonzaga,Washington,DC,0.8675,688,52,7,indiana
+2018,81655,Derrius Mullins, DT ,6-3.5,324,St. Francis De Sales,Columbus,OH,0.8675,689,52,29,toledo
+2018,46039852,Michael Parker, TE ,6-6,230,Westminster Christian Academy,Huntsville,AL,0.8674,690,33,20,alabama
+2018,46037928,Halid Djibril, S ,6-2,185,Cathedral,Los Angeles,CA,0.8672,691,50,72,washington state
+2018,90344,Aaron Maldonado, DT ,6-3,280,Bishop Amat,La Puente,CA,0.8668,692,53,73,california
+2018,45573463,Joseph Ogunbanjo, OLB ,6-2.5,223,Alief Taylor,Houston,TX,0.8668,693,44,94,california
+2018,46038796,Tyrese Williams, OC ,6-3,285,Cy Ridge,Houston,TX,0.8668,694,13,95,oklahoma state
+2018,89712,Jaylan Franklin, ATH ,6-4,192,Oscar A. Carlson,Rockwood,MI,0.8668,695,53,17,wisconsin
+2018,91695,Josiah Bradley, S ,6-1,190,Saguaro,Scottsdale,AZ,0.8668,696,51,8,nevada
+2018,89589,Esaias Furdge, CB ,6-0,185,Clarksdale,Clarksdale,MS,0.8668,697,61,14,mississippi state
+2018,45572630,Greg Newsome, CB ,6-1,170,IMG Academy,Carol Stream,IL,0.8667,698,62,107,northwestern
+2018,46039248,Keaton Upshaw, TE ,6-7,225,Lima Senior,Lima,OH,0.8667,699,34,30,kentucky
+2018,82652,Vincent Gray, CB ,6-2,180,Adams,Rochester,MI,0.8667,700,63,18,michigan
+2018,91229,Allen Love, DT ,6-3,285,Huffman,Birmingham,AL,0.8667,701,54,21,louisville
+2018,94565,Allen Dailey, WR ,6-3,196,Pinson Valley,Pinson,AL,0.8667,702,110,22,kentucky
+2018,91946,Vincent Flythe, CB ,5-11,175,Woodson H.D.,Washington,DC,0.8667,703,64,8,maryland
+2018,45573422,Kevaris Thomas, DUAL ,6-3,230,Lakeland,Lakeland,FL,0.8667,704,22,108,western kentucky
+2018,89698,Adam Plant, WDE ,6-5,245,Bishop Gorman,Las Vegas,NV,0.8666,705,41,6,tcu
+2018,77976,Julon Williams, ATH ,5-9.5,182,Judson,Converse,TX,0.8664,706,54,96,houston
+2018,46044730,Andrew VanBuren, RB ,6-0.5,217,Chaminade,West Hills,CA,0.8664,707,32,74,boise state
+2018,93570,Patrick Fields, S ,6-0,190,Union,Tulsa,OK,0.8660,708,52,11,oklahoma
+2018,94573,Jawhar Jordan, APB ,5-10,160,Hamilton,Chandler,AZ,0.8660,709,19,9,syracuse
+2018,94699,Jahmyl Jeter, RB ,6-0,203,Brennan,San Antonio,TX,0.8660,710,33,97,oklahoma state
+2018,87673,Kavosiey Smoke, ATH ,6-0,215,Wetumpka,Wetumpka,AL,0.8659,711,55,23,kentucky
+2018,46046553,Myller Royals, WR ,6-4,180,Cooper,Abilene,TX,0.8656,712,111,98,texas tech
+2018,94046,Jornell Brooks, WR ,5-10.5,187,Mansfield,Mansfield,OH,0.8655,713,112,31,minnesota
+2018,90845,Kavesz Sherard, OT ,6-4,310,T L Hanna,Anderson,SC,0.8655,714,53,10,colorado state
+2018,94529,Paul Maile, DT ,6-3,250,East,Salt Lake City,UT,0.8655,715,55,12,utah
+2018,93611,Cole Mabry, OT ,6-6,275,Brentwood,Brentwood,TN,0.8655,716,54,21,notre dame
+2018,46040494,Daniel Arias, WR ,6-4,195,Jackson,Bothell,WA,0.8654,717,113,7,colorado
+2018,88545,Thurman Geathers, WDE ,6-3,218,North Cobb,Kennesaw,GA,0.8654,718,42,69,louisville
+2018,93031,Christoph Henle, TE ,6-5.5,245,The Oakridge School,Arlington,TX,0.8654,719,35,99,baylor
+2018,46037149,Jacob Warren, TE ,6-6,211,Farragut,Knoxville,TN,0.8654,720,36,22,tennessee
+2018,77979,Stanley Hackett, ATH ,6-3,193,Sam Rayburn,Pasadena,TX,0.8653,721,56,100,NULL
+2018,45572702,AJ Carter, RB ,6-0,220,Many,Many,LA,0.8647,722,34,29,arizona state
+2018,46041922,Jacob Farrell, OT ,6-6,280,Sulphur,Sulphur,OK,0.8647,723,55,12,oklahoma state
+2018,46039688,Christian Jones, OT ,6-6,285,Cy Woods,Cypress,TX,0.8647,724,56,101,texas
+2018,46037431,Kanion Williams, S ,6-0,170,South Oak Cliff,Dallas,TX,0.8647,725,53,102,oklahoma state
+2018,91834,Ken Torain, CB ,6-2,195,Jesuit,Tampa,FL,0.8647,726,65,109,duke
+2018,82092,Devin Brumfield, RB ,5-10,219,Covington,Covington,LA,0.8646,727,35,30,utah
+2018,46036825,Tutu Atwell, ATH ,5-8,155,Northwestern,Miami,FL,0.8646,728,57,110,louisville
+2018,46040351,CJ Parks, WR ,5-11.5,186,Mater Dei,Santa Ana,CA,0.8646,729,114,75,NULL
+2018,46042530,Arquon Bush, CB ,5-11,167,Euclid,)  ,NULL,0.8646,730,66,32,cincinnati
+2018,94285,Jarveon Howard, RB ,5-10,202,East Marion,Columbia,MS,0.8646,731,36,15,syracuse
+2018,89123,Jacquez Jones, OLB ,6-0.5,225,Hillcrest,Tuscaloosa,AL,0.8643,732,45,24,ole miss
+2018,90427,Jonathan King, WDE ,6-3,255,Tampa Bay Tech,Tampa,FL,0.8643,733,43,111,indiana
+2018,92821,Ben Bryant, PRO ,6-3,190,Lyons Township,La Grange,IL,0.8643,734,30,12,cincinnati
+2018,83977,Elijah McAllister, SDE ,6-6,230,Rumson-Fair Haven,Rumson,NJ,0.8642,735,31,19,vanderbilt
+2018,86957,Randy Charlton, SDE ,6-3,235,Miami Southridge,Miami,FL,0.8641,736,32,112,central florida
+2018,94601,Trevor Downing, OG ,6-4,295,Creston,Creston,IA,0.8640,737,30,3,iowa state
+2018,46038955,Isaiah Bowser, RB ,6-1,205,Sidney,Sidney,OH,0.8639,738,37,33,northwestern
+2018,46040362,Devin Carter, WR ,6-4,205,Clayton,Clayton,NC,0.8639,739,115,25,north carolina state
+2018,46036144,Elijah Collins, RB ,6-0,194,University Of Detroit Jesuit HS,Detroit,MI,0.8639,740,38,19,michigan state
+2018,85438,Nathan Page, ATH ,6-0,175,Joe T. Robinson,Little Rock,AR,0.8638,741,58,7,arkansas state
+2018,92743,Joe Wilkins, ATH ,6-2,180,North Fort Myers,North Fort Myers,FL,0.8636,742,59,113,notre dame
+2018,86429,Cam Taylor-Britt, ATH ,6-0,196,Park Crossing,Montgomery,AL,0.8636,743,60,25,nebraska
+2018,89372,Terell Smith, CB ,6-0,170,South Gwinnett,Snellville,GA,0.8636,744,67,70,minnesota
+2018,89237,Corey Gammage, WR ,6-2,188,Atlantic,Delray Beach,FL,0.8635,745,116,114,marshall
+2018,45572463,Ochaun Mathis, WDE ,6-5,235,Manor,Manor,TX,0.8635,746,44,103,tcu
+2018,91097,Kenneth Dicks III, CB ,6-0,201,Lambert,Suwanee,GA,0.8635,747,68,71,wake forest
+2018,46039342,Courtre Alexander, WDE ,6-4,260,Owasso,Owasso,OK,0.8635,748,45,13,arkansas
+2018,94081,Jeshaun Jones, WR ,6-1.5,176,South Fort Myers,Fort Myers,FL,0.8635,749,117,115,maryland
+2018,87834,Jalen Nailor, WR ,5-11,170,Bishop Gorman,Las Vegas,NV,0.8635,750,118,7,michigan state
+2018,91118,Michael Barrett, ATH ,5-11.5,215,Lowndes,Valdosta,GA,0.8635,751,61,72,michigan
+2018,46037275,Jalen Goss, OT ,6-7,265,Lowndes,Valdosta,GA,0.8635,752,57,73,florida state
+2018,89737,Shaka Heyward, OLB ,6-4,215,Mill Creek,Hoschton,GA,0.8635,753,46,74,duke
+2018,92046,Bryce Wheaton, WR ,6-3,191,Holly Springs,Holly Springs,NC,0.8635,754,119,26,west virginia
+2018,90872,Ben Bresnahan, TE ,6-5,225,West Forsyth,Cumming,GA,0.8635,755,37,75,vanderbilt
+2018,46037818,Nick Fulwider, SDE ,6-7,249,Sandy Creek,Tyrone,GA,0.8635,756,33,76,arkansas
+2018,94731,Ben Sims, TE ,6-5,241,Clark,San Antonio,TX,0.8634,757,38,104,baylor
+2018,88097,Kelan Walker, RB ,6-0,205,DeSoto,DeSoto,TX,0.8633,758,39,105,houston
+2018,86549,Nick Patti, PRO ,6-3,200,St. Joseph Regional,Montvale,NJ,0.8633,759,31,20,pittsburgh
+2018,78111,Demarcus Marshall, OG ,6-3,333,Grand Prairie,Grand Prairie,TX,0.8632,760,31,106,texas tech
+2018,83096,Toa Taua, ATH ,5-10,190,Lompoc,Lompoc,CA,0.8632,761,62,76,nevada
+2018,46039863,Dillon Doyle, OLB ,6-3,214,West Senior,Iowa City,IA,0.8631,762,47,4,iowa
+2018,83831,John Holcombe, DUAL ,6-4,227,Summer Creek,Humble,TX,0.8631,763,23,107,kansas state
+2018,46039704,Coleton Beck, APB ,6-1,185,Blacksburg,Blacksburg,VA,0.8630,764,20,16,virginia tech
+2018,46038978,Jatorian Hansford, OLB ,6-4,220,Mary Persons,Forsyth,GA,0.8627,765,48,77,missouri
+2018,45573181,Tanner Antonutti, OT ,6-5,273,Ensworth,Nashville,TN,0.8626,766,58,23,tennessee
+2018,85867,Sam Hartman, PRO ,6-0.5,186,Oceanside Collegiate Academy,Mount Pleasant,SC,0.8626,767,32,11,wake forest
+2018,46036749,Kenny Churchwell, S ,6-2,180,Mountain Pointe,Phoenix,AZ,0.8626,768,54,10,ucla
+2018,90917,Tae Provens, ATH ,5-11,187,Madison County,Gurley,AL,0.8625,769,63,26,lsu
+2018,46040532,Zidane Thomas, RB ,5-10,205,Centennial,Peoria,AZ,0.8625,770,40,11,san diego state
+2018,46037221,Dennis Smith, WR ,6-2,185,Gaffney,Gaffney,SC,0.8625,771,120,12,duke
+2018,91000,Jaevon Becton, WDE ,6-4,248,Ocean Lakes,Virginia Beach,VA,0.8622,772,46,17,virginia tech
+2018,93187,Isaiah Johnson, ATH ,6-2.5,210,Thomas Downey,Modesto,CA,0.8622,773,64,77,fresno state
+2018,46035501,Joseph Boletepeli, SDE ,6-3.5,244,Heritage,Wake Forest,NC,0.8622,774,34,27,north carolina state
+2018,91480,Kelijiha Brown, DT ,6-3,305,Saluda,Saluda,SC,0.8621,775,56,13,wake forest
+2018,46038379,Devon Matthews, S ,6-2,203,Jean Ribault,Jacksonville,FL,0.8620,776,55,116,indiana
+2018,89983,Jermar Jefferson, RB ,5-10,188,Narbonne,Redondo Beach,CA,0.8619,777,41,78,oregon state
+2018,46039580,Alec Anderson, OT ,6-5,283,Etiwanda,Rancho Cucamonga,CA,0.8618,778,59,79,ucla
+2018,81831,Jayden McDonald, OLB ,6-2,219,North Gwinnett,Suwanee,GA,0.8617,779,49,78,iowa
+2018,87923,Willie Smith, SDE ,6-2,245,Spring HS,Spring,TX,0.8616,780,35,108,houston
+2018,46037362,Jesus Gibbs, OT ,6-3,283,Potomac,Dumfries,VA,0.8615,781,60,18,south carolina
+2018,92598,Isaiah Mullens, SDE ,6-5,280,Harvest Preparatory School,Columbus,OH,0.8614,782,36,34,wisconsin
+2018,87108,Davoan Hawkins, SDE ,6-4,270,Chaminade-Madonna Prep,Hollywood,FL,0.8614,783,37,117,kentucky
+2018,92468,Isaiah Windmon, S ,6-2,190,John Ehret,Marrero,LA,0.8614,784,56,31,louisiana tech
+2018,86640,Stanley Lambert, ATH ,6-3,211,Marshall,San Antonio,TX,0.8614,785,65,109,arizona state
+2018,93786,Dayven Coleman, S ,6-2,200,West Mesquite,Mesquite,TX,0.8614,786,57,110,arizona
+2018,46035802,Will McDonald, WDE ,6-4,220,North,Waukesha,WI,0.8614,787,47,3,iowa state
+2018,85410,D'Angelo McKenzie, S ,5-10,165,Valley Christian,San Jose,CA,0.8614,788,58,80,washington state
+2018,46035801,Michael Furtney, OT ,6-5,280,Milan,Milan,MI,0.8614,789,61,20,wisconsin
+2018,89644,Taj Mustapha, WR ,6-2,175,West Bloomfield,West Bloomfield,MI,0.8614,790,121,21,wisconsin
+2018,94181,Dontae Smith, APB ,5-11,185,Spring Hill,Columbia,TN,0.8614,791,21,24,georgia tech
+2018,46039318,Noah Gatlin, OT ,6-7,300,Jonesboro,Jonesboro,AR,0.8614,792,62,8,arkansas
+2018,46037485,Elijah Jones, ATH ,6-3,175,Cardinal Hayes,Bronx,NY,0.8614,793,66,8,boston college
+2018,46037165,Jimmy McKenna, OT ,6-5,260,Avon,Avon,OH,0.8614,794,63,35,purdue
+2018,88324,John Mincey, SDE ,6-4,260,Clinch County,Homerville,GA,0.8614,795,38,79,tennessee
+2018,46046764,Luke Schoonmaker, TE ,6-6,225,Hamden Hall,Hamden,CT,0.8614,796,39,3,michigan
+2018,91081,Dantrieze Scott, ATH ,6-5,245,Ferriday,Ferriday,LA,0.8611,797,67,32,lsu
+2018,46039368,Jalin Cooper, WR ,6-4,180,Medina,Medina,NY,0.8611,798,122,9,toledo
+2018,46039531,Andrew Mataafa, OLB ,6-4,205,Mt. Carmel,San Diego,CA,0.8611,799,50,81,utah
+2018,90776,Kassidy Woods, WR ,6-2,200,Greenhill School,Addison,TX,0.8609,800,123,111,washington state
+2018,46037881,Parks Gissinger, WDE ,6-4,227,Chaminade,West Hills,CA,0.8609,801,48,82,michigan state
+2018,82683,Blake Stenstrom, PRO ,6-2.5,194,Valor Christian,Littleton,CO,0.8609,802,33,5,colorado
+2018,91411,Mark Milton, ATH ,6-1,175,Clear Brook,Friendswood,TX,0.8608,803,68,112,baylor
+2018,46049690,Jaylon Baker, CB ,6-2,170,Baylor School,Chattanooga,TN,0.8606,804,69,25,virginia
+2018,46035800,Brevyn Spann-Ford, TE ,6-6,233,St. Cloud Technical,Saint Cloud,MN,0.8606,805,40,2,minnesota
+2018,82071,Benjamin Sapp III, CB ,6-1,186,Eden Prairie,Eden Prairie,MN,0.8606,806,70,3,minnesota
+2018,46040046,Jason Taylor, S ,6-2,180,Carl Albert,Oklahoma City,OK,0.8606,807,59,14,oklahoma state
+2018,46038094,Trey Morrison, ATH ,5-10,185,Greater Atlanta Christian School,Norcross,GA,0.8606,808,69,80,north carolina
+2018,46036356,Jeslord Boateng, OLB ,6-2,210,Dublin Coffman,Dublin,OH,0.8606,809,51,36,michigan state
+2018,46041051,CD Daniels, CB ,6-2,180,Homewood,Birmingham,AL,0.8606,810,71,27,alabama birmingham
+2018,46039298,Zion Tupuola-Fetui, OLB ,6-2,250,Pearl City,Pearl City,HI,0.8606,811,52,3,washington
+2018,79624,Jaeveyon Morton, CB ,5-9,180,Martin Luther King,Detroit,MI,0.8605,812,72,22,iowa state
+2018,46035719,Yasir Abdullah, OLB ,6-1,220,Miami Carol City,Opa Locka,FL,0.8602,813,53,118,louisville
+2018,46041020,Joshua Gray, OT ,6-4,245,Rancho Cucamonga,Rancho Cucamonga,CA,0.8602,814,64,83,oregon state
+2018,86634,Jason Whittaker, PRO ,6-4,197,Rockford,Rockford,MI,0.8602,815,34,23,northwestern
+2018,46039838,Isaiah Nichols, SDE ,6-4,275,Springdale,Springdale,AR,0.8601,816,39,9,arkansas
+2018,89201,Kolbi Fuqua, ATH ,6-1,210,Cordova,Cordova,AL,0.8601,817,70,28,auburn
+2018,46046578,Cade Beresford, OT ,6-7,270,Woodinville,Woodinville,WA,0.8601,818,65,8,washington state
+2018,45572776,Jordan McFadden, OT ,6-4,290,Dorman,Roebuck,SC,0.8601,819,66,14,clemson
+2018,94533,M.J. Ale, OT ,6-6,361,Fife,Tacoma,WA,0.8601,820,67,9,washington
+2018,46037812,Luke Tenuta, OT ,6-9,278,Western Albemarle,Crozet,VA,0.8601,821,68,19,virginia tech
+2018,46039533,Christopher Randazzo, OT ,6-7,325,Don Lugo,Chino,CA,0.8601,822,69,84,oregon
+2018,93120,Blake McDonald, OG ,6-4.5,295,San Ramon Valley,Danville,CA,0.8601,823,32,85,washington state
+2018,46042721,Evan Tattersall, OLB ,6-2,215,Granite Bay,Granite Bay,CA,0.8601,824,54,86,california
+2018,86652,Shabazz Dotson, DT ,6-3,271,Cedar Hill,Cedar Hill,TX,0.8601,825,57,113,smu
+2018,89964,Michael Matus, SDE ,6-2,235,Katy,Katy,TX,0.8601,826,40,114,arizona state
+2018,89450,Clayton Tune, PRO ,6-2.5,200,Hebron,Carrollton,TX,0.8601,827,35,115,houston
+2018,46038577,John Lanz, OC ,6-3,295,Guyer,Denton,TX,0.8601,828,14,116,tcu
+2018,87578,Tre Allison, OLB ,6-1,212,John Tyler,Tyler,TX,0.8601,829,55,117,syracuse
+2018,86480,Taj Harris, WR ,6-2,175,Palmyra,Palmyra,NJ,0.8601,830,124,21,syracuse
+2018,89238,Cadarius Gaskin, WR ,6-3,215,Atlantic,Delray Beach,FL,0.8601,831,125,119,florida international
+2018,89778,Ka'Darian Hill, DT ,6-1,270,Eufaula,Eufaula,AL,0.8601,832,58,29,ole miss
+2018,93507,CJ Goetz, ILB ,6-4,234,Catholic Memorial,Waukesha,WI,0.8600,833,31,4,wisconsin
+2018,82000,Brandon Gray, WR ,6-5,172,Cass Technical,Detroit,MI,0.8600,834,126,24,washington state
+2018,83318,Marquis Williams, CB ,5-9,165,Cardinal Gibbons,Fort Lauderdale,FL,0.8600,835,73,120,pittsburgh
+2018,90585,Gerald Nathan Jr., ILB ,6-1,200,Zebulon B. Vance,Charlotte,NC,0.8598,836,32,28,missouri
+2018,46036585,Austin Beier, OG ,6-5,285,St. John's Jesuit,Toledo,OH,0.8594,837,33,37,minnesota
+2018,87145,Jarrett Jackson, SDE ,6-4.5,265,Palm Beach Gardens,Palm Beach Gardens,FL,0.8594,838,41,121,louisville
+2018,46039503,Brock Purdy, PRO ,6-1,200,Perry,Gilbert,AZ,0.8594,839,36,12,iowa state
+2018,46038843,Caleb Kelly, OLB ,6-3,218,Hapeville Charter,Atlanta,GA,0.8594,840,56,81,stanford
+2018,46039669,Nick Lewis, OT ,6-9,348,The Bolles School,Jacksonville,FL,0.8593,841,70,122,kentucky
+2018,46035493,Tyler Lacy, SDE ,6-4,238,Sachse,Sachse,TX,0.8593,842,42,118,oklahoma state
+2018,46035764,KeSean Carter, WR ,5-10,150,The Woodlands,The Woodlands,TX,0.8593,843,127,119,texas tech
+2018,46037529,Jhevon Hill, ATH ,6-3,185,Cajon,San Bernardino,CA,0.8593,844,71,87,arizona
+2018,46041167,Jamari Brown, CB ,6-3,180,Blanche Ely,Pompano Beach,FL,0.8593,845,74,123,kentucky
+2018,46038650,Tony St. Julien, RB ,5-11,180,Vinton,Vinton,LA,0.8593,846,42,33,NULL
+2018,91730,Sam James, WR ,6-2,160,Richmond Hill,Richmond Hill,GA,0.8593,847,128,82,west virginia
+2018,46039389,Cameron White, S ,6-1,185,Madison Central,Madison,MS,0.8593,848,60,16,ole miss
+2018,92143,Justus Woods, RB ,6-0,190,Charlotte Christian,Charlotte,NC,0.8592,849,43,29,stanford
+2018,46037612,Josh Smith, SDE ,6-4,250,Landry-Walker,New Orleans,LA,0.8592,850,43,34,pvamu
+2018,45573442,Jaylin Williams, CB ,6-0,180,Germantown,Germantown,TN,0.8590,851,75,26,indiana
+2018,46039987,Israel Antwine, DT ,6-2.5,286,Millwood,Oklahoma City,OK,0.8588,852,59,15,colorado
+2018,81369,Josh Walker, DT ,6-2,285,IMG Academy,Bradenton,FL,0.8588,853,60,124,chattanooga
+2018,85676,Jarek Campbell, ATH ,5-11,195,Riverdale,Murfreesboro,TN,0.8588,854,72,27,middle tennessee state
+2018,46040604,Dominique Hampton, CB ,6-2,197,Centennial,Peoria,AZ,0.8586,855,76,13,washington
+2018,46040187,Jack Plumb, OT ,6-8,240,Bay Port,Green Bay,WI,0.8585,856,71,5,iowa
+2018,46040656,Nahe Sulunga, SDE ,6-2.5,252,Calabasas,Calabasas,CA,0.8585,857,44,88,arizona
+2018,46040538,Braden Galloway, TE ,6-6,225,Seneca,Seneca,SC,0.8585,858,41,15,clemson
+2018,46039191,Christian Young, S ,6-1,201,Foster,Richmond,TX,0.8584,859,61,120,arizona
+2018,84094,Eddie Lewis, WR ,6-0,179,Mater Dei,Middletown,NJ,0.8583,860,129,22,rutgers
+2018,94471,Jemaurian Jones, CB ,6-1,170,Brookhaven,Brookhaven,MS,0.8583,861,77,17,southern mississippi
+2018,91216,Casey Phillips, OT ,6-5,280,Franklin,Franklin,TX,0.8581,862,72,121,baylor
+2018,92168,AJ Abbott, WR ,6-2,180,West Bloomfield,West Bloomfield,MI,0.8581,863,130,25,wisconsin
+2018,83661,Will Farniok, OC ,6-3,255,Washington,Sioux Falls,SD,0.8581,864,15,1,nebraska
+2018,46038825,Dontay Demus Jr., WR ,6-4,205,Friendship Academy,Washington,DC,0.8581,865,131,9,maryland
+2018,46039123,Jeremy Gibson, RB ,5-9.5,189,Riverside Academy,Reserve,LA,0.8580,866,44,35,NULL
+2018,92696,Messiah Swinson, TE ,6-8,232,Long Island Lutheran,Glen Head,NY,0.8580,867,42,10,missouri
+2018,46045437,Michael Rose, OLB ,6-4,215,Brecksville-Broadview Heights,Broadview Heights,OH,0.8580,868,57,38,iowa state
+2018,89995,Omari Harris, OLB ,6-0,202,Antioch,Antioch,CA,0.8580,869,58,89,NULL
+2018,46035449,Coran Taylor, DUAL ,6-3,195,Peoria,Peoria,IL,0.8580,870,24,13,illinois
+2018,93372,Chase Van Wagoner, WR ,6-1,180,Lovejoy,Lucas,TX,0.8580,871,132,122,tcu
+2018,46042147,Isaac Guerendo, WR ,6-1,190,Avon,Avon,IN,0.8580,872,133,9,wisconsin
+2018,88338,Madison Norris, WDE ,6-4,200,Hamilton Southeastern,Fishers,IN,0.8580,873,49,10,indiana
+2018,78572,Bryson Richardson, S ,6-1,190,Buford,Buford,GA,0.8580,874,62,83,north carolina
+2018,93523,Trajan Jeffcoat, WDE ,6-3,220,Irmo,Columbia,SC,0.8579,875,50,16,missouri
+2018,45572521,Judson Tallandier, CB ,6-2,180,DeMatha Catholic,Hyattsville,MD,0.8579,876,78,17,pittsburgh
+2018,46038965,Charles Robinson, TE ,6-3,210,Waubonsie Valley,Aurora,IL,0.8577,877,43,14,northern illinois
+2018,93604,Travis Spreen, OC ,6-4,291,Jesuit,Portland,OR,0.8577,878,16,9,pennsylvania
+2018,88660,La'Dedric Jackson, OLB ,6-2,210,Lanier,Montgomery,AL,0.8577,879,59,30,tulane
+2018,89623,James Miller, ILB ,6-2,225,Armwood,Seffner,FL,0.8577,880,33,125,indiana
+2018,46041357,Dashaun Mallory, DT ,6-3,310,Bolingbrook,Bolingbrook,IL,0.8577,881,61,15,michigan state
+2018,88389,Timaje Porter, DT ,6-1.5,344,Theodore,Theodore,AL,0.8576,882,62,31,louisiana
+2018,79522,Jordon Austin, S ,6-1,185,Lancaster,Lancaster,TX,0.8576,883,63,123,NULL
+2018,46038370,Rachad Wildgoose Jr., S ,5-11,190,Northwestern,Miami,FL,0.8574,884,64,126,wisconsin
+2018,46050707,Habakkuk Baldonado, WDE ,6-5,230,Clearwater Academy International,Italy,ITAL,0.8573,885,51,127,pittsburgh
+2018,78732,Hunter Woodard, OT ,6-5,296,Tuscola,Tuscola,IL,0.8573,886,73,16,oklahoma state
+2018,89564,Julian Major, WR ,6-1,185,Penn Hills,Pittsburgh,PA,0.8573,887,134,22,michigan state
+2018,46035562,Ollie Lane, OG ,6-5,285,Gibbs,Corryton,TN,0.8573,888,34,28,tennessee
+2018,46039529,Jordan Travis, DUAL ,6-2,185,The Benjamin School,North Palm Beach,FL,0.8572,889,25,128,louisville
+2018,86234,La’Damian Webb, RB ,5-8,190,Beauregard,Opelika,AL,0.8572,890,45,32,mississippi state
+2018,45572403,Jamal Anderson, S ,6-2,180,South Dade,Homestead,FL,0.8572,891,65,129,florida international
+2018,89581,Brandon Cross, CB ,5-10,182,Jones,Orlando,FL,0.8572,892,79,130,georgia southern
+2018,90616,Drew Tuazama, TE ,6-5,235,Knightdale,Knightdale,NC,0.8572,893,44,30,NULL
+2018,46038850,Delarrin Turner-Yell, S ,5-10,170,Hempstead,Hempstead,TX,0.8569,894,66,124,oklahoma
+2018,46040961,Kukea Emmsley, OLB ,6-5,230,Kapolei,Kapolei,HI,0.8569,895,60,4,boise state
+2018,46038570,Devin Phillips, DT ,6-2,305,Neville,Monroe,LA,0.8569,896,63,36,colorado state
+2018,93966,Tyler Harrell, WR ,6-0,165,Columbus,Miami,FL,0.8569,897,135,131,louisville
+2018,94531,BeeJay Williamson, S ,6-0,176,Horn,Mesquite,TX,0.8568,898,67,125,louisiana tech
+2018,86604,Alan Bowman, PRO ,6-3,208,Grapevine,Grapevine,TX,0.8568,899,37,126,texas tech
+2018,87569,Chance Amie, DUAL ,6-3,191,Tyler Lee,Tyler,TX,0.8568,900,26,127,syracuse
+2018,45572977,Jared Miles, WR ,6-1,185,McDonogh 35,New Orleans,LA,0.8568,901,136,37,smu
+2018,77140,Donovan Georges, ILB ,6-0,237,Champagnat Catholic - Hialeah,Hialeah,FL,0.8567,902,34,132,florida international
+2018,86180,Justin Johnson, OT ,6-7,355,Neumann Goretti,Philadelphia,PA,0.8567,903,74,23,oregon
+2018,89848,Tanner Ingle, CB ,5-9,180,Dr. Phillips,Orlando,FL,0.8567,904,80,133,north carolina state
+2018,82367,Bryce Williams, RB ,6-0,190,Cardinal Mooney,Sarasota,FL,0.8565,905,46,134,minnesota
+2018,89973,Ely Doyle, S ,6-0,188,Bishop Alemany,Mission Hills,CA,0.8564,906,68,90,arizona state
+2018,89370,John Harris, OG ,6-5,275,Mill Creek,Hoschton,GA,0.8561,907,35,84,virginia tech
+2018,46039891,Patrick Jolly, ATH ,6-1,177,Newsome,Lithia,FL,0.8560,908,73,135,ucla
+2018,86391,Jacob Isaia, OC ,6-3,280,Bishop Gorman,Las Vegas,NV,0.8559,909,17,8,michigan state
+2018,46036623,JT Woods, S ,6-2,175,Steele,Cibolo,TX,0.8559,910,69,128,baylor
+2018,91520,Briason Mays, OG ,6-3.5,290,Central,Bolivar,TN,0.8559,911,36,29,west virginia
+2018,46039190,Jermaine Waller, CB ,6-2,170,The Avalon School,Bethesda,MD,0.8559,912,81,18,virginia tech
+2018,46037281,Raymond Boone, ATH ,5-11,199,Eleanor Roosevelt,Greenbelt,MD,0.8559,913,74,19,maryland
+2018,46039305,Mason Platter, OLB ,6-5,220,Menomonie,Menomonie,WI,0.8559,914,61,6,wisconsin
+2018,92023,Carlos Vettorello, OG ,6-4,277,University Of Detroit Jesuit HS,Detroit,MI,0.8559,915,37,26,syracuse
+2018,90434,Jeremiah Lewis, CB ,6-0,180,Prestonwood Christian,Plano,TX,0.8558,916,82,129,duke
+2018,87942,Ta'Zhawn Henry, APB ,5-8,175,Lamar,Houston,TX,0.8558,917,22,130,texas tech
+2018,46039608,Zion Burrell, S ,6-2,180,Lamar,Houston,TX,0.8556,918,70,131,NULL
+2018,46039736,Lavel Dumont, OT ,6-4,270,Wharton,Tampa,FL,0.8555,919,75,136,toledo
+2018,46050836,Joseph Norwood, ATH ,6-1,173,Brainerd,Chattanooga,TN,0.8555,920,75,30,massachusetts
+2018,46038349,Spencer Burford-Watts, OT ,6-3,289,Karen Wagner,San Antonio,TX,0.8555,921,76,132,utsa
+2018,46039868,Will Bramel, OT ,6-6,260,Boyle County,Danville,KY,0.8552,922,77,6,purdue
+2018,46038798,Jeremiah McDonald, S ,6-3,187,Northshore,Slidell,LA,0.8552,923,71,38,northwestern
+2018,46040352,Clyde Moore, ILB ,6-0.5,225,Corona Del Mar,Newport Beach,CA,0.8552,924,35,91,colorado
+2018,46038567,Paul Moala, S ,6-0,200,Penn,Mishawaka,IN,0.8552,925,72,11,notre dame
+2018,46039394,Ernest Jones, OLB ,6-2,205,Ware County,Waycross,GA,0.8552,926,62,85,south carolina
+2018,46041426,Jaylan Alexander, ILB ,6-0,239,Hoffman Estates,River Grove,IL,0.8552,927,36,17,purdue
+2018,46039401,Wyatt Campbell, OT ,6-7,290,Lugoff-Elgin,Lugoff,SC,0.8552,928,78,17,south carolina
+2018,46039441,Andre Cisco, S ,6-0,186,IMG Academy,Bradenton,FL,0.8552,929,73,137,syracuse
+2018,46049608,Trevon Flowers, S ,6-1,185,Tucker,Tucker,GA,0.8552,930,74,86,tennessee
+2018,91073,Juan Monjarres, WDE ,6-1,215,St. Augustine,New Orleans,LA,0.8551,931,52,39,tulane
+2018,91171,Dejmi Dumervil Jean, DT ,6-4.5,367,St. Thomas Aquinas,Fort Lauderdale,FL,0.8551,932,64,138,louisville
+2018,87258,Khalan Tolson, OLB ,6-0,200,Admiral Farragut Academy,Saint Petersburg,FL,0.8551,933,63,139,illinois
+2018,46039247,Cody Ince, OT ,6-6,260,Unity,Balsam Lake,WI,0.8551,934,79,7,iowa
+2018,46036695,Joshua Ezeudu, OT ,6-4.5,295,Archer,Lawrenceville,GA,0.8551,935,80,87,north carolina
+2018,79903,Tyrik Henderson, CB ,5-11,165,Glenbard North,Carol Stream,IL,0.8550,936,83,18,NULL
+2018,94567,Matthew Tago, ATH ,6-3,228,Quartz Hill,Lancaster,CA,0.8550,937,76,92,oregon state
+2018,46039591,Calvin Lockett, WR ,6-2,160,Largo,Largo,FL,0.8548,938,137,140,iowa
+2018,87728,Nik Hogan, SDE ,6-5,265,Northwest Rankin,Flowood,MS,0.8548,939,45,18,tulane
+2018,46035442,Tykee Ogle-Kellogg, WR ,6-4,197,Alcoa,Alcoa,TN,0.8548,940,138,31,utsa
+2018,46040596,Erik Gibson, WR ,6-1.5,200,Martin Luther King,Detroit,MI,0.8548,941,139,27,minnesota
+2018,46037439,Josh Jefferson, OC ,6-2,295,St. John's,Edgewood,MD,0.8548,942,18,10,massachusetts
+2018,84053,Ian Burnette, OG ,6-3.5,305,Wimberley,Wimberley,TX,0.8547,943,38,133,tcu
+2018,93267,Nick Alftin, SDE ,6-6,245,Archbishop Mitty,San Jose,CA,0.8547,944,46,93,california
+2018,84279,Brandon Mello, OT ,6-7,295,Clayton Valley,Concord,CA,0.8547,945,81,94,california
+2018,93185,Isaac Hodgins, DT ,6-1,285,Berean Christian,Walnut Creek,CA,0.8547,946,65,95,oregon state
+2018,46038454,Telly Plummer, ATH ,6-0,185,Langston Hughes,Fairburn,GA,0.8547,947,77,88,louisville
+2018,88654,Jaylon Reed, CB ,6-1,170,Olive Branch,Olive Branch,MS,0.8547,948,84,19,mississippi state
+2018,94164,Teagan Quitoriano, ATH ,6-7,250,Sprague,Salem,OR,0.8546,949,78,10,oregon state
+2018,46035533,Wendell Davis, OLB ,6-2,215,Benedictine,Richmond,VA,0.8544,950,64,20,pittsburgh
+2018,46039338,Cam Jones, ATH ,6-3,215,St. Benedict at Auburndale,Cordova,TN,0.8543,951,79,32,indiana
+2018,46048613,Lorenz Metz, ATH ,6-9,280,Germany,Germany,GERM,0.8543,952,80,2,cincinnati
+2018,87820,Thomas Shelmire, OG ,6-3,285,Highland Park,Dallas,TX,0.8541,953,39,134,boston college
+2018,90818,Masry Mapieu, DT ,6-4,270,York HS,York,NE,0.8541,954,66,2,louisiana
+2018,82272,Shawn Preston, S ,6-0,191,St. James,Saint James,LA,0.8540,955,75,40,mississippi state
+2018,91230,Derek Turner, S ,5-11,190,West Feliciana,Saint Francisville,LA,0.8540,956,76,41,louisiana tech
+2018,46037878,Jackson Gleeson, WR ,6-1,160,Mansfield,Mansfield,TX,0.8540,957,140,135,baylor
+2018,93503,Zach Wilson, PRO ,6-3,200,Corner Canyon,Draper,UT,0.8540,958,38,13,byu
+2018,86633,Elisha Guidry, CB ,6-0.5,177,Vista Murrieta,Murrieta,CA,0.8540,959,85,96,ucla
+2018,78182,Ralph Frias, OT ,6-7,305,Safford,Safford,AZ,0.8540,960,82,14,arizona state
+2018,93106,Abi N-Okonji, SDE ,6-2,238,South Gwinnett,Snellville,GA,0.8540,961,47,89,minnesota
+2018,92330,David Green, SDE ,6-1,260,Central Catholic,Pittsburgh,PA,0.8540,962,48,24,pittsburgh
+2018,89965,Jalynn Strickland, OT ,6-6,295,Ware County,Waycross,GA,0.8540,963,83,90,north carolina state
+2018,46038925,Michael Jurgens, OG ,6-4,272,Damascus,Damascus,MD,0.8540,964,40,20,wake forest
+2018,94434,Bryson Williams, DT ,6-2,290,Lincoln Southeast,Lincoln,NE,0.8540,965,67,3,wisconsin
+2018,46038622,Deion Smith, RB ,5-11,177,Second Baptist,Houston,TX,0.8539,966,47,136,colorado
+2018,89576,Demetrious Flowers, RB ,5-11,200,St. John Bosco,Bellflower,CA,0.8539,967,48,97,arizona state
+2018,46039235,Miles Owens, OT ,6-7,315,Bishop O'Dowd,Oakland,CA,0.8539,968,84,98,california
+2018,93557,Kolby Harvell-Peel, S ,6-0,209,A&M Consolidated,College Station,TX,0.8539,969,77,137,oklahoma state
+2018,46038829,Isaiah Lee, DT ,6-1,295,Nazareth Academy,La Grange Park,IL,0.8539,970,68,19,iowa state
+2018,46038853,Jordyn Slaughter, OT ,6-5,295,Althoff Catholic,Belleville,IL,0.8539,971,85,20,illinois
+2018,46038828,Nihym Anderson, OLB ,6-2,227,Vineland South,Vineland,NJ,0.8539,972,65,23,maryland
+2018,84061,MJ Rivers II, DUAL ,6-4,213,Lone Star,Frisco,TX,0.8539,973,27,138,illinois
+2018,89277,Jalynn Sykes, APB ,5-10,185,Rome,Rome,GA,0.8539,974,23,91,marshall
+2018,46040828,Hassan Haskins, RB ,6-1,210,Eureka,Eureka,MO,0.8539,975,49,11,michigan
+2018,94377,Maxwell Worship, S ,6-1,198,Cardinal Gibbons,Fort Lauderdale,FL,0.8538,976,78,141,vanderbilt
+2018,46035730,Maurice Robinson, ATH ,6-1,180,Murphy,Mobile,AL,0.8538,977,81,33,grambling state
+2018,86198,Jacob Jefferson, WR ,5-10.5,170,St Pius X,Houston,TX,0.8534,978,141,139,northwestern
+2018,80470,Sebastian Sainterling, OG ,6-2,356,Chaminade-Madonna Prep,Hollywood,FL,0.8534,979,41,142,south florida
+2018,46035836,Akeem Hayes, ATH ,5-10,175,Chaminade-Madonna Prep,Hollywood,FL,0.8534,980,82,143,kentucky
+2018,81855,Eli Adams, WDE ,5-11,230,South Pointe,Rock Hill,SC,0.8534,981,53,18,virginia tech
+2018,46039378,Thomas Marcus, WR ,6-4,185,Horizon,San Diego,CA,0.8533,982,142,99,arizona
+2018,91558,Derius Davis, CB ,5-9,160,West Feliciana,Saint Francisville,LA,0.8532,983,86,42,tcu
+2018,46039524,Lance Robinson, S ,5-10,181,De La Salle,New Orleans,LA,0.8532,984,79,43,kansas state
+2018,90704,Wayne Jones, S ,6-0,193,Owasso,Owasso,OK,0.8532,985,80,16,kansas state
+2018,46036852,Frank Fillip, OT ,6-7,280,Clear Lake,Houston,TX,0.8532,986,86,140,colorado
+2018,94519,Travis Dye, RB ,5-9,170,Norco,Norco,CA,0.8532,987,50,100,oregon
+2018,87690,Randy Fields, WR ,6-3,185,St. Frances Academy,Elkton,MD,0.8532,988,143,21,west virginia
+2018,46040264,Roger McCreary, CB ,5-11,178,Williamson,Mobile,AL,0.8532,989,87,34,auburn
+2018,46047421,Kaymar Mimes, WDE ,6-5,225,Long Branch,Long Branch,NJ,0.8532,990,54,24,pittsburgh
+2018,94090,Erick Hallett, CB ,5-11,175,Cy-Fair,Cypress,TX,0.8531,991,88,141,pittsburgh
+2018,94160,Sterling Galban, WR ,5-10,180,Burnet,Burnet,TX,0.8531,992,144,142,texas tech
+2018,46038376,Fa'Najae Gotay, OLB ,6-0,205,North Fort Myers,North Fort Myers,FL,0.8530,993,66,144,maryland
+2018,46046692,Donjae Logan, CB ,5-11,170,Desert Ridge,Mesa,AZ,0.8530,994,89,15,stanford
+2018,46035959,Trent Pennix, RB ,6-2,200,Sanderson,Raleigh,NC,0.8530,995,51,31,north carolina state
+2018,91885,Zach Williams, WR ,6-3,205,Johns Creek,Alpharetta,GA,0.8530,996,145,92,arizona
+2018,46035532,Javon Terry, S ,6-2,185,Wake Forest,Wake Forest,NC,0.8530,997,81,32,north carolina
+2018,46050506,Jerquavion Mahone, DT ,6-3,299,Manchester,Manchester,GA,0.8530,998,69,93,kentucky
+2018,91784,Trenton Charles, RB ,5-9,165,Scotlandville Magnet,Baton Rouge,LA,0.8527,999,52,44,yale
+2018,46038904,Nasir Peoples, S ,6-0,185,Archbishop Wood,Warminster,PA,0.8527,1000,82,25,virginia tech
+2018,46038890,Isaiah Smalls, TE ,6-4,220,Dorsey,Los Angeles,CA,0.8527,NA,45,101,oregon state
+2018,46038801,Millard Bradford, S ,5-10,180,O'Connor,Helotes,TX,0.8527,NA,83,143,NULL
+2018,46040128,Dallin Holker, TE ,6-5,222,Lehi,Lehi,UT,0.8527,NA,46,14,byu
+2018,77466,Marcus Caldwell, RB ,6-1,180,Parkland,Winston Salem,NC,0.8527,NA,53,33,NULL
+2018,81305,Kevin Brennan, S ,5-11,200,Don Bosco Prep,Westfield,NJ,0.8527,NA,84,25,navy
+2018,87825,Jaquan Beaver, OLB ,6-0,220,Booker T. Washington,Miami,FL,0.8527,NA,67,145,NULL
+2018,76542,Sean Ryan, WR ,6-3,185,Erasmus Hall,Brooklyn,NY,0.8527,NA,146,11,temple
+2018,83922,Hunter Anthony, OT ,6-7,320,Tuttle,Tuttle,OK,0.8527,NA,87,17,oklahoma state
+2018,46040945,Raiqwon O'Neal, OT ,6-5,270,Conway,Conway,SC,0.8527,NA,88,19,rutgers
+2018,46039858,Ugo Obasi, WR ,6-1,170,Milford Mill Academy,Gwynn Oak,MD,0.8527,NA,147,22,virginia
+2018,46048549,Khmari Thompson, WR ,6-2,190,Central Gwinnett,Lawrenceville,GA,0.8527,NA,148,94,missouri
+2018,46047416,Casey Rogers, SDE ,6-5,250,Old Farms,Avon,CT,0.8526,NA,49,4,nebraska
+2018,94183,Kahric Belle, OT ,6-6,292,North Miami Beach Senior,Miami,FL,0.8526,NA,89,146,north carolina state
+2018,87306,Hugh Davis, OLB ,6-1,215,Cathedral,Indianapolis,IN,0.8526,NA,68,12,boston college
+2018,45572880,Devonte Gordon, OT ,6-5,280,Maret School,Washington,DC,0.8526,NA,90,11,wake forest
+2018,92610,Chase Wolf, PRO ,6-2,195,St. Xavier,Cincinnati,OH,0.8526,NA,39,39,wisconsin
+2018,46038305,EJ Turner, WR ,6-0,179,Cartersville,Cartersville,GA,0.8526,NA,149,95,kansas state
+2018,46039989,Willie Canty, OT ,6-6,290,Glades Central,Belle Glade,FL,0.8526,NA,91,147,nebraska
+2018,88596,Terrell Perriman, WR ,5-10,176,Miami Central,Miami,FL,0.8521,NA,150,148,utah
+2018,90542,Jorien Vallien, WR ,6-4,178,Alexandria,Alexandria,LA,0.8520,NA,151,45,tulane
+2018,46042029,Octavious Battle, DUAL ,6-3,180,Carver,Atlanta,GA,0.8519,NA,28,96,south florida
+2018,46038928,Brennan Jackson, WDE ,6-4,238,Great Oak,Temecula,CA,0.8519,NA,55,102,washington state
+2018,94568,Mayan Ahanotu, SDE ,6-3,246,Berkeley Prep,Tampa,FL,0.8519,NA,50,149,minnesota
+2018,46041818,Jake Dukart, PRO ,6-2,180,Lake Oswego,Lake Oswego,OR,0.8519,NA,40,11,oregon state
+2018,94518,Connor Pay, OT ,6-5,270,Lone Peak,American Fork,UT,0.8519,NA,92,15,byu
+2018,90908,Charles McClelland, ATH ,5-10.5,180,Clinch County,Homerville,GA,0.8519,NA,83,97,cincinnati
+2018,46042485,Hassan Hall, RB ,5-11,190,Maynard Jackson,Atlanta,GA,0.8519,NA,54,98,louisville
+2018,46036104,Donovan Laie, OT ,6-6,275,Oceanside,Oceanside,CA,0.8518,NA,93,103,arizona
+2018,94700,Scale Igiehon, DT ,6-2,327,Del Valle,Del Valle,TX,0.8518,NA,70,144,boise state
+2018,45573203,Jermaine McMillian, S ,6-2,185,Booker T. Washington,Miami,FL,0.8518,NA,85,150,central florida
+2018,92757,Evan Stewart, S ,6-1,205,St. Joseph Regional,Montvale,NJ,0.8518,NA,86,26,boston college
+2018,46038506,Jett Johnson, ILB ,6-3.5,215,Tupelo,Tupelo,MS,0.8518,NA,37,20,mississippi state
+2018,46041708,Nick Williams, OT ,6-7,267,Ritenour,Saint Louis,MO,0.8518,NA,94,12,kansas
+2018,46037720,Amir Abdur-Rahman, WR ,6-4,200,Mays,Atlanta,GA,0.8518,NA,152,99,vanderbilt
+2018,46039278,Tyric LeBeauf, CB ,6-2,178,Long Beach Poly,Long Beach,CA,0.8516,NA,90,104,boise state
+2018,91913,Dan Land III, CB ,6-1,185,Westover,Albany,GA,0.8516,NA,91,100,NULL
+2018,80248,Re-al Mitchell, DUAL ,6-0,190,St. John Bosco,Bellflower,CA,0.8514,NA,29,105,iowa state
+2018,46037462,Malachi Carter, WR ,6-2,180,Mountain View,Lawrenceville,GA,0.8514,NA,153,101,georgia tech
+2018,46038633,Joe Kane, DT ,6-3,280,Heritage,Wake Forest,NC,0.8514,NA,71,34,virginia tech
+2018,92600,Tyler Bentley, DT ,6-3,295,Lakota West,West Chester,OH,0.8514,NA,72,40,pittsburgh
+2018,46040260,Christian Duffie, OG ,6-5,300,Summer Creek,Humble,TX,0.8513,NA,42,145,kansas state
+2018,90353,Kievan Myers, OG ,6-5,330,Bishop Dunne,Dallas,TX,0.8513,NA,43,146,illinois
+2018,46039749,Myjai Sanders, WDE ,6-4,223,Raines,Jacksonville,FL,0.8513,NA,56,151,cincinnati
+2018,46037437,Nick Marozas, OT ,6-5,270,Brother Rice,Oak Lawn,IL,0.8513,NA,95,21,indiana
+2018,85202,Trad Beatty, DUAL ,6-5,220,Ben Lippen School,Columbia,SC,0.8513,NA,30,20,temple
+2018,80839,Kirby Bennett, RB ,5-10,212,Lone Star,Frisco,TX,0.8512,NA,55,147,NULL
+2018,46038977,Henry Geil, RB ,6-1,203,Preble,Green Bay,WI,0.8511,NA,56,8,iowa
+2018,91930,Braelen Oliver, OLB ,6-1,218,Douglas County,Douglasville,GA,0.8511,NA,69,102,minnesota
+2018,46038360,Kaitori Leveston, OT ,6-5,290,Midway,Waco,TX,0.8510,NA,96,148,kansas state
+2018,92076,Ja'Qurius Smith, OLB ,6-3,215,Lakeland,Lakeland,FL,0.8510,NA,70,152,purdue
+2018,92072,Darius Rush, WR ,6-2,172,C E Murray Hi,Greeleyville,SC,0.8506,NA,154,21,south carolina
+2018,46041869,Tyrus Wheat, OLB ,6-2,217,Amite,Amite,LA,0.8506,NA,71,46,NULL
+2018,46047016,Mosiah Nasili-Kite, WDE ,6-2,281,Emerald Ridge,Puyallup,WA,0.8506,NA,57,10,washington
+2018,46036630,Spencer Anderson, OT ,6-5,270,Bishop McNamara,District Heights,MD,0.8506,NA,97,23,maryland
+2018,46039325,Jacolby Hewitt, WR ,6-2,190,Cordova,Cordova,TN,0.8506,NA,155,33,indiana
+2018,46040048,Justin Birdsong, CB ,5-11,175,Stephenson,Stone Mountain,GA,0.8506,NA,92,103,georgia southern
+2018,46039706,Mike Ruth, OT ,6-7,300,Coppell,Coppell,TX,0.8505,NA,98,149,missouri
+2018,94263,Jack York, OT ,6-5,300,First Baptist Academy,Dallas,TX,0.8505,NA,99,150,minnesota
+2018,46038302,Daeshon Martin, SDE ,6-3,240,Archbishop Hoban,Akron,OH,0.8505,NA,51,41,cincinnati
+2018,92717,James Gmiter, DT ,6-3,310,Bethel Park,Bethel Park,PA,0.8505,NA,73,26,west virginia
+2018,92764,Gavin McCabe, SDE ,6-3,250,Marist,Chicago,IL,0.8505,NA,52,22,indiana
+2018,46039957,Aaron Casey, OLB ,6-2,215,Alexander,Douglasville,GA,0.8505,NA,72,104,indiana
+2018,46038779,Hamilton Hall, OT ,6-5,315,Chamblee Charter,Atlanta,GA,0.8505,NA,100,105,ole miss
+2018,93996,Vincent Davis, CB ,5-11,165,Robert E. Lee,Jacksonville,FL,0.8502,NA,93,153,south florida
+2018,88038,Esteban Avila, OG ,6-4,308,South Grand Prairie,Grand Prairie,TX,0.8502,NA,44,151,tcu
+2018,77747,Jalen Patterson, APB ,5-10,170,Belleview,Belleview,FL,0.8502,NA,24,154,NULL
+2018,46037105,Braden Cassity, WDE ,6-2,240,Westlake,Austin,TX,0.8500,NA,58,152,oklahoma state
+2018,46052317,Cameron Stage, OG ,6-4,295,Cardinal Gibbons,Fort Lauderdale,FL,0.8499,NA,45,155,bowling green
+2018,46041144,Michael Washington, WR ,6-0,157,Monrovia,Monrovia,CA,0.8499,NA,156,106,hawaii
+2018,46040377,EJ Ane, WDE ,6-1,250,Silver Valley,Yucaipa,CA,0.8499,NA,59,107,san jose state
+2018,87604,Justin Williams, ATH ,6-1,190,Fort Dorchester,North Charleston,SC,0.8499,NA,84,22,NULL
+2018,46047066,Demontrez Brown, WR ,6-3,200,Bob Jones,Madison,AL,0.8499,NA,157,35,troy
+2018,46050701,Keonta Nixon, WR ,6-4,205,Lake Park,Roselle,IL,0.8499,NA,158,23,central michigan
+2018,46035722,Elija Godwin, S ,6-0,190,Newton,Covington,GA,0.8499,NA,87,106,NULL
+2018,46051137,Landon Woodson, WDE ,6-6,220,Stafford,Fredericksburg,VA,0.8499,NA,60,21,central florida
+2018,46052422,Deon Woods, WDE ,6-5,215,Lyman,Longwood,FL,0.8499,NA,61,156,florida atlantic
+2018,46037313,Jahlil Taylor, DT ,6-1,290,Crisp County,Cordele,GA,0.8498,NA,74,107,north carolina
+2018,45572388,Payne He'Bert, OT ,6-4,273,Dawson,Pearland,TX,0.8498,NA,101,153,northwestern
+2018,90985,Jaquon Griffin, SDE ,6-0,265,Rome,Rome,GA,0.8498,NA,53,108,georgia tech
+2018,46039182,Justin McGriff, WR ,6-5,210,Jefferson,Tampa,FL,0.8498,NA,159,157,nebraska
+2018,46039256,Anthony Queeley, WR ,6-2,195,Lake Nona,Orlando,FL,0.8498,NA,160,158,syracuse
+2018,46042737,McKenzie Barnes, CB ,6-0,170,Edison,Fresno,CA,0.8497,NA,94,108,arizona
+2018,89647,Issaiah Johnson, ILB ,6-3,220,Los Alamitos,Los Alamitos,CA,0.8497,NA,38,109,arizona
+2018,46041484,Kedron Williams, OLB ,6-1,190,St. John Bosco,Bellflower,CA,0.8497,NA,73,110,washington state
+2018,87489,DaShon Bussell, ATH ,6-2,182,Knoxville Catholic,Knoxville,TN,0.8497,NA,85,34,western michigan
+2018,87735,Grahm Roberts, RB ,6-0,220,Concord,Wilmington,DE,0.8496,NA,57,1,NULL
+2018,46046958,Jarrick Bernard, S ,6-1,195,Evangel Christian Academy,Shreveport,LA,0.8493,NA,88,47,oklahoma state
+2018,46039270,Joshka Gustav, OLB ,6-3,220,Aquinas,San Bernardino,CA,0.8493,NA,74,111,colorado
+2018,91258,Bryce Oliver, WR ,6-3,205,Dillard,Fort Lauderdale,FL,0.8493,NA,161,159,kentucky
+2018,46041874,Teshaun Smith, CB ,6-3,170,Western,Fort Lauderdale,FL,0.8493,NA,95,160,north carolina state
+2018,46038333,Wooby Theork-Youmans, WR ,5-10,163,Naples,Naples,FL,0.8493,NA,162,161,virginia
+2018,90229,Rashawn Yates, SDE ,6-3,250,Treasure Coast,Port Saint Lucie,FL,0.8493,NA,54,162,south florida
+2018,85406,Brian Cobbs, WR ,6-2,200,Hayfield,Quantico,VA,0.8492,NA,163,22,maryland
+2018,46040245,Kris Dike, OT ,6-6,290,Van HS,Van,TX,0.8492,NA,102,154,tcu
+2018,79656,Jayce Rogers, CB ,5-8,165,Valdosta,Valdosta,GA,0.8492,NA,96,109,west virginia
+2018,93925,Katerian Legrone, TE ,6-3,230,Best Academy,Atlanta,GA,0.8492,NA,47,110,nebraska
+2018,91740,Riley Smith, PRO ,6-5,215,Bartram Trail,Jacksonville,FL,0.8491,NA,41,163,boise state
+2018,46039422,Jordan Mosley, OLB ,6-1,214,Haverford,Havertown,PA,0.8490,NA,75,27,maryland
+2018,88559,JaKorey Hawkins, CB ,5-11,187,Robert E. Lee,Montgomery,AL,0.8490,NA,97,36,ole miss
+2018,94355,Peyton Woulard, S ,6-1,175,Collins Hill,Suwanee,GA,0.8490,NA,89,111,wake forest
+2018,85915,Braxton Clark, CB ,6-3,180,Dr. Phillips,Orlando,FL,0.8490,NA,98,164,nebraska
+2018,81895,Cory Trice, S ,6-2,163,Christian County,Hopkinsville,KY,0.8489,NA,90,7,purdue
+2018,82262,Princeton Pines, OG ,6-5,327,Tara,Baton Rouge,LA,0.8486,NA,46,48,baylor
+2018,89281,Ivan Thomas, WR ,6-4,215,Miami Palmetto,Miami,FL,0.8485,NA,164,165,florida international
+2018,46040273,Ahmir Crowder, DT ,6-3,280,Crenshaw,Los Angeles,CA,0.8485,NA,75,112,washington state
+2018,94535,Mykee Irving, DT ,6-4.5,330,Calabasas,West Hills,CA,0.8485,NA,76,113,arizona
+2018,93086,Kahlef Hailassie, CB ,6-2,185,Cosumnes Oaks,Elk Grove,CA,0.8485,NA,99,114,oregon
+2018,81473,Khris Banks, OG ,6-1.5,290,De Paul Catholic,Wayne,NJ,0.8485,NA,47,27,temple
+2018,46049415,Jacobi Lott, OG ,6-5,308,Tascosa,Amarillo,TX,0.8485,NA,48,155,kansas
+2018,93951,Brad Cecil, OC ,6-4,275,Bartram Trail,Jacksonville,FL,0.8485,NA,19,166,south florida
+2018,45573078,Lancine Turay, SDE ,6-6,240,Irvington,Irvington,NJ,0.8485,NA,55,28,north carolina
+2018,94341,Gabriel Gonzalez, OT ,6-4,275,Eastern Alamance,Mebane,NC,0.8485,NA,103,35,north carolina state
+2018,46039417,Ja'Veon Marlow, RB ,5-10,200,Winter Haven,Winter Haven,FL,0.8485,NA,58,167,vanderbilt
+2018,77867,Nick Bolton, ILB ,5-11,228,Lone Star,Frisco,TX,0.8484,NA,39,156,missouri
+2018,94548,Ja'Kori Morgan, WR ,6-2,190,Clear Lake,Houston,TX,0.8484,NA,165,157,houston
+2018,94571,Matthew Cindric, OT ,6-4,270,Skyline,Sammamish,WA,0.8484,NA,104,11,california
+2018,46042510,Noah Palmer, SDE ,6-4,215,Thomas Jefferson,Clairton,PA,0.8484,NA,56,28,pittsburgh
+2018,46038611,Trumane Bell, WDE ,6-1,230,Lake Highlands,Dallas,TX,0.8481,NA,62,158,utsa
+2018,46036548,Carson Schleker, WR ,5-9,175,Allen,Allen,TX,0.8481,NA,166,159,iowa state
+2018,46040666,Tijai Whatley, ATH ,6-2,195,Darlington School,Rome,GA,0.8481,NA,86,112,georgia tech
+2018,87679,Dekalen Goodson, OLB ,6-2,205,John Tyler,Tyler,TX,0.8480,NA,76,160,houston
+2018,46038516,Blake Barron, ILB ,6-0,225,Rockwall,Rockwall,TX,0.8480,NA,40,161,oklahoma state
+2018,94030,Demetreius Mayes, OLB ,6-2,234,Northwestern,Miami,FL,0.8478,NA,77,168,central florida
+2018,46039528,Ryan Smenda, ILB ,6-1.5,210,Fleming Island,Orange Park,FL,0.8477,NA,41,169,wake forest
+2018,93270,Pat Nunn, WR ,6-3,206,Junipero Serra,San Mateo,CA,0.8477,NA,167,115,washington state
+2018,46039139,Ryan Montgomery, RB ,5-11,190,Franklin,Franklin,OH,0.8477,NA,59,42,cincinnati
+2018,94255,Jacob Slade, SDE ,6-4,255,Olentangy,Lewis Center,OH,0.8477,NA,57,43,michigan state
+2018,92026,Juan Wallace, ILB ,6-2,215,IMG Academy,Bradenton,FL,0.8477,NA,42,170,syracuse
+2018,92066,Courtney McKinney, RB ,6-2,200,East Montgomery,Biscoe,NC,0.8477,NA,60,36,wake forest
+2018,46042139,Jamar Johnson, CB ,6-1,190,Riverview,Sarasota,FL,0.8477,NA,100,171,indiana
+2018,46041638,Jake Andrews, OT ,6-3,286,Stanhope Elmore,Millbrook,AL,0.8477,NA,105,37,troy
+2018,46047063,K.J. Robertson, OLB ,6-2,205,Thompson,Alabaster,AL,0.8477,NA,78,38,troy
+2018,94291,Sheldon Jones, WR ,5-9,134,Warren Easton,New Orleans,LA,0.8477,NA,168,49,utsa
+2018,46039269,Max Barth, OT ,6-6,285,St. Mary's,Stockton,CA,0.8477,NA,106,116,san jose state
+2018,46039267,Teyjohn Herrington, WR ,6-2,185,Edison,Fresno,CA,0.8477,NA,169,117,nevada
+2018,87106,Keyondre White, RB ,5-10,210,Dillard,Hollywood,FL,0.8477,NA,61,172,akron
+2018,45572853,Lelan Wilhoite, RB ,5-10,185,Siegel,Murfreesboro,TN,0.8477,NA,62,35,NULL
+2018,94389,Xavier Johnson, WR ,6-1,215,Summit Country Day School,Cincinnati,OH,0.8477,NA,170,44,NULL
+2018,85443,Tahj Brown, SDE ,6-2.5,256,Donaldsonville,Donaldsonville,LA,0.8476,NA,58,50,houston
+2018,84060,Jaelyn Nolan, ATH ,6-2,185,Brownfield,Brownfield,TX,0.8475,NA,87,162,NULL
+2018,46040122,Joey Luchetti, TE ,6-6,240,Lawrence Academy,Groton,MA,0.8474,NA,48,3,boston college
+2018,90355,Spencer Trussell, WDE ,6-3,215,Martin,Arlington,TX,0.8473,NA,63,163,kansas state
+2018,46038799,Jarek Broussard, ATH ,5-9,171,Bishop Lynch,Dallas,TX,0.8473,NA,88,164,colorado
+2018,46039919,Jasper Friis, OT ,6-7,315,Aquinas,San Bernardino,CA,0.8473,NA,107,118,california
+2018,46042700,Niti Liu, DT ,6-3,275,Grant Union,Sacramento,CA,0.8473,NA,77,119,NULL
+2018,46036990,Tavares Kelly, WR ,5-8,160,St. Thomas Aquinas,Fort Lauderdale,FL,0.8473,NA,171,173,virginia
+2018,85090,Samson Reed, WDE ,6-3,252,Kahuku,Kahuku,HI,0.8473,NA,64,5,virginia
+2018,92273,Jacob Smith, OT ,6-6,319,Rosemount Senior,Rosemount,MN,0.8472,NA,108,4,byu
+2018,88399,Kristian Pechac, RB ,6-0,203,Bloomington South,Bloomington,IN,0.8471,NA,63,13,indiana
+2018,83553,Jason Swann, OT ,6-3,270,St. Thomas Aquinas,Pembroke Pines,FL,0.8471,NA,109,174,tulane
+2018,46038515,Miles Marshall, WR ,6-4,210,Parkview,Lilburn,GA,0.8471,NA,172,113,indiana
+2018,90461,Jajuan Cherry, ATH ,5-8.5,166,Okeechobee,Okeechobee,FL,0.8471,NA,89,175,south florida
+2018,46040509,Julian Pearl, OT ,6-7,245,Danville,Danville,IL,0.8470,NA,110,24,illinois
+2018,46037269,Nick DeNucci, ILB ,6-1,230,Pope John XXIII,Sparta,NJ,0.8469,NA,43,29,boston college
+2018,77804,Justin Oden, WR ,6-3,160,Spring Hill,Columbia,TN,0.8468,NA,173,36,tennessee tech
+2018,92062,Chris Rodriguez, RB ,5-11.5,200,Ola,McDonough,GA,0.8468,NA,64,114,kentucky
+2018,86636,Ylijaah Hall, OT ,6-5,293,Bryan,Bryan,TX,0.8467,NA,111,165,baylor
+2018,45477,Zadock Dinkelmann, PRO ,6-4.5,235,Somerset,Somerset,TX,0.8467,NA,42,166,NULL
+2018,84057,Blake Kuithe, SDE ,6-2,230,Cinco Ranch,Katy,TX,0.8467,NA,59,167,utah
+2018,90894,Trenton Kennedy, RB ,6-0,209,Cy-Fair,Cypress,TX,0.8466,NA,65,168,NULL
+2018,93381,Cole Turner, TE ,6-6,193,Clackamas,Clackamas,OR,0.8466,NA,49,12,nevada
+2018,89815,Deandre Fitz-Henley, ILB ,6-0,220,Clearwater Central Catholic,Clearwater,FL,0.8466,NA,44,176,bowling green
+2018,90942,Emeka Nwanze, RB ,5-11,205,Centennial,Roswell,GA,0.8466,NA,66,115,citadel
+2018,46038866,Alec Pierce, WR ,6-3,196,Glenbard West,Glen Ellyn,IL,0.8466,NA,174,25,cincinnati
+2018,88736,Terez Traynor, ATH ,6-3,167,Doss Magnet Career Academy,Louisville,KY,0.8466,NA,90,8,western kentucky
+2018,46051366,Kurott Garland, SDE ,6-2,273,Heritage,Conyers,GA,0.8466,NA,60,116,tennessee
+2018,46037264,Andrew Faoliu, WDE ,6-3,255,Mater Dei,Santa Ana,CA,0.8466,NA,65,120,oregon
+2018,91265,Arthur Brathwaite, S ,6-0,180,Miami Central,Hollywood,FL,0.8466,NA,91,177,western kentucky
+2018,80322,DeMarcus Townsend, RB ,5-10,192,Palmetto Ridge,Naples,FL,0.8466,NA,67,178,florida international
+2018,93548,Trent Ingalls, S ,6-1,175,Menasha,Menasha,WI,0.8465,NA,92,9,NULL
+2018,46041031,Cameron O'Neil, WR ,6-3,190,Glenwood School,Phenix City,AL,0.8465,NA,175,39,pittsburgh
+2018,89213,Avonta Crim, S ,6-0,195,Vanguard,Ocala,FL,0.8465,NA,93,179,western kentucky
+2018,46039251,Grant Misch, OLB ,6-4,232,Potomac Falls,Sterling,VA,0.8465,NA,79,23,virginia
+2018,87818,Izaih Filikitonga, OLB ,6-2,270,Trinity,Euless,TX,0.8465,NA,80,169,tcu
+2018,46037473,Ryan Betro, DT ,6-4,280,Lawrence Academy,Walpole,MA,0.8464,NA,78,4,boston college
+2018,46040870,Chris Mills, CB ,6-0,185,Judson,Converse,TX,0.8464,NA,101,170,missouri
+2018,46042033,Tyler Steen, OT ,6-5,300,St. Thomas Aquinas,Fort Lauderdale,FL,0.8464,NA,112,180,vanderbilt
+2018,46049820,Anthony Torres, TE ,6-6,235,Penn,Mishawaka,IN,0.8464,NA,50,14,western michigan
+2018,46039058,Joseph White, S ,6-2,175,Landstown,Virginia Beach,VA,0.8464,NA,94,24,virginia
+2018,89857,Tyrone Collins, CB ,5-10.5,164,Braden River,Bradenton,FL,0.8464,NA,102,181,missouri
+2018,91185,Paul Woods, WR ,6-1,165,Canisius,Buffalo,NY,0.8464,NA,176,12,rutgers
+2018,46035272,Maleak Bryant, TE ,6-6,225,Mays,Atlanta,GA,0.8464,NA,51,117,miami ohio
+2018,46037353,Samuel Baker, OG ,6-3,285,Admiral Farragut Academy,Saint Petersburg,FL,0.8464,NA,49,182,toledo
+2018,46038059,Wyatt Smock, OG ,6-4,290,St. Xavier,Louisville,KY,0.8464,NA,50,9,vanderbilt
+2018,46042242,Matthew Thomas, WDE ,6-3,237,Midwood,Brooklyn,NY,0.8464,NA,66,13,rutgers
+2018,46039449,Derrick Eason, SDE ,6-4,240,Norview,Norfolk,VA,0.8464,NA,61,25,north carolina state
+2018,91498,Tyrese Ross, S ,6-1,187,Westlake,Atlanta,GA,0.8464,NA,95,118,washington state
+2018,82958,Kelvin Stokes, WDE ,6-2,205,Stanhope Elmore,Millbrook,AL,0.8463,NA,67,40,purdue
+2018,46039242,Deshon Wilson, CB ,6-1,180,Stellar Prep,Hayward,CA,0.8463,NA,103,121,oregon state
+2018,46041077,JaQuez Jackson, ILB ,6-1,220,Peach County,Fort Valley,GA,0.8463,NA,45,119,georgia tech
+2018,88323,Jaylen Joyner, WDE ,6-3,255,Jones,Orlando,FL,0.8463,NA,68,183,florida atlantic
+2018,46040237,JaCorey Johns, ILB ,6-4,221,Cartersville,Cartersville,GA,0.8463,NA,46,120,wake forest
+2018,46042662,Terry Roberts, CB ,5-10,170,Cathedral Prep,Erie,PA,0.8463,NA,104,29,iowa
+2018,46039570,Zamari Walton, CB ,6-3,175,Melbourne Central Catholic,Melbourne,FL,0.8460,NA,105,184,georgia tech
+2018,82374,Jordan Redmond, DT ,6-0,292,Osceola,Kissimmee,FL,0.8460,NA,79,185,virginia
+2018,82476,Vinny DePalma, ILB ,6-1,215,De Paul Catholic,Wayne,NJ,0.8459,NA,47,30,boston college
+2018,46048861,Jaylen Moody, ILB ,6-2,225,Conway,Conway,SC,0.8457,NA,48,23,alabama
+2018,46042792,Hidari Ceasar, S ,5-11,175,Richwood,Monroe,LA,0.8456,NA,96,51,tcu
+2018,46041028,C'Bo Flemister, RB ,5-11,197,Pike County,Zebulon,GA,0.8456,NA,68,121,notre dame
+2018,45572922,A.J. Hampton, CB ,5-11,167,Wharton,Tampa,FL,0.8456,NA,106,186,northwestern
+2018,94749,Josh Marsh, OLB ,6-1.5,215,Decatur,Decatur,AL,0.8456,NA,81,41,auburn
+2018,92384,Thomas Rush, OLB ,6-3,209,Marysville,Marysville,OH,0.8456,NA,82,45,minnesota
+2018,89527,Victor Terry, OLB ,6-2,200,Cathedral,Los Angeles,CA,0.8455,NA,83,122,NULL
+2018,46039879,Ryan Winkel, OT ,6-6,286,Christian Brothers,Memphis,TN,0.8453,NA,113,37,arkansas
+2018,46041069,Deneric Prince, RB ,6-1,196,Manvel,Manvel,TX,0.8452,NA,69,171,texas am
+2018,94111,Kingston Harris, DT ,6-3,285,IMG Academy,Orlando,FL,0.8452,NA,80,187,tennessee
+2018,46038857,Elijiah Brown, DT ,6-4,295,Providence Day School,Charlotte,NC,0.8452,NA,81,37,duke
+2018,87851,Sharrod Frazier, OLB ,6-0,192,Brunswick,Brunswick,GA,0.8452,NA,84,122,marshall
+2018,90771,Austin Smith, DT ,6-4,295,Ola,McDonough,GA,0.8452,NA,82,123,georgia tech
+2018,46040289,Jordan Bonner, WR ,6-2,185,Carrollton,Carrollton,GA,0.8452,NA,177,124,purdue
+2018,46041848,Jarett Garner, WR ,6-3,190,Hickory Ridge,Harrisburg,NC,0.8452,NA,178,38,duke
+2018,46036274,Tre Adams, WR ,6-3,178,Wakeland,Frisco,TX,0.8451,NA,179,172,arizona
+2018,46036265,Brant Kuithe, ATH ,6-3,212,Cinco Ranch,Katy,TX,0.8451,NA,91,173,utah
+2018,46038359,David Priebe, TE ,6-6,212,Midway,Waco,TX,0.8451,NA,52,174,ucla
+2018,92709,Chaz Neal, WDE ,6-7,253,Wesley Chapel,Zephyrhills,FL,0.8451,NA,69,188,florida state
+2018,89384,Zamari Ellis, TE ,6-4,240,Southern Vance,Henderson,NC,0.8451,NA,53,39,duke
+2018,84677,John Langan, PRO ,6-3,220,Bergen Catholic,Oradell,NJ,0.8451,NA,43,31,boston college
+2018,87894,Daniel Bolden, ILB ,6-1,218,Colerain,Cincinnati,OH,0.8447,NA,49,46,toledo
+2018,46041721,Corey Fulcher, WR ,6-2,180,Lake Highlands,Dallas,TX,0.8446,NA,180,175,texas tech
+2018,45572749,Adonis Boone, OT ,6-5,285,Mainland,Daytona Beach,FL,0.8446,NA,114,189,louisville
+2018,90373,Carlos Sandy, WR ,5-8,153,Cardinal Gibbons,Fort Lauderdale,FL,0.8446,NA,181,190,illinois
+2018,46038896,Gabe Horan, OT ,6-6,260,Charles W Baker,Baldwinsville,NY,0.8445,NA,115,14,syracuse
+2018,92792,Samson Evans, ATH ,5-11.5,200,Prairie Ridge,Crystal Lake,IL,0.8445,NA,92,26,iowa
+2018,46050052,Zach Petersen, SDE ,6-4,225,North Scott,Eldridge,IA,0.8444,NA,62,5,iowa state
+2018,38331,German Green, S ,6-2,168,DeSoto,DeSoto,TX,0.8444,NA,97,176,michigan
+2018,46042696,Andy Koch, SDE ,6-6,251,Eleanor Roosevelt,Corona,CA,0.8444,NA,63,123,utah state
+2018,89198,Mariano Sori-Marin, ILB ,6-2.5,223,Providence Catholic,New Lenox,IL,0.8444,NA,50,27,minnesota
+2018,46038929,Jack Sullivan, SDE ,6-5,245,Plainfield East,Plainfield,IL,0.8444,NA,64,28,purdue
+2018,46041176,Mike Maye, OG ,6-3,295,Hoover,Hoover,AL,0.8444,NA,51,42,georgia tech
+2018,46038460,Reggie Sutton, OT ,6-4,278,Calvert Hall College,Towson,MD,0.8444,NA,116,24,rutgers
+2018,90649,Brandon Hawkins, OLB ,6-3,210,Georgetown,Georgetown,TX,0.8439,NA,85,177,boise state
+2018,46039132,Xavier Benson, OLB ,6-3,200,Pleasant Grove,Texarkana,TX,0.8439,NA,86,178,texas tech
+2018,94626,Charlie Mangieri, ATH ,6-4,230,Dunlap,Dunlap,IL,0.8439,NA,93,29,northwestern
+2018,46037359,Trey Laing, WDE ,6-2,220,Amos P. Godby,Tallahassee,FL,0.8439,NA,70,191,south florida
+2018,94516,Nathan Latu, OLB ,6-4,230,Olympus,Salt Lake City,UT,0.8439,NA,87,16,byu
+2018,46036791,Jay Symonds Jr, FB ,6-4,257,Buckingham Browne & Nichols School,Melrose,MA,0.8439,NA,1,5,stanford
+2018,46040627,Quentin Bivens, DT ,6-3,295,Wayne County,Waynesboro,MS,0.8439,NA,83,21,ole miss
+2018,46039445,R.J. Roderick, S ,6-0,207,Cane Bay,Summerville,SC,0.8438,NA,98,24,south carolina
+2018,45573343,Chritauskie Dove, WR ,6-2,200,Ryan,Denton,TX,0.8437,NA,182,179,missouri
+2018,86696,Marquise Conchola, DT ,6-1.5,278,College Station,College Station,TX,0.8437,NA,84,180,NULL
+2018,46039538,Samuela Tuihalamaka, DT ,6-2,275,Mater Dei,Riverside,CA,0.8437,NA,85,124,oklahoma state
+2018,46040637,Martell Irby, RB ,5-9,204,Morse,San Diego,CA,0.8436,NA,70,125,ucla
+2018,87508,Darien Butler, OLB ,5-11,215,Narbonne,Harbor City,CA,0.8436,NA,88,126,arizona state
+2018,89175,Patrick Lupro, CB ,5-8.5,184,Belleville,Belleville,MI,0.8434,NA,107,28,western michigan
+2018,84031,Garland LaFrance, RB ,5-9.5,169,St. Augustine,New Orleans,LA,0.8431,NA,71,52,western kentucky
+2018,46050691,Jordan Miller, DT ,6-4,330,Sandalwood,Jacksonville,FL,0.8431,NA,86,192,miami
+2018,46042716,Tava Finau, WDE ,6-4,245,Luther Burbank,Sacramento,CA,0.8431,NA,71,127,colorado
+2018,46039362,Dallas Taylor-Cortez, CB ,6-2,170,Chaminade,West Hills,CA,0.8431,NA,108,128,iowa state
+2018,46047609,Jake Levengood, OG ,6-4,260,Vacaville,Vacaville,CA,0.8431,NA,52,129,oregon state
+2018,91706,Jack Cravaack, TE ,6-5,224,Madeira,Cincinnati,OH,0.8431,NA,54,47,purdue
+2018,46041883,Bobby Haskins, TE ,6-7,250,Hun School,Princeton,NJ,0.8431,NA,55,32,virginia
+2018,85582,Edward Warinner, ILB ,6-2,222,Olentangy Liberty,Powell,OH,0.8431,NA,51,48,michigan state
+2018,46039249,Grant Norton, OT ,6-8,255,Camdenton,Camdenton,MO,0.8431,NA,117,13,minnesota
+2018,45573221,D'Andre Ragin, OLB ,6-3,218,St. Thomas Aquinas,Opa Locka,FL,0.8431,NA,89,193,toledo
+2018,91676,Jordan Domineck, WDE ,6-3,220,George W. Jenkins Senior,Lakeland,FL,0.8431,NA,72,194,georgia tech
+2018,91197,Jake Bobo, WR ,6-4,185,Belmont Hill School,Belmont,MA,0.8431,NA,183,6,duke
+2018,46043025,Devon Robinson, DT ,6-6,260,Whitehaven,Memphis,TN,0.8431,NA,87,38,mississippi state
+2018,46040964,Donavan Mutin, ILB ,6-0.5,228,Klein Collins,Spring,TX,0.8430,NA,52,181,houston
+2018,46042857,Atonio Mafi, DT ,6-3,360,Junipero Serra,San Mateo,CA,0.8430,NA,88,130,ucla
+2018,94172,Ray Robinson, S ,6-2,205,Highlands Ranch,Littleton,CO,0.8430,NA,99,6,colorado
+2018,45572631,I'Shawn Stewart, ATH ,5-11,165,Bolingbrook,Bolingbrook,IL,0.8430,NA,94,30,oregon state
+2018,46035709,DeLonte Evans, WR ,6-2,185,Minor,Adamsville,AL,0.8427,NA,184,43,NULL
+2018,86638,Jaxon Player, DT ,6-0,285,Midway,Waco,TX,0.8427,NA,89,182,tulsa
+2018,94517,Nikia Jones, WR ,6-3,200,Wagoner,Wagoner,OK,0.8427,NA,185,18,NULL
+2018,90832,Dandre Humbles, ATH ,5-10,160,Hattiesburg,Hattiesburg,MS,0.8427,NA,95,22,NULL
+2018,83554,Steven Gilmore, CB ,5-9,152,South Pointe,Rock Hill,SC,0.8427,NA,109,25,marshall
+2018,46038748,Don Ragsdale, RB ,5-10,190,Pisgah,Satartia,MS,0.8426,NA,72,23,southern mississippi
+2018,46041203,Jaden Mitchell, WR ,6-0,180,Desert Oasis,Las Vegas,NV,0.8426,NA,186,9,arizona
+2018,91275,Keidron Smith, CB ,6-2,180,Oxbridge Academy,West Palm Beach,FL,0.8426,NA,110,195,ole miss
+2018,91146,Terrick Smalls, RB ,5-10,198,Benedictine Military School,Savannah,GA,0.8426,NA,73,125,charlotte
+2018,46037050,Brian Kaiser, TE ,6-7,210,New Trier,Winnetka,IL,0.8425,NA,56,31,northwestern
+2018,46039455,Caleb Steward, RB ,5-11,203,Ed White,Jacksonville,FL,0.8424,NA,74,196,virginia tech
+2018,92657,Matt Valecce, PRO ,6-5,205,Fordham Prep,Bronx,NY,0.8423,NA,44,15,boston college
+2018,46040682,Jonathan Hess, OLB ,6-5,223,Vestavia Hills,Birmingham,AL,0.8423,NA,90,44,ole miss
+2018,46040994,C.J. Smith, CB ,6-1,175,Duncan U. Fletcher,Neptune Beach,FL,0.8423,NA,111,197,minnesota
+2018,46037992,Alexander Smith, CB ,6-0,165,Culver City,Culver City,CA,0.8423,NA,112,131,wisconsin
+2018,90671,Jake Peters, TE ,6-5,225,Santa Margarita Catholic,Rancho Santa Margarita,CA,0.8423,NA,57,132,arizona
+2018,94149,Davontae McCrae, SDE ,6-5,255,Northwestern,Miami,FL,0.8423,NA,65,198,north carolina state
+2018,82952,Akeem Dixon, RB ,6-0,235,Vero Beach,Vero Beach,FL,0.8423,NA,75,199,syracuse
+2018,46042048,Kadin Smith, S ,6-0,189,Spencer County,Taylorsville,KY,0.8423,NA,100,10,purdue
+2018,46041816,Nasir Greer, S ,6-1,175,Stockbridge,Stockbridge,GA,0.8423,NA,101,126,wake forest
+2018,93035,Destin Coates, RB ,5-10,190,James Rickards,Tallahassee,FL,0.8423,NA,76,200,georgia state
+2018,85514,Blessman Taala, DT ,6-2,285,Faga'itua,Pago Pago,AS,0.8422,NA,90,1,hawaii
+2018,46039316,LJ Wallace, S ,6-3,185,Buhach Colony,Atwater,CA,0.8418,NA,102,133,colorado
+2018,91252,Davis Brin, PRO ,6-2,181,Champion,Boerne,TX,0.8418,NA,45,183,tulsa
+2018,86997,Nigel Bethel, CB ,5-11,160,Northwestern,Miami,FL,0.8418,NA,113,201,miami
+2018,46039701,Kenneth Horsey, OG ,6-3.5,326,Seminole,Sanford,FL,0.8418,NA,53,202,kentucky
+2018,91799,Jason Mercier, WDE ,6-5,235,Atlantic,Boynton Beach,FL,0.8418,NA,73,203,florida international
+2018,89859,Wyatt Rector, DUAL ,6-4,220,Leesburg,Leesburg,FL,0.8418,NA,31,204,western michigan
+2018,88288,Charles Allen, OG ,6-4,300,Doss Magnet Career Academy,Louisville,KY,0.8418,NA,54,11,purdue
+2018,46040683,Derek Gainous, CB ,5-11,175,Miami Senior,Miami,FL,0.8418,NA,114,205,central florida
+2018,45572607,Jax Gasaway, OT ,6-7,265,Star City,Star City,AR,0.8416,NA,118,10,arkansas state
+2018,45572501,Jalen Rayam, OLB ,6-2,230,Thompson,Alabaster,AL,0.8416,NA,91,45,alabama birmingham
+2018,93168,Emoryie Edwards, WR ,6-0,180,Tulare Union,Tulare,CA,0.8416,NA,187,134,fresno state
+2018,94592,Isaak Togia, OLB ,6-1,215,Pacifica,Garden Grove,CA,0.8416,NA,92,135,san jose state
+2018,46039935,Romeo Doubs, WR ,6-3,170,Thomas Jefferson,Los Angeles,CA,0.8416,NA,188,136,nevada
+2018,46039309,J.J. Tucker, WR ,6-2,168,Narbonne,Harbor City,CA,0.8416,NA,189,137,oregon
+2018,46039238,Tuni Fifita, WR ,6-3,220,Milpitas,Milpitas,CA,0.8416,NA,190,138,NULL
+2018,83805,Kenyon Oblad, PRO ,6-3,195,Liberty,Henderson,NV,0.8416,NA,46,10,unlv
+2018,92254,Garrison Vaughn, S ,6-2,190,Belton,Belton,TX,0.8416,NA,103,184,houston
+2018,46038054,Dequan Jackson, OLB ,6-2,205,Robert E. Lee,Jacksonville,FL,0.8416,NA,93,206,colorado state
+2018,46039403,Lichon Terrell, DT ,6-2,260,Callaway,Hogansville,GA,0.8416,NA,91,127,western kentucky
+2018,83305,Rico Frye, RB ,5-10,185,Cartersville,Cartersville,GA,0.8416,NA,77,128,bowling green
+2018,88558,Israel Spivey, ATH ,5-10,165,Cedar Grove,Ellenwood,GA,0.8416,NA,96,129,ncat
+2018,46039959,Donovan Noel, OG ,6-4,265,Millbrook,Raleigh,NC,0.8416,NA,55,40,east carolina
+2018,46038777,Mackie McNeal, DT ,6-5,315,Thompson,Alabaster,AL,0.8416,NA,92,46,NULL
+2018,93568,Marques Cox, OT ,6-5,290,Peoria,Peoria,IL,0.8416,NA,119,32,northern illinois
+2018,46039808,Kameron Jones, OT ,6-5,280,Starkville,Starkville,MS,0.8416,NA,120,24,mississippi state
+2018,46049850,Ezekiel Holmes, WDE ,6-5,205,Hirschi,Wichita Falls,TX,0.8416,NA,74,185,illinois
+2018,46037740,Keyshawn Helton, WR ,5-9,160,West Florida Tech,Pensacola,FL,0.8416,NA,191,207,florida state
+2018,92256,Ralph Davis, WR ,6-0,170,North Shore,Houston,TX,0.8414,NA,192,186,NULL
+2018,46049108,Cameron Thomas, WR ,6-4,200,Round Rock Westwood,Austin,TX,0.8414,NA,193,187,boise state
+2018,85140,Jaylen Rivers, ATH ,6-2,195,Grayson,Loganville,GA,0.8413,NA,97,130,northwestern
+2018,91777,Charles Schmidt, OG ,6-4,270,Libertyville,Libertyville,IL,0.8413,NA,56,33,northwestern
+2018,45572559,Lamarius Benson, DT ,6-3,330,Eastside,Covington,GA,0.8413,NA,93,131,central florida
+2018,46042253,Yanez Rogers, ATH ,6-2,179,Blanche Ely,Pompano Beach,FL,0.8411,NA,98,208,cincinnati
+2018,87506,Jalen Chatman, DUAL ,6-0,180,Narbonne,Harbor City,CA,0.8410,NA,32,139,rutgers
+2018,46042627,Rondell Bothroyd, SDE ,6-3,250,E. O. Smith,Willington,CT,0.8410,NA,66,5,wake forest
+2018,45572877,Jaquavius Lane, WR ,5-11,172,Grayson,Loganville,GA,0.8410,NA,194,132,kansas state
+2018,45572910,Ty Van Fossen, ILB ,6-2,205,St. Francis De Sales,Columbus,OH,0.8410,NA,53,49,cincinnati
+2018,46037413,Devin Hayes, SDE ,6-6,250,Jones,Orlando,FL,0.8410,NA,67,209,florida atlantic
+2018,46037441,Tyrese Allen, DT ,6-3,290,Paintsville,Paintsville,KY,0.8410,NA,94,12,west virginia
+2018,46037213,Martin Weisz, OT ,6-6,305,The Benjamin School,North Palm Beach,FL,0.8410,NA,121,210,virginia
+2018,93051,Tyler Baker-Williams, WR ,6-2,205,Southeast Raleigh,Raleigh,NC,0.8406,NA,195,41,north carolina state
+2018,46041070,Royce Francis, SDE ,6-3,240,Allatoona,Acworth,GA,0.8405,NA,68,133,wake forest
+2018,90861,Damir Faison, WDE ,6-2,240,Zebulon B. Vance,Charlotte,NC,0.8405,NA,75,42,east carolina
+2018,46038741,Will Choloh, DT ,6-1,277,Archer,Lawrenceville,GA,0.8405,NA,95,134,troy
+2018,46042680,Marquis Alston, CB ,5-11.5,181,Harrison,Kennesaw,GA,0.8405,NA,115,135,wake forest
+2018,91437,Hakeem White, OG ,6-3,281,Midway,Waco,TX,0.8404,NA,57,188,texas tech
+2018,46035994,V'Lique Carter, S ,5-10,170,Oxbridge Academy,West Palm Beach,FL,0.8404,NA,104,211,pittsburgh
+2018,89819,Malcolm Davidson, RB ,5-10,180,Osceola,Kissimmee,FL,0.8403,NA,78,212,florida atlantic
+2018,91866,Davonchae Bryant, SDE ,6-7,240,Pensacola,Pensacola,FL,0.8403,NA,69,213,central florida
+2018,46039488,Chase Brown, RB ,5-11,195,St Stephen's Episcopal School,Bradenton,FL,0.8403,NA,79,214,western michigan
+2018,46039280,Phillip Mills, S ,6-3,215,Paloma Valley,Menifee,CA,0.8402,NA,105,140,boise state
+2018,91673,Terrance Taylor, OLB ,6-4,214,Phillips Academy,Chicago,IL,0.8402,NA,94,34,toledo
+2018,89604,Anthony Johnson Jr., CB ,6-0,170,St. Petersburg,Saint Petersburg,FL,0.8402,NA,116,215,iowa state
+2018,46036224,Stevie Scott III, RB ,6-2,235,Christian Brothers Academy,Syracuse,NY,0.8402,NA,80,16,indiana
+2018,46048621,Ekow Boye-Doe, CB ,6-1,170,Lawrence,Lawrence,KS,0.8402,NA,117,3,kansas state
+2018,46048536,Reggie Thompson, CB ,6-1,190,Opp,Opp,AL,0.8399,NA,118,47,marshall
+2018,94577,Nick Martin-Morman, CB ,5-10,167,Archbishop Hannan,Covington,LA,0.8399,NA,119,53,NULL
+2018,46051775,Karl Brooks, OLB ,6-4,220,Sexton,Lansing,MI,0.8399,NA,95,29,bowling green
+2018,46040116,Lance Babb II, WR ,6-0,195,Schurr,Montebello,CA,0.8399,NA,196,141,NULL
+2018,90173,Jake Parks, OG ,6-4,298,J Serra Catholic,San Juan Capistrano,CA,0.8399,NA,58,142,uc davis
+2018,46040354,Cole Sain, OT ,6-4,280,St. John Bosco,Bellflower,CA,0.8399,NA,122,143,NULL
+2018,46042730,Jermaine Braddock, WR ,6-1,180,Charter Oak,Covina,CA,0.8399,NA,197,144,san jose state
+2018,90092,Ryan Nixon, S ,6-0.5,169,Long Beach Poly,Long Beach,CA,0.8399,NA,106,145,NULL
+2018,46040702,Sherod White, RB ,5-8,170,Heritage,Menifee,CA,0.8399,NA,81,146,montana state
+2018,46043068,Aaron Frost, DT ,6-5,294,Long Beach Poly,Long Beach,CA,0.8399,NA,96,147,nevada
+2018,81019,Rayshawn Williams, WR ,6-2.5,173,Crenshaw,Los Angeles,CA,0.8399,NA,198,148,NULL
+2018,46042875,Casey Bauman, PRO ,6-6,228,Nooksack Valley,Everson,WA,0.8399,NA,47,12,montana state
+2018,46038830,Isaac Hall, OLB ,6-2,210,St Augustine,San Diego,CA,0.8399,NA,96,149,princeton
+2018,46042408,Alton Julian, CB ,6-3,190,Valley Christian,Palo Alto,CA,0.8399,NA,120,150,NULL
+2018,45572434,Abraham Alce, RB ,6-0,224,Immokalee,Immokalee,FL,0.8399,NA,82,216,akron
+2018,91061,Isaiah Watson, CB ,5-10,160,Calvert Hall College,Towson,MD,0.8399,NA,121,25,eastern michigan
+2018,46049929,Cincir Evans, ATH ,6-4,195,White Station,Memphis,TN,0.8399,NA,99,39,coastal carolina
+2018,46040281,Daniel Biglow, CB ,6-2,180,Wiregrass Ranch,Zephyrhills,FL,0.8399,NA,122,217,NULL
+2018,46050116,Blair Brooks, WR ,6-3,190,Marion,Marion,IA,0.8399,NA,199,6,iowa
+2018,92497,Montre Miller, CB ,5-10,168,Westwood,Blythewood,SC,0.8399,NA,123,26,kent state
+2018,87118,Ashtan Pierre, ATH ,6-2,191,Deerfield Beach,Deerfield Beach,FL,0.8397,NA,100,218,kentucky
+2018,46037610,Devan Rogers, DT ,6-2,285,Sidney,Sidney,OH,0.8396,NA,97,50,toledo
+2018,46041097,Swift Lyle, PRO ,6-3,185,St. Paul's Episcopal,Mobile,AL,0.8394,NA,48,48,georgia state
+2018,46043219,Eric Miller, OT ,6-6,260,William Mason,Mason,OH,0.8394,NA,123,51,purdue
+2018,46038903,Jake Camarda, P ,6-2,175,Norcross,Norcross,GA,0.8393,NA,1,136,georgia
+2018,46038606,Tayvonn Kyle, ATH ,6-0,165,Lowndes,Valdosta,GA,0.8393,NA,101,137,iowa state
+2018,90841,Troy Hurst, ATH ,6-2,185,St. Helena College and Career Academy,Greensburg,LA,0.8390,NA,102,54,memphis
+2018,46050730,Ryan Bujcevski, P ,6-0,180,ProKick Australia,Australia,AUST,0.8390,NA,2,1,texas
+2018,94360,Dante Burke, WDE ,6-4,220,Catholic,Virginia Beach,VA,0.8389,NA,76,26,temple
+2018,46042332,JH Tevis, WDE ,6-5,227,Menlo,)  ,NULL,0.8389,NA,77,151,california
+2018,46039272,Craig Francois, OLB ,6-2,210,Cathedral,Los Angeles,CA,0.8389,NA,97,152,oregon state
+2018,86754,Kyle Dobbins, APB ,5-10,188,St Augustine Preparatory School,Richland,NJ,0.8389,NA,25,33,temple
+2018,83247,Andrew Cunningham, RB ,6-0.5,215,Cambridge Christian School,Tampa,FL,0.8389,NA,83,219,georgia southern
+2018,46040867,Avery Young, CB ,6-1,195,Coatesville Area,Coatesville,PA,0.8389,NA,124,30,rutgers
+2018,46042065,E.J. Thomas, CB ,6-1,170,Carver,Atlanta,GA,0.8389,NA,125,138,kansas state
+2018,46043092,Shaun Peterson Jr., OLB ,6-3,210,Nova,Fort Lauderdale,FL,0.8389,NA,98,220,florida international
+2018,79378,Nico Ragaini, WR ,6-0,185,Avon Old Farms,West Haven,CT,0.8389,NA,200,6,iowa
+2018,45573081,Jawan Tate, OT ,6-7,265,Mallard Creek,Charlotte,NC,0.8387,NA,124,43,NULL
+2018,46038254,Alex Morris, S ,6-1,188,Atascocita,Humble,TX,0.8387,NA,107,189,north texas
+2018,46040602,David Watson, OT ,6-6,300,Amphitheater,Tucson,AZ,0.8386,NA,125,16,arizona
+2018,87694,Sal Spina, DT ,6-3,265,St. John Bosco,Bellflower,CA,0.8385,NA,98,153,NULL
+2018,94520,Campbell Barrington, OT ,6-6,280,University,Spokane,WA,0.8385,NA,126,13,byu
+2018,46039471,Brayden Willis, TE ,6-4,220,Martin,Arlington,TX,0.8385,NA,58,190,oklahoma
+2018,46038538,Matt Bjorson, TE ,6-3,225,Hinsdale Central,Hinsdale,IL,0.8385,NA,59,35,indiana
+2018,46040022,Donovan Jennings, OT ,6-5,310,Gaither,Tampa,FL,0.8385,NA,127,221,south florida
+2018,77697,Antwuan Johnson, ILB ,6-1,232,Dunbar,Dayton,OH,0.8385,NA,54,52,bowling green
+2018,46041909,Maurice McIntyre, OG ,6-2,320,Northside,Jacksonville,NC,0.8385,NA,59,44,duke
+2018,46037210,Tyler Vrabel, OT ,6-4,255,St Pius X,Houston,TX,0.8384,NA,128,191,boston college
+2018,46042529,Jaylen Pickle, DT ,6-5,260,Cimarron,Cimarron,KS,0.8384,NA,99,4,kansas state
+2018,46042731,John McCartan, TE ,6-5,225,Santa Margarita Catholic,Rancho Santa Margarita,CA,0.8383,NA,60,154,oregon state
+2018,90831,Jamiran James, DT ,6-2,276,De La Salle,New Orleans,LA,0.8382,NA,100,55,tulane
+2018,46042356,Issac Walker, OG ,6-4,350,St. Francis Catholic,Gainesville,FL,0.8382,NA,60,222,central florida
+2018,91908,David Bailey, RB ,6-0.5,225,North Caroline,Ridgely,MD,0.8381,NA,84,26,boston college
+2018,45573075,Travon King, WDE ,6-4,200,Woodrow Wilson,Camden,NJ,0.8379,NA,78,34,temple
+2018,46035908,Ethan Bonner, CB ,6-1,170,The Woodlands,The Woodlands,TX,0.8378,NA,126,192,stanford
+2018,46037161,Calvin Hart, OLB ,6-0.5,207,American Heritage,Fort Lauderdale,FL,0.8378,NA,99,223,north carolina state
+2018,46042858,Jesiah Irish, WR ,6-0,182,Mount Si,Snoqualmie,WA,0.8378,NA,201,14,oregon state
+2018,46047425,Javez Alexander, DUAL ,6-2,195,Sandusky,Sandusky,OH,0.8378,NA,33,53,michigan state
+2018,89586,Javian Hawkins, APB ,5-9,185,Cocoa,Titusville,FL,0.8378,NA,26,224,louisville
+2018,83066,Ethan Watson, OT ,6-5,300,Pensacola Catholic,Pensacola,FL,0.8378,NA,129,225,south florida
+2018,46039812,Gavin Lewis, DT ,6-4,275,Bob Jones,Madison,AL,0.8377,NA,101,49,north carolina
+2018,46050462,Jeff Marks, DT ,6-3,260,WP Davidson,Mobile,AL,0.8377,NA,102,50,purdue
+2018,88326,Grayson Mann, ILB ,5-11,211,All Saints Episcopal,Fort Worth,TX,0.8377,NA,55,193,northwestern
+2018,46039361,Kenyon Sims, RB ,5-11,195,Mission Bay,San Diego,CA,0.8377,NA,85,155,illinois
+2018,46036581,Turon Ivy Jr., TE ,6-5,227,Marist,Chicago,IL,0.8377,NA,61,36,indiana
+2018,91836,Kenih Lovely, CB ,5-10,167,Atlantic,Palm Beach Gardens,FL,0.8377,NA,127,226,western michigan
+2018,46042507,TC Harrison, OLB ,6-3,199,Collins Hill,Suwanee,GA,0.8376,NA,100,139,virginia
+2018,83033,Andre Carter, SDE ,6-4,230,Cass Technical,Detroit,MI,0.8376,NA,70,30,western michigan
+2018,46035408,Christian Ford, WR ,5-10,170,Marietta,Atlanta,GA,0.8376,NA,202,140,georgia southern
+2018,94702,Brenden Brady, RB ,5-11,190,Steele,Cibolo,TX,0.8376,NA,86,194,utsa
+2018,85338,Gunnar Watson, PRO ,6-2,187,Taylor County,Butler,GA,0.8376,NA,49,141,troy
+2018,46039660,Jacob Sykes, DT ,6-4,250,Rockhurst,Kansas City,MO,0.8376,NA,103,14,NULL
+2018,46047570,Brian Norris, RB ,6-2,220,Chiefland,Chiefland,FL,0.8376,NA,87,227,south florida
+2018,91685,Malik Shepherd, WR ,5-11,190,Beaver Falls,Beaver Falls,PA,0.8376,NA,203,31,NULL
+2018,46038440,Cameron Wilkins, ILB ,6-2,230,Del Valle,Del Valle,TX,0.8375,NA,56,195,missouri
+2018,85415,Jarrett Paul, CB ,6-1,197,Paramus Catholic,Paramus,NJ,0.8375,NA,128,35,rutgers
+2018,46037068,Marcus Mosley, CB ,6-1,175,Brownwood,Brownwood,TX,0.8372,NA,129,196,NULL
+2018,80834,Mataeo Durant, RB ,6-1,190,McCormick,Mccormick,SC,0.8371,NA,88,27,duke
+2018,46050373,Dominic Gicinto, WR ,5-10,175,Raytown,Kansas City,MO,0.8371,NA,204,15,missouri
+2018,46035713,Atorian Perry, WR ,6-5,180,Park Vista Community,Lake Worth,FL,0.8371,NA,205,228,wake forest
+2018,46047138,Baraka Beckett, OG ,6-4,280,Palisades,Pacific Palisades,CA,0.8370,NA,61,156,ucla
+2018,46035503,Chris Fatilua, ILB ,6-3,220,Madison,San Diego,CA,0.8370,NA,57,157,california
+2018,46046103,Garrett Curran, OT ,6-5,265,Granite Hills,El Cajon,CA,0.8370,NA,130,158,boise state
+2018,46037681,Tavis Lee, WDE ,6-3,225,Martinsburg,Martinsburg,WV,0.8368,NA,79,2,west virginia
+2018,87040,Chance Campbell, OLB ,6-2,222,Calvert Hall College,Towson,MD,0.8368,NA,101,27,maryland
+2018,46050573,Evan Anderson, RB ,6-1,195,Collins Hill,Suwanee,GA,0.8368,NA,89,142,purdue
+2018,92185,Lawrence Johnson, DT ,6-4,285,R Nelson Snider,Fort Wayne,IN,0.8367,NA,104,15,purdue
+2018,46039907,Larry Brooks, S ,6-0,185,Kennedale,Kennedale,TX,0.8366,NA,108,197,tulane
+2018,46042684,Mo Edwards, WR ,6-2.5,196,Thompson,Alabaster,AL,0.8366,NA,206,51,south alabama
+2018,46040178,Curry Benn, CB ,6-0,170,Landry-Walker,New Orleans,LA,0.8366,NA,130,56,southern mississippi
+2018,82818,Gregory Clayton, WR ,5-11,175,Lutcher,Lutcher,LA,0.8366,NA,207,57,NULL
+2018,89949,Branden Rankins, RB ,5-9.5,198,Aquinas,San Bernardino,CA,0.8366,NA,90,159,utah
+2018,46039778,William Dunkle, OT ,6-5,335,Eastlake,Chula Vista,CA,0.8366,NA,131,160,san diego state
+2018,93490,Tre Weed, WR ,6-0,190,Sumner,Sumner,WA,0.8366,NA,208,15,eastern washington
+2018,93413,Jarrell Anderson, WR ,6-4,240,Rainier Beach,Seattle,WA,0.8366,NA,209,16,sacramento state
+2018,90749,Luke Shiflett, DUAL ,6-2,180,Northwest Whitfield County,Tunnel Hill,GA,0.8366,NA,34,143,middle tennessee state
+2018,46039646,Jonah Kahahawai-Welch, WDE ,6-3,230,Kamehameha,Honolulu,HI,0.8366,NA,80,6,hawaii
+2018,46042220,Alama Uluave, OC ,6-2,292,Punahou,Honolulu,HI,0.8366,NA,20,7,san diego state
+2018,89335,Keondre Miller, CB ,6-0,180,Admiral Farragut Academy,Saint Petersburg,FL,0.8366,NA,131,229,NULL
+2018,46037798,Devin Ruffin Jr., ILB ,6-1,210,Lutheran North,Saint Louis,MO,0.8366,NA,58,16,bowling green
+2018,45573351,Blake Bacevich, WDE ,6-4,215,St. Xavier,Cincinnati,OH,0.8366,NA,81,54,cincinnati
+2018,91607,Dillon Harris, OLB ,6-1,225,Cheshire Academy,Bloomfield,CT,0.8366,NA,102,7,NULL
+2018,46040085,Rocky Katoanga, OLB ,6-2,205,El Camino,Oceanside,CA,0.8366,NA,103,161,washington state
+2018,84123,Eric Seidelman, OC ,6-3,283,Bishop Moore Catholic,Orlando,FL,0.8365,NA,21,230,central florida
+2018,80840,Nigel Brannon, OT ,6-5,333,John Marshall,Oklahoma City,OK,0.8364,NA,132,19,memphis
+2018,93958,Brodrick Calhoun, CB ,5-11,157,Horn,Mesquite,TX,0.8364,NA,132,198,louisiana tech
+2018,46036257,Braeden Daniels, OG ,6-4,260,Hebron,Carrollton,TX,0.8364,NA,62,199,utah
+2018,46037049,Chris Carter, TE ,6-3,230,South Dade,Homestead,FL,0.8364,NA,62,231,south florida
+2018,93603,Myles Green-Richards, CB ,5-11,175,Churchill,Eugene,OR,0.8364,NA,133,13,washington state
+2018,46048794,Bradley Bickler, WDE ,6-7,240,Southridge,Beaverton,OR,0.8364,NA,82,14,oregon state
+2018,46050207,Drake Anderson, RB ,5-11,180,Chandler,Chandler,AZ,0.8361,NA,91,17,northwestern
+2018,46041524,Connor Parks, WDE ,6-5,230,Oak Ridge,Orlando,FL,0.8361,NA,83,232,kent state
+2018,46047762,Clay Harris, RB ,6-0,200,Norcross,Norcross,GA,0.8361,NA,92,144,NULL
+2018,46038921,Cartez Crook-Jones, SDE ,6-5,230,Grandview,Grandview,MO,0.8358,NA,71,17,kansas state
+2018,50161,Simi Moala, WDE ,6-7,250,Cathedral,Los Angeles,CA,0.8356,NA,84,162,utah
+2018,89535,Hasaan Hypolite, ATH ,5-11,195,Hightower,Missouri City,TX,0.8356,NA,103,200,colorado
+2018,46037621,Kevin Coblentz, OT ,6-4,295,St. John Bosco,Bellflower,CA,0.8356,NA,133,163,nevada
+2018,79842,Realus George, FB ,6-2,245,Pace Academy,Atlanta,GA,0.8356,NA,2,145,miami
+2018,46043123,Hunter Mayginnes, OT ,6-5,318,Hamilton,Chandler,AZ,0.8356,NA,134,18,washington state
+2018,90681,Taj Ward, CB ,6-0,170,Solon,Solon,OH,0.8356,NA,134,55,cincinnati
+2018,46040261,Malik Dunlap, CB ,6-3,185,Harding University High,Charlotte,NC,0.8356,NA,135,45,north carolina state
+2018,46038336,Tywan Francis, S ,5-11,180,Landry-Walker,New Orleans,LA,0.8355,NA,109,58,colorado state
+2018,90789,Sam Stovall, OT ,6-4,285,Notre Dame,Chattanooga,TN,0.8355,NA,135,40,northwestern
+2018,46042733,Rashad Scott, WR ,6-1,180,Helix,La Mesa,CA,0.8355,NA,210,164,san diego state
+2018,89499,Anthony Pardue, OT ,6-5,265,Murrieta Valley,Murrieta,CA,0.8355,NA,136,165,san jose state
+2018,84485,Danny Smith, RB ,5-10.5,202,Oxnard Union,Oxnard,CA,0.8355,NA,93,166,boise state
+2018,46041460,Ronnie Buford, WDE ,6-4,205,Chelsea,Chelsea,MI,0.8355,NA,85,31,western michigan
+2018,93685,Jordan Branch, ATH ,6-1,255,Crockett County,Alamo,TN,0.8355,NA,104,41,middle tennessee state
+2018,46040219,Cameron Young, DT ,6-4,300,Franklin,Meadville,MS,0.8355,NA,105,25,mississippi state
+2018,84892,Zack Annexstad, PRO ,6-2.5,202,IMG Academy,Bradenton,FL,0.8355,NA,50,233,minnesota
+2018,46036796,Cam Phillips, S ,6-2,180,Clear Lake,Houston,TX,0.8355,NA,110,201,arizona state
+2018,94113,Juanyeh Thomas, CB ,6-3,205,Niceville,Niceville,FL,0.8351,NA,136,234,georgia tech
+2018,90698,Josh Chandler, OLB ,5-10.5,215,McKinley,Canton,OH,0.8350,NA,104,56,west virginia
+2018,46046829,Anthony Manning, WR ,5-10,175,Lake Nona,Orlando,FL,0.8349,NA,211,235,wake forest
+2018,46050311,Ronnie Bell, WR ,6-1,170,Park Hill,Kansas City,MO,0.8349,NA,212,18,michigan
+2018,46039469,Jehlani Galloway, WR ,6-1,175,Classical,Providence,RI,0.8347,NA,213,1,boston college
+2018,94523,John Waller, DT ,6-4,290,Admiral Farragut Academy,Saint Petersburg,FL,0.8346,NA,106,236,south florida
+2018,46046326,Javonte Williams, RB ,5-11,195,Wallace-Rose Hill,Teachey,NC,0.8344,NA,94,46,north carolina
+2018,46040235,Patrick Keenan, SDE ,6-6,210,Blake,Tampa,FL,0.8344,NA,72,237,marshall
+2018,46040813,Brad Cumbest, TE ,6-5,237,East Central,Moss Point,MS,0.8343,NA,63,26,mississippi state
+2018,46039690,Aaron Morgan, SDE ,6-3.5,240,Miami Carol City,Hallandale,FL,0.8343,NA,73,238,marshall
+2018,46040423,Ryan Wright, P ,6-3,240,California,San Ramon,CA,0.8342,NA,3,167,tulane
+2018,46042962,Griffin McDowell, OC ,6-4,280,Lee County,Leesburg,GA,0.8342,NA,22,146,florida
+2018,46039056,Jabari James, ATH ,6-0,170,Fort Bend Marshall,Missouri City,TX,0.8340,NA,105,202,tulsa
+2018,89670,Josh Madison, ATH ,5-11,200,Newbury Park,Newbury Park,CA,0.8340,NA,106,168,NULL
+2018,46039429,Troy Ingle, OT ,6-5,280,American Heritage,Fort Lauderdale,FL,0.8339,NA,137,239,western kentucky
+2018,93189,Isaiah Tufaga, S ,6-0,199,St Louis School,Honolulu,HI,0.8339,NA,111,8,oregon state
+2018,46038331,Evan McPherson, K ,6-0,165,Fort Payne,Fort Payne,AL,0.8339,NA,1,52,florida
+2018,46040041,Cameron Gardner, WR ,6-4,215,Starkville,Starkville,MS,0.8338,NA,214,27,mississippi state
+2018,46046931,Jaiden Dockery, S ,6-0,195,Lancaster,Lancaster,TX,0.8338,NA,112,203,NULL
+2018,92240,Branson Deen, DT ,6-3,255,Lawrence Central,Indianapolis,IN,0.8337,NA,107,16,purdue
+2018,89534,Jevon Jones, CB ,6-0,160,Allen,Allen,TX,0.8337,NA,137,204,arkansas state
+2018,46038300,Peace Addo, OT ,6-6,295,St. Frances Academy,Baltimore,MD,0.8336,NA,138,28,duke
+2018,46039717,Case Gatlin, OLB ,6-4,220,IMG Academy,Bradenton,FL,0.8336,NA,105,240,texas tech
+2018,46046824,Jeremy Cooper, OG ,6-3,295,Mount Carmel,Mount Carmel,IL,0.8336,NA,63,37,cincinnati
+2018,46043166,Devin Jordan, OT ,6-6,255,Dillard,Fort Lauderdale,FL,0.8336,NA,139,241,akron
+2018,46038015,Quan Martin, S ,6-0,175,Lehigh Senior,Lehigh Acres,FL,0.8336,NA,113,242,illinois
+2018,91538,Christian Trahan, TE ,6-3,238,Sulphur,Sulphur,LA,0.8335,NA,64,59,houston
+2018,46036158,TaMerik Williams, RB ,6-1,205,Angleton,Angleton,TX,0.8335,NA,95,205,smu
+2018,86751,Cordel Littlejohn, DUAL ,6-4,190,Roswell,Roswell,GA,0.8335,NA,35,147,florida atlantic
+2018,46038934,Ja'von Hicks, WR ,6-2,185,Colerain,Cincinnati,OH,0.8335,NA,215,57,cincinnati
+2018,93136,Nate Bauer, WR ,6-1,185,Archbishop Hoban,Akron,OH,0.8335,NA,216,58,toledo
+2018,46036828,Aaron Allen, DUAL ,6-0,175,Ridge Point,Missouri City,TX,0.8334,NA,36,206,louisiana tech
+2018,46043017,Mychal Austin, SDE ,6-1,250,Apopka,Apopka,FL,0.8333,NA,74,243,chattanooga
+2018,46047422,AJ Curry, DUAL ,6-4,200,Habersham Central,Mount Airy,GA,0.8333,NA,37,148,western carolina
+2018,46047719,David Nwaogwugwu, SDE ,6-6,245,Dewitt Clinton,Bronx,NY,0.8331,NA,75,17,temple
+2018,46042621,Marje Smith, WDE ,6-6,205,Marshall,Marshall,TX,0.8330,NA,86,207,baylor
+2018,46039377,Caleb Okechukwu, SDE ,6-4,240,St. John's,Washington,DC,0.8329,NA,76,12,syracuse
+2018,46042092,David Martin-Robinson, ATH ,6-4,220,Hempfield,Landisville,PA,0.8328,NA,107,32,temple
+2018,94041,Josh Aune, ATH ,6-1,201,Highland Park Senior,Saint Paul,MN,0.8328,NA,108,5,minnesota
+2018,88366,Justin Hall, APB ,5-8,173,Homewood-Flossmoor,Flossmoor,IL,0.8328,NA,27,38,northern illinois
+2018,46036505,Antonio Gage, ATH ,6-0,170,James Madison,Dallas,TX,0.8326,NA,109,208,NULL
+2018,45573167,Michael Fletcher, OT ,6-6,290,La Vega,Waco,TX,0.8326,NA,140,209,NULL
+2018,46036134,Amare Jones, ATH ,5-9.5,186,Heritage,Frisco,TX,0.8326,NA,110,210,tulane
+2018,92506,Nolan Johnson, CB ,6-1.5,179,Southwest Guilford,High Point,NC,0.8326,NA,138,47,east carolina
+2018,46037197,Kenny White, ATH ,6-0,185,Pine-Richland,Gibsonia,PA,0.8326,NA,111,33,NULL
+2018,46049002,Kenny Wilkins, RB ,6-1,210,Bedford,Bedford,OH,0.8326,NA,96,59,marshall
+2018,32949,Will Lawrence, OG ,6-4,285,Harding Academy of Memphis,Memphis,TN,0.8326,NA,64,42,memphis
+2018,46045348,Talik Keaton, WR ,6-1,175,Booker,Sarasota,FL,0.8323,NA,217,244,marshall
+2018,91433,Kyle Wright, ILB ,6-1,220,Ben Lippen School,Columbia,SC,0.8323,NA,59,28,north carolina
+2018,46049609,Noah Pierre, CB ,5-10,170,Champagnat Catholic - Hialeah,Hialeah,FL,0.8323,NA,139,245,indiana
+2018,46039012,Titus Jones, OG ,6-3,265,Edna Karr,New Orleans,LA,0.8322,NA,65,60,memphis
+2018,94211,Elijah Rodgers, CB ,6-1,170,Blacksburg,Blacksburg,SC,0.8322,NA,140,29,indiana
+2018,46041486,Derick Newton, SDE ,6-2,268,Coffee,Douglas,GA,0.8322,NA,77,149,kansas state
+2018,46040643,Zaire Taylor, CB ,6-1,182,O'Connor,Helotes,TX,0.8321,NA,141,211,houston
+2018,46039507,Jarvis Ware, CB ,6-1,175,Wekiva,Apopka,FL,0.8321,NA,142,246,missouri
+2018,46038619,Kemon Smith, DT ,6-2,280,Landry-Walker,Slidell,LA,0.8319,NA,108,61,NULL
+2018,46042084,Hunter Pearson, K ,6-4,192,Seneca,Seneca,SC,0.8318,NA,2,30,virginia
+2018,46040087,Tyler Badie, APB ,5-10,185,Briarcrest Christian,Memphis,TN,0.8316,NA,28,43,missouri
+2018,46037116,Javon Foster, OT ,6-6,300,West Bloomfield,West Bloomfield,MI,0.8316,NA,141,32,missouri
+2018,93380,Cole Ramseyer, TE ,6-4,216,Coeur d'Alene,Coeur D Alene,ID,0.8316,NA,65,3,boise state
+2018,92303,Davarius Bargnare, WR ,5-11,165,Dr. Phillips,Orlando,FL,0.8316,NA,218,247,georgia southern
+2018,46035461,Joseph Bonds, OLB ,6-3,210,De La Salle Institute,Chicago,IL,0.8316,NA,106,39,northern illinois
+2018,92131,Robert Mayo, WR ,6-3,200,Freedom,Chantilly,VA,0.8315,NA,219,27,old dominion
+2018,45573121,Tola Banjoko, DT ,6-5,243,Episcopal,Alexandria,VA,0.8315,NA,109,28,princeton
+2018,86639,Tyrese Heard, S ,6-0,180,Teague,Teague,TX,0.8315,NA,114,212,texas state
+2018,75688,Jamarceon Jackson, S ,6-0,190,Cedar Hill,Cedar Hill,TX,0.8315,NA,115,213,NULL
+2018,46040424,Syr Riley, OG ,6-3,323,Palisades,Pacific Palisades,CA,0.8315,NA,66,169,washington state
+2018,89635,David Eure, CB ,5-9,181,Junipero Serra,Gardena,CA,0.8315,NA,143,170,air force
+2018,46037480,Jacoby Hopkins, WR ,6-0,191,Heights,Houston,TX,0.8315,NA,220,214,texas state
+2018,46036741,Cedarious Barfield, ATH ,5-10,170,El Dorado,El Paso,TX,0.8315,NA,112,215,san diego state
+2018,46036271,Drake Stoops, WR ,5-11,175,Norman North,Norman,OK,0.8315,NA,221,20,oklahoma
+2018,46039366,Demitri Washington, DUAL ,6-3,245,Santa Fe Christian Schools,Solana Beach,CA,0.8315,NA,38,171,boise state
+2018,46038100,Rory Starkey, WR ,6-1,195,Hapeville Charter,Atlanta,GA,0.8315,NA,222,150,pennsylvania
+2018,46040342,Samuel Oshodi, WR ,5-11,170,Cypress Bay,Fort Lauderdale,FL,0.8315,NA,223,248,georgia state
+2018,46041747,Uchenna Ezewike, WDE ,6-3,215,Stranahan,Fort Lauderdale,FL,0.8315,NA,87,249,massachusetts
+2018,45572881,Jason Labbe, ATH ,5-11,195,Gonzaga,Washington,DC,0.8315,NA,113,13,NULL
+2018,92237,Sam Pinckney, WR ,6-4,210,Greenwood,Greenwood,SC,0.8315,NA,224,31,georgia state
+2018,93578,Jayshon Jackson, WR ,5-10,165,Simeon,Chicago,IL,0.8315,NA,225,40,cincinnati
+2018,46042198,Davonta Wilson, ATH ,6-0,184,Miami Central,Miami,FL,0.8315,NA,114,250,murray state
+2018,46042673,Natrone Brooks, CB ,5-11,165,Starkville,Starkville,MS,0.8315,NA,144,28,NULL
+2018,86269,Jamal Hines, WDE ,6-2,216,Princeton,Cincinnati,OH,0.8315,NA,88,60,toledo
+2018,94000,Joshua Sanders, WDE ,6-5,215,Life High School,Waxahachie,TX,0.8315,NA,89,216,florida international
+2018,85902,Tahj Magee, ATH ,5-10,180,Franklinton,Franklinton,LA,0.8315,NA,115,62,louisiana tech
+2018,46042494,Bobby Lawrence, OT ,6-8,300,Central,Saint Joseph,MO,0.8315,NA,142,19,missouri
+2018,46035712,Daniel Barker, TE ,6-4,230,Deerfield Beach,Fort Lauderdale,FL,0.8314,NA,66,251,illinois
+2018,46039839,Carlos Hatcher, WDE ,6-2.5,223,Hebron,Carrollton,TX,0.8311,NA,90,217,tulane
+2018,94203,Trey McBride, TE ,6-4,240,Fort Morgan,Fort Morgan,CO,0.8311,NA,67,7,colorado state
+2018,94524,Saybein Clark, ATH ,6-1,195,Bishop Heelan Catholic,Sioux City,IA,0.8311,NA,116,7,north dakota state
+2018,46038324,Luke Johns, WDE ,6-5,250,Southeast Whitfield County,Dalton,GA,0.8310,NA,91,151,georgia tech
+2018,46042093,Tyrone Barber, DT ,6-3,275,Venice,Venice,FL,0.8310,NA,110,252,south florida
+2018,46036867,Darnell Shields, S ,6-0,180,St. Edward,)  ,NULL,0.8310,NA,116,61,cincinnati
+2018,87135,Jordan Jusevitch, S ,6-0,200,Lowell Senior,Lowell,IN,0.8308,NA,117,17,indiana
+2018,46040138,Jordan Rucker, CB ,6-0,170,Ryan,Denton,TX,0.8308,NA,145,218,purdue
+2018,46040630,Louis Bickett, OLB ,6-3.5,200,Torrey Pines,Encinitas,CA,0.8307,NA,107,172,california
+2018,46042193,Wil Froumy, OT ,6-6,290,Exeter,Exeter,NH,0.8307,NA,143,1,syracuse
+2018,46041227,Christian Izien, ATH ,5-10,180,Erasmus Hall,Brooklyn,NY,0.8307,NA,117,18,rutgers
+2018,46038143,Torry Locklin, DUAL ,6-2,190,Rockdale,Rockdale,TX,0.8306,NA,39,219,kansas
+2018,26246,Amone Finau, ATH ,6-2,180,Kearns,Salt Lake City,UT,0.8305,NA,118,17,byu
+2018,83649,William Brown, PRO ,6-4.5,193,Lamar Consolidated,Rosenberg,TX,0.8305,NA,51,220,smu
+2018,46040663,Skyler DeLong, P ,6-4,180,Nation Ford,Fort Mill,SC,0.8305,NA,4,32,alabama
+2018,91136,Starling Thomas V, CB ,6-0,180,Ramsay,Birmingham,AL,0.8305,NA,146,53,alabama birmingham
+2018,46040856,Davon Harris, APB ,5-5.5,165,West Feliciana,Saint Francisville,LA,0.8305,NA,29,63,louisiana tech
+2018,46040111,Phillip Hill, S ,6-0,183,Klein Collins,Spring,TX,0.8305,NA,118,221,unlv
+2018,93232,Kekaniokoa Gonzalez, OC ,6-2,286,Mater Dei,Santa Ana,CA,0.8305,NA,23,173,boise state
+2018,85412,Solo Vaipulu, OC ,6-2,280,Centennial,Corona,CA,0.8305,NA,24,174,hawaii
+2018,46042735,Billy Bowens, WR ,6-1,175,Redlands East Valley,Redlands,CA,0.8305,NA,226,175,boise state
+2018,46042726,Junior Fehoko, TE ,6-4,235,St. Francis,Mountain View,CA,0.8305,NA,68,176,san jose state
+2018,46045376,Chinonso Opara, WDE ,6-8,270,Juan Diego Catholic,Draper,UT,0.8305,NA,92,18,byu
+2018,88061,Zack Zambrano, OC ,6-3,290,American Heritage,Fort Lauderdale,FL,0.8305,NA,25,253,princeton
+2018,46040520,Desjuan Johnson, SDE ,6-3,240,East English Village Prep,Detroit,MI,0.8305,NA,78,33,toledo
+2018,46036564,Donovan Marshall, RB ,6-0,185,Lutheran North,Saint Louis,MO,0.8305,NA,97,20,arkansas state
+2018,46040322,Blake Whiteheart, TE ,6-4,235,Mount Tabor,Winston Salem,NC,0.8302,NA,69,48,wake forest
+2018,46038485,Kessawn Abraham, ATH ,5-10,170,Erasmus Hall,Brooklyn,NY,0.8302,NA,119,19,rutgers
+2018,46037765,Keyon Helton, S ,6-1,190,West Florida Tech,Pensacola,FL,0.8302,NA,119,254,south florida
+2018,84050,Weston Wright, OT ,6-6,290,New Braunfels,New Braunfels,TX,0.8301,NA,144,222,texas tech
+2018,46050250,Elijah Davis, RB ,5-10,200,Heritage,Lynchburg,VA,0.8299,NA,98,29,old dominion
+2018,46047036,Dusty Schramm, ILB ,6-1,215,Clovis West,Fresno,CA,0.8299,NA,60,177,NULL
+2018,46042722,Joshua Pullum, S ,6-0,165,Moreau Catholic,Hayward,CA,0.8299,NA,120,178,NULL
+2018,46039038,Lawrence Johnson, RB ,5-11,205,Waunakee,Waunakee,WI,0.8299,NA,99,10,new mexico
+2018,45572654,Derric Lee, CB ,6-0,168,Waubonsie Valley,Aurora,IL,0.8299,NA,147,41,NULL
+2018,46042978,Braden Fiske, OG ,6-3,240,Michigan City,Michigan City,IN,0.8299,NA,67,18,western michigan
+2018,93481,Simon Burkett, PRO ,6-2.5,180,Meridian,Bellingham,WA,0.8299,NA,52,17,eastern washington
+2018,89272,Trilion Coles, APB ,5-7.5,176,Bishop Moore Catholic,Orlando,FL,0.8299,NA,30,255,NULL
+2018,46040429,Jalen Cannon, ILB ,6-0,222,Best Academy,Atlanta,GA,0.8299,NA,61,152,NULL
+2018,46040956,Landon Bebee, OC ,6-3,295,Webb City,Webb City,MO,0.8299,NA,26,21,NULL
+2018,46038998,DeMond Ellison, WR ,6-3,200,Cherokee,Canton,GA,0.8299,NA,227,153,mercer
+2018,46046642,Carter Stagner, WDE ,6-4,205,Ernest W. Seaholm,Birmingham,MI,0.8299,NA,93,34,eastern michigan
+2018,46046289,Chandler Pulvermacher, OLB ,6-2,210,Arrowhead,Hartland,WI,0.8294,NA,108,11,iowa state
+2018,46039779,Sydney Brown, S ,6-0,185,St Stephen's Episcopal School,Bradenton,FL,0.8294,NA,121,256,illinois
+2018,46038775,Jadakis Bonds, WR ,6-4,170,Riverside,Williamston,NC,0.8294,NA,228,49,NULL
+2018,80940,Eric Fuller, WR ,5-9.5,147,Hawkins,Los Angeles,CA,0.8293,NA,229,179,NULL
+2018,93029,Shatar McClay, ATH ,6-0,185,Northwest,Clarksville,TN,0.8293,NA,120,44,NULL
+2018,46041929,Kerby Joseph, ATH ,6-1,185,Jones,Orlando,FL,0.8292,NA,121,257,illinois
+2018,46036378,Lentivone Lesane, RB ,6-1.5,200,Mater Academy Charter,Hialeah,FL,0.8290,NA,100,258,NULL
+2018,94618,Ladaeson DeAndre Hollins, CB ,6-2,172,Jefferson,Tampa,FL,0.8289,NA,148,259,north carolina
+2018,82068,Zion Keith, WR ,6-1,190,Wilson,Florence,SC,0.8289,NA,230,33,wake forest
+2018,91745,Zaire Barnes, ATH ,6-3,191,Carmel Catholic,Mundelein,IL,0.8288,NA,122,42,western michigan
+2018,46051308,Andrew Parker, ILB ,6-2,225,Sophie B. Wright,New Orleans,LA,0.8287,NA,62,64,arkansas
+2018,86394,Malik Jackson, WR ,5-8,165,Lufkin,Lufkin,TX,0.8287,NA,231,223,louisiana monroe
+2018,87002,Darius Brown, ATH ,5-9,165,South Dade,Hialeah,FL,0.8287,NA,123,260,NULL
+2018,46040183,Cameron Valentine, SDE ,6-3,245,Foster,Richmond,TX,0.8283,NA,79,224,rice
+2018,46042168,Steven Shaw, SDE ,6-4,240,Manvel,Manvel,TX,0.8282,NA,80,225,louisiana tech
+2018,46040071,Keishon Dawkins, TE ,6-6,240,West Linn,West Linn,OR,0.8282,NA,70,15,oregon state
+2018,94224,Alexander Howie, OC ,6-5,299,Salem,Canton,MI,0.8280,NA,27,35,eastern michigan
+2018,46040999,Kenneth Gainwell, ATH ,5-11,185,Yazoo County,Yazoo City,MS,0.8280,NA,124,29,memphis
+2018,46040205,Monroe Young, S ,6-0.5,182,Onate,Las Cruces,NM,0.8277,NA,122,1,california
+2018,90568,Anthony Lewis Jr., TE ,6-4,228,Murphy,Mobile,AL,0.8276,NA,71,54,troy
+2018,94023,Corey Mayfield Jr., ATH ,5-11,196,North Forney,Forney,TX,0.8276,NA,125,226,utsa
+2018,90566,Toluwashe Buoye, OG ,6-4,321,Fort Bend Bush,Richmond,TX,0.8276,NA,68,227,NULL
+2018,77776,Quandree White, ATH ,5-10.5,201,College Station,College Station,TX,0.8276,NA,126,228,NULL
+2018,94727,Alex Costilla, OG ,6-4,305,San Marcos,San Marcos,TX,0.8276,NA,69,229,NULL
+2018,86503,Dee Barlow, WR ,6-3,188,Pearce,Richardson,TX,0.8276,NA,232,230,NULL
+2018,46035346,Caden Leggett, WR ,6-2,180,Georgetown,Georgetown,TX,0.8276,NA,233,231,texas tech
+2018,86646,Trace Oldner, OG ,6-5,308,Foster,Richmond,TX,0.8276,NA,70,232,tulane
+2018,46042827,Tevita Fotu, TE ,6-4,250,Herriman,Herriman,UT,0.8276,NA,72,19,utah
+2018,86996,Ra'veion Hargrove, RB ,5-5,162,Trotwood-Madison,Dayton,OH,0.8276,NA,101,62,bowling green
+2018,46038104,James Collins, OT ,6-4,306,Oscar Smith,Chesapeake,VA,0.8276,NA,145,30,central florida
+2018,88923,Akeem Smith, DT ,6-1,295,Catholic,Virginia Beach,VA,0.8276,NA,111,31,georgia state
+2018,91568,Henry Chibueze, OG ,6-2,330,Woodbridge,Woodbridge,VA,0.8276,NA,71,32,liberty
+2018,46038863,Rodney McGraw II, S ,6-1,175,Elkins,Missouri City,TX,0.8276,NA,123,233,new mexico state
+2018,46047716,Peje' Harris, WR ,6-3,210,Newnan,Newnan,GA,0.8276,NA,234,154,georgia tech
+2018,46042086,Devin Richardson, OLB ,6-3,215,Klein,Spring,TX,0.8276,NA,109,234,new mexico state
+2018,46047720,Malik Knowles, WR ,6-2,165,Lake Ridge,Mansfield,TX,0.8275,NA,235,235,kansas state
+2018,46035892,BT Potter, K ,5-11,165,South Pointe,Rock Hill,SC,0.8271,NA,3,34,clemson
+2018,46041871,Kase Rogers, ATH ,5-11,180,Lamar,Houston,TX,0.8269,NA,127,236,oregon state
+2018,46038943,Tyrese Black, DT ,6-4,290,Eagles Landing Christian Academy,McDonough,GA,0.8269,NA,112,155,central florida
+2018,82317,Tyre Golmond, RB ,5-6,158,Denham Springs,Denham Springs,LA,0.8265,NA,102,65,NULL
+2018,94028,Johnny Ford, APB ,5-8,165,Miami Senior,Miami,FL,0.8265,NA,31,261,south florida
+2018,83838,Rocky Savea, OLB ,6-0,219,Kapolei,Kapolei,HI,0.8265,NA,110,9,NULL
+2018,45573119,Moa Heimuli, DT ,6-1,280,East,Salt Lake City,UT,0.8265,NA,113,20,unlv
+2018,88099,Reggie Williams, S ,5-9,174,Grand Prairie,Grand Prairie,TX,0.8265,NA,124,237,north texas
+2018,90364,Dante Black, RB ,5-11,205,Brookwood,Snellville,GA,0.8265,NA,103,156,uconn
+2018,84291,Robert Daniel, CB ,5-10,178,Oak Park,Oak Park,MI,0.8265,NA,149,36,eastern michigan
+2018,46039774,Anthony Stell, WR ,5-10,170,Rainier Beach,Seattle,WA,0.8265,NA,236,18,eastern washington
+2018,94570,Mason Starling, WR ,6-4,185,Rainier Beach,Seattle,WA,0.8265,NA,237,19,NULL
+2018,90160,Tyleek Collins, WR ,5-10,167,Hapeville Charter,ATLANTA,GA,0.8265,NA,238,157,unlv
+2018,94094,Parker Devine, WDE ,6-4,250,Bartram Trail,Jacksonville,FL,0.8265,NA,94,262,georgia southern
+2018,78098,Steven Krajewski, PRO ,6-4,205,Colquitt County,Moultrie,GA,0.8265,NA,53,158,uconn
+2018,46039059,Courtney Williams, WR ,6-2,179,Callaway,Hogansville,GA,0.8265,NA,239,159,georgia state
+2018,92006,Jayde Pierre, DT ,6-1,305,Dominion,Sterling,VA,0.8265,NA,114,33,howard
+2018,46039667,Jallah Zeze, WR ,6-1,210,Central Gwinnett,Lawrenceville,GA,0.8265,NA,240,160,georgia southern
+2018,46036125,Fitzroy Gardner, OLB ,6-3,215,Armwood,Seffner,FL,0.8265,NA,111,263,NULL
+2018,92019,Tony Jones Jr., WR ,6-0,173,Langston Hughes,Fairburn,GA,0.8265,NA,241,161,mercer
+2018,91400,Joseph Bissinger, OT ,6-4,297,Memorial,Houston,TX,0.8264,NA,146,238,virginia
+2018,46040079,Cameron Dicker, K ,6-1,187,Lake Travis,Austin,TX,0.8263,NA,4,239,texas
+2018,45572583,Doug Johnson, OT ,6-6,325,Fort White,Fort White,FL,0.8263,NA,147,264,florida atlantic
+2018,94585,Tae Le, TE ,6-4,228,Corona Del Mar,Newport Beach,CA,0.8262,NA,73,180,stanford
+2018,46041670,Christian Daniels, DUAL ,6-2,200,Western Alamance,Elon,NC,0.8262,NA,40,50,tulane
+2018,46039906,Lawrence Papillon, RB ,5-9,183,Dr Michael M. Krop,Miami,FL,0.8261,NA,104,265,marshall
+2018,46040072,Matt Rosso, OT ,6-6,260,Pennsbury,Fairless Hills,PA,0.8260,NA,148,34,rutgers
+2018,91310,Zahir Turner, WR ,6-0,160,Booker T. Washington,Miami,FL,0.8259,NA,242,266,florida international
+2018,46046865,Maurquel Dillard, ATH ,6-1,185,Stranahan,Fort Lauderdale,FL,0.8257,NA,128,267,florida international
+2018,46047166,Harrison Jump, OT ,6-5,260,Prince Avenue Christian School,Bogart,GA,0.8256,NA,149,162,georgia tech
+2018,46039954,Teja Young, ATH ,5-11,170,Palm Beach Lakes,West Palm Beach,FL,0.8256,NA,129,268,florida atlantic
+2018,46040997,Edward Collins, OT ,6-6,285,Ramsay,Birmingham,AL,0.8255,NA,150,55,central florida
+2018,90868,Armani Adams, S ,5-11,180,Lakewood,Saint Petersburg,FL,0.8255,NA,125,269,florida atlantic
+2018,46040537,Mekhi Williams-Garner, S ,6-1,188,Poteet,Mesquite,TX,0.8255,NA,126,240,NULL
+2018,46048593,Xavier Delgado, OT ,6-5,300,Deer Valley,Glendale,AZ,0.8255,NA,151,19,missouri
+2018,46050478,Edwin Carter, WR ,6-3,180,Sandalwood,Jacksonville,FL,0.8255,NA,243,270,illinois
+2018,46039534,Luke Brockermeyer, OLB ,6-3,210,All Saints Episcopal,Fort Worth,TX,0.8255,NA,112,241,texas
+2018,46043171,Ben Redding, TE ,6-4,215,Friendswood,Friendswood,TX,0.8255,NA,74,242,smu
+2018,46039810,John Stephen Jones, PRO ,5-10,175,Highland Park,Dallas,TX,0.8255,NA,54,243,arkansas
+2018,84636,Marquez Perez, WR ,5-9,160,College Station,College Station,TX,0.8255,NA,244,244,tulsa
+2018,46047561,Levon Fletcher, CB ,5-11,168,Randolph School,Huntsville,AL,0.8255,NA,150,56,troy
+2018,46041025,BJ Anderson, WR ,6-2,172,Andalusia,Andalusia,AL,0.8255,NA,245,57,vanderbilt
+2018,89297,Xavier Lodge, S ,5-10,180,Woodlawn,Baton Rouge,LA,0.8255,NA,127,66,louisiana tech
+2018,46038898,Avery Thornton, ATH ,6-1,175,Boyd Anderson,Fort Lauderdale,FL,0.8255,NA,130,271,NULL
+2018,46046786,Cedric Tillman, WR ,6-3,205,Bishop Gorman,Las Vegas,NV,0.8255,NA,246,11,tennessee
+2018,46047653,Brandon Matterson, DT ,6-1.5,281,Brandeis,San Antonio,TX,0.8255,NA,115,245,utsa
+2018,46039266,Timothy Mosley, WDE ,6-4,241,Dorsey,Los Angeles,CA,0.8255,NA,95,181,unlv
+2018,46040340,Chris Kane, TE ,6-5,213,San Clemente,San Clemente,CA,0.8255,NA,75,182,air force
+2018,46041232,Alexandre Dumais, SDE ,6-4,250,St. Paul,Montreal,QC,0.8255,NA,81,183,fresno state
+2018,46046579,Denaylan Fuimaono, S ,6-1,195,Carson,Carson,CA,0.8255,NA,128,184,san diego state
+2018,46039313,Steven Comstock, DUAL ,6-1,180,Northview,Covina,CA,0.8255,NA,41,185,fresno state
+2018,90827,Bryan Catchings, OG ,6-3,280,Oak Ridge,El Dorado Hills,CA,0.8255,NA,72,186,unlv
+2018,46042990,Francis Bemiy, OLB ,6-4,220,Carnegie Riverside,Montreal,QC,0.8255,NA,113,187,southern utah
+2018,46040502,DJ Schramm, ILB ,6-1,215,Clovis West,Fresno,CA,0.8255,NA,63,188,boise state
+2018,90059,Ty'Rese Gibson, CB ,6-0,158,Paramount,Paramount,CA,0.8255,NA,151,189,montana state
+2018,46052414,Jon Gaines, OT ,6-5,270,Marquette University,Milwaukee,WI,0.8255,NA,152,12,ucla
+2018,94021,Alex Morgan, TE ,6-5,245,Pickerington Central,Pickerington,OH,0.8254,NA,76,63,toledo
+2018,89770,Jeremy Trebbles, CB ,5-10,172,Venice,Sarasota,FL,0.8254,NA,152,272,NULL
+2018,46038931,Mike DeHaan, WDE ,6-6,225,Victor J Andrew,Bolingbrook,IL,0.8254,NA,96,43,northern illinois
+2018,46042483,Aaron Faumui, DT ,6-3,285,Kapolei,Kapolei,HI,0.8254,NA,116,10,virginia
+2018,89713,Matt Harmon, OLB ,6-5,190,Oscar A. Carlson,Rockwood,MI,0.8254,NA,114,37,kent state
+2018,68840,El Julian Jordan, PRO ,6-3,204,Central,Detroit,MI,0.8254,NA,55,38,NULL
+2018,94076,Blake Carroll, OLB ,6-2,219,Mountain View,Lawrenceville,GA,0.8254,NA,115,163,georgia state
+2018,46047329,Evan Boozer, DT ,6-4,240,Loyola Blakefield,Towson,MD,0.8254,NA,117,29,temple
+2018,83323,Nonte Davis, WDE ,6-5,260,Columbia Central,Columbia,TN,0.8254,NA,97,45,tennessee martin
+2018,46039436,Khance Hill, TE ,6-5,225,Peabody,Trenton,TN,0.8254,NA,77,46,NULL
+2018,46039697,Justin Jeffery, WR ,6-1,170,Richmond Hill,Richmond Hill,GA,0.8254,NA,247,164,charlotte
+2018,46040689,Devin Leacock, DT ,6-3,270,Port Charlotte,Port Charlotte,FL,0.8254,NA,118,273,south florida
+2018,46052407,Thomas Yassmin, ATH ,6-4,230,The Scot's College,Australia,AUST,0.8254,NA,131,2,utah
+2018,46043103,Aaron Gethers, CB ,5-11,185,Bishop McDevitt,Harrisburg,PA,0.8254,NA,153,35,boston college
+2018,93274,Quinn Brinnon, S ,6-0,185,Bishop O'Dowd,Oakland,CA,0.8254,NA,129,190,colorado state
+2018,80957,Jailen Bailey, WR ,5-10,180,Lincoln,San Diego,CA,0.8252,NA,248,191,arizona
+2018,80328,Jordan McCloud, DUAL ,6-0,175,Plant,Tampa,FL,0.8249,NA,42,274,south florida
+2018,45573271,Dion Bergan, DT ,6-2,265,Osceola,Kissimmee,FL,0.8249,NA,119,275,wake forest
+2018,46047855,Delano Ware, CB ,6-0,190,El Cerrito,El Cerrito,CA,0.8248,NA,154,192,illinois
+2018,46036277,Peyton Sawyer, WR ,5-10,160,Clear Springs,League City,TX,0.8248,NA,249,246,houston
+2018,46040917,Cagan Campbell, CB ,5-10,170,Hillcrest,Tuscaloosa,AL,0.8244,NA,155,58,jacksonville state
+2018,46043247,Nicolas Sciba, K ,5-9,160,Clover,Clover,SC,0.8242,NA,5,35,wake forest
+2018,46043015,Quindell Johnson, S ,6-0,185,Edna Karr,New Orleans,LA,0.8242,NA,130,67,memphis
+2018,89189,Brandon Derrow, SDE ,6-4,243,St. Francis De Sales,Columbus,OH,0.8241,NA,82,64,colorado state
+2018,46041763,Viliami Tausinga, ILB ,6-1,210,East,Salt Lake City,UT,0.8240,NA,64,21,byu
+2018,84210,Nick Henkel, PRO ,6-4,180,Brunswick School,Greenwich,CT,0.8236,NA,56,8,yale
+2018,46041516,Gabe Lemons, ATH ,6-2,175,Coppell,Coppell,TX,0.8235,NA,132,247,oklahoma state
+2018,46040389,Kyiev Bennermon, DT ,6-4,280,Spackenkill,Poughkeepsie,NY,0.8235,NA,120,20,boston college
+2018,46042420,Nathan Boe, OC ,6-4,250,Lakeville North,Lakeville,MN,0.8234,NA,28,6,minnesota
+2018,46050205,Robin Jutwreten, WDE ,6-4,235,Sweden,Sweden,SWED,0.8231,NA,98,1,rutgers
+2018,46037819,Clayton Franks, OG ,6-4,290,Mansfield Legacy,Mansfield,TX,0.8228,NA,73,248,texas tech
+2018,46050215,Micah Mariteragi, OT ,6-5,265,Kahuku,Kahuku,HI,0.8227,NA,153,11,virginia
+2018,46039877,Antwain Walker, CB ,6-1,176,Oswego East,Oswego,IL,0.8227,NA,156,44,northern illinois
+2018,93073,Lee Payton, TE ,6-3,220,River Rouge,River Rouge,MI,0.8227,NA,78,39,western michigan
+2018,45572974,Cedric Banks, OC ,6-2,320,Southern University Lab School,Baton Rouge,LA,0.8226,NA,29,68,tennessee state
+2018,46038144,Jake Hardage, OG ,6-6,339,Pocahontas,Pocahontas,AR,0.8226,NA,74,11,NULL
+2018,85418,Chris Scott, PRO ,6-2,185,Natchez,Natchez,MS,0.8226,NA,57,30,NULL
+2018,45573067,Devin Haney, CB ,6-2,165,Park Hill,Kansas City,MO,0.8226,NA,157,22,northern illinois
+2018,46039673,Mason Parris, ILB ,6-2,220,Lawrenceburg,Lawrenceburg,IN,0.8226,NA,65,19,NULL
+2018,46039719,Alex Jacobs, RB ,6-0,205,Cy Ridge,Houston,TX,0.8226,NA,105,249,NULL
+2018,46041540,Dayonte Roberts, DT ,6-2,280,Cabot,Cabot,AR,0.8226,NA,121,12,louisiana monroe
+2018,46041168,Dalrone Donaldson, WR ,6-3,187,Coffee,Douglas,GA,0.8226,NA,250,165,NULL
+2018,83791,Marco Brewer, OG ,6-4,280,Corvallis,Corvallis,OR,0.8225,NA,75,16,oregon state
+2018,46043250,Jason Maitre, ATH ,5-9,160,Everett,Everett,MA,0.8224,NA,133,7,boston college
+2018,91904,Josh Jynes, OC ,6-2,312,DeSoto,DeSoto,TX,0.8222,NA,30,250,colorado
+2018,86110,Alondras Strong, S ,5-11,180,IMG Academy,Bradenton,FL,0.8222,NA,131,276,alabama birmingham
+2018,89777,Jordan Underwood, WR ,6-0,174,Olympia,Apopka,FL,0.8218,NA,251,277,florida international
+2018,77944,Ethan Edmondson, SDE ,6-3.5,246,Scottsboro Sch,Scottsboro,AL,0.8215,NA,83,59,southern mississippi
+2018,46042597,Anthony Goodlow, OLB ,6-5,230,Del City,Oklahoma City,OK,0.8215,NA,116,21,tulsa
+2018,46040210,Larry Dixon, OG ,6-4,331,Hahnville,Boutte,LA,0.8215,NA,76,69,NULL
+2018,84035,Jacob Doddridge, FB ,6-2.5,220,Southlake Carroll,Southlake,TX,0.8215,NA,3,251,rice
+2018,46038442,Cade Barnard, ILB ,6-2,220,Seminole,Seminole,TX,0.8215,NA,66,252,army
+2018,75976,Mykel Gates, ILB ,6-0,216,Carthage,Carthage,TX,0.8215,NA,67,253,NULL
+2018,87575,Keitha Jones, ATH ,6-1,180,Memorial,Port Arthur,TX,0.8215,NA,134,254,tulane
+2018,46040315,Myles Berry, S ,6-1,190,Dudley,Greensboro,NC,0.8215,NA,132,51,east carolina
+2018,46038569,Kameron Butler, WDE ,6-3,233,Covington Catholic,Alexandria,KY,0.8215,NA,99,13,miami ohio
+2018,84486,Jaden Hill, PRO ,6-2,185,Ashdown,Ashdown,AR,0.8215,NA,58,13,NULL
+2018,41904,Zion Custis, RB ,5-7,178,Lovejoy,Hampton,GA,0.8215,NA,106,166,NULL
+2018,84940,Evan Lovell, OT ,6-5,308,The Peddie School,Thomaston,CT,0.8215,NA,154,36,rhode island
+2018,89169,Luke Martin, OG ,6-4,295,Fishers,Fishers,IN,0.8215,NA,77,20,ball state
+2018,46038604,Spencer Gaddis, WR ,6-0,165,Alpharetta,Alpharetta,GA,0.8215,NA,252,167,western kentucky
+2018,87752,Trace Clopton, OC ,6-2,292,Brookhaven,Brookhaven,MS,0.8215,NA,31,31,southern mississippi
+2018,46036866,Lucas Nunez, WR ,5-8,170,Cardinal Hayes,Bronx,NY,0.8215,NA,253,21,sacred heart
+2018,46040462,TK Wilkerson, RB ,6-2,210,Skiatook,Skiatook,OK,0.8215,NA,107,22,tulsa
+2018,46038291,Terry Hampton, DT ,5-11.5,254,El Dorado,El Dorado,AR,0.8215,NA,122,14,arkansas state
+2018,46039777,Steven Peterson, WR ,5-11,213,Harrison,Kennesaw,GA,0.8215,NA,254,168,coastal carolina
+2018,46037091,Oliver Nasilai, ILB ,6-0,245,Jessieville,Springdale,AR,0.8215,NA,68,15,byu
+2018,46037697,Ronnie Audette, OT ,6-3,310,Elk River Senior,Elk River,MN,0.8215,NA,155,7,oregon state
+2018,46038345,Cornelius McCoy, WR ,5-11,170,Deerfield Beach,Deerfield Beach,FL,0.8215,NA,255,278,georgia state
+2018,46039576,Willie Lane, DT ,6-3,247,Winter Haven,Winter Haven,FL,0.8215,NA,123,279,purdue
+2018,46040209,Nick Carey, OT ,6-7,290,Catholic Central,Novi,MI,0.8214,NA,156,40,toledo
+2018,46039314,Alijah Allen, ATH ,6-2,180,Buena Park,Buena Park,CA,0.8210,NA,135,193,NULL
+2018,89640,Caleb Lynum, PRO ,6-2,195,East Ridge,Leesburg,FL,0.8210,NA,59,280,florida international
+2018,46041474,Sean Chambers, DUAL ,6-3,215,Kerman,Kerman,CA,0.8206,NA,43,194,wyoming
+2018,46050401,Payne Durham, TE ,6-5,250,Peachtree Ridge,Suwanee,GA,0.8205,NA,79,169,purdue
+2018,46042540,Xavier Smith, ILB ,6-1,235,Brooke Point,Stafford,VA,0.8204,NA,69,34,east carolina
+2018,46040288,Kaleb Smith, WR ,6-3,190,Patrick Henry,Ashland,VA,0.8204,NA,256,35,virginia tech
+2018,46038994,Trea Shropshire, WR ,6-3,175,Zachary,Zachary,LA,0.8204,NA,257,70,NULL
+2018,46047090,Ryan Malbrough, S ,6-0,200,Cecilia,Carencro,LA,0.8204,NA,133,71,kansas
+2018,46049329,Brandon Davis, CB ,5-11,160,John Curtis,New Orleans,LA,0.8204,NA,158,72,tennessee
+2018,46038940,Preston Ellison, OLB ,6-3,205,Permian,Odessa,TX,0.8204,NA,117,255,smu
+2018,89585,Imani Partlow, CB ,5-10,180,Jones,Orlando,FL,0.8204,NA,159,281,NULL
+2018,91139,Dyllon Lester, CB ,6-0,190,American Heritage,Fort Lauderdale,FL,0.8204,NA,160,282,central florida
+2018,46040397,Matt Lawson, DT ,6-2,290,Colony,Ontario,CA,0.8204,NA,124,195,fresno state
+2018,94602,Tyler Casados, OG ,6-3,270,La Habra,La Habra,CA,0.8204,NA,78,196,NULL
+2018,46042860,Brayden Cosper, WR ,6-3,195,Bingham,South Jordan,UT,0.8204,NA,258,22,byu
+2018,46038813,Henry Thomas, WR ,5-11,175,Fort Bend Marshall,Missouri City,TX,0.8204,NA,259,256,houston
+2018,46037803,Russell Brown, WR ,6-3,180,Lehigh Senior,Lehigh Acres,FL,0.8204,NA,260,283,western kentucky
+2018,46039425,Trey Livingood, OG ,6-3,290,Madison Southern,Berea,KY,0.8204,NA,79,14,marshall
+2018,46039204,Mario Wright, ILB ,6-2,205,Homewood-Flossmoor,Flossmoor,IL,0.8204,NA,70,45,western kentucky
+2018,88224,Kenneth Brown, ILB ,6-2,235,Fort Dorchester,North Charleston,SC,0.8204,NA,71,36,NULL
+2018,46045967,Talan Alfrey, S ,6-3,185,Auburn Mountainview,Auburn,WA,0.8204,NA,134,20,byu
+2018,90314,Reggie Jennings, OLB ,6-1,210,Brookfield Central,Brookfield,WI,0.8204,NA,118,13,northern illinois
+2018,45572547,Lamont Finnie Jr., ATH ,5-10,170,Miami Senior,Miami,FL,0.8204,NA,136,284,NULL
+2018,46039732,Jayden Reed, WR ,5-11,155,Metea Valley,Aurora,IL,0.8204,NA,261,46,western michigan
+2018,46038316,Marquis Traylor, OLB ,6-1,208,Brighton,Brighton,TN,0.8204,NA,119,47,NULL
+2018,46037148,Braden Collins, WR ,6-2,195,Farragut,Knoxville,TN,0.8204,NA,262,48,appalachian state
+2018,46040049,Amir Brummett, ATH ,6-3,185,MacArthur,Decatur,IL,0.8204,NA,137,47,northern illinois
+2018,46041444,Jyran Mitchell, DUAL ,6-0,188,Rich Central Campus,Olympia Fields,IL,0.8204,NA,44,48,northern illinois
+2018,46038381,Antonio Fletcher, WR ,6-0,180,Martin Luther King Jr.,Lithonia,GA,0.8204,NA,263,170,arkansas state
+2018,46039303,Jay Person, ILB ,6-3,208,Bradley Central,Cleveland,TN,0.8204,NA,72,49,appalachian state
+2018,46042717,Darren Brown, DT ,6-3,280,Judson,Converse,TX,0.8204,NA,125,257,smu
+2018,89512,Marquese Albert, APB ,5-8,185,John Curtis,New Orleans,LA,0.8204,NA,32,73,idaho
+2018,46040975,Zakk McKeehan, SDE ,6-4,285,West Feliciana,Saint Francisville,LA,0.8202,NA,84,74,georgia tech
+2018,46039075,Jake Syptak, OT ,6-5,270,The Woodlands,The Woodlands,TX,0.8201,NA,157,258,rice
+2018,46047800,Michael Azevedo, SDE ,6-4,250,Clairemont,San Diego,CA,0.8199,NA,85,197,princeton
+2018,46042729,Kenden Robinson, WR ,6-3,175,Alameda,Alameda,CA,0.8199,NA,264,198,NULL
+2018,80790,Christian Swint, CB ,5-11,181,Compton,Compton,CA,0.8199,NA,161,199,nevada
+2018,46042707,Armon Bailey, OLB ,6-2,215,Vanden,Fairfield,CA,0.8199,NA,120,200,sacramento state
+2018,46041493,Charlie Ryan, WDE ,6-4,247,Montgomery Catholic Preparatory,Montgomery,AL,0.8199,NA,100,60,NULL
+2018,46042708,Carson Baker, PRO ,6-3,190,Helix,La Mesa,CA,0.8199,NA,60,201,san diego state
+2018,46037946,Hale Motu'apuaka, OLB ,6-2,290,Punahou,Honolulu,HI,0.8199,NA,121,12,utah state
+2018,46042861,Braydin Shipp, OT ,6-5.5,313,American Fork,American Fork,UT,0.8199,NA,158,23,boise state
+2018,46045220,Tu'u Afu, RB ,5-11,215,Alta,Sandy,UT,0.8199,NA,108,24,idaho state
+2018,93405,Isaiah Ifanse, RB ,5-10,190,Bellevue,Bellevue,WA,0.8199,NA,109,21,montana state
+2018,46045273,Freddie Roberson, ATH ,6-2,180,Rainier Beach,Seattle,WA,0.8199,NA,138,22,eastern washington
+2018,46038101,Level Price Jr., CB ,5-10,170,St. John Bosco,Bellflower,CA,0.8199,NA,162,202,NULL
+2018,46037655,Naveon Mitchell, APB ,5-9,170,Fort Bend Travis,Richmond,TX,0.8199,NA,33,259,new mexico state
+2018,90131,Marquez Powell, WR ,6-2,174,Liberty,Henderson,NV,0.8199,NA,265,12,NULL
+2018,46039769,Michael Naze, TE ,6-3,224,Catholic Memorial,Waukesha,WI,0.8199,NA,80,14,NULL
+2018,46042447,Arthur Brantley, WR ,6-2,165,Riverview,Sarasota,FL,0.8199,NA,266,285,austin peay
+2018,45572436,Kwabena Bonsu, DT ,6-3,255,South Cobb,Avondale Estates,GA,0.8199,NA,126,171,army
+2018,46048479,Randall Harris, CB ,6-0,184,Walled Lake Western,Walled Lake,MI,0.8199,NA,163,41,central michigan
+2018,91803,Alonzo Clark, WR ,6-4,172,Fort Lauderdale,Fort Lauderdale,FL,0.8199,NA,267,286,NULL
+2018,92366,Howard Stewart, ATH ,6-0,210,Cocoa,Cocoa,FL,0.8199,NA,139,287,NULL
+2018,46041677,Ricky Miezan, ILB ,6-3,238,Episcopal,Alexandria,VA,0.8199,NA,73,36,NULL
+2018,46041122,Lance Lawson, WR ,5-9,183,Red Mountain,Mesa,AZ,0.8199,NA,268,20,southern utah
+2018,45573209,Troy Henderson, APB ,5-10,180,Independence,Thompson's Station,TN,0.8199,NA,35,50,liberty
+2018,46041093,Harrison Taylor, OLB ,6-4,240,Eagles Landing Christian Academy,McDonough,GA,0.8199,NA,122,172,appalachian state
+2018,46040363,Eric Ellison, RB ,5-11.5,170,Banning,Banning,CA,0.8199,NA,110,203,NULL
+2018,46051686,Donny Long, OG ,6-4,280,Norco,Norco,CA,0.8199,NA,80,204,montana state
+2018,46040976,Zailes Alexander, WR ,6-2,182,Choctawhatchee Senior,Fort Walton Beach,FL,0.8199,NA,269,288,NULL
+2018,46048910,John Chenal, ILB ,6-3,225,Grantsburg,Grantsburg,WI,0.8198,NA,74,15,wisconsin
+2018,46041102,Chris Smith, RB ,5-9,180,Nanih Waiya Attendance Center,Louisville,MS,0.8198,NA,111,32,louisiana
+2018,46051968,Lonkevious McFadden, WR ,6-4,190,Pahokee,Pahokee,FL,0.8198,NA,270,289,kent state
+2018,46055781,Demauryon Holmes, OLB ,6-1,200,Mansfield Legacy,Mansfield,TX,0.8198,NA,123,260,tcu
+2018,92373,SaRodorick Thompson, RB ,6-0.5,192,Ranchview,Carrollton,TX,0.8194,NA,112,261,texas tech
+2018,90744,Bryand Rincher, CB ,5-9,160,Piper,Fort Lauderdale,FL,0.8194,NA,164,290,NULL
+2018,46046961,Cameron Thomas, WDE ,6-5,235,Carlsbad,Carlsbad,CA,0.8194,NA,101,205,san diego state
+2018,90217,Kyle Jones, RB ,5-10,190,Upland,Upland,CA,0.8194,NA,113,206,NULL
+2018,46039250,Spencer Wells, TE ,6-4,230,Dawson,Pearland,TX,0.8193,NA,81,262,houston
+2018,84289,Stacy Conner, DUAL ,6-5.5,175,Wylie,Wylie,TX,0.8190,NA,45,263,byu
+2018,46047534,Jake Pinegar, K ,6-2,195,Ankeny Centennial,Ankeny,IA,0.8190,NA,6,8,penn state
+2018,94579,Byron Perkins, CB ,6-2,175,De La Salle Institute,Chicago,IL,0.8186,NA,165,49,purdue
+2018,46046539,Tyler Days, ATH ,6-1,185,Cicero-North Syracuse,Cicero,NY,0.8186,NA,140,22,boston college
+2018,46040787,Barret Pickering, K ,6-0,175,Hoover,Hoover,AL,0.8183,NA,7,61,nebraska
+2018,88202,Jordan Byrd, ATH ,5-9.5,166,Manzano,Albuquerque,NM,0.8183,NA,141,2,san diego state
+2018,46048101,Anthony Spurlock, WR ,6-1,160,Edna Karr,New Orleans,LA,0.8181,NA,271,75,western kentucky
+2018,46048087,Jarrett Kingston, OT ,6-5,255,Anderson,Anderson,CA,0.8181,NA,159,207,washington state
+2018,92925,Parker Bisek, OG ,6-4,285,Ryle,Union,KY,0.8181,NA,81,15,toledo
+2018,46037820,Bakari Jackson, OLB ,6-1,207,Dunbar,Fort Myers,FL,0.8181,NA,124,291,marshall
+2018,46038986,Elijah Ball, CB ,6-1,190,Ben Davis,Indianapolis,IN,0.8180,NA,166,21,purdue
+2018,90386,Corey Hammett Jr., RB ,5-10.5,156,Booker T. Washington,Miami,FL,0.8176,NA,114,292,NULL
+2018,88036,Ricky Williams Jr., WDE ,6-3,220,Blake,Tampa,FL,0.8176,NA,102,293,NULL
+2018,90754,Jeremy Fowler, WDE ,6-1.5,226,Manor,Manor,TX,0.8176,NA,103,264,NULL
+2018,46042779,Jaylon Allen, OLB ,6-2,215,Atascocita,Humble,TX,0.8176,NA,125,265,memphis
+2018,46039074,Jake Lynch, OLB ,6-5,211,Fort Bend Travis,Richmond,TX,0.8176,NA,126,266,texas state
+2018,46047402,Demetrice Holliday, WR ,6-0,200,Batesville,Batesville,AR,0.8176,NA,272,16,arkansas state
+2018,45572979,Eric Hegamin, DT ,6-2,260,The Bullis School,Potomac,MD,0.8176,NA,127,30,NULL
+2018,86124,Tremayn Stott, ATH ,5-10,170,Good Counsel,Olney,MD,0.8176,NA,142,31,NULL
+2018,46038530,Derrick Nicholson, OLB ,6-2,210,Northwestern,Miami,FL,0.8175,NA,127,294,NULL
+2018,88609,Silas Robinson, OT ,6-4,300,Yoakum,Yoakum,TX,0.8175,NA,160,267,arkansas
+2018,88252,Darrius Smith, RB ,5-9,170,Dawson,Pearland,TX,0.8175,NA,115,268,arizona
+2018,46036433,Joe Sparacio, ILB ,6-0,215,First Baptist Academy,Naples,FL,0.8174,NA,75,295,boston college
+2018,46040181,Nick Mihalic, P ,6-0,175,Niles North,Skokie,IL,0.8174,NA,5,50,western michigan
+2018,86193,Brady McBride, PRO ,6-0,189,Coppell,Coppell,TX,0.8173,NA,61,269,memphis
+2018,88274,Jaylon Hutchings, DT ,6-1,270,Forney,Forney,TX,0.8173,NA,128,270,texas tech
+2018,89840,Shamaur McDowell, CB ,5-11,184,IMG Academy,Bradenton,FL,0.8173,NA,167,296,toledo
+2018,46048059,Paxton Brooks, K ,6-5,170,Airport,West Columbia,SC,0.8171,NA,8,37,tennessee
+2018,92460,Shamar Jones, DT ,6-1,271,Greater Johnstown,Johnstown,PA,0.8168,NA,129,36,indiana
+2018,46041045,Mac Copeland, OT ,6-5,250,Wichita Collegiate School,Wichita,KS,0.8168,NA,161,5,kansas
+2018,46046029,JeMarcus Burrell, CB ,6-2,163,Paul W Bryant,Cottondale,AL,0.8165,NA,168,62,arkansas state
+2018,87505,Tyler Vitt, PRO ,6-1,202,MacArthur,San Antonio,TX,0.8165,NA,62,271,texas state
+2018,46040216,Braison Rudd, WR ,6-3,176,New Braunfels Christian Academy,New Braunfels,TX,0.8165,NA,273,272,sfasu
+2018,46038260,Andrew McGowan, WR ,6-2.5,193,Sinton,Sinton,TX,0.8165,NA,274,273,utsa
+2018,46039514,Jovan McConico, S ,6-0,185,Garfield,Seattle,WA,0.8165,NA,135,23,hawaii
+2018,92134,Prudy Calderon, ATH ,5-11,194,San Marcos,San Marcos,TX,0.8165,NA,143,274,rice
+2018,86676,Marcus Mosley, WDE ,6-1,226,Duncanville,Duncanville,TX,0.8165,NA,104,275,army
+2018,46038770,AJ Mayer, PRO ,6-3,200,Covington Catholic,Alexandria,KY,0.8165,NA,63,16,miami ohio
+2018,46039315,Isaiah Bellamy, TE ,6-5,220,Largo,Largo,FL,0.8165,NA,82,297,NULL
+2018,79882,Brandon Mays, OLB ,6-0,210,Viera,Melbourne,FL,0.8165,NA,128,298,army
+2018,90557,Jaaron Jackson, WDE ,6-2.5,240,Kathleen,Lakeland,FL,0.8165,NA,105,299,alcorn state
+2018,87079,Jeremiah Wood, CB ,6-1,195,Pickerington Central,Pickerington,OH,0.8165,NA,169,65,ohio
+2018,79226,Montrae Braswell, CB ,5-11,181,Avon Park,Avon Park,FL,0.8165,NA,170,300,central michigan
+2018,82710,Jalen Smith, WR ,5-11.5,146,Ocean Lakes,Virginia Beach,VA,0.8165,NA,275,37,navy
+2018,79523,Matthew Groeschel, OG ,6-5,324,Greenwood,Midland,TX,0.8165,NA,82,276,NULL
+2018,46039120,Kevyon Davis, S ,6-0,195,Ennis,Ennis,TX,0.8165,NA,136,277,north texas
+2018,46039176,Kevin Brewer, CB ,5-11,193,Bedford,Bedford,OH,0.8165,NA,171,66,NULL
+2018,46042778,Osorachukwu Ifesinachukwu, OLB ,6-2,215,Vandegrift,Austin,TX,0.8165,NA,129,278,yale
+2018,46040899,Ladarius Anthony, S ,6-1,170,Cy Creek,Houston,TX,0.8165,NA,137,279,texas state
+2018,46043080,Jyaire Shorter, TE ,6-2,215,Ellison,Killeen,TX,0.8165,NA,83,280,north texas
+2018,46042514,Biron Rossell, OG ,6-4,273,West Memphis Christian School,West Memphis,AR,0.8165,NA,83,17,louisiana tech
+2018,46035720,Jake Collins, ATH ,6-1,182,Park Vista Community,Lake Worth,FL,0.8165,NA,144,301,duquesne
+2018,91807,Tacorrie Russell, SDE ,6-3,230,Oxford,Munford,AL,0.8165,NA,86,63,jacksonville state
+2018,46051523,Jalan Robinson, OT ,6-6,300,Lawrence Free State,Lawrence,KS,0.8165,NA,162,6,kansas
+2018,46050505,Luke Knox, OLB ,6-3,220,Brentwood Academy,Brentwood,TN,0.8165,NA,130,51,ole miss
+2018,87112,Kenny Bastida, ILB ,6-1,220,Deerfield Beach,Fort Lauderdale,FL,0.8163,NA,76,302,kansas
+2018,46050208,Arryn Siposs, P ,6-2,198,ProKick Australia,Australia,AUST,0.8161,NA,6,3,auburn
+2018,94576,Zach Ross, OG ,6-4,300,Dowling Catholic,West Des Moines,IA,0.8160,NA,84,9,iowa state
+2018,86785,Javian Dayne, RB ,6-0,230,Waunakee,Waunakee,WI,0.8160,NA,116,16,boston college
+2018,89583,Jackson Barrow, ILB ,6-1,205,Cathedral,Indianapolis,IN,0.8160,NA,77,22,toledo
+2018,90676,Gerry Vaughn, OLB ,5-11,205,Tucker,Tucker,GA,0.8160,NA,131,173,iowa state
+2018,46040043,Orlando Heggs, OG ,6-4,305,The Bolles School,Jacksonville,FL,0.8160,NA,85,303,wake forest
+2018,46039255,Zamir Mickens, S ,5-11,175,St. Peters Prep,Jersey City,NJ,0.8159,NA,138,37,rutgers
+2018,46046417,Oscar Shadley, LS ,6-2,230,Golden Gate,Naples,FL,0.8158,NA,1,304,virginia tech
+2018,46042487,Deion Jennings, CB ,6-1,195,Timber Creek,Sicklerville,NJ,0.8158,NA,172,38,rutgers
+2018,46039485,Isaiah Isaac, WR ,5-9,175,Buford,Buford,GA,0.8156,NA,276,174,wake forest
+2018,94220,Zachary Slade, SDE ,6-4,240,Olentangy,Lewis Center,OH,0.8154,NA,87,67,michigan state
+2018,90054,Chuck Wick, RB ,6-0,180,Ventura,Ventura,CA,0.8154,NA,117,208,NULL
+2018,46038267,Kashan Griffin, WR ,6-0,172,Apple Valley,Apple Valley,CA,0.8154,NA,277,209,san diego state
+2018,46047336,Matt Kjeldgaard, DT ,6-3,270,Oakdale,Oakdale,CA,0.8154,NA,130,210,fresno state
+2018,46042335,Justin Kakala, DT ,6-4,270,Manteca,Manteca,CA,0.8154,NA,131,211,harvard
+2018,84911,Andrew Todd, OG ,6-4,280,George Washington,Cedar Rapids,IA,0.8154,NA,86,10,miami ohio
+2018,86236,Elijah Campbell, DT ,6-2,244,Gadsden City,Gadsden,AL,0.8154,NA,132,64,georgia southern
+2018,86756,Trivenskey Mosley, RB ,5-10,187,Woodlawn,Shreveport,LA,0.8154,NA,118,76,southern mississippi
+2018,45572978,Jamaal Jolla, WR ,6-2,190,St. Augustine,New Orleans,LA,0.8154,NA,278,77,NULL
+2018,89295,Wayne Toussant, ATH ,5-10,160,Plaquemine,Plaquemine,LA,0.8154,NA,145,78,louisiana tech
+2018,46041760,Kyron Mims, DT ,6-4,275,Woodlawn,Baton Rouge,LA,0.8154,NA,133,79,ball state
+2018,92902,Karene Reid, OLB ,6-0,205,Timpview,Provo,UT,0.8154,NA,132,25,utah state
+2018,88050,Colby Suits, PRO ,6-3,222,North Forney,Forney,TX,0.8154,NA,64,281,louisiana monroe
+2018,46042734,Charles Ross, WR ,6-0,171,Culver City,Culver City,CA,0.8154,NA,279,212,nevada
+2018,46042906,Jaden Harris, S ,6-1,190,Ouachita Parish,Monroe,LA,0.8154,NA,139,80,arkansas state
+2018,46041220,James Harris, CB ,6-1,170,Blanche Ely,Pompano Beach,FL,0.8154,NA,173,305,bowling green
+2018,89658,Bryce Veasley, PRO ,6-4,230,West Bloomfield,West Bloomfield,MI,0.8154,NA,65,42,bowling green
+2018,93017,Dyontae Johnson, OLB ,6-2,191,Cass Technical,Detroit,MI,0.8154,NA,133,43,toledo
+2018,86013,Jaren Rainey, DUAL ,6-3,190,Southwest Guilford,High Point,NC,0.8154,NA,46,52,east carolina
+2018,80625,Jalen Norwood, CB ,6-0,207,North Florida Christian,Tallahassee,FL,0.8154,NA,174,306,NULL
+2018,46036792,Jevon Henderson, DT ,6-3,265,Centerville,Dayton,OH,0.8154,NA,134,68,bowling green
+2018,90867,Antonio Showers, OLB ,6-1,225,Tucker,Tucker,GA,0.8154,NA,134,175,troy
+2018,46040967,Shamel Lazarus, CB ,6-2,170,Erasmus Hall,Brooklyn,NY,0.8154,NA,175,23,uconn
+2018,94739,Cameron Hoelscher, ILB ,6-2,220,Springfield,Springfield,OH,0.8154,NA,78,69,army
+2018,87020,Terrence Horne, ATH ,5-9,165,Miramar,Hollywood,FL,0.8154,NA,146,307,south florida
+2018,46040412,Jaret Pallotta, PRO ,6-5,200,Jackson,Canton,OH,0.8154,NA,66,70,massachusetts
+2018,87495,Kohl Henke, S ,6-2,187,Boyd-Buchanan School,Chattanooga,TN,0.8154,NA,140,52,chattanooga
+2018,46040998,Elijah Clark, CB ,6-3,170,Sayreville War Memorial,Sayreville,NJ,0.8154,NA,176,39,temple
+2018,89758,Gerald Jackson, WR ,6-4,203,Glades Central,Belle Glade,FL,0.8154,NA,280,308,NULL
+2018,92188,Austin France, ILB ,6-3,210,R Nelson Snider,Fort Wayne,IN,0.8154,NA,79,23,western michigan
+2018,92938,Bennett Clark, OT ,6-6,285,Zionsville,Zionsville,IN,0.8154,NA,163,24,miami ohio
+2018,46036671,Tate Goodyear, OG ,6-4,275,Sycamore,Cincinnati,OH,0.8154,NA,87,71,yale
+2018,46038987,Torey Zanders, OLB ,6-3,225,George Walton Academy,Monroe,GA,0.8154,NA,135,176,NULL
+2018,46047910,Oneil Robinson, WR ,6-3,177,Capitol Preparatory Magnet School,Hartford,CT,0.8154,NA,281,9,uconn
+2018,46036124,Tate Whatley, DUAL ,6-1,180,Lakeland Christian School,Lakeland,FL,0.8154,NA,47,309,southern mississippi
+2018,92135,Ryan Bryce, DT ,6-4,280,St. Joseph's,Philadelphia,PA,0.8154,NA,135,37,army
+2018,46042311,Jordan Smith, WR ,6-3,190,Western,Fort Lauderdale,FL,0.8154,NA,282,310,temple
+2018,46047559,Adam Klein, OT ,6-5,265,Episcopal Academy,Newtown Square,PA,0.8154,NA,164,38,temple
+2018,91969,Onasis Neely, RB ,5-11,184,East Pennsboro,Enola,PA,0.8154,NA,119,39,temple
+2018,46046957,Isaiah McKoy, WR ,6-3,175,Norcross,Norcross,GA,0.8154,NA,283,177,kent state
+2018,46040082,Cooper Lutz, WR ,5-11,190,Berks Catholic,Reading,PA,0.8153,NA,284,40,syracuse
+2018,76743,Jimmy Bell, OT ,6-8,314,Arthur Hill,Saginaw,MI,0.8153,NA,165,44,NULL
+2018,46043196,Billy Kemp, WR ,5-9,170,Highland Springs,Highland Springs,VA,0.8153,NA,285,38,virginia
+2018,46041926,Derek Devine, OT ,6-6,275,North Allegheny,Wexford,PA,0.8153,NA,166,41,virginia
+2018,46047654,Charles Campbell, K ,5-9,180,University School Of Jackson,Jackson,TN,0.8150,NA,9,53,indiana
+2018,46042859,Malik Putney, S ,6-0,195,Eastside Catholic,Sammamish,WA,0.8143,NA,141,24,montana state
+2018,46041040,Nash Fouch, S ,6-3,180,Woodinville,Woodinville,WA,0.8143,NA,142,25,montana
+2018,92455,Cross Wilkinson, PRO ,6-3,205,Wheeling Park,Wheeling,WV,0.8143,NA,67,3,toledo
+2018,84066,DeMarkes Stradford, RB ,5-10,164,Charlotte Latin School,Charlotte,NC,0.8143,NA,120,53,harvard
+2018,46042786,Sokoya McDuffie, DT ,6-4.5,265,South Florence,Florence,SC,0.8143,NA,136,38,old dominion
+2018,46036123,Timarcus Simpson, CB ,5-11,170,Sickles,Tampa,FL,0.8143,NA,177,311,eastern michigan
+2018,46048852,Semisi Saluni, OLB ,6-4,235,Northgate,Walnut Creek,CA,0.8140,NA,136,213,oregon state
+2018,46042812,Chris Manoa, DT ,6-0,300,Chandler,Chandler,AZ,0.8139,NA,137,22,unlv
+2018,46038849,Logan Klemp, OLB ,6-3,200,South Hamilton High School,Jewell,IA,0.8139,NA,137,11,iowa
+2018,93995,Eugene Bowman IV, CB ,6-0,169,Robert E. Lee,Jacksonville,FL,0.8127,NA,178,312,south florida
+2018,46046630,Lee Graham, WR ,6-1,185,Baker County Senior,Glen Saint Mary,FL,0.8125,NA,286,313,NULL
+2018,46047784,Justin Mader, LS ,6-0,215,Magnolia,Magnolia,TX,0.8125,NA,2,282,texas
+2018,46047315,Joseph Petrino, K ,5-11,165,Richmond Hill,Richmond Hill,GA,0.8122,NA,10,178,maryland
+2018,89963,Seth Small, K ,5-11,190,Katy,Katy,TX,0.8116,NA,11,283,texas am
+2018,46040740,Brayden Narveson, K ,6-1,190,Desert Mountain,Scottsdale,AZ,0.8115,NA,12,23,iowa state
+2018,86235,Elliott McElwain, FB ,6-0,205,Hewitt-Trussville,Trussville,AL,0.8115,NA,4,65,yale
+2018,88207,Isaiah Forte, SDE ,6-3,285,Carver,Montgomery,AL,0.8115,NA,88,66,NULL
+2018,81688,Zach Bevins, OG ,6-4,285,Catholic,Virginia Beach,VA,0.8115,NA,88,39,elon
+2018,46038429,Davon Wright, DT ,6-2,282,Donaldsonville,Donaldsonville,LA,0.8115,NA,138,81,tulane
+2018,89555,Griffin O'Connor, PRO ,6-3,200,Edison,Huntington Beach,CA,0.8115,NA,68,214,yale
+2018,94463,Jeremy Tate, WR ,6-4,210,New Hope,Columbus,MS,0.8115,NA,287,33,memphis
+2018,46037640,Calvin Barkat, OC ,6-3,260,Sachse,Sachse,TX,0.8115,NA,32,284,NULL
+2018,94515,Ezekiel Creps, OT ,6-5,270,Pomona,Arvada,CO,0.8115,NA,167,8,NULL
+2018,91935,Willie Ervin, WDE ,6-3,210,Ben Davis,Indianapolis,IN,0.8115,NA,106,25,NULL
+2018,90477,Quavian White, CB ,5-9,182,Greer,Greer,SC,0.8115,NA,179,39,georgia state
+2018,87462,Ashtin Spearman, S ,5-10,165,Beaumont Central,Beaumont,TX,0.8115,NA,143,285,NULL
+2018,47227,Jalan Harris, WDE ,6-2,248,Haynesville,Haynesville,LA,0.8115,NA,107,82,NULL
+2018,46042320,Canaan Brooks, RB ,5-11,195,Lutheran North,Saint Louis,MO,0.8115,NA,121,23,NULL
+2018,90747,Marcus Greer, OG ,6-3,295,Chaminade,Saint Louis,MO,0.8115,NA,89,24,middle tennessee state
+2018,94580,Gino Appleberry, RB ,5-8,183,Creekside,Fairburn,GA,0.8115,NA,122,179,western kentucky
+2018,92916,Mike Bruner, OLB ,6-2.5,203,Homestead,Thiensville,WI,0.8115,NA,138,17,north dakota
+2018,46038827,Jordan Cooper, ATH ,6-0,208,New Caney,New Caney,TX,0.8115,NA,147,286,navy
+2018,46039205,Max Yarbrough, OG ,6-3,286,Friendswood,Friendswood,TX,0.8115,NA,90,287,louisiana
+2018,46040015,Tre Leslie, ILB ,6-0,210,Tucker,Tucker,GA,0.8115,NA,80,180,western kentucky
+2018,90086,Desmond Talley, CB ,6-0,162,Long Beach Poly,Long Beach,CA,0.8115,NA,180,215,NULL
+2018,79672,Mitchell Zoloty, OG ,6-2,250,IMG Academy,Bradenton,FL,0.8115,NA,91,314,butler
+2018,92265,Brian Abraham, S ,6-3.5,187,Xaverian Brothers,Brockton,MA,0.8115,NA,144,8,yale
+2018,46042463,Travis Jones, OG ,6-4.5,356,Wilbur Cross,New Haven,CT,0.8115,NA,92,10,uconn
+2018,46041944,Chauncey Moore, S ,6-1,175,Friendship Academy,Washington,DC,0.8115,NA,145,14,temple
+2018,80066,Thomas Burns, CB ,5-9,150,Pine-Richland,Miami,FL,0.8115,NA,181,42,miami
+2018,46041082,Despelado Alexandre, OT ,6-5,270,Deerfield Beach,Deerfield Beach,FL,0.8115,NA,168,315,georgia state
+2018,46039400,Nazir Sy, DT ,6-2,326,Norcross,Norcross,GA,0.8115,NA,139,181,western kentucky
+2018,46041730,Keith Gallmon, S ,5-9,191,Mobile Christian School,Mobile,AL,0.8115,NA,146,67,south alabama
+2018,83847,Isaiah Jones, DUAL ,6-1,185,La Salle College,Fort Washington,PA,0.8115,NA,48,43,wm
+2018,89824,Micah McFadden, OLB ,6-1,220,Plant,Tampa,FL,0.8114,NA,139,316,indiana
+2018,46039511,Franklin Jackson, WDE ,6-2,217,West Orange,Winter Garden,FL,0.8114,NA,108,317,florida atlantic
+2018,91556,Dante' Carter, DT ,5-11,318,St. Augustine,New Orleans,LA,0.8111,NA,140,83,southeastern louisiana
+2018,46046682,Quae Drake, WR ,6-2,180,Wadley,Wadley,AL,0.8111,NA,288,68,NULL
+2018,89027,Jack Murphy, OT ,6-2,228,Bishop O'Connell,Arlington,VA,0.8111,NA,169,40,NULL
+2018,46050325,Cedric Williams, WR ,6-3,185,KIPP Renaissance,New Orleans,LA,0.8111,NA,289,84,NULL
+2018,46039141,Shawn Thomas, ATH ,5-10,146,Fort Bend Bush,Richmond,TX,0.8111,NA,148,288,NULL
+2018,46052523,Ben Tuipulotu, ATH ,6-4,200,Nation Ford,Fort Mill,SC,0.8111,NA,149,40,byu
+2018,85094,Johnny Rosario, WR ,6-3.5,200,Tilton School,Cambridge,MA,0.8111,NA,290,2,NULL
+2018,46037880,John Graves, DT ,6-1,290,Lancaster,Lancaster,TX,0.8107,NA,141,289,new mexico state
+2018,46039198,Ron Hardge III, S ,6-1,175,Cardinal Gibbons,Fort Lauderdale,FL,0.8107,NA,147,318,illinois
+2018,46041101,Jahlil Ryles, OG ,6-1.5,299,Central,Phenix City,AL,0.8104,NA,93,69,middle tennessee state
+2018,86456,Yo'Heinz Tyler, WR ,6-4,200,Warren Easton,New Orleans,LA,0.8104,NA,291,85,ball state
+2018,46038481,Logan Hall, WDE ,6-6,225,Belton,Belton,TX,0.8104,NA,109,290,houston
+2018,46047940,Dylan Horton, S ,6-4,202,Frisco,Frisco,TX,0.8104,NA,148,291,new mexico
+2018,46041804,Trae Hall, ATH ,6-2,180,Henderson,Henderson,TX,0.8104,NA,150,292,new mexico
