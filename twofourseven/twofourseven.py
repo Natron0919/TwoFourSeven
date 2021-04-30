@@ -270,7 +270,6 @@ class Recruit:
         return df
 
     def getDraft(self, year):
-
         player_id = []
         player = []
         position = []
@@ -278,35 +277,46 @@ class Recruit:
         draft_pick = []
         rd = []
         rating = []
-
+        team = []
+        
         for i in range(7):
             res = requests.get('https://247sports.com/League/NFL/DraftPicks/?year=' + str(year) + '&round=' + str(i+1) + '&mock=0', headers = {'User-Agent': 'Mozilla/5.0'})
             site = html.fromstring(res.content)
 
-            draft_list = site.xpath("//ul[@class='content-list draft-list league']/li[not(@class)]")
 
-            ids = site.xpath("//div[@class='name']/a[1]/@href")
-            player_id.extend([re.search("([^-]+$)", x).group(1) for x in ids])
-            player.extend(site.xpath("//div[@class='name']/a[1]/text()"))
+            draft_list = (site.xpath("//ul[@class='content-list draft-list league']/li[not(@class)]"))
+
             for x in draft_list:
-                try:
-                    position.append(x.xpath("div[@class='list-data left']/ul[@class='metrics-list']/li[1]/text()"))
+                if str(x.xpath("p[@class='analysis-txt']/text()")) != "['Forfeited Pick']":
+                    ids = x.xpath("div[@class='list-data left']/div[@class='name']/a[1]/@href")
+                    player_id.append([re.search("([^-]+$)", y).group(1) for y in ids])
+                    player.append(x.xpath("div[@class='list-data left']/div[@class='name']/a[1]/text()"))
+                    try:
+                        position.append(x.xpath("div[@class='list-data left']/ul[@class='metrics-list']/li[1]/text()"))
+                    except:
+                        position.append('NULL')
+                        continue
+
                     rd.append(str(i+1))
-                except:
-                    position.append('NULL')
-            rd_pick.extend(site.xpath("//div[@class='pick left']/span[1]/text()"))
-            draft_pick.extend(site.xpath("//div[@class='pick left']/span[2]/text()"))
-            rating.extend(site.xpath("//div[@class='rating']/span[@class='score']/text()"))
+                    rd_pick.append(x.xpath("div[@class='pick left']/span[1]/text()"))
+                    draft_pick.append(x.xpath("div[@class='pick left']/span[2]/text()"))
+                    rating.append(x.xpath("div[@class='list-data left']/div[@class='rating']/span[@class='score']/text()"))
+                    team.append(x.xpath("div[@class='team left']/a[2]/text()"))
 
-            time.sleep(1)
-
+        player_id = [''.join(x) for x in player_id] # Turn all entries into strings instead of one length lists
+        player = [''.join(x) for x in player] # Turn all entries into strings instead of one length lists
         position = [''.join(x) for x in position] # Turn all entries into strings instead of one length lists
+        rd_pick = [''.join(x) for x in rd_pick] # Turn all entries into strings instead of one length lists
+        draft_pick = [''.join(x) for x in draft_pick] # Turn all entries into strings instead of one length lists
+        rating = [''.join(x) for x in rating] # Turn all entries into strings instead of one length lists
+        team = [''.join(x) for x in team] # Turn all entries into strings instead of one length lists
 
         di = {
             'ID' : player_id,
             'Player' : player,
             'POS' : position,
-            'HS_Rating' : rating,
+            'Team' : team,
+            'Rating' : rating,
             'Round' : rd,
             'RD_pick' : rd_pick,
             'Draft_pick' : draft_pick
@@ -314,10 +324,8 @@ class Recruit:
 
         df = pd.DataFrame(di)
         df['POS'] = df['POS'].replace('', 'NULL')
-        df['HS_Rating'] = df['HS_Rating'].replace(' NA ', 'NULL')
-
+        df.insert(0, 'Year', year)
         return df
-
 
 class TransferPortal:
 
