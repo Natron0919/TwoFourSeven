@@ -325,6 +325,7 @@ class Recruit:
         df = pd.DataFrame(di)
         df['POS'] = df['POS'].replace('', 'NULL')
         df.insert(0, 'Year', year)
+        df['Rating'] = df['Rating'].replace(' NA ', 'NULL')
         return df
 
 class TransferPortal:
