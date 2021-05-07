@@ -123,10 +123,14 @@ class Recruit:
             ht.extend([x.split('/')[0].strip() for x in metrics])
             wt.extend([x.split('/')[1].strip() for x in metrics])
             hometown_err = site.xpath("//div[@class='recruit']/span/text()")
-            
-            hs_err = [x.split('(')[0] for x in hometown_err]
+            # OLD hs_err = [x.split('(')[0] for x in hometown_err]
+            # OLD citystate = [x.split('(')[1] for x in hometown_err]
+
+            pat = r"(.*)(?=\s\((.*?)\)$)"
+            hs_err = [re.search(pat, x).group(1) for x in hometown_err]
+            citystate = [re.search(pat, x).group(2) for x in hometown_err]
+
             hs.extend(x.strip() for x in hs_err)
-            citystate = [x.split('(')[1] for x in hometown_err]
             city.extend([x.split(',')[0] for x in citystate])
             state_err = []
             for x in citystate:
@@ -135,7 +139,7 @@ class Recruit:
                 except:
                     state_err.append('NULL')
 
-            state_err = [x.replace(')', '') for x in state_err]
+            # NOT NEEDED state_err = [x.replace(')', '') for x in state_err]
             state.extend([x.strip() for x in state_err])
 
             score.extend(site.xpath("//div[@class='rating']/div/span[@class='score']/text()"))
@@ -213,9 +217,14 @@ class Recruit:
             wt.extend([x.split('/')[1].strip() for x in metrics])
             hometown_err = site.xpath("//div[@class='recruit']/span/text()")
             
-            hs_err = [x.split('(')[0] for x in hometown_err]
+            pat = r"(.*)(?=\s\((.*?)\)$)"
+            hs_err = [re.search(pat, x).group(1) for x in hometown_err]
+            citystate = [re.search(pat, x).group(2) for x in hometown_err]
+
+
+            # OLD hs_err = [x.split('(')[0] for x in hometown_err]
             hs.extend(x.strip() for x in hs_err)
-            citystate = [x.split('(')[1] for x in hometown_err]
+            # OLD citystate = [x.split('(')[1] for x in hometown_err]
             city.extend([x.split(',')[0] for x in citystate])
             state_err = []
             for x in citystate:
@@ -224,7 +233,7 @@ class Recruit:
                 except:
                     state_err.append('NULL')
 
-            state_err = [x.replace(')', '') for x in state_err]
+            # NOT NEEDED state_err = [x.replace(')', '') for x in state_err]
             state.extend([x.strip() for x in state_err])
 
             score.extend(site.xpath("//div[@class='rating']/div/span[@class='score']/text()"))
