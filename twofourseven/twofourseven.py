@@ -108,7 +108,7 @@ class Recruit:
         team = []
         pattern = "college/(.*?)/"
 
-        for i in range(40):
+        for i in range(50):
             res = requests.get('https://247sports.com/Season/' + str(year) + '-Football/CompositeRecruitRankings/?ViewPath=~%2FViews%2FSkyNet%2FPlayerSportRanking%2F_SimpleSetForSeason.ascx&InstitutionGroup=HighSchool&Page=' + str(i + 1) + '', headers = {'User-Agent': 'Mozilla/5.0'})
             site = html.fromstring(res.content)
 
@@ -125,13 +125,30 @@ class Recruit:
             hometown_err = site.xpath("//div[@class='recruit']/span/text()")
             # OLD hs_err = [x.split('(')[0] for x in hometown_err]
             # OLD citystate = [x.split('(')[1] for x in hometown_err]
-
+            citystate = []
             pat = r"(.*)(?=\s\((.*?)\)$)"
-            hs_err = [re.search(pat, x).group(1) for x in hometown_err]
-            citystate = [re.search(pat, x).group(2) for x in hometown_err]
+            for x in hometown_err:
+                try:
+                    hs.append(re.search(pat, x.strip()).group(1))
+                except:
+                    hs.append('NULL')
+                    print(x)
+            for x in hometown_err:
+                try:
+                    citystate.append(re.search(pat, x.strip()).group(2))
+                except:
+                    citystate.append('NULL')
+            # hs_err = [re.search(pat, x).group(1) for x in hometown_err]
+            # citystate = [re.search(pat, x).group(2) for x in hometown_err]
 
-            hs.extend(x.strip() for x in hs_err)
-            city.extend([x.split(',')[0] for x in citystate])
+            # hs.extend(x.strip() for x in hs_err)
+            # city.extend([x.split(',')[0] for x in citystate])
+            for x in citystate:
+                try:
+                    city.append(x.split(',')[0])
+                except:
+                    city.append('NULL')
+
             state_err = []
             for x in citystate:
                 try:
@@ -216,16 +233,32 @@ class Recruit:
             ht.extend([x.split('/')[0].strip() for x in metrics])
             wt.extend([x.split('/')[1].strip() for x in metrics])
             hometown_err = site.xpath("//div[@class='recruit']/span/text()")
-            
-            pat = r"(.*)(?=\s\((.*?)\)$)"
-            hs_err = [re.search(pat, x).group(1) for x in hometown_err]
-            citystate = [re.search(pat, x).group(2) for x in hometown_err]
-
-
             # OLD hs_err = [x.split('(')[0] for x in hometown_err]
-            hs.extend(x.strip() for x in hs_err)
             # OLD citystate = [x.split('(')[1] for x in hometown_err]
-            city.extend([x.split(',')[0] for x in citystate])
+            citystate = []
+            pat = r"(.*)(?=\s\((.*?)\)$)"
+            for x in hometown_err:
+                try:
+                    hs.append(re.search(pat, x.strip()).group(1))
+                except:
+                    hs.append('NULL')
+                    print(x)
+            for x in hometown_err:
+                try:
+                    citystate.append(re.search(pat, x.strip()).group(2))
+                except:
+                    citystate.append('NULL')
+            # hs_err = [re.search(pat, x).group(1) for x in hometown_err]
+            # citystate = [re.search(pat, x).group(2) for x in hometown_err]
+
+            # hs.extend(x.strip() for x in hs_err)
+            # city.extend([x.split(',')[0] for x in citystate])
+            for x in citystate:
+                try:
+                    city.append(x.split(',')[0])
+                except:
+                    city.append('NULL')
+
             state_err = []
             for x in citystate:
                 try:
@@ -255,6 +288,7 @@ class Recruit:
                     team.append('NULL')
 
             time.sleep(2)
+
 
         di = {
         'ID' : player_id,
