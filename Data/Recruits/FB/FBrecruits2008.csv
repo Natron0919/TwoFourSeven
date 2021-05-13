@@ -1,7 +1,7 @@
 Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Rank,State_Rank,Team
 2008,24046,Da'Quan Bowers, SDE ,6-4,265,Bamberg-Ehrhardt,Bamberg,SC,0.9997,1,1,1,clemson
 2008,10648,Terrelle Pryor, DUAL ,6-6,233,Jeannette,Jeannette,PA,0.9997,2,1,1,ohio state
-2008,10911,Julio Jones, WR ,6-4,220,Foley,Foley,AL,0.9992,3,1,1,alabama
+2008,10911,Julio Jones, WR ,6-4,220,Foley ,Foley,AL,0.9992,3,1,1,alabama
 2008,15789,Darrell Scott, RB ,6-0,204,St. Bonaventure,Ventura,CA,0.9980,4,1,1,colorado
 2008,4830,Will Hill, S ,6-1,207,St. Peters Prep,Jersey City,NJ,0.9979,5,1,1,florida
 2008,24063,Patrick Peterson, CB ,6-1,195,Blanche Ely,Pompano Beach,FL,0.9977,6,1,1,lsu
@@ -47,7 +47,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,24098,Lucas Nix, OT ,6-6,295,Thomas Jefferson,Jefferson,PA,0.9776,46,9,3,pittsburgh
 2008,24271,Mike Glennon, PRO ,6-6,195,Westfield,Chantilly,VA,0.9773,47,4,3,north carolina state
 2008,16170,Darryl Stonum, WR ,6-2,180,Dulles,Sugar Land,TX,0.9772,48,9,7,michigan
-2008,10650,DeVier Posey, WR ,6-2,213,LaSalle,Cincinnati,OH,0.9769,49,10,3,ohio state
+2008,10650,DeVier Posey, WR ,6-2,213,LaSalle ,Cincinnati,OH,0.9769,49,10,3,ohio state
 2008,5675,Brice Butler, WR ,6-2,178,Norcross,Norcross,GA,0.9769,50,11,5,usc
 2008,24429,Devoe Torrence, ATH ,6-2,210,Washington,Massillon,OH,0.9764,51,1,4,NULL
 2008,10895,Jerrell Harris, OLB ,6-3,242,Gadsden City,Gadsden,AL,0.9758,52,4,4,alabama
@@ -73,7 +73,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,24299,Dann O'Neill, OT ,6-8,290,Grand Haven,Grand Haven,MI,0.9664,72,10,2,michigan
 2008,24265,Gerell Robinson, ATH ,6-4,210,Hamilton,Chandler,AZ,0.9663,73,2,1,arizona state
 2008,14354,Davon Johnson, WR ,5-11,163,Booker T. Washington,Miami,FL,0.9659,74,15,16,miami
-2008,15410,Marcus Robinson, WDE ,6-2,210,Homestead,Homestead,FL,0.9646,75,3,17,miami
+2008,15410,Marcus Robinson, WDE ,6-2,210,Homestead ,Homestead,FL,0.9646,75,3,17,miami
 2008,6868,C.C. Whitlock, CB ,5-10,170,Chester,Chester,SC,0.9645,76,6,3,south carolina
 2008,24161,Aundre Dean, RB ,6-1,200,Katy,Katy,TX,0.9638,77,8,13,ucla
 2008,10659,Jake Stoneburner, TE ,6-5,245,Dublin Coffman,Dublin,OH,0.9637,78,4,5,ohio state
@@ -99,7 +99,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,4668,Aaron Williams, CB ,6-1,175,McNeil,Austin,TX,0.9517,98,8,16,texas
 2008,23748,Kenny Tate, ILB ,6-4,220,DeMatha Catholic,Hyattsville,MD,0.9516,99,7,1,maryland
 2008,4849,Lerentee McCray, OLB ,6-2,252,Dunnellon,Dunnellon,FL,0.9516,100,9,19,florida
-2008,10785,Courtney Upshaw, OLB ,6-2,265,Eufaula,Eufaula,AL,0.9500,101,10,9,alabama
+2008,10785,Courtney Upshaw, OLB ,6-2,265,Eufaula ,Eufaula,AL,0.9500,101,10,9,alabama
 2008,15768,Landry Jones, PRO ,6-4,229,Artesia,Artesia,NM,0.9497,102,5,1,oklahoma
 2008,10658,Andrew Sweat, OLB ,6-2,238,Trinity,Washington,PA,0.9484,103,11,6,ohio state
 2008,14635,C.J. Holton, S ,6-2,195,Wakulla,Crawfordville,FL,0.9476,104,6,20,miami
@@ -158,7 +158,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,10637,Travis Howard, CB ,6-0,190,Dr Michael M. Krop,Miami,FL,0.9276,157,14,28,ohio state
 2008,6023,Jarmon Fortson, ATH ,6-3,220,Carver,Columbus,GA,0.9274,158,9,12,florida state
 2008,24313,Chris Tolliver, WR ,6-1,180,Rayville,Rayville,LA,0.9273,159,23,3,lsu
-2008,5026,Marcus Dowtin, OLB ,6-2,215,Fork Union Military,HS) ,NULL,0.9271,160,20,7,georgia
+2008,5026,Marcus Dowtin, OLB ,6-2,215,Fork Union Military (HS),Fork Union,VA,0.9271,160,20,7,georgia
 2008,10908,Barrett Jones, OG ,6-5,311,Evangelical Christian,Ridgely,TN,0.9269,161,5,1,alabama
 2008,24276,Chris Polk, RB ,5-11,205,Redlands East Valley,Redlands,CA,0.9267,162,15,17,washington
 2008,24442,Antoine Hicks, ATH ,6-2,193,Mansfield Timberview,Arlington,TX,0.9265,163,10,22,texas
@@ -202,7 +202,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,5360,Brandon Beachum, RB ,6-1,220,Cardinal Mooney,Youngstown,OH,0.9142,201,20,10,penn state
 2008,8299,Fred Smith, WR ,6-2,207,Southwestern,Detroit,MI,0.9139,202,30,6,michigan state
 2008,16268,Kevin Koger, TE ,6-4,235,Whitmer,Toledo,OH,0.9135,203,7,11,michigan
-2008,11561,Quinton Coples, SDE ,6-7,235,Hargrave Military Academy,HS) ,NULL,0.9131,204,11,8,north carolina
+2008,11561,Quinton Coples, SDE ,6-7,235,Hargrave Military Academy (HS),Chatham,VA,0.9131,204,11,8,north carolina
 2008,9899,Josh Haden, RB ,5-8,195,Friendly,Upper Marlboro,MD,0.9129,205,21,4,boston college
 2008,24426,Max Tuioti-Mariner, OG ,6-4,300,Corona,Corona,CA,0.9128,206,6,25,colorado
 2008,24428,Jarrell Barbour, S ,6-3,190,Centennial,Peoria,AZ,0.9125,207,18,2,arizona state
@@ -302,8 +302,8 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,5351,Andrew Wolridge, SDE ,6-1,275,Lexington,Lexington,TX,0.8938,301,17,43,texas am
 2008,18933,Lamar Harris, S ,6-2,180,Gilmer,Gilmer,TX,0.8938,302,25,44,oklahoma
 2008,10896,Dont'a Hightower, OLB ,6-4,260,Marshall County,Lewisburg,TN,0.8938,303,25,5,alabama
-2008,14492,Onterio McCalebb, APB ,5-10,175,Fort Meade,Fort Meade,FL,0.8938,304,3,43,auburn
-2008,54802,Onterrio McCalebb, APB ,5-10,154,Fort Meade,Fort Meade,FL,0.8938,305,4,44,auburn
+2008,14492,Onterio McCalebb, APB ,5-10,175,Fort Meade ,Fort Meade,FL,0.8938,304,3,43,auburn
+2008,54802,Onterrio McCalebb, APB ,5-10,154,Fort Meade ,Fort Meade,FL,0.8938,305,4,44,auburn
 2008,24386,Brandon Green, WR ,6-0,170,Robeson,Chicago,IL,0.8938,306,44,6,minnesota
 2008,4645,Ryan Roberson, FB ,5-10,210,Brenham,Brenham,TX,0.8937,307,2,45,texas
 2008,24410,Sedrick Johnson, WR ,6-4,200,Arp,Arp,TX,0.8936,308,45,46,iowa state
@@ -311,7 +311,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,24306,Sean Renfree, PRO ,6-3,205,Notre Dame Preparatory,Scottsdale,AZ,0.8933,310,13,6,duke
 2008,6052,Moses McCray, DT ,6-2,280,Hillsborough,Tampa,FL,0.8933,311,19,46,florida state
 2008,24367,Zach Schlink, OG ,6-4,295,Centennial,Peoria,AZ,0.8929,312,15,7,arizona state
-2008,19077,Bruce Taylor, ILB ,6-2,235,Myrtle Beach,Myrtle Beach,SC,0.8927,313,13,8,virginia tech
+2008,19077,Bruce Taylor, ILB ,6-2,235,Myrtle Beach ,Myrtle Beach,SC,0.8927,313,13,8,virginia tech
 2008,19047,D.J. Coles, WR ,6-3,210,Goochland,Goochland,VA,0.8926,314,46,10,virginia tech
 2008,24316,Kyle Prater, OLB ,6-2,215,Tivy,Kerrville,TX,0.8925,315,26,47,lsu
 2008,6013,Everett Dawkins, DT ,6-3,281,Byrnes,Duncan,SC,0.8922,316,20,9,florida state
@@ -323,7 +323,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,4856,Earl Okine, SDE ,6-7,290,Gainesville,Gainesville,FL,0.8917,322,18,48,florida
 2008,5604,A.J. Jenkins, WR ,6-1,170,Terry Parker,Jacksonville,FL,0.8916,323,47,49,illinois
 2008,5431,Matt Stankiewitch, OG ,6-3,293,Blue Mountain,Schuylkill Haven,PA,0.8912,324,18,14,penn state
-2008,10701,Brandon Lewis, SDE ,6-3,275,Pleasant Grove,Pleasant Grove,AL,0.8906,325,19,16,alabama
+2008,10701,Brandon Lewis, SDE ,6-3,275,Pleasant Grove ,Pleasant Grove,AL,0.8906,325,19,16,alabama
 2008,55533,Masengo Kabongo, DT ,6-3,279,Fairfield College Preparatory,Fairfield,CT,0.8906,326,22,2,maryland
 2008,54755,Xavier Avery, ATH ,5-11,185,Cedar Grove,Ellenwood,GA,0.8906,327,18,24,georgia
 2008,7921,Kapron Lewis-Moore, SDE ,6-4,225,Weatherford,Weatherford,TX,0.8906,328,20,49,notre dame
@@ -336,7 +336,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,24408,Chris Owusu, WR ,6-1,177,Oaks Christian,Thousand Oaks,CA,0.8895,335,48,40,stanford
 2008,24417,Mike Goodman, OT ,6-5,270,Columbus,Miami,FL,0.8895,336,33,50,boston college
 2008,24337,Keith Wells, WDE ,6-5,215,Gainesville,Gainesville,GA,0.8890,337,11,25,ohio state
-2008,24371,Craig Noble, DT ,6-3,285,Taft,Woodland Hills,CA,0.8889,338,23,41,washington
+2008,24371,Craig Noble, DT ,6-3,285,Taft ,Woodland Hills,CA,0.8889,338,23,41,washington
 2008,12907,Sam Maresh, ILB ,6-2,240,Champlin Park Senior,Council Bluffs,IA,0.8887,339,14,3,minnesota
 2008,24297,Dewitt  Stuckey, OLB ,6-0,212,Lincoln,Stockton,CA,0.8885,340,27,42,oregon
 2008,4640,Luke Poehlmann, OT ,6-6,260,Brenham,Brenham,TX,0.8882,341,34,51,texas
@@ -359,7 +359,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,24324,Jermaine Kearse, WR ,6-0,170,Lakes,Lakewood,WA,0.8853,358,51,6,washington
 2008,24412,Marc Anthony, CB ,6-0,182,Chandler,Chandler,AZ,0.8853,359,27,8,california
 2008,24369,David DeCastro, OC ,6-5,285,Bellevue,Bellevue,WA,0.8847,360,5,7,stanford
-2008,10700,Robert Lester, S ,6-2,210,Foley,Foley,AL,0.8844,361,27,18,alabama
+2008,10700,Robert Lester, S ,6-2,210,Foley ,Foley,AL,0.8844,361,27,18,alabama
 2008,54875,Matt Hall, OT ,6-10,320,Russellville,Russellville,AR,0.8844,362,36,5,arkansas
 2008,10893,Glenn Harbin, WDE ,6-5,260,McGill Toolen,Mobile,AL,0.8844,363,12,19,alabama
 2008,8481,Marlon Walls, OLB ,6-2,225,Olive Branch,Chatham,VA,0.8844,364,30,6,tennessee
@@ -405,7 +405,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,54881,Cruz Williams, WR ,6-4,206,Pulaski Academy,Little Rock,AR,0.8795,404,57,6,arkansas
 2008,55052,Ivan Matchett, RB ,5-10,206,St. Paul's Episcopal,Mobile,AL,0.8795,405,37,21,alabama
 2008,56990,Riley Dodge, ATH ,6-0,183,Southlake Carroll,Southlake,TX,0.8795,406,21,60,north texas
-2008,7938,David Posluszny, ILB ,6-0,206,Hopewell,Aliquippa,PA,0.8795,407,17,16,notre dame
+2008,7938,David Posluszny, ILB ,6-0,206,Hopewell ,Aliquippa,PA,0.8795,407,17,16,notre dame
 2008,54799,Marcus Jemison, ATH ,6-2,190,McAdory,McCalla,AL,0.8795,408,22,22,auburn
 2008,11699,Collins Okafor, RB ,6-1,210,Westside,Omaha,NE,0.8795,409,38,4,nebraska
 2008,19078,Dwight Tucker, DT ,6-2,280,Oviedo,Oviedo,FL,0.8795,410,31,60,virginia tech
@@ -431,7 +431,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55352,Charles Satchell, WR ,6-2,188,Milpitas,Milpitas,CA,0.8778,430,61,54,california
 2008,55829,Darrius Terry, CB ,6-0,190,Lufkin,Lufkin,TX,0.8778,431,28,63,louisiana tech
 2008,14373,Deveric Gallington, OG ,6-3,328,Richland,North Richland Hills,TX,0.8778,432,23,64,texas tech
-2008,31664,Matt Furstenburg, TE ,6-4,220,Hun School,Princeton,NJ,0.8778,433,21,8,maryland
+2008,31664,Matt Furstenburg, TE ,6-4,220,Hun School ,Princeton,NJ,0.8778,433,21,8,maryland
 2008,24383,Kaleb Ramsey, SDE ,6-4,260,Laurel Highlands,Uniontown,PA,0.8769,434,22,18,boston college
 2008,24382,Kurt Wermers, OG ,6-3,278,Crown Point,Crown Point,IN,0.8769,435,24,4,michigan
 2008,56741,Jimmy Bennett, OT ,6-8,270,West Potomac,Alexandria,VA,0.8764,436,41,12,uconn
@@ -574,7 +574,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55334,Jaybo Shaw, DUAL ,6-1,176,Flowery Branch,Flowery Branch,GA,0.8639,573,8,44,georgia tech
 2008,55282,Tim Wright, ATH ,6-4,200,Wall,Belmar,NJ,0.8639,574,31,15,rutgers
 2008,54988,Horatio Williams, ATH ,6-2,175,Oxford,Oxford,MS,0.8639,575,32,10,ole miss
-2008,10749,Undra Billingsley, SDE ,6-2,288,Woodlawn,Birmingham,AL,0.8639,576,28,27,alabama
+2008,10749,Undra Billingsley, SDE ,6-2,288,Woodlawn ,Birmingham,AL,0.8639,576,28,27,alabama
 2008,56481,Drew Schaefer, OT ,6-5,273,Eastlake,Sammamish,WA,0.8639,577,52,12,washington
 2008,56816,Cooper Bassett, TE ,6-5,235,Tuttle,Tuttle,OK,0.8639,578,28,10,oklahoma state
 2008,13872,Riley Reiff, OT ,6-6,300,Parkston,Parkston,SD,0.8639,579,53,1,iowa
@@ -663,7 +663,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55483,Gary Mason, WDE ,6-5,211,Waxahachie,Waxahachie,TX,0.8559,663,19,96,baylor
 2008,55301,William Beasley, ILB ,6-1,236,Milton,Milton,FL,0.8556,664,33,87,north carolina state
 2008,54985,Rolandis Woodland, WR ,6-8,185,Harmony Community School,Cincinnati,OH,0.8556,665,79,26,missouri
-2008,55268,Cameron Johnson, S ,6-4,228,Gonzaga,Washington,DC,0.8556,666,56,2,virginia
+2008,55268,Cameron Johnson, S ,6-4,228,Gonzaga ,Washington,DC,0.8556,666,56,2,virginia
 2008,8475,Dallas Thomas, OT ,6-5,284,Scotlandville Magnet,Baton Rouge,LA,0.8556,667,56,24,tennessee
 2008,56188,Matt Hunt, OG ,6-2,311,Carson,Carson,CA,0.8556,668,46,78,fresno state
 2008,56427,Adam Long, CB ,6-0,170,St. Bernard,Playa Del Rey,CA,0.8556,669,49,79,washington
@@ -733,7 +733,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55852,Kendrick Presley, ATH ,6-1,189,Kosciusko,Kosciusko,MS,0.8514,733,44,15,southern mississippi
 2008,54962,Aldon Smith, SDE ,6-5,235,Raytown,Kansas City,MO,0.8514,734,40,10,missouri
 2008,56538,Nick Halloran, SDE ,6-6,260,Buckingham Browne & Nichols School,Cambridge,MA,0.8514,735,41,2,boston college
-2008,10773,Brad Smelley, TE ,6-3,229,American Christian,Tuscaloosa,AL,0.8510,736,34,33,alabama
+2008,10773,Brad Smelley, TE ,6-3,229,American Christian ,Tuscaloosa,AL,0.8510,736,34,33,alabama
 2008,55342,Tim Dandridge, CB ,6-1,175,Highland Park Community,Highland Park,MI,0.8510,737,56,17,minnesota
 2008,15725,Blake Cantu, WR ,6-0,191,Southlake Carroll,Southlake,TX,0.8510,738,85,112,oregon
 2008,55346,Deleon Eskridge, APB ,5-11,181,Junipero Serra,San Mateo,CA,0.8510,738,16,81,minnesota
@@ -821,7 +821,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,12554,Jarrett Burns, S ,6-2,170,Lee,Huntsville,AL,0.8448,821,68,36,south carolina
 2008,14216,Zach Stadther, DT ,6-1,295,North Little Rock,North Little Rock,AR,0.8448,822,59,11,arkansas
 2008,56805,Mike Jones, CB ,5-11,191,Bishop McDevitt,Harrisburg,PA,0.8444,823,65,33,syracuse
-2008,55414,Simoni Lawrence, S ,6-1,207,Valley Forge Military Academy,HS) ,NULL,0.8444,824,69,34,minnesota
+2008,55414,Simoni Lawrence, S ,6-1,207,Valley Forge Military Academy (HS),Wayne,PA,0.8444,824,69,34,minnesota
 2008,55842,Michael Ricks, S ,6-3,190,R A Hubbard Sch,Courtland,AL,0.8444,825,70,37,troy
 2008,55115,Antonio Harper, OLB ,6-4,220,Melrose,Memphis,TN,0.8444,826,60,22,miami
 2008,11672,Brandon Kinnie, WR ,6-3,225,Grandview,Hillsboro,MO,0.8444,827,95,13,nebraska
@@ -833,11 +833,11 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55212,Carson Wiggs, K ,6-0,180,South Grand Prairie,Grand Prairie,TX,0.8431,833,5,127,purdue
 2008,55309,T.J. Graham, WR ,6-1,167,Wakefield,Raleigh,NC,0.8431,834,96,26,north carolina state
 2008,56890,Jamal Mosley, TE ,6-4,228,Kingsbury,Memphis,TN,0.8431,835,38,23,oklahoma state
-2008,5467,Spencer Benton, K ,6-2,195,Myrtle Beach,Myrtle Beach,SC,0.8431,836,6,21,clemson
+2008,5467,Spencer Benton, K ,6-2,195,Myrtle Beach ,Myrtle Beach,SC,0.8431,836,6,21,clemson
 2008,55036,Tandon Doss, WR ,6-3,195,Ben Davis,Indianapolis,IN,0.8431,837,97,8,indiana
 2008,56699,Jarell Childs, RB ,6-3,216,Oak Park,Kansas City,MO,0.8431,838,71,14,kansas state
 2008,11734,Lester Ward, RB ,6-3,186,Brenham,Brenham,TX,0.8431,839,72,128,nebraska
-2008,10726,Wesley Neighbors, S ,6-1,205,Huntsville,Huntsville,AL,0.8431,840,72,38,alabama
+2008,10726,Wesley Neighbors, S ,6-1,205,Huntsville ,Huntsville,AL,0.8431,840,72,38,alabama
 2008,55904,John Paul Alford, OG ,6-3,275,Kosciusko,Kosciusko,MS,0.8420,841,62,18,mississippi state
 2008,55807,Bret Jefcoat, PRO ,6-1,199,Itawamba Agricultural,Fulton,MS,0.8420,842,32,19,southern mississippi
 2008,56245,Jahleel Addae, APB ,5-11,170,Riverview,Riverview,FL,0.8420,843,17,105,central michigan
@@ -944,7 +944,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,56771,Alec Johnson, OG ,6-4,295,Mullen,Denver,CO,0.8337,944,70,14,san diego state
 2008,54869,Austin Eoff, OG ,6-5,308,Northside,Fort Smith,AR,0.8337,945,71,13,arkansas
 2008,54964,Gerald Rivers, WDE ,6-5,240,Cedar Grove,Ellenwood,GA,0.8337,946,26,66,ole miss
-2008,55241,Ryan Turnley, OG ,6-5,296,Hopewell,Aliquippa,PA,0.8337,947,72,37,pittsburgh
+2008,55241,Ryan Turnley, OG ,6-5,296,Hopewell ,Aliquippa,PA,0.8337,947,72,37,pittsburgh
 2008,56540,Chandler Koch, TE ,6-3,218,Flower Mound,Flower Mound,TX,0.8337,948,45,149,boise state
 2008,56419,David Freeman, APB ,5-8,179,Inglewood,Inglewood,CA,0.8337,949,21,100,washington
 2008,56389,Delmon Robinson, ATH ,5-11,181,Vicksburg,Vicksburg,MS,0.8337,950,68,21,mississippi state
@@ -953,7 +953,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,18920,Corey Smith, P ,6-1,208,Musselman,Inwood,WV,0.8337,953,2,2,alabama
 2008,25132,Donte Elliott, WR ,6-0,190,Alief Taylor,Houston,TX,0.8337,954,117,150,boston college
 2008,54948,Montori Hughes, DT ,6-5,255,Siegel,Murfreesboro,TN,0.8336,955,61,27,tennessee
-2008,55179,Chris Philpott, K ,6-0,186,St. Pius X,Atlanta,GA,0.8333,956,9,67,louisville
+2008,55179,Chris Philpott, K ,6-0,186,St. Pius X ,Atlanta,GA,0.8333,956,9,67,louisville
 2008,56767,Brandon Reid, ATH ,6-2,208,Canutillo,Canutillo,TX,0.8333,957,69,151,texas tech
 2008,23909,Latavius Murray, RB ,6-3,215,Onondaga,Nedrow,NY,0.8333,958,78,7,central florida
 2008,22426,Lavar Edwards, SDE ,6-4,300,Desire Street Academy,Baton Rouge,LA,0.8333,959,52,32,lsu
@@ -990,7 +990,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55437,Tashaun Gipson, CB ,6-0,180,Kimball,Dallas,TX,0.8333,990,79,161,wyoming
 2008,55681,Chris Banjo, S ,5-11,190,Kempner,Sugar Land,TX,0.8333,991,80,162,smu
 2008,54991,Alonzo Adams, WR ,6-0,175,Westside,Houston,TX,0.8333,992,120,163,tcu
-2008,55527,A.J. Francis, DT ,6-5,315,Gonzaga,Washington,DC,0.8333,993,63,5,maryland
+2008,55527,A.J. Francis, DT ,6-5,315,Gonzaga ,Washington,DC,0.8333,993,63,5,maryland
 2008,11700,Courtney Osborne, ATH ,6-3,170,South Garland,Garland,TX,0.8333,994,76,164,nebraska
 2008,56212,Ricky Pemasa, OLB ,5-11,189,Orange Lutheran,Orange,CA,0.8333,995,69,104,fresno state
 2008,5188,Eriks Briedis, DT ,6-5,263,Miami Country Day School,Miami,FL,0.8333,996,64,120,wisconsin
@@ -1089,7 +1089,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55853,Austin Quattrochi, OG ,6-3,274,Walton,Marietta,GA,0.8257,NA,81,80,southern mississippi
 2008,56359,Kevin Galeher, OG ,6-4,315,St Rita Of Cascia,Chicago,IL,0.8257,NA,82,23,western michigan
 2008,56234,Damion Whittington, OLB ,6-1,225,Norco,Norco,CA,0.8247,NA,76,112,fresno state
-2008,55137,Chris Carlino, OLB ,6-2,202,Hamilton Southeastern,Fishers,IN,0.8243,NA,77,13,purdue
+2008,55137,Chris Carlino, OLB ,6-2,202,Hamilton Southeastern ,Fishers,IN,0.8243,NA,77,13,purdue
 2008,55185,Eric Mebane, WDE ,6-4,210,Bowie,Arlington,TX,0.8243,NA,33,176,purdue
 2008,56198,Jonathan Rabe, SDE ,6-5,260,Damien,La Verne,CA,0.8243,NA,59,113,nevada
 2008,55296,Josh Hill, CB ,6-1,180,Klein Forest,Houston,TX,0.8243,NA,90,177,california
@@ -1273,7 +1273,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55719,Victor Jones, OLB ,6-1,219,Richland,North Richland Hills,TX,0.8111,NA,89,209,smu
 2008,55966,Joe Harris, ATH ,6-3,200,George Washington,Denver,CO,0.8111,NA,102,17,new mexico
 2008,18500,Carson Anderson, OG ,6-1,280,Florence,Florence,AL,0.8111,NA,97,47,tennessee
-2008,56684,Kedric Murry, TE ,6-4,250,Pleasant Grove,Pleasant Grove,AL,0.8111,NA,65,48,arkansas state
+2008,56684,Kedric Murry, TE ,6-4,250,Pleasant Grove ,Pleasant Grove,AL,0.8111,NA,65,48,arkansas state
 2008,55214,Troy Dannehower, DUAL ,6-1,213,Seabreeze,Daytona Beach,FL,0.8111,NA,22,153,florida international
 2008,55177,Nate Nord, TE ,6-5,211,West Boca Raton,Boca Raton,FL,0.8111,NA,66,154,louisville
 2008,56791,Brian Stahovich, K ,6-0,170,Cathedral Catholic,San Diego,CA,0.8111,NA,17,128,san diego state
@@ -1344,12 +1344,12 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55311,Colby Jackson, FB ,6-2,225,Dublin,Dublin,GA,0.8003,NA,8,95,north carolina state
 2008,56197,Anthony Garner, DT ,6-2,295,Jordan Matthews,Siler City,NC,0.8003,NA,85,35,east carolina
 2008,55022,Marques Parker, WR ,6-1,180,North Iowa,Buffalo Center,IA,0.8000,NA,155,8,tcu
-2008,55314,Clement Johnson, ATH ,6-0,185,Valley Forge Military Academy,HS) ,NULL,0.8000,NA,109,50,north carolina state
+2008,55314,Clement Johnson, ATH ,6-0,185,Valley Forge Military Academy (HS),Wayne,PA,0.8000,NA,109,50,north carolina state
 2008,56292,Marquell Colston, APB ,5-9,205,Modesto Christian,Modesto,CA,0.8000,NA,30,133,new mexico state
 2008,55318,Thomas Locust, DT ,6-3,330,Cerritos,Cerritos,CA,0.8000,NA,86,134,north carolina state
 2008,57039,Kevin Sabock, OLB ,6-2,203,Sycamore,Sycamore,IL,0.7990,NA,97,32,northern illinois
 2008,14597,Adam Follett, PRO ,6-5,201,Caledonia,Caledonia,MI,0.7990,NA,51,32,indiana
-2008,55354,Jared Rains, RB ,5-11,181,Hopewell,Aliquippa,PA,0.7990,NA,105,51,cincinnati
+2008,55354,Jared Rains, RB ,5-11,181,Hopewell ,Aliquippa,PA,0.7990,NA,105,51,cincinnati
 2008,22993,Kyle Madden, FB ,6-3,248,Harrison,Kennesaw,GA,0.7990,NA,9,96,central florida
 2008,56183,Marc Stevens, OT ,6-6,295,Lexington,Mansfield,OH,0.7990,NA,105,59,bowling green
 2008,15840,Lovell Jackson, ATH ,5-10,175,Plant,Tampa,FL,0.7986,NA,110,162,wake forest
@@ -1420,7 +1420,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55064,Chad Sherer, RB ,6-0,192,Hamilton Heights,Arcadia,IN,0.7889,NA,109,19,indiana
 2008,55999,Andre McQueen, WR ,5-11,175,Pinkston,Dallas,TX,0.7889,NA,162,227,new mexico
 2008,57017,John Shorter, S ,5-11,177,Lake Highlands,Dallas,TX,0.7889,NA,103,228,north texas
-2008,56286,Valtorrey Showers, WR ,5-8,151,Crockett,Detroit,MI,0.7889,NA,163,36,central michigan
+2008,56286,Valtorrey Showers, WR ,5-8,151,Crockett ,Detroit,MI,0.7889,NA,163,36,central michigan
 2008,6207,Collins Ukwu, SDE ,6-5,249,LaVergne,LaVergne,TN,0.7889,NA,77,38,kentucky
 2008,55705,Andrew Ellison, TE ,6-3,232,A&M Consolidated,College Station,TX,0.7889,NA,75,229,smu
 2008,56266,Richard Hayes, OG ,6-3,275,Lakes Community,Lake Villa,IL,0.7889,NA,107,33,central michigan
@@ -1494,7 +1494,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55810,Josh Parrish, OG ,6-4,275,Klein Collins,Spring,TX,0.7889,NA,114,242,louisiana tech
 2008,55367,L.J. Washington, WR ,6-0,180,Stagg Senior,Stockton,CA,0.7889,NA,174,148,california
 2008,56352,Denzell Guerra, S ,6-0,183,Grayson,Loganville,GA,0.7889,NA,110,105,middle tennessee state
-2008,55255,Marcelus Manear, S ,6-1,190,Milford Academy,HS)  ,NULL,0.7889,NA,111,13,florida international
+2008,55255,Marcelus Manear, S ,6-1,190,Milford Academy (HS) ,New Berlin,NY,0.7889,NA,111,13,florida international
 2008,56041,Travis Trickey, ILB ,6-3,225,Round Valley,Springerville,AZ,0.7878,NA,63,24,unlv
 2008,55464,Ethan Tuftee, OG ,6-4,285,Assumption,Davenport,IA,0.7868,NA,115,10,iowa state
 2008,56393,Chris Prom, SDE ,6-5,235,Port Washington,Port Washington,WI,0.7865,NA,82,8,western michigan
@@ -1526,7 +1526,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,57038,Brandon Rogers, PRO ,6-1,200,Union,Tulsa,OK,0.7816,NA,58,19,northern illinois
 2008,56454,Andrew Phelan, OG ,6-5,279,Lakota West,West Chester,OH,0.7816,NA,120,72,miami ohio
 2008,16231,Patrick Omameh, OG ,6-4,236,St. Francis De Sales,Columbus,OH,0.7816,NA,121,73,michigan
-2008,54893,Katrell Watters, OLB ,6-0,225,Thomasville,Thomasville,AL,0.7813,NA,111,56,alabama birmingham
+2008,54893,Katrell Watters, OLB ,6-0,225,Thomasville ,Thomasville,AL,0.7813,NA,111,56,alabama birmingham
 2008,56914,Ja'Rodd Watson, FB ,6-2,250,La Jolla,La Jolla,CA,0.7802,NA,11,150,colorado state
 2008,55461,Brandon Ribble, WR ,6-4,196,Ralston Valley,Arvada,CO,0.7802,NA,176,21,wyoming
 2008,55880,James Cravens, RB ,5-11,209,Centerville,Dayton,OH,0.7799,NA,115,74,ball state
@@ -1644,7 +1644,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,60353,Alex Rivas-Sanchez, OC ,6-10,230,Pratt Sr,Pratt,KS,0.7667,NA,18,14,south florida
 2008,56350,Ryan Byrne, DT ,6-0,270,Etowah,Woodstock,GA,0.7667,NA,104,109,western michigan
 2008,55504,Malcolm Riley, DT ,6-3,240,R Nelson Snider,Fort Wayne,IN,0.7667,NA,105,22,toledo
-2008,37791,Chandler Burden, OT ,6-4,180,LaSalle,Cincinnati,OH,0.7667,NA,130,85,kentucky
+2008,37791,Chandler Burden, OT ,6-4,180,LaSalle ,Cincinnati,OH,0.7667,NA,130,85,kentucky
 2008,56046,John Gioffre, DT ,6-1,280,Cinco Ranch,Katy,TX,0.7667,NA,106,270,rice
 2008,56382,Jeremy Michel, OG ,6-5,280,Manatee,Bradenton,FL,0.7667,NA,129,198,middle tennessee state
 2008,55588,David Hunter, OG ,6-2,270,Waller,Waller,TX,0.7667,NA,130,271,houston
@@ -1799,7 +1799,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,56580,Michael Autwell, WDE ,6-4,213,Midlothian,Midlothian,TX,0.7615,NA,71,294,louisiana monroe
 2008,56093,Troy Gilmer, RB ,6-1,203,Wayne,Dayton,OH,0.7611,NA,126,97,akron
 2008,56242,Scott Pettigrew, RB ,6-2,203,Independence,Thompson's Station,TN,0.7611,NA,127,43,buffalo
-2008,54892,Jarrell Watters, OLB ,6-0,215,Thomasville,Thomasville,AL,0.7594,NA,136,63,alabama birmingham
+2008,54892,Jarrell Watters, OLB ,6-0,215,Thomasville ,Thomasville,AL,0.7594,NA,136,63,alabama birmingham
 2008,56109,Jay Matthews, S ,6-1,195,Lake Oswego,Lake Oswego,OR,0.7580,NA,136,8,washington state
 2008,55210,Franklin Brown, ATH ,6-2,170,Booker T. Washington,Miami,FL,0.7563,NA,139,220,florida international
 2008,31419,Khaseem Greene, ATH ,6-2,195,Avon Old Farms,Avon,CT,0.7556,NA,140,10,rutgers
@@ -1978,7 +1978,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,55922,Chris Hill, RB ,5-11,193,Lansing,Lansing,KS,0.7222,NA,137,17,navy
 2008,55894,Ron Mallory, OT ,6-7,260,Deer Valley,Glendale,AZ,0.7222,NA,162,33,idaho
 2008,55945,Eric Stein, OLB ,6-0,192,Carpinteria Senior,Carpinteria,CA,0.7222,NA,154,210,navy
-2008,56818,Kent Cleveland, OG ,6-4,285,St. Pius X,Atlanta,GA,0.7222,NA,155,125,kent state
+2008,56818,Kent Cleveland, OG ,6-4,285,St. Pius X ,Atlanta,GA,0.7222,NA,155,125,kent state
 2008,55755,Joe Bailey, OG ,6-2,250,Marist School,Atlanta,GA,0.7222,NA,156,126,army
 2008,56802,Tyrell Harris, CB ,6-0,182,Bishop McDevitt,Harrisburg,PA,0.7222,NA,143,73,syracuse
 2008,54995,David Allen, ILB ,6-2,185,South Pasadena Senior,South Pasadena,CA,0.7222,NA,84,211,tulane
@@ -1999,3 +1999,169 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2008,56108,Rhyne Ladrach, TE ,6-6,225,Orrville,Orrville,OH,0.7222,NA,106,119,akron
 2008,56477,Kase Whitehead, K ,5-10,180,William Blount,Maryville,TN,0.7222,NA,33,52,marshall
 2008,18902,Ryan Clarke, FB ,6-0,230,DeMatha Catholic,Hyattsville,MD,0.7222,NA,14,34,west virginia
+2008,56757,Jerome Junior, OLB ,6-1,205,Archbishop Curley,Baltimore,MD,0.7222,NA,156,35,uconn
+2008,56617,Jonathan Gill, OG ,6-4,320,South Grand Prairie,Grand Prairie,TX,0.7222,NA,158,314,louisiana monroe
+2008,55950,Jabaree Tuani-Mckissack, OLB ,6-1,238,Brentwood Academy,Brentwood,TN,0.7222,NA,157,53,navy
+2008,56957,Jerry Bruner, RB ,6-3,225,Evergreen,Vancouver,WA,0.7222,NA,138,29,byu
+2008,55778,Derek Bisgard, WDE ,6-1,255,Saguaro,Scottsdale,AZ,0.7222,NA,83,34,army
+2008,14663,Charles Love III, TE ,6-3,190,Trezevant,Memphis,TN,0.7222,NA,107,54,indiana
+2008,55773,Caleb Harper, CB ,5-11,175,Siegel,Murfreesboro,TN,0.7222,NA,145,55,northwestern
+2008,56280,Pierre Hill, WR ,6-0,148,Archbishop Shaw,Marrero,LA,0.7222,NA,226,67,louisiana
+2008,56569,Trevor Walls, PRO ,6-6,209,Waverly,Waverly,OH,0.7222,NA,71,120,new mexico state
+2008,55931,Steve Schott, K ,6-0,148,Washington,Massillon,OH,0.7222,NA,34,121,ball state
+2008,56414,Nate Hardy, ATH ,5-9,164,New Haven,New Haven,MI,0.7222,NA,148,52,eastern michigan
+2008,56262,Cedric Fraser, WR ,6-3,180,Everglades,Hollywood,FL,0.7222,NA,227,238,central michigan
+2008,56423,Scott MacLeod, OT ,6-7,295,De La Salle Collegiate,Warren,MI,0.7219,NA,163,53,eastern michigan
+2008,55886,Trey Farquhar, K ,6-1,175,Redlands,Redlands,CA,0.7000,NA,35,213,idaho
+2008,56241,Gokhan Ozkan, OT ,6-7,300,Bishop Ford Central Catholic,Brooklyn,NY,0.7000,NA,164,17,buffalo
+2008,56220,Imani Chatman, OLB ,6-3,215,Frederick,Frederick,MD,0.7000,NA,158,36,buffalo
+2008,57028,Maurice Coon, ATH ,6-0,238,George W. Jenkins Senior,Lakeland,FL,0.7000,NA,149,239,northern illinois
+2008,56184,Anthony Stover, OLB ,6-2,200,Northwestern,Springfield,OH,0.7000,NA,159,122,bowling green
+2008,56777,Brian Milholland, OT ,6-6,300,Helix,La Mesa,CA,0.7000,NA,165,214,san diego state
+2008,31432,Sio Moore, OLB ,6-2,222,Apex,Apex,NC,0.7000,NA,160,47,uconn
+2008,56766,Malcolm Culver, WR ,6-2,190,Palmdale,Palmdale,CA,0.7000,NA,228,215,san diego state
+2008,55826,Chigozie Nwankwo, WDE ,6-3,250,Chaminade-Madonna Prep,Hollywood,FL,0.7000,NA,84,240,troy
+2008,56210,Logan Kudlinski, OT ,6-5,265,Orange Park,Orange Park,FL,0.7000,NA,166,241,east carolina
+2008,55928,Andre Robinson, S ,6-0,190,Bowie,Arlington,TX,0.7000,NA,150,315,idaho
+2008,56501,Melvin Payne, ILB ,6-2,212,LeFlore,Mobile,AL,0.7000,NA,86,69,ohio
+2008,31724,Khalid Wooten, S ,5-11,190,Wilmer Amina Carter,Rialto,CA,0.7000,NA,151,216,nevada
+2008,57031,Tommy Davis, ATH ,5-11,180,Althoff Catholic,Belleville,IL,0.7000,NA,150,45,northern illinois
+2008,56490,Joshua Greene, RB ,5-9,180,Springboro,Springboro,OH,0.7000,NA,139,123,ohio
+2008,56451,Matt Kennedy, OG ,6-5,240,New Prospect Christian School,Pamplico,SC,0.7000,NA,159,37,miami ohio
+2008,56679,Ronnie Johnson, RB ,6-1,190,Marbury Sch,Marbury,AL,0.7000,NA,140,70,arkansas state
+2008,56770,Brian Parker, WR ,6-5,195,Bradenton Preparatory Academy,Bradenton,FL,0.7000,NA,229,242,uconn
+2008,56066,Andrew Colosimo, TE ,6-6,232,Upper Arlington,Columbus,OH,0.7000,NA,108,124,akron
+2008,55153,Ryan Barnes, OT ,6-7,295,Carmel,Carmel,IN,0.7000,NA,167,31,louisville
+2008,56373,Bobby Wagner, OLB ,6-3,210,Colony,Ontario,CA,0.7000,NA,161,217,utah state
+2008,56495,Serggio Judkins, WR ,6-4,198,Forest,Ocala,FL,0.7000,NA,230,243,ohio
+2008,56238,Steven Means, WDE ,6-3,220,Grover Cleveland,Buffalo,NY,0.7000,NA,85,18,buffalo
+2008,54859,Andre Hicks, APB ,5-9,161,Lovett School,Atlanta,GA,0.7000,NA,45,128,alabama birmingham
+2008,56276,Yvener Lisca, CB ,5-9,170,Hialeah,Hialeah,FL,0.7000,NA,146,244,central michigan
+2008,56921,Tevinn Cantly, DT ,6-4,292,Arlington,Arlington,TX,0.7000,NA,130,316,north texas
+2008,56064,Stefan Nazar, OT ,6-5,290,St. Thomas Aquinas,Toronto,ON,0.7000,NA,168,1,rice
+2008,57033,Brian Lawson, DT ,6-2,256,Rich East Campus,Park Forest,IL,0.7000,NA,131,46,northern illinois
+2008,31722,Zach Sudfeld, TE ,6-7,230,Modesto,Modesto,CA,0.7000,NA,109,218,NULL
+2008,56570,Tommy Smith, OLB ,6-1,205,North Atlanta,Atlanta,GA,0.7000,NA,162,129,boise state
+2008,56227,Obi Ezemma, ILB ,6-0,215,Ramapo,Spring Valley,NY,0.7000,NA,87,19,buffalo
+2008,56628,Tyler Barnes, OG ,6-4,290,Bentonville,Bentonville,AR,0.7000,NA,160,24,arkansas state
+2008,56314,Keldric White, DUAL ,6-3,190,Pensacola,Pensacola,FL,0.7000,NA,34,245,louisiana
+2008,56243,Mark Richardson, ILB ,6-2,220,Hialeah,Hialeah,FL,0.7000,NA,88,246,buffalo
+2008,56294,Jordan Davenport, K ,5-10,170,Plano West,Plano,TX,0.7000,NA,36,317,new mexico state
+2008,56083,Earvin Sione, S ,6-5,190,McKinley,Honolulu,HI,0.7000,NA,152,16,hawaii
+2008,55739,Andrew Robiskie, OG ,6-1,285,Chagrin Falls,Chagrin Falls,OH,0.7000,NA,161,125,smu
+2008,56035,Bennielee Shelby, DT ,6-3,260,Greenville,Greenville,TX,0.7000,NA,132,318,unlv
+2008,56680,Greg McCall, DT ,5-11,297,Prattville,Prattville,AL,0.7000,NA,133,71,arkansas state
+2008,55908,Joshua Howard, S ,6-1,190,Inkster,Inkster,MI,0.7000,NA,153,54,ball state
+2008,55818,Ketaraus Stanton, RB ,6-2,205,Diboll,Diboll,TX,0.7000,NA,141,319,louisiana tech
+2008,56399,L'shane Bynum, OLB ,6-1,210,Truman,Taylor,MI,0.7000,NA,163,55,eastern michigan
+2008,55620,Johnson Bademosi, CB ,6-1,180,Gonzaga ,Washington,DC,0.7000,NA,147,9,stanford
+2008,56543,Mike Shepard, S ,6-2,205,Citronelle Sch,Citronelle,AL,0.7000,NA,154,72,memphis
+2008,55774,Talris Brown, ATH ,6-2,200,Milton,Milton,FL,0.7000,NA,151,247,troy
+2008,56630,Graham Bates, APB ,5-11,173,Nease,Ponte Vedra Beach,FL,0.7000,NA,46,248,arkansas state
+2008,56404,Kyle DeMaster, OLB ,6-2,200,Dakota,Macomb,MI,0.7000,NA,164,56,eastern michigan
+2008,56726,Tiuke Tuipulotu, S ,5-10,186,Junipero Serra,San Mateo,CA,0.7000,NA,155,219,san jose state
+2008,56587,Keenan Brown, SDE ,6-4,230,Arroyo Valley,San Bernardino,CA,0.7000,NA,106,220,san jose state
+2008,55891,Isaiah Lavea, DT ,6-2,285,Kamehameha Schools Maui,Makawao,HI,0.7000,NA,134,17,idaho
+2008,56287,Jesse Broadnax, OLB ,6-5,200,Pine Forest,Pensacola,FL,0.7000,NA,165,249,louisiana
+2008,56589,Daniel Carrillo Jr., CB ,6-1,180,Valley Christian,San Jose,CA,0.7000,NA,148,221,san jose state
+2008,56030,Litani Moimoi, DT ,6-3,270,Stanford New School,Menlo Park,CA,0.7000,NA,135,222,unlv
+2008,56473,Zach Tenuta, TE ,6-3,230,Walton,Marietta,GA,0.7000,NA,110,130,marshall
+2008,55919,Dan Manick, DT ,6-4,265,Lake Central,Saint John,IN,0.7000,NA,136,32,ball state
+2008,56084,Steve Stepter, WR ,5-10,180,Crenshaw,Los Angeles,CA,0.7000,NA,231,223,hawaii
+2008,55888,Robert Hatchett, WR ,5-9,159,Compton,Compton,CA,0.7000,NA,232,224,idaho
+2008,55921,Adam Morris, OG ,6-0,305,Dublin Scioto,Dublin,OH,0.7000,NA,162,126,ball state
+2008,55811,Nate Combs, OLB ,6-2,215,St. Xavier,Louisville,KY,0.7000,NA,166,14,army
+2008,56290,Tory Day, DT ,6-1,255,Niceville,Niceville,FL,0.7000,NA,137,250,louisiana
+2008,56045,Alex Young, TE ,6-4,235,Central Catholic,Modesto,CA,0.7000,NA,111,225,unlv
+2008,18897,Tyler Bitancurt, K ,6-1,200,West Springfield,Springfield,VA,0.7000,NA,37,53,west virginia
+2008,54879,Chris Raggett, S ,5-11,172,Ozen,Beaumont,TX,0.7000,NA,156,320,arkansas
+2008,56251,Graham Whinery, OT ,6-3,260,Martin,Arlington,TX,0.7000,NA,169,321,buffalo
+2008,56572,Tom Swanson, OT ,6-6,300,Skyline,Sammamish,WA,0.7000,NA,170,30,boise state
+2008,56489,Tyler Futrell, CB ,5-11,164,Altoona,Altoona,PA,0.7000,NA,149,74,ohio
+2008,56272,Marquis Butler, RB ,6-0,185,Alain LeRoy Locke,Los Angeles,CA,0.7000,NA,142,226,utah state
+2008,56351,Alfred Kikau, S ,6-0,180,Rio Americano,Sacramento,CA,0.7000,NA,157,227,utah state
+2008,56499,Mark VanDenburgh, OT ,6-4,290,Chesterton Senior,Chesterton,IN,0.7000,NA,171,33,eastern michigan
+2008,55930,Robert Siavii, OLB ,6-2,200,Leilehua,Wahiawa,HI,0.7000,NA,167,18,idaho
+2008,56178,Marquese Quiles, CB ,6-0,170,North Gwinnett,Suwanee,GA,0.7000,NA,150,131,bowling green
+2008,56559,Donovan Roberts, RB ,6-0,193,Mansfield,Mansfield,TX,0.7000,NA,143,322,new mexico state
+2008,55422,Nick Carlson, OT ,6-4,235,Prospect,Mount Prospect,IL,0.7000,NA,172,47,wyoming
+2008,56205,Zack Sudfeld, TE ,6-7,230,Modesto,Modesto,CA,0.7000,NA,112,228,nevada
+2008,55822,Tony Mitchell, APB ,5-10,190,Chaminade-Madonna Prep,Hollywood,FL,0.7000,NA,47,251,troy
+2008,56625,Eric Allen, OG ,6-0,265,Daphne,Daphne,AL,0.7000,NA,163,73,arkansas state
+2008,55266,Jercorey Quarterman, S ,6-2,185,Parkway Academy,Hollywood,FL,0.7000,NA,158,252,florida international
+2008,56193,Mike Brown, TE ,6-4,240,Reidsville,Reidsville,NC,0.7000,NA,113,48,east carolina
+2008,55777,Jeravin Matthews, WR ,5-9,170,Canon-McMillan,Canonsburg,PA,0.7000,NA,233,75,northwestern
+2008,55234,Joey Harris, TE ,6-3,230,Chiefland,Chiefland,FL,0.7000,NA,114,253,florida international
+2008,56343,Chris Harris, RB ,5-10,185,Duarte,Duarte,CA,0.7000,NA,144,229,utah state
+2008,56761,Corey Manning, TE ,6-5,234,Woodward Academy,Atlanta,GA,0.7000,NA,115,132,uconn
+2008,56552,Jeremy Little, WR ,6-1,180,Evangel Christian Academy,Shreveport,LA,0.7000,NA,234,68,new mexico state
+2008,55897,Justin Morales, PRO ,6-0,180,Carlsbad,Carlsbad,CA,0.7000,NA,72,230,idaho
+2008,56164,Jonathan Davis, CB ,5-11,170,Ravenna,Ravenna,OH,0.7000,NA,151,127,bowling green
+2008,56134,Jared Province, S ,6-1,180,John F Kennedy,Warren,OH,0.7000,NA,159,128,akron
+2008,54791,Tyler Fowler, OT ,6-6,290,Franklin County,Carnesville,GA,0.7000,NA,173,133,alabama birmingham
+2008,56202,Brett Roy, ILB ,6-4,240,Yucaipa,Yucaipa,CA,0.7000,NA,89,231,nevada
+2008,55565,Ryan Murray, OT ,6-6,330,Bok Edward,Philadelphia,PA,0.7000,NA,174,76,temple
+2008,56023,Daniel Kaanana, OT ,6-5,270,Kamehameha Schools Maui,Makawao,HI,0.7000,NA,175,19,unlv
+2008,55866,Bryan Willis, CB ,6-0,180,Shaw,Columbus,GA,0.7000,NA,152,134,troy
+2008,55517,Anthony Washington, S ,6-1,175,Fairborn,Fairborn,OH,0.7000,NA,160,129,toledo
+2008,55285,Kevin Smith, WR ,6-4,199,Plano East,Plano,TX,0.7000,NA,235,323,wake forest
+2008,56416,Ryan Kuhlman, SDE ,6-4,235,Findlay,Findlay,OH,0.7000,NA,107,130,eastern michigan
+2008,56872,Austin Wallis, K ,5-10,170,Blue Valley Northwest,Overland Park,KS,0.7000,NA,38,19,syracuse
+2008,55697,Jared Grigg, OG ,6-6,240,Har-Ber,Springdale,AR,0.7000,NA,164,25,tulsa
+2008,55885,Larry Dugan, DT ,6-2,279,Richard Gahr,Cerritos,CA,0.7000,NA,138,232,idaho
+2008,56221,Jose Cortes, OT ,6-5,285,Valhalla,El Cajon,CA,0.7000,NA,176,233,buffalo
+2008,55208,Stephen Bailey, OT ,6-6,265,American Heritage,Fort Lauderdale,FL,0.7000,NA,177,254,florida international
+2008,55896,Shelton Miles, CB ,5-9,175,Diamond Ranch,Pomona,CA,0.7000,NA,153,234,idaho
+2008,54871,Patrick Reynolds, CB ,5-9,175,Northview,Dothan,AL,0.7000,NA,154,74,alabama birmingham
+2008,55265,Andre Pound, OG ,6-3,280,Sebastian River,Sebastian,FL,0.7000,NA,165,255,florida international
+2008,56394,Phillip Tinsley, WDE ,6-3,210,Dodge County,Eastman,GA,0.7000,NA,86,135,middle tennessee state
+2008,56804,Matt Jones, WDE ,6-3,225,Aquinas Institute,Rochester,NY,0.7000,NA,87,20,syracuse
+2008,55782,Tony Davis, DT ,6-2,250,Perry,Perry,GA,0.7000,NA,139,136,troy
+2008,55027,Troy Wainwright, TE ,6-4,220,Barbe,Lake Charles,LA,0.7000,NA,116,69,tulane
+2008,56526,Curtis Johnson, WR ,6-0,182,Coral Gables Senior,Miami,FL,0.7000,NA,236,256,memphis
+2008,55275,Kenneth White, DT ,6-2,240,Norland,Miami,FL,0.7000,NA,140,257,florida international
+2008,55020,Justin Moreaux, WR ,6-2,193,St Louis Catholic,Lake Charles,LA,0.7000,NA,237,70,tcu
+2008,56711,Tim Starson, WDE ,6-5,215,Northside,Fort Smith,AR,0.7000,NA,88,26,arkansas state
+2008,56506,Van Drumgoole, WR ,5-11,160,Vallivue,Caldwell,ID,0.7000,NA,238,4,boise state
+2008,56984,Solomone Kafu, DT ,6-5,315,Rio Linda,Rio Linda,CA,0.7000,NA,141,235,byu
+2008,54974,Marquee Williams, DUAL ,6-1,186,Vanguard,Ocala,FL,0.7000,NA,35,258,central florida
+2008,55862,Kyle Wilborn, OG ,6-5,280,The Heritage School,Newnan,GA,0.7000,NA,166,137,troy
+2008,55684,Daniel Zychlinski, K ,6-3,215,King,Tampa,FL,0.7000,NA,39,259,stanford
+2008,56131,Michael Vandenkolk, WR ,5-11,175,Carlsbad,Carlsbad,CA,0.7000,NA,239,236,washington state
+2008,55225,Aaron Davis, SDE ,6-0,246,Bartow,Bartow,FL,0.7000,NA,108,260,florida international
+2008,56072,Kevin Davis, S ,6-1,200,Soquel,Soquel,CA,0.7000,NA,161,237,akron
+2008,55401,Jameson Davis, K ,5-11,190,Eagle,Eagle,ID,0.7000,NA,40,5,colorado
+2008,55870,Andrew Rodriguez, ATH ,6-3,215,Bishop Ireton,Alexandria,VA,0.7000,NA,152,54,army
+2008,56692,Brandon Parker, K ,6-1,180,St. Thomas Aquinas,Fort Lauderdale,FL,0.7000,NA,41,261,arkansas state
+2008,56372,Robert Tidwell, WDE ,6-3,235,Atascocita,Humble,TX,0.7000,NA,89,324,utah state
+2008,56044,Derek Clark, WR ,6-2,170,Bowie,Arlington,TX,0.7000,NA,240,325,rice
+2008,56015,Jason Heath, OG ,6-3,260,Del Oro,Loomis,CA,0.7000,NA,167,238,unlv
+2008,55901,Jeremy Hill, WR ,6-2,175,Marietta,Marietta,GA,0.7000,NA,241,138,ball state
+2008,56862,Josh Stover, OLB ,6-4,223,Woodson H.D.,Washington,DC,0.7000,NA,168,10,kent state
+2008,56185,Nicholas Tuminello, SDE ,6-4,225,Boardman,Youngstown,OH,0.7000,NA,109,131,bowling green
+2008,56019,Freddy Young, CB ,5-11,180,Mayfield,Las Cruces,NM,0.7000,NA,155,5,new mexico
+2008,55935,Cory Sykes, APB ,5-7,155,Thornton Township,Harvey,IL,0.7000,NA,48,48,ball state
+2008,55920,Robert Martin, OLB ,6-1,230,Pike,Indianapolis,IN,0.7000,NA,169,34,ball state
+2008,56503,Josh Williams, ATH ,6-1,210,Brandon,Ortonville,MI,0.7000,NA,153,57,eastern michigan
+2008,55821,Steve Erzinger, ILB ,6-2,220,Lamar,Houston,TX,0.7000,NA,90,326,army
+2008,56545,Frank Trotter, DT ,6-1,250,LeFlore,Mobile,AL,0.7000,NA,142,75,memphis
+2008,22696,Grant Harner, OT ,6-6,300,Bartram Trail,Jacksonville,FL,0.7000,NA,178,262,east carolina
+2008,55784,DeAndre Dorn, DT ,6-4,295,Olympia,Orlando,FL,0.7000,NA,143,263,troy
+2008,55446,Grant Mahoney, K ,5-10,160,Linn-Mar,Marion,IA,0.7000,NA,42,13,iowa state
+2008,55960,A.J. Butler, RB ,6-1,195,St Petersburg Catholic,Saint Petersburg,FL,0.7000,NA,145,264,new mexico
+2008,56533,Matthew Weller, K ,5-11,190,Twinsburg,Twinsburg,OH,0.7000,NA,43,132,ohio
+2008,55877,Jeff Barker, WDE ,6-5,215,Lowell Senior,Lowell,IN,0.7000,NA,90,35,ball state
+2008,55872,Christopher Garner, OT ,6-5,315,Augusta,Augusta,WI,0.7000,NA,179,12,wisconsin
+2008,56698,Justin Schoemehl, WR ,6-5,210,Oakville Sr.,Saint Louis,MO,0.7000,NA,242,25,arkansas state
+2008,56458,Brian Sutherland, CB ,5-9,170,Campbell,Smyrna,GA,0.7000,NA,156,139,miami ohio
+2008,55455,Austin McCoy, K ,6-3,190,Winter Haven,Winter Haven,FL,0.7000,NA,44,265,wyoming
+2008,56581,Adam Bertrand, OG ,6-4,320,Catholic,Baton Rouge,LA,0.7000,NA,168,71,louisiana monroe
+2008,55328,Mark Nelson, ILB ,6-2,225,Big Walnut,Sunbury,OH,0.7000,NA,91,133,cincinnati
+2008,56627,Ryan Aplin, PRO ,6-1,190,Fleming Island,Orange Park,FL,0.7000,NA,73,266,arkansas state
+2008,55832,Johnny Franco, S ,5-10,190,Tyrone Area,Tyrone,PA,0.7000,NA,162,77,army
+2008,55259,Eddie Poole, WR ,6-2,180,Glades Central,Belle Glade,FL,0.7000,NA,243,267,rutgers
+2008,55432,Kurt Hammerschmidt, TE ,6-6,235,DeSmet,Saint Louis,MO,0.7000,NA,117,26,iowa state
+2008,55881,Andre Dawson, WR ,6-0,172,Olentangy,Lewis Center,OH,0.7000,NA,244,134,ball state
+2008,55009,Ian Harson, S ,6-1,175,Iowa,Iowa,LA,0.7000,NA,163,72,tulane
+2008,55026,Rafael Vazquez, OG ,6-4,293,Edgewater,Orlando,FL,0.7000,NA,169,268,tulane
+2008,56530,Donald Law, TE ,6-5,250,Hamilton,Memphis,TN,0.7000,NA,118,56,memphis

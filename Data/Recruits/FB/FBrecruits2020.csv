@@ -75,7 +75,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46035273,Myles Hinton, OT ,6-6,308,Greater Atlanta Christian School,Norcross,GA,0.9662,74,6,9,stanford
 2020,46054099,Cody Simon, ILB ,6-1,218,St. Peters Prep,Jersey City,NJ,0.9660,75,4,1,ohio state
 2020,46080991,Jahmyr Gibbs, RB ,5-9,191,Dalton,Dalton,GA,0.9652,76,8,10,georgia tech
-2020,46050297,Roydell Williams, RB ,5-10,202,Hueytown,Hueytown,AL,0.9650,77,9,4,alabama
+2020,46050297,Roydell Williams, RB ,5-10,202,Hueytown ,Hueytown,AL,0.9650,77,9,4,alabama
 2020,46051895,Antonio Johnson, S ,6-3,182,East St. Louis,East Saint Louis,IL,0.9650,78,4,1,texas am
 2020,46052973,Zykeivous Walker, SDE ,6-4,260,Schley County,Ellaville,GA,0.9649,79,3,11,auburn
 2020,46050292,Jordan Toles, S ,6-1.5,190,St. Frances Academy,Baltimore,MD,0.9647,80,5,5,lsu
@@ -84,7 +84,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46048454,Trey Wedig, OT ,6-8,320,Kettle Moraine,Wales,WI,0.9641,83,7,1,wisconsin
 2020,46040436,BJ Ojulari, WDE ,6-3,224,Marietta,Marietta,GA,0.9634,84,6,12,lsu
 2020,46038938,Chantz Williams, WDE ,6-4,238,Oakleaf,Orange Park,FL,0.9634,85,7,15,miami
-2020,94682,Luke Doty, DUAL ,6-1,185,Myrtle Beach,Myrtle Beach,SC,0.9632,86,4,2,south carolina
+2020,94682,Luke Doty, DUAL ,6-1,185,Myrtle Beach ,Myrtle Beach,SC,0.9632,86,4,2,south carolina
 2020,46057921,Jahari Rogers, CB ,6-0,170,Arlington,Arlington,TX,0.9630,87,8,11,florida
 2020,46050894,Andrew Gentry, OT ,6-8,310,Columbine,Littleton,CO,0.9628,88,8,1,virginia
 2020,46056440,Antonio Doyle, ILB ,6-3,229,Lutheran North,Saint Louis,MO,0.9616,89,5,3,texas am
@@ -153,7 +153,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46038392,Kalel Mullings, OLB ,6-1,220,Milton Academy,Boston,MA,0.9329,152,10,1,michigan
 2020,46046852,Fadil Diggs, WDE ,6-5,230,Woodrow Wilson,Camden,NJ,0.9321,153,9,4,texas am
 2020,46049747,Darrion Henry, DT ,6-4.5,279,Princeton,Cincinnati,OH,0.9321,154,16,2,ohio state
-2020,46051850,Jackson Bratton, ILB ,6-3,233,Muscle Shoals,Muscle Shoals,AL,0.9318,155,10,5,alabama
+2020,46051850,Jackson Bratton, ILB ,6-3,233,Muscle Shoals ,Muscle Shoals,AL,0.9318,155,10,5,alabama
 2020,46049490,Jaquavion Fraziars, WR ,6-3.5,194,Dunnellon,DUNNELLON,FL,0.9317,156,26,23,florida
 2020,46041758,Issiah Walker Jr., OT ,6-4,309,Norland,Miami,FL,0.9308,157,15,24,florida
 2020,46037808,LV Bunkley-Shelton, WR ,6-0,180,Junipero Serra,Gardena,CA,0.9306,158,27,17,arizona state
@@ -259,7 +259,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46054816,Parker McQuarrie, PRO ,6-7,220,St. Paul's School,Weare,NH,0.9076,258,11,1,ucla
 2020,46040282,Marcus Fleming, WR ,5-9.5,160,Northwestern,Miami,FL,0.9072,259,44,42,nebraska
 2020,46036484,Kevin Swint, ILB ,6-2.5,243,Carrollton,Carrollton,GA,0.9072,260,15,27,clemson
-2020,46039728,Michael Alaimo, PRO ,6-4.5,214,St. Joseph Regional,Montvale,NJ,0.9071,261,12,8,purdue
+2020,46039728,Michael Alaimo, PRO ,6-4.5,214,St. Joseph Regional ,Montvale,NJ,0.9071,261,12,8,purdue
 2020,46049484,Jacolby Criswell, DUAL ,6-0.5,218,Morrilton,Morrilton,AR,0.9070,262,11,2,north carolina
 2020,94747,Keontae Jenkins, CB ,5-10,160,Frank W. Cox,Virginia Beach,VA,0.9069,263,18,7,tcu
 2020,46040754,Jaylen Garth, OT ,6-5,285,Port Neches-Groves,Port Neches,TX,0.9069,264,20,39,texas
@@ -311,7 +311,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46049446,Cameron Riley, OLB ,6-3.5,207,Hillcrest,Evergreen,AL,0.8976,310,20,13,auburn
 2020,46053818,Itayvion Brown, OLB ,6-3,218,Lutheran North,Saint Louis,MO,0.8976,311,21,5,minnesota
 2020,46050111,James Sylvester, WDE ,6-4,225,Newton,Newton,TX,0.8975,312,16,45,baylor
-2020,46051967,Logan Smothers, DUAL ,6-2,190,Muscle Shoals,Athens,AL,0.8975,313,14,14,nebraska
+2020,46051967,Logan Smothers, DUAL ,6-2,190,Muscle Shoals ,Athens,AL,0.8975,313,14,14,nebraska
 2020,46051306,Javian Hester, WR ,6-3.5,181,Booker T. Washington,Tulsa,OK,0.8974,314,53,3,missouri
 2020,46053505,Mark Redman, TE ,6-6,239,Corona Del Mar,Newport Beach,CA,0.8972,315,7,25,washington
 2020,46041924,D.J. Rogers, TE ,6-3,230,Eastside Catholic,Sammamish,WA,0.8971,316,8,7,california
@@ -404,7 +404,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46051970,Isaiah Raikes, DT ,6-0.5,324,St. Augustine Prep,Richland,NJ,0.8872,402,41,9,texas am
 2020,46052338,Lukas Ungar, TE ,6-4,213,Delbarton School,Morristown,NJ,0.8871,403,13,10,stanford
 2020,46053150,Aidan Keanaaina, DT ,6-3,292,J.K. Mullen,Denver,CO,0.8871,404,42,3,notre dame
-2020,46058962,Olu Fashanu, OT ,6-5,320,Gonzaga,Washington,DC,0.8871,405,32,6,penn state
+2020,46058962,Olu Fashanu, OT ,6-5,320,Gonzaga ,Washington,DC,0.8871,405,32,6,penn state
 2020,46059488,Nate McCollum, WR ,5-11,185,Dutchtown,Hampton,GA,0.8867,406,67,39,georgia tech
 2020,46040705,James Frenchie, WR ,5-9,175,Trinity Catholic,Saint Louis,MO,0.8864,407,68,6,illinois
 2020,46050178,Tyler Elsbury, OG ,6-5.5,292,Byron,Byron,IL,0.8864,408,18,6,iowa
@@ -561,7 +561,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46078946,Sidney Williams, ATH ,6-1,198,Vigor,Mobile,AL,0.8742,559,27,23,florida state
 2020,46041331,Korie Black, CB ,6-0.5,165,Connally,Waco,TX,0.8742,560,40,73,oklahoma state
 2020,46055673,Jordan Williams, OT ,6-6,310,Gainesville,Gainesville,GA,0.8742,561,44,60,georgia tech
-2020,46051888,Rodney Groce Jr., ILB ,6-1,240,Pleasant Grove,Pleasant Grove,AL,0.8742,562,29,24,mississippi state
+2020,46051888,Rodney Groce Jr., ILB ,6-1,240,Pleasant Grove ,Pleasant Grove,AL,0.8742,562,29,24,mississippi state
 2020,46039292,Jordon Ingram, ATH ,6-1,195,St. Paul's Episcopal,Mobile,AL,0.8742,563,28,25,central michigan
 2020,46079397,JaCobee Bryant, CB ,6-0,170,Hillcrest,Evergreen,AL,0.8742,564,41,26,kansas
 2020,46080439,Jayland Parker, ILB ,6-2,207,Westside,Macon,GA,0.8742,565,30,61,north carolina state
@@ -617,7 +617,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46047737,Octavious Oxendine, DT ,6-2,308,North Hardin,Radcliff,KY,0.8707,615,52,7,kentucky
 2020,46058481,Ramon Henderson, ATH ,6-2,183,Liberty,Bakersfield,CA,0.8706,616,34,55,notre dame
 2020,46056514,Cole Pedersen, OLB ,6-4,210,Central Decatur,Leon,IA,0.8706,617,40,6,iowa state
-2020,46083106,Malick Meiga, WR ,6-4,195,Cegep du Vieux,Montreal,QC,0.8702,618,99,1,penn state
+2020,46083106,Malick Meiga, WR ,6-4,195,Cegep du Vieux ,Montreal,QC,0.8702,618,99,1,penn state
 2020,46048424,Daniel Jackson, WR ,6-3,210,Steele,Cibolo,TX,0.8702,619,100,78,iowa state
 2020,46048841,Jaden Hullaby, ATH ,6-2,205,Mansfield Timberview,Mansfield,TX,0.8701,620,35,79,texas
 2020,46051423,Jamie Vance, CB ,5-10,155,Edna Karr,New Orleans,LA,0.8701,621,44,24,louisville
@@ -738,7 +738,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46080634,Sean McLaughlin, SDE ,6-7,220,Lincoln-Way East,Frankfort,IL,0.8647,736,32,13,northwestern
 2020,46056509,Jalen Logan-Redding, WDE ,6-4,235,Rock Bridge,Columbia,MO,0.8647,737,34,15,minnesota
 2020,46041629,Ben Finley, PRO ,6-2.5,195,Paradise Valley,Phoenix,AZ,0.8646,738,28,18,north carolina state
-2020,46053866,James Robinson, OG ,6-4,323,Carver,Montgomery,AL,0.8646,739,47,31,tennessee
+2020,46053866,James Robinson, OG ,6-4,323,Carver ,Montgomery,AL,0.8646,739,47,31,tennessee
 2020,45572864,Christian Fitzpatrick, WR ,6-4,210,Southfield,Southfield,MI,0.8646,740,117,23,louisville
 2020,46053516,Duece Mayberry, CB ,6-0,185,Owasso,Owasso,OK,0.8646,741,59,9,kansas
 2020,46056289,Rob Hanna, S ,6-0,170,Miami Palmetto,Miami,FL,0.8646,742,57,95,syracuse
@@ -748,7 +748,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46079861,Gabe Taylor, S ,5-10,170,Gulliver Prep,Miami,FL,0.8643,746,58,97,rice
 2020,46051801,Blake Shapen, PRO ,6-0,183,Evangel Christian Academy,Shreveport,LA,0.8643,747,30,32,baylor
 2020,46052903,Chayil Garnett, DUAL ,6-1,205,Lakeland,Lakeland,FL,0.8643,748,23,98,auburn
-2020,46049051,Luke Petitbon, OC ,6-3,285,Gonzaga,Washington,DC,0.8643,749,17,8,wake forest
+2020,46049051,Luke Petitbon, OC ,6-3,285,Gonzaga ,Washington,DC,0.8643,749,17,8,wake forest
 2020,46058454,Kaleb Long, WR ,6-5,188,Chamberlain,Tampa,FL,0.8643,750,118,99,NULL
 2020,46036881,Jake Wray, OT ,6-5,300,Marietta,Marietta,GA,0.8643,751,56,72,colorado
 2020,46037425,Mecose Todd, RB ,5-11,206,Carrollton,Carrollton,GA,0.8643,752,52,73,NULL
@@ -929,7 +929,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46058617,Will Shaffer, ILB ,6-1,210,Saguaro,Scottsdale,AZ,0.8564,927,42,22,arizona state
 2020,46098070,Rene Konga, SDE ,6-4,240,Ottawa,Canada,CANA,0.8564,928,42,1,rutgers
 2020,46097202,Tyler Guyton, OT ,6-6,275,Manor,Manor,TX,0.8562,929,72,112,tcu
-2020,46077096,Jake Shipley, SDE ,6-4,269,Shadow Hills,Indio,CA,0.8560,930,43,84,oregon
+2020,46077096,Jake Shipley, SDE ,6-4,269,Shadow Hills ,Indio,CA,0.8560,930,43,84,oregon
 2020,46055163,Marshawn Buchanan, ATH ,6-0,180,Adelanto,Adelanto,CA,0.8559,931,54,85,washington state
 2020,46055450,Elijah Turner, RB ,6-0,185,Buford,Buford,GA,0.8559,932,60,97,charlotte
 2020,46057708,Joshua Jones, OT ,6-4.5,304,Central,Phenix City,AL,0.8559,933,73,34,kentucky
@@ -1165,7 +1165,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46048963,Ronald Pledger, CB ,6-1,166,Phillips Academy,Chicago,IL,0.8484,NA,99,23,western michigan
 2020,46047861,Gavin Gerhardt, OG ,6-4,300,Xenia,Xenia,OH,0.8484,NA,72,46,cincinnati
 2020,46056626,Trent Howard, OG ,6-3.5,283,Briarwood Christian,Birmingham,AL,0.8484,NA,73,44,clemson
-2020,46056369,Jestus Johnson, OC ,6-3,324,Gonzaga,Washington,DC,0.8484,NA,24,10,virginia
+2020,46056369,Jestus Johnson, OC ,6-3,324,Gonzaga ,Washington,DC,0.8484,NA,24,10,virginia
 2020,46079775,Miles Fleming, ATH ,5-10,170,Bishop Hartley,Columbus,OH,0.8484,NA,76,47,minnesota
 2020,46058983,T.J. Tampa, WR ,6-2,171,Lakewood,Saint Petersburg,FL,0.8484,NA,171,149,iowa state
 2020,46038473,Johnquai Lewis, ATH ,6-0,170,Champagnat Catholic - Hialeah,Hialeah,FL,0.8484,NA,77,150,kansas
@@ -1198,7 +1198,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46082344,Hans Lillis, TE ,6-4,235,Germantown Academy,Fort Washington,PA,0.8477,NA,54,14,boston college
 2020,46056136,Sam Rengert, OT ,6-7,300,Fairbanks,Milford Center,OH,0.8477,NA,94,48,iowa state
 2020,87004,Jesus Machado, OLB ,6-1,205,Champagnat Catholic - Hialeah,Hialeah,FL,0.8477,NA,79,154,tulane
-2020,46058576,Xavier Hill, ATH ,6-1.5,193,Pleasant Grove,Pleasant Grove,AL,0.8477,NA,80,47,kennesaw state
+2020,46058576,Xavier Hill, ATH ,6-1.5,193,Pleasant Grove ,Pleasant Grove,AL,0.8477,NA,80,47,kennesaw state
 2020,46053257,Daryl Porter, CB ,5-11,168,American Heritage,Fort Lauderdale,FL,0.8476,NA,104,155,west virginia
 2020,46096580,Phillip Wilder, OT ,6-5,280,Mount Zion,Jonesboro,GA,0.8476,NA,95,126,NULL
 2020,46082206,Hunter Welcing, TE ,6-4,220,Lake Zurich,Lake Zurich,IL,0.8473,NA,55,24,northwestern
@@ -1244,7 +1244,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46084289,Cody Stufflebean, ATH ,6-4,235,Mcpherson,Mcpherson,KS,0.8464,NA,85,11,kansas state
 2020,46084040,Sam Brady, OLB ,6-3.5,197,North Lincoln,Lincolnton,NC,0.8464,NA,84,37,virginia
 2020,46054995,Xavier McGriff, WR ,6-2,182,Baldwin,Jacksonville,FL,0.8464,NA,179,160,florida international
-2020,46082175,Shane Calhoun, TE ,6-2,230,Creekside,Saint Augustine,FL,0.8464,NA,59,161,east carolina
+2020,46082175,Shane Calhoun, TE ,6-2,230,Creekside ,Saint Augustine,FL,0.8464,NA,59,161,east carolina
 2020,46045966,Jahmal Banks, WR ,6-3,170,St. Frances Academy,Arlington,VA,0.8464,NA,180,36,wake forest
 2020,46056398,Jalen Coit, WR ,5-10.5,157,Cheraw,Cheraw,SC,0.8464,NA,181,19,north carolina state
 2020,46084288,Ryan Kilburg, S ,6-1,187,Maine South,Park Ridge,IL,0.8463,NA,89,27,western michigan
@@ -1464,7 +1464,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46057194,Joshua Crabtree, WR ,6-3,185,Heritage,Wake Forest,NC,0.8389,NA,206,46,north carolina state
 2020,46078836,Trey Amos, ATH ,6-0,173,Catholic,New Iberia,LA,0.8389,NA,107,65,louisiana
 2020,46082317,Casey Irons, SDE ,6-2.5,233,Gilmer,Gilmer,TX,0.8389,NA,77,195,colorado state
-2020,46081640,Patrick Matan, OT ,6-4,296,Gonzaga,Washington,DC,0.8389,NA,121,12,north carolina state
+2020,46081640,Patrick Matan, OT ,6-4,296,Gonzaga ,Washington,DC,0.8389,NA,121,12,north carolina state
 2020,46082453,Tyrell Lawrence, OG ,6-7,344,Clearwater Academy International,Mississauga,ON,0.8389,NA,96,193,minnesota
 2020,46080282,Eston Miles, DT ,6-3,305,Williamston,Williamston,MI,0.8389,NA,107,35,western michigan
 2020,46056407,JD Head, PRO ,6-1.5,180,Pearland,Pearland,TX,0.8389,NA,50,196,louisiana tech
@@ -1473,7 +1473,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46081582,Brandon Hayes, WR ,6-2,188,Oak Grove,Hattiesburg,MS,0.8389,NA,207,34,southern mississippi
 2020,46086408,Dorian Strong, CB ,6-0,160,Dr. Henry Wise,Upper Marlboro,MD,0.8389,NA,130,41,virginia tech
 2020,46081538,Jamar Rucks, SDE ,6-2.5,255,Lanier,Buford,GA,0.8389,NA,78,146,appalachian state
-2020,46085549,Nick DeGennaro, WR ,6-0,183,Hun School,Princeton,NJ,0.8389,NA,208,32,maryland
+2020,46085549,Nick DeGennaro, WR ,6-0,183,Hun School ,Princeton,NJ,0.8389,NA,208,32,maryland
 2020,46081239,CJ McWilliams, ATH ,5-8,160,Haughton,Haughton,LA,0.8388,NA,108,66,louisiana tech
 2020,46084261,Logan Berzins, DT ,6-4,275,Cathedral Catholic,San Diego,CA,0.8386,NA,109,141,stanford
 2020,46057465,Junior Summerhill, S ,6-0,190,Central,Florence,AL,0.8386,NA,107,57,south alabama
@@ -1673,7 +1673,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46082274,Grant Starck, OT ,6-5,280,Thurston,Springfield,OR,0.8329,NA,135,9,nevada
 2020,46042422,Teagan Wilk, S ,5-11,180,Berwick Area,Berwick,PA,0.8329,NA,124,19,east carolina
 2020,46057242,Michael Frogge, TE ,6-5,225,Northern Guilford,Greensboro,NC,0.8328,NA,79,54,wake forest
-2020,46081202,Kaden Moore, OT ,6-3,305,Freedom,Bethlehem,PA,0.8328,NA,136,20,virginia tech
+2020,46081202,Kaden Moore, OT ,6-3,305,Freedom ,Bethlehem,PA,0.8328,NA,136,20,virginia tech
 2020,46049707,Reggie Brown, TE ,6-3,233,Legacy the School of Sport Sciences,Houston,TX,0.8327,NA,80,231,tulane
 2020,46046856,Gerand Turner, WR ,5-11,190,South Miami Senior,Miami,FL,0.8326,NA,228,230,tennessee state
 2020,46055285,Will Jones, OC ,6-2,280,Atascocita,Humble,TX,0.8326,NA,31,232,sam houston state
@@ -1700,13 +1700,13 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46052931,Nathaniel James, DT ,6-0,260,Avon,Avon,IN,0.8317,NA,124,18,washington state
 2020,46047155,Nikale Davis, WDE ,6-3,230,Westmoore,Oklahoma City,OK,0.8317,NA,88,24,NULL
 2020,46052173,Keyshawn Hunter, DT ,6-2,295,Woodson H.D.,Washington,DC,0.8317,NA,125,14,old dominion
-2020,46081352,Larry Stephens, WR ,5-11,183,Springfield,Springfield,OH,0.8317,NA,232,68,toledo
+2020,46081352,Larry Stephens, WR ,5-11,183,Springfield ,Springfield,OH,0.8317,NA,232,68,toledo
 2020,46084086,Cash Devaughn, DT ,6-0.5,310,Middle Creek,Apex,NC,0.8317,NA,126,55,gardner webb
 2020,46082773,Issiah Nixon, RB ,6-0,223,Elkins,Missouri City,TX,0.8317,NA,99,235,texas state
 2020,46055564,Cody Kopp, ILB ,6-1,210,University Christian,Jacksonville,FL,0.8317,NA,71,236,northern illinois
 2020,46051351,Devin Chandler, WR ,6-0,171,William Amos Hough,Cornelius,NC,0.8316,NA,233,56,wisconsin
 2020,46055118,Chancellor Bright, WR ,6-1,180,Knoxville Catholic,Knoxville,TN,0.8316,NA,234,50,marshall
-2020,46084275,Brandon Lane, SDE ,6-5,265,St. Michael the Archangel Catholic,Lees Summit,MO,0.8315,NA,92,31,south dakota state
+2020,46084275,Brandon Lane, SDE ,6-5,265,St. Michael the Archangel Catholic ,Lees Summit,MO,0.8315,NA,92,31,south dakota state
 2020,46093942,Shontrail Key, DT ,6-7,250,Morgan Park,Chicago,IL,0.8315,NA,127,32,arizona
 2020,46052253,Jaylen Clausell, WDE ,6-3,205,Pine Forest,Pensacola,FL,0.8315,NA,89,237,NULL
 2020,46053527,Quinton Cage, S ,5-10,185,Archbishop Rummel,Metairie,LA,0.8315,NA,129,78,nicholls state
@@ -1812,7 +1812,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46080162,Fiva Tulafale, ILB ,6-3,230,Waipahu,Waipahu,HI,0.8298,NA,78,18,NULL
 2020,46083578,Ben Bell, SDE ,6-2,255,Cedar Park,Cedar Park,TX,0.8296,NA,98,249,louisiana tech
 2020,46055771,Quavon Matthews, WR ,5-11,165,Largo,Largo,FL,0.8296,NA,244,252,iowa
-2020,46084697,Michael Leone, OT ,6-5,270,Hun School,Princeton,NJ,0.8295,NA,145,40,rice
+2020,46084697,Michael Leone, OT ,6-5,270,Hun School ,Princeton,NJ,0.8295,NA,145,40,rice
 2020,46081215,Daniel Hishaw Jr., ATH ,5-10,207,Moore,Moore,OK,0.8294,NA,140,26,kansas
 2020,46055358,Mikele Colasurdo, PRO ,6-1,210,Chapman,Inman,SC,0.8294,NA,61,37,georgia state
 2020,46094709,Tailique Williams, ATH ,5-9,165,Harris County,Hamilton,GA,0.8294,NA,141,170,georgia state
@@ -1875,7 +1875,7 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46056293,Eric Rogers, S ,6-2,165,Burlington Twp,Cherry Hill,NJ,0.8274,NA,144,42,northern illinois
 2020,46057239,Myles Bailey, RB ,6-0,180,North Brunswick Twp,North Brunswick,NJ,0.8274,NA,108,43,central michigan
 2020,46053603,Christian Miller, CB ,5-9.5,174,Hilton Head,Hilton Head Island,SC,0.8274,NA,165,40,gardner webb
-2020,46085009,Javar Strong, S ,6-3,175,Muscle Shoals,Cherokee,AL,0.8274,NA,145,72,arkansas state
+2020,46085009,Javar Strong, S ,6-3,175,Muscle Shoals ,Cherokee,AL,0.8274,NA,145,72,arkansas state
 2020,46047432,Malaki Roberson, ATH ,5-9,170,Graham-Kapowsin,Graham,WA,0.8274,NA,148,24,eastern washington
 2020,46053898,Israel Whitmore, OLB ,6-2,220,Choctaw County,Ackerman,MS,0.8273,NA,126,45,arkansas state
 2020,46057248,Ezemdi Udoh, TE ,6-5,242,Terry Sanford,Fayetteville,NC,0.8269,NA,89,64,north carolina state
@@ -1999,3 +1999,503 @@ Year,ID,Player,POS,HT,WT,High School,City,State,Rating,National_Rank,Position_Ra
 2020,46082187,Willie Lampkin, DT ,6-1,288,Lakeland,Lakeland,FL,0.8234,NA,147,279,coastal carolina
 2020,46080384,Tim Coutras, S ,6-2,190,Nolensville,Nolensville,TN,0.8232,NA,154,56,liberty
 2020,46084984,Matthew Rueve, PRO ,6-4,183,St. Xavier,Cincinnati,OH,0.8227,NA,72,73,boston college
+2020,46058450,Nae'Saan Dickerson, WR ,6-3,185,Hapeville Charter,Atlanta,GA,0.8227,NA,261,181,south alabama
+2020,46085610,Gerrell Johnson, OLB ,6-3,195,New Town,Washington,DC,0.8227,NA,135,51,massachusetts
+2020,46050566,Armon Wallace, DT ,5-11.5,288,DeSmet,Saint Louis,MO,0.8227,NA,148,35,missouri state
+2020,46058712,Briston Bennett, CB ,6-0,165,Battle Ground Academy,Franklin,TN,0.8227,NA,181,57,charlotte
+2020,46083799,Tyler Roberson, SDE ,6-3,255,Trinity,Louisville,KY,0.8227,NA,105,15,kent state
+2020,46080677,Cam Griffin, CB ,6-1,180,Lutheran North,Saint Louis,MO,0.8227,NA,182,36,western michigan
+2020,46047089,Anthony Baker, DT ,6-0,275,Cardinal Ritter College Prep,Saint Louis,MO,0.8227,NA,149,37,eastern illinois
+2020,46081437,Delonus Kabir, OG ,6-3,305,Pahokee,Belle Glade,FL,0.8227,NA,126,280,NULL
+2020,46080045,Jack del Rio, OLB ,6-3,215,Clearwater Central Catholic,Clearwater,FL,0.8227,NA,136,281,rutgers
+2020,46081339,Scotty Edwards, ATH ,6-1,185,Olympus,Salt Lake City,UT,0.8227,NA,157,16,stanford
+2020,46081559,Cassius Savage, CB ,6-1,172,Western,Anaheim,CA,0.8227,NA,183,175,san diego state
+2020,46056304,Donovan Marcus, RB ,5-11,179,Brownsburg,Brownsburg,IN,0.8227,NA,121,24,ball state
+2020,46081628,Preston Rex, ATH ,6-0,187,San Clemente,San Clemente,CA,0.8227,NA,158,176,byu
+2020,46085251,Andre Lamas, OG ,6-3,270,Columbus,Miami,FL,0.8227,NA,127,282,florida atlantic
+2020,46084856,Jay Rudolph, TE ,6-3.5,215,Horizon,Scottsdale,AZ,0.8227,NA,98,41,san diego state
+2020,46053069,Jack McKenzie, OG ,6-4,285,Parklane Academy,Mccomb,MS,0.8227,NA,128,48,louisiana
+2020,46084481,Cody Jones, CB ,6-1,185,Sandy Creek,Tyrone,GA,0.8227,NA,184,182,massachusetts
+2020,46037457,Zay Britt, APB ,5-7,183,Oxford,Oxford,AL,0.8226,NA,26,79,NULL
+2020,46082844,Nick Schwitzgebel, OG ,6-3,285,St Ignatius,Cleveland,OH,0.8225,NA,129,74,NULL
+2020,46076962,Gavin Meyer, WDE ,6-4,243,Franklin,Franklin,WI,0.8223,NA,100,15,wyoming
+2020,46055405,Cole Latos, SDE ,6-5,248,Allen,Allen,TX,0.8223,NA,106,279,rice
+2020,46084964,Jake Levant, OLB ,6-0,219,Vestavia Hills,Birmingham,AL,0.8223,NA,137,80,auburn
+2020,46085391,Keshaun Taylor, WR ,6-0,195,Thomas Jefferson,Denver,CO,0.8223,NA,262,11,wyoming
+2020,46051834,Teylor Jackson, S ,6-0,210,Woodson H.D.,Washington,DC,0.8222,NA,155,15,east carolina
+2020,46042635,Jake Lugg, OT ,6-4,275,North Allegheny,Wexford,PA,0.8221,NA,164,25,harvard
+2020,46083959,Quinton Reese, CB ,6-0,180,Blessed Trinity Catholic,Roswell,GA,0.8221,NA,185,183,liberty
+2020,46082368,Ivan Davis, WDE ,6-4,210,Plymouth,Canton,MI,0.8220,NA,101,46,northern illinois
+2020,46085233,Caullin Lacy, ATH ,5-10,175,Faith Academy,Mobile,AL,0.8220,NA,159,81,south alabama
+2020,46085842,Bryce Thoman, OG ,6-5,275,Central Dauphin,Harrisburg,PA,0.8219,NA,130,26,temple
+2020,46080680,Demetrius Washington, WR ,5-11.5,189,Riverview Gardens,Saint Louis,MO,0.8217,NA,263,38,NULL
+2020,46086044,Brandon Wilson, SDE ,6-0,230,Battery Creek,Beaufort,SC,0.8216,NA,107,45,georgia southern
+2020,46052194,Caden Rose, ATH ,5-10,170,Bob Jones ,Madison,AL,0.8215,NA,160,82,NULL
+2020,46055337,CJ Paymon, S ,6-1,190,Pike Road,Montgomery,AL,0.8215,NA,156,83,NULL
+2020,46077092,Karaun St Louis, WR ,5-10.5,178,Western,Fort Lauderdale,FL,0.8215,NA,264,283,NULL
+2020,46054195,Andrew Rumary, OG ,6-7,295,Valley Vista,Surprise,AZ,0.8215,NA,131,42,uc davis
+2020,46081576,Kalen Chambers, CB ,6-0,175,Southaven,Southaven,MS,0.8215,NA,186,49,central arkansas
+2020,46057640,Darryle Ware, ILB ,6-2,220,Fort Dorchester,North Charleston,SC,0.8215,NA,84,46,NULL
+2020,46080831,Joseph Alexander, OG ,6-2,295,Catholic,Baton Rouge,LA,0.8215,NA,132,89,harvard
+2020,46056589,Travis Tillman, WR ,5-11,135,Killian,Miami,FL,0.8215,NA,265,284,NULL
+2020,46083777,Emmanuel Perry, CB ,6-0,205,Armwood,Seffner,FL,0.8215,NA,187,285,NULL
+2020,46080832,Dylan Lacroix, WDE ,6-3,215,Park Vista Community,Lake Worth,FL,0.8215,NA,102,286,dartmouth
+2020,46049000,Donovan Thomas, S ,6-2,194,Oakleaf,Orange Park,FL,0.8215,NA,157,287,NULL
+2020,46047202,Corey Polk, RB ,6-1,202,Seminole Ridge,Loxahatchee,FL,0.8215,NA,122,288,NULL
+2020,46042818,Gage Gaynor, OC ,6-3,266,Marjory Stoneman Douglas,Pompano Beach,FL,0.8215,NA,35,289,colorado state
+2020,46082688,Jerren Gilbert, OC ,6-2,280,Sam Houston,Lake Charles,LA,0.8214,NA,36,90,louisiana tech
+2020,46082559,Koa Eldredge, WR ,6-0,185,Punahou,Honolulu,HI,0.8214,NA,266,20,byu
+2020,46041912,Tye Kassen, OG ,6-3,265,Saguaro,Scottsdale,AZ,0.8214,NA,133,43,northern arizona
+2020,46085269,CJ Crump, CB ,6-0,170,Page,Greensboro,NC,0.8214,NA,188,67,east carolina
+2020,46083381,Donald Clea, S ,6-2,205,Trinity Christian Academy,Jacksonville,FL,0.8214,NA,158,290,NULL
+2020,46049954,Chandler Galban, DUAL ,6-1.5,202,Lone Star,Frisco,TX,0.8214,NA,40,280,NULL
+2020,46038010,Marcus Carroll, RB ,5-10,192,Hapeville Charter,Atlanta,GA,0.8214,NA,123,184,georgia state
+2020,46085290,Taron Keith, RB ,5-9,175,Mainland,Deland,FL,0.8214,NA,124,291,bowling green
+2020,46080982,Carlos Johnson, DT ,5-11,311,Spanish Fort,Spanish Fort,AL,0.8213,NA,150,84,south alabama
+2020,46080015,Nicholas Martinez, OT ,6-5,285,Servite,Anaheim,CA,0.8213,NA,165,177,kansas
+2020,46042922,Clarence Dalton, RB ,5-10,213,Ball,Galveston,TX,0.8213,NA,125,281,NULL
+2020,46055759,David Carter, CB ,6-0,170,River Rouge,River Rouge,MI,0.8213,NA,189,47,eastern michigan
+2020,46076963,Demerick Morris, DT ,6-3,285,Phillips Academy,Chicago,IL,0.8213,NA,151,37,temple
+2020,46080657,Elijah Gainey, PRO ,6-3,218,Flowery Branch,Flowery Branch,GA,0.8213,NA,73,185,south alabama
+2020,46098880,Jeremy Mercier, OLB ,6-3,215,Gila Bend,Gila Bend,AZ,0.8213,NA,138,44,utah
+2020,46081546,Mark Brownlee, RB ,5-11,210,Elkhart Central,Elkhart,IN,0.8212,NA,126,25,ball state
+2020,46052302,Muheem McCargo, RB ,5-11,200,Woodrow Wilson,Camden,NJ,0.8212,NA,127,48,temple
+2020,94184,Roman Purcell, DUAL ,6-0.5,191,Warren Central,Indianapolis,IN,0.8212,NA,41,26,NULL
+2020,46057800,Jiovanny Holmes, S ,6-2,190,Cleveland Heights,Cleveland,OH,0.8208,NA,159,75,boston college
+2020,46057342,Christan Horn, WR ,6-1,165,Westwood,Blythewood,SC,0.8207,NA,267,47,appalachian state
+2020,46085685,Trevonte Sylvester, SDE ,6-5,230,Breaux Bridge,Breaux Bridge,LA,0.8206,NA,108,91,houston
+2020,46055735,Daveren Rayner, S ,6-2,185,Lawrence Central,Indianapolis,IN,0.8206,NA,160,27,northern illinois
+2020,46040817,Brandon James, CB ,5-9.5,173,John Ehret,Marrero,LA,0.8206,NA,190,92,nicholls state
+2020,46057651,Rayquan Jones, DT ,6-1,285,Rome,Rome,GA,0.8206,NA,152,186,coastal carolina
+2020,46058316,Nolan Mclean, PRO ,6-3,220,Garner,Garner,NC,0.8206,NA,74,68,oklahoma state
+2020,46059503,Maximus Campbell, WR ,6-4,185,Atlantic,Port Orange,FL,0.8206,NA,268,292,NULL
+2020,46059030,Jaxon Richards, WDE ,6-5,215,Chaparral,Scottsdale,AZ,0.8204,NA,103,45,NULL
+2020,46084314,Jordan Nichols, S ,6-0,185,Connally,Waco,TX,0.8204,NA,161,282,north texas
+2020,46081748,Dominik Behrens, OT ,6-5,310,The Williston Northampton School,Germany,GERM,0.8204,NA,166,14,massachusetts
+2020,46058621,Lawson Pratt, DUAL ,6-0,183,American Christian Academy,Tuscaloosa,AL,0.8204,NA,42,85,samford
+2020,46086473,Malachai Jones, WR ,6-0,180,Westfield,Houston,TX,0.8204,NA,269,283,tulsa
+2020,46052360,Decorri Brown, DT ,6-2,285,Palm Beach Gardens,Palm Beach Gardens,FL,0.8204,NA,153,293,NULL
+2020,46093755,Daveon Hunter, RB ,5-10,200,Chandler,Chandler,AZ,0.8204,NA,128,46,hawaii
+2020,46040644,Micah Harper, CB ,5-11,170,Basha,Chandler,AZ,0.8204,NA,191,47,byu
+2020,46082545,Veyon Washington, CB ,5-10,180,Okeechobee,Okeechobee,FL,0.8204,NA,192,294,NULL
+2020,46053933,Ryan Zanelli, PRO ,6-2,190,La Habra,La Habra,CA,0.8204,NA,75,178,pennsylvania
+2020,46079364,Andre Miller, SDE ,6-3,235,Savannah Country Day School,Savannah,GA,0.8204,NA,109,187,army
+2020,46055947,Ryan Ingram, APB ,5-9,175,Stephenson,Stone Mountain,GA,0.8204,NA,27,188,NULL
+2020,46040410,Braydon Bennett, ATH ,6-1,180,Southside,Greenville,SC,0.8204,NA,161,48,coastal carolina
+2020,46085010,Alijah Sickles, WR ,5-8,156,Waggener Traditional,Louisville,KY,0.8204,NA,270,16,NULL
+2020,46082176,Sinica Sigler, RB ,5-10,185,West Orange,Winter Garden,FL,0.8204,NA,129,295,NULL
+2020,46082906,Cam Williams, SDE ,6-6,230,Loganville,Loganville,GA,0.8204,NA,110,189,troy
+2020,46053721,Shamar Garrett, APB ,5-7.5,177,De La Salle,Concord,CA,0.8202,NA,28,179,san jose state
+2020,46085618,Brock Travelstead, K ,6-1,190,North Paulding,Dallas,GA,0.8201,NA,6,190,louisville
+2020,46086614,Alfred Chea, CB ,6-2,185,First Coast,Jacksonville,FL,0.8201,NA,193,296,uconn
+2020,46083778,Isaiah Foote, OG ,6-3,285,Calvert,Prince Frederick,MD,0.8201,NA,134,52,east carolina
+2020,46084039,Jackson Hensley, WR ,6-0,186,Pikeville,Pikeville,KY,0.8200,NA,271,17,wake forest
+2020,46094589,Keydrell Lewis, OT ,6-6,325,Mallard Creek,Charlotte,NC,0.8200,NA,167,69,san jose state
+2020,46055128,George Odimegwu, WR ,5-10.5,170,Summit,Spring Hill,TN,0.8200,NA,272,58,etsu
+2020,46052096,Aaron Washington, ILB ,6-0,202,Woodward Academy,Atlanta,GA,0.8200,NA,85,191,bowling green
+2020,46082508,Jackson Lataimua, S ,5-11,195,Junipero Serra,San Bruno,CA,0.8199,NA,162,180,washington state
+2020,46082999,Vinny Sciury, OG ,6-4,300,Perry,Massillon,OH,0.8198,NA,135,76,toledo
+2020,46081140,James Maae, OC ,6-2,327,Long Beach Poly,Long Beach,CA,0.8198,NA,37,181,NULL
+2020,46059000,Rush Reimer, OT ,6-5,290,Camas,Camas,WA,0.8198,NA,168,29,montana state
+2020,46058348,D'angalo Titialii, OC ,6-1,300,Eastside Catholic,Sammamish,WA,0.8198,NA,38,30,portland state
+2020,46079932,Marquis Ashley, ATH ,5-8,157,Norco,Norco,CA,0.8198,NA,162,182,NULL
+2020,46084331,Bryant Johnson Jr., WR ,6-3,185,Winton Woods,Cincinnati,OH,0.8198,NA,273,77,NULL
+2020,46085495,CJ Jones, CB ,5-11,163,Buchanan,Clovis,CA,0.8198,NA,194,183,fresno state
+2020,46078809,DaMonta Witherspoon, RB ,5-8,205,East St. Louis,East Saint Louis,IL,0.8198,NA,130,38,murray state
+2020,46083704,Cameron Broussard, ATH ,6-1,175,Folsom,Folsom,CA,0.8198,NA,163,184,sacramento state
+2020,46038119,Tyevin Ford, RB ,5-11,231,Upland,Upland,CA,0.8198,NA,131,185,idaho state
+2020,46041846,Jermaine Marshall, RB ,5-7,175,Antelope Valley,Lancaster,CA,0.8198,NA,132,186,NULL
+2020,46048411,Elijah Queen, WR ,6-4.5,191,Narbonne,Harbor City,CA,0.8198,NA,274,187,new mexico
+2020,46049927,Sean Evans, ILB ,6-0,227,Rancho Cucamonga,Rancho Cucamonga,CA,0.8198,NA,86,188,NULL
+2020,46049278,Quinton Owens, WDE ,6-3,215,Carthage,Carthage,TX,0.8198,NA,104,284,NULL
+2020,46058346,Moses Sepulona, OLB ,5-9,191,Mater Dei,Santa Ana,CA,0.8198,NA,139,189,NULL
+2020,46078889,Olawale Familoni, SDE ,6-4,210,Canyon,Anaheim,CA,0.8198,NA,111,190,air force
+2020,46057213,Panda Askew, OG ,6-2,276,D H Conley,Greenville,NC,0.8198,NA,136,70,charlotte
+2020,46047395,Tongiaki Mateialona, S ,6-1,195,Compton Dominguez,Compton,CA,0.8198,NA,163,191,nevada
+2020,46083632,Bennie Anderson, OG ,6-3,273,Westminster Christian Academy,Saint Louis,MO,0.8198,NA,137,39,yale
+2020,46049401,Victor Gabalis, ATH ,6-3,200,Archbishop Murphy,Everett,WA,0.8198,NA,164,31,washington state
+2020,46053620,Isaiah Hackett, CB ,5-10,180,East,Warren,OH,0.8198,NA,195,78,NULL
+2020,46082026,RaeQuon Ousley, CB ,5-10,155,Evans,Orlando,FL,0.8198,NA,196,297,NULL
+2020,46082025,Jarien Allen, CB ,5-11,172,Wakulla,Crawfordville,FL,0.8198,NA,197,298,NULL
+2020,46042934,Drason Havea, OLB ,6-2,225,Provo,Orem,UT,0.8198,NA,140,17,byu
+2020,46052109,Buju Tuisavura, S ,5-11,170,Orem,Orem,UT,0.8198,NA,164,18,NULL
+2020,46081499,T.J. Griffin, CB ,5-10,174,Mission Viejo,Mission Viejo,CA,0.8198,NA,198,192,NULL
+2020,46043141,Trevon Allen, DT ,6-0,239,Miami Central,Miami,FL,0.8198,NA,154,299,NULL
+2020,46082441,Edward Ta'amilo, TE ,6-3,210,Vista Murrieta,Murrieta,CA,0.8198,NA,99,193,NULL
+2020,46055808,Dominique Webster, TE ,6-4,210,Autauga Academy,Prattville,AL,0.8198,NA,100,86,NULL
+2020,46082510,Brody Hughes, S ,6-1,180,Temecula Valley,Temecula,CA,0.8198,NA,165,194,san diego state
+2020,46099425,Donald Jones, CB ,6-0,163,Broadmoor,Baton Rouge,LA,0.8198,NA,199,93,new mexico
+2020,46080703,Tyshawn Wyatt, OG ,6-4,295,Henrico,Richmond,VA,0.8198,NA,138,41,NULL
+2020,46080697,Johnathan Johnson, S ,6-2,187,Jones,Orlando,FL,0.8198,NA,166,300,NULL
+2020,46083576,Brycen Thomas, WR ,6-3,185,High Point Christian Academy,High Point,NC,0.8198,NA,275,71,navy
+2020,46083003,John Saunders, WR ,6-4,195,High Point Christian Academy,High Point,NC,0.8198,NA,276,72,miami ohio
+2020,46081613,Daniel Moyer, ATH ,5-7.5,175,Reagan,Pfafftown,NC,0.8198,NA,165,73,elon
+2020,46084813,Alec Mock, ILB ,6-3,230,Weddington,Matthews,NC,0.8198,NA,87,74,air force
+2020,46057111,Devin Smith, WR ,5-8,162,Southern,Durham,NC,0.8198,NA,277,75,NULL
+2020,46081691,Patrick Smith, DT ,6-5,330,West Forsyth,Clemmons,NC,0.8198,NA,155,76,NULL
+2020,46056746,Kyle Christensen, OC ,6-4,260,Placer,Auburn,CA,0.8198,NA,39,195,cal poly
+2020,46081615,Jean Boyd, CB ,6-0,190,Corona Del Sol,Tempe,AZ,0.8198,NA,200,48,arizona state
+2020,46084325,Reggie Peterson, OLB ,6-2,215,St. Lucie West Centennial,Port Saint Lucie,FL,0.8198,NA,141,301,florida international
+2020,46056643,Jaquez Yant, RB ,6-0,185,Amos P. Godby,Tallahassee,FL,0.8198,NA,133,302,nebraska
+2020,46079313,Bryson Stewart, SDE ,6-2,240,Ridge Point,Missouri City,TX,0.8198,NA,112,285,NULL
+2020,46082060,Avery Morris, OLB ,6-1.5,204,Atascocita,Humble,TX,0.8198,NA,142,286,utsa
+2020,46096346,Justin Brown, RB ,6-0,185,Half Hollow Hills West,Huntington Station,NY,0.8198,NA,134,17,NULL
+2020,46056403,Bradley Schlom, WR ,6-0,180,Corona Del Mar,Newport Beach,CA,0.8198,NA,278,196,ucla
+2020,46094614,David Meyer, ILB ,6-2,220,Mission Viejo,Mission Viejo,CA,0.8198,NA,88,197,cal poly
+2020,46080936,Terence Loville, ATH ,6-0,170,Junipero Serra,San Mateo,CA,0.8198,NA,166,198,san jose state
+2020,46054043,Elijah Monroe, RB ,6-0,195,Rancho Cucamonga,Rancho Cucamonga,CA,0.8198,NA,135,199,NULL
+2020,46056922,Peter Kemeni, CB ,6-1,200,Clarkson Football North,Mississauga,ON,0.8198,NA,201,4,ohio
+2020,46054661,Asar-Alim Moore, ATH ,6-1,180,Folsom,Folsom,CA,0.8198,NA,167,200,NULL
+2020,46096603,Logan Schwenke, SDE ,6-3,240,Mission Viejo,Mission Viejo,CA,0.8198,NA,113,201,NULL
+2020,46084759,Carson Yates, DUAL ,6-3,200,Leland,San Jose,CA,0.8198,NA,43,202,NULL
+2020,46097249,Noah Bell, PRO ,6-2,210,Saluda,Saluda,SC,0.8198,NA,76,49,NULL
+2020,46097629,Matthew Adoghe, OT ,6-4,315,Peachtree Ridge,Suwanee,GA,0.8198,NA,169,192,NULL
+2020,46059026,Keylan Johnson, WR ,5-11,176,Lake Ridge,Mansfield,TX,0.8198,NA,279,287,NULL
+2020,46099012,Jordan Lawson, SDE ,6-3,270,Brandon,Brandon,MS,0.8198,NA,114,50,louisiana
+2020,46050913,Jaylon Lott, RB ,5-11,180,Hebron,Carrollton,TX,0.8198,NA,136,288,utsa
+2020,46082872,Joshua Cobbs, WR ,6-4,200,Karen Wagner,San Antonio,TX,0.8198,NA,280,289,wyoming
+2020,46079981,Darion Smith, OLB ,6-4,220,Trinity Catholic,Saint Louis,MO,0.8198,NA,143,40,charlotte
+2020,46059550,Joseph Solomon, OT ,6-5,270,Bishop Chatard,Indianapolis,IN,0.8197,NA,170,28,tulane
+2020,46093575,Josh Watts, P ,-,-,ProKick Australia,Australia,AUST,0.8197,NA,2,1,colorado
+2020,46076987,Braeden Bellmer, OG ,6-4,260,Puyallup,Puyallup,WA,0.8194,NA,139,32,columbia
+2020,46080238,Alani Makihele, OG ,6-3,337,West,Anchorage,AK,0.8193,NA,140,1,unlv
+2020,46083789,Lamont Narcisse, CB ,5-11,175,Calabasas,Calabasas,CA,0.8193,NA,202,203,rice
+2020,46081506,Christian Moore, TE ,6-2,223,Huntington Beach,Huntington Beach,CA,0.8193,NA,101,204,kansas state
+2020,46057225,Grant Conger, OG ,6-4,305,Thomasville,Thomasville,GA,0.8193,NA,141,193,NULL
+2020,46051131,Hunter Kaupiko, ILB ,6-0,225,Faith Lutheran,Las Vegas,NV,0.8193,NA,89,12,san diego state
+2020,46081138,Aaron Key, OLB ,6-1.5,200,Tucker,Tucker,GA,0.8193,NA,144,194,western kentucky
+2020,46084151,Justin McKithen, WR ,5-10,150,New Hampstead,Bloomingdale,GA,0.8193,NA,281,195,florida atlantic
+2020,46079345,Brendan Heatherman, TE ,6-4,240,Mountain View,Stafford,VA,0.8193,NA,102,42,uconn
+2020,46041134,Chazz Wallace, DT ,6-2,286,The Avalon School,Gaithersburg,MD,0.8193,NA,156,53,old dominion
+2020,46094390,Charles Steele, OLB ,6-2,225,Collins Hill,Suwanee,GA,0.8193,NA,145,196,coastal carolina
+2020,46056826,Andrew Mason, WR ,5-11,160,Ravenwood,Brentwood,TN,0.8192,NA,282,59,rice
+2020,46052975,Geron Hargon, ILB ,6-1.5,234,Captain Shreve,Shreveport,LA,0.8192,NA,90,94,rice
+2020,46040862,Frank Wilson IV, CB ,5-9,170,Brandeis,San Antonio,TX,0.8192,NA,203,290,mcneese state
+2020,46057756,Denzel Blackwell, CB ,5-10,165,Strake Jesuit,Houston,TX,0.8192,NA,204,291,boston college
+2020,46053895,Trey Tuggle, OT ,6-5.5,315,Mize Attendance Center,Mize,MS,0.8192,NA,171,51,tulane
+2020,46079709,Jake Renfro, OC ,6-3,290,Providence Catholic,New Lenox,IL,0.8192,NA,40,39,cincinnati
+2020,46039827,Derohn King, DUAL ,6-2,200,Deerfield Beach,Fort Lauderdale,FL,0.8192,NA,44,303,NULL
+2020,46051780,Davis Heinzen, TE ,6-5,245,Lincoln,Manitowoc,WI,0.8192,NA,103,16,central michigan
+2020,46057114,Trevian Thomas, S ,6-0,177,Americus Sumter County South,Americus,GA,0.8192,NA,167,197,arkansas state
+2020,46094202,Mickey Rewolinski, OT ,6-6,260,Union Grove,Union Grove,WI,0.8192,NA,172,17,eastern michigan
+2020,46096495,Deante Betts, OLB ,6-1,190,Bowie,Arlington,TX,0.8192,NA,146,292,tulsa
+2020,46093810,Jackson Manning, TE ,6-5,240,Mount Paran Christian School,Acworth,GA,0.8192,NA,104,198,massachusetts
+2020,46080706,Kai Kroeger, P ,6-3,190,Lake Forest,Lake Forest,IL,0.8189,NA,3,40,south carolina
+2020,46080428,Eli Wilson, TE ,6-3,212,Wren,Piedmont,SC,0.8188,NA,105,50,appalachian state
+2020,46081387,Karsen Perkins, TE ,6-4,227,Northwest Cabarrus,Concord,NC,0.8188,NA,106,77,liberty
+2020,46056539,Tyrese Grant, ATH ,6-0,160,Daingerfield,Daingerfield,TX,0.8187,NA,168,293,wyoming
+2020,46076948,Devin Downing, WR ,6-2,175,American Fork,American Fork,UT,0.8187,NA,283,19,byu
+2020,46084048,Aveon Smith, ATH ,6-1,187,White Knoll,Lexington,SC,0.8187,NA,169,51,miami ohio
+2020,46081731,Baron May, DUAL ,6-1,185,New Philadelphia,New Philadelphia,OH,0.8185,NA,45,79,eastern michigan
+2020,46081690,Noah Robinson, WR ,6-3,180,Louisa County,Mineral,VA,0.8185,NA,284,43,old dominion
+2020,46086950,Sitalingi Havea, DT ,6-1,330,Chandler,Chandler,AZ,0.8185,NA,157,49,byu
+2020,46081041,Bayne Tryon, TE ,6-2,204,Cy-Fair,Cypress,TX,0.8185,NA,107,294,tulsa
+2020,46080644,Tamarick Best, SDE ,6-1,225,Pahokee,Pahokee,FL,0.8185,NA,115,304,florida international
+2020,46057232,Parker Lewis, K ,6-3,200,Saguaro,Scottsdale,AZ,0.8183,NA,7,50,usc
+2020,46041416,JeJuan Sparks, DT ,6-2,310,Clearwater Academy International,Clearwater,FL,0.8181,NA,158,305,NULL
+2020,46085486,Frank Thompson, OG ,6-3,279,Liberty,Peoria,AZ,0.8181,NA,142,51,sfasu
+2020,46080755,Armani Maddox, S ,6-0,162,Hapeville Charter,Atlanta,GA,0.8181,NA,168,199,alabama birmingham
+2020,46083282,Mason Shelton, ILB ,6-2,211,Maryville,Maryville,TN,0.8179,NA,91,60,coastal carolina
+2020,46036207,Tyler Grubbs, ILB ,6-0,220,Holy Cross,New Orleans,LA,0.8179,NA,92,95,louisiana tech
+2020,46082734,Princeton Malbrue, OLB ,6-1,183,Lafayette Christian Academy,Lafayette,LA,0.8175,NA,147,96,northwestern state
+2020,46081708,Ke'Shawn Williams, WR ,5-10,170,Chestnut Hill Academy,Philadelphia,PA,0.8175,NA,285,27,wake forest
+2020,46078798,Tilor Harris, ATH ,6-3,240,Hazelwood West,Hazelwood,MO,0.8175,NA,170,41,NULL
+2020,46084693,Jonathan Brown, OT ,6-4,278,T L Hanna,Anderson,SC,0.8174,NA,173,52,georgia state
+2020,46054909,Kenyon McCou, OG ,6-2.5,296,DeSoto Central,Southaven,MS,0.8173,NA,143,52,NULL
+2020,46081812,Trent Simms, ATH ,6-0,190,Sylvania Northview,Sylvania,OH,0.8173,NA,171,80,bowling green
+2020,46057852,Christian Wortham, WR ,6-2,200,Grenada,Grenada,MS,0.8173,NA,286,53,south alabama
+2020,46079188,Sean Pelkisson, WDE ,6-2,222,Downingtown West,Downingtown,PA,0.8173,NA,105,28,georgia southern
+2020,46096714,Justin Stinson, CB ,6-2,200,Valley Christian,Chandler,AZ,0.8173,NA,205,52,new mexico state
+2020,46082590,Yaro Duvalko, PRO ,6-3,185,Skyview,Vancouver,WA,0.8173,NA,77,33,sacramento state
+2020,46082434,Malik Sherrod, ATH ,5-8,165,Pacifica,Oxnard,CA,0.8173,NA,172,205,fresno state
+2020,46080418,Nohl Williams, CB ,6-0,170,Pacifica,Oxnard,CA,0.8173,NA,206,206,unlv
+2020,46081848,Branson Hickman, OC ,6-1,275,Jesuit,Dallas,TX,0.8173,NA,41,295,smu
+2020,46042243,Gaige Garcia, RB ,5-10,205,Southern Columbia,Catawissa,PA,0.8173,NA,137,29,michigan
+2020,46055111,Charles Toombs, ATH ,5-9.5,155,Immokalee,Immokalee,FL,0.8173,NA,173,306,florida atlantic
+2020,46085164,Brian Crespo, OT ,6-7,312,Poudre,Fort Collins,CO,0.8173,NA,174,12,colorado state
+2020,46053067,Carter Hooper, SDE ,6-5,234,IMG Academy,Toronto,ON,0.8172,NA,116,307,uconn
+2020,46084799,Terence Fall, WR ,6-2,185,Aquinas,San Bernardino,CA,0.8172,NA,287,207,byu
+2020,46093564,Harrison Mevis, K ,6-1,200,Warsaw Community,Warsaw,IN,0.8170,NA,8,29,missouri
+2020,46077164,Isaiah Johnson, RB ,6-0,200,Lubbock-Cooper,Lubbock,TX,0.8167,NA,138,296,north texas
+2020,46042448,Khari Johnson, CB ,6-0,184,Suffield Academy,Boston,MA,0.8167,NA,207,15,arkansas
+2020,46058302,Cameron Knight, OG ,6-3,270,Noblesville,Noblesville,IN,0.8167,NA,144,30,indiana
+2020,46046511,Azaiyah Roberts, ILB ,6-4,200,Princess Anne,Virginia Beach,VA,0.8167,NA,93,44,NULL
+2020,46083958,Garrett Jones, OG ,6-2,285,Berrien Springs,Berrien Springs,MI,0.8166,NA,145,48,kansas
+2020,46082609,Aaron Diggs, S ,5-10,190,Auburn,Auburn,AL,0.8166,NA,169,87,coastal carolina
+2020,46049042,Seth Williams, OC ,6-3,315,Statesville,Statesville,NC,0.8166,NA,42,78,appalachian state
+2020,46094753,Jeremiah Howard, WR ,6-0,180,Merrillville,Merrillville,IN,0.8165,NA,288,31,northern illinois
+2020,46051463,Jarrie Spikes, S ,5-11,179,Cy Creek,Houston,TX,0.8165,NA,170,297,NULL
+2020,46058417,Josh Darling, ILB ,6-0,205,Gordo,Gordo,AL,0.8165,NA,94,88,NULL
+2020,46055336,Drake Baker, PRO ,6-4,215,Holtville,Deatsville,AL,0.8165,NA,78,89,NULL
+2020,46039696,Anthony Faz, OT ,6-5,308,South Oak Cliff,Dallas,TX,0.8165,NA,175,298,NULL
+2020,46077066,Abraham Alabi, DT ,6-4,315,Pickerington Central,Pickerington,OH,0.8164,NA,159,81,eastern kentucky
+2020,46055415,Darryle Evans, RB ,5-10.5,181,Hahnville,Boutte,LA,0.8164,NA,139,97,NULL
+2020,46084806,Jacoby Wells, S ,6-1,200,Helen Cox,Harvey,LA,0.8164,NA,171,98,southeastern louisiana
+2020,46059480,Tyveze Harrison, ILB ,5-11,216,Pleasant Grove ,Hueytown,AL,0.8164,NA,95,90,NULL
+2020,46048856,Ke'Von Hunter, S ,6-3,180,Woodson H.D.,Washington,DC,0.8164,NA,172,16,NULL
+2020,46053591,Jeremy Moore, DT ,6-2.5,289,Baldwin County,Bay Minette,AL,0.8164,NA,160,91,NULL
+2020,46078913,Joah Cash, WDE ,6-2,210,Jenkins,Savannah,GA,0.8164,NA,106,200,NULL
+2020,46057233,Alexander Gilbertson, OT ,6-7,295,The Peddie School,Hightstown,NJ,0.8162,NA,176,49,NULL
+2020,46085687,James Williams, K ,6-1,182,Athens Academy,Athens,GA,0.8162,NA,9,201,syracuse
+2020,46056973,Norman Love, ATH ,5-11,185,Lake Wales,Lake Wales,FL,0.8161,NA,174,308,cincinnati
+2020,46080116,Russell Corrigan, TE ,6-3,230,Hutchinson Senior,Hutchinson,MN,0.8160,NA,108,13,boise state
+2020,46058578,Juan Jarrett, OLB ,6-2,190,Princeton,Cincinnati,OH,0.8160,NA,148,82,akron
+2020,46083628,Dan Dishman, TE ,6-6,205,Clear Falls,League City,TX,0.8160,NA,109,299,utsa
+2020,46080527,Tariq Williamson, WDE ,6-3,235,East,Akron,OH,0.8160,NA,107,83,youngstown state
+2020,46081974,Sawiaha Ellis, ATH ,6-2,220,Fairfield,Fairfield,OH,0.8160,NA,175,84,toledo
+2020,46082949,Ryan Spiers, OG ,6-3,285,Biloxi,Biloxi,MS,0.8160,NA,146,54,georgia tech
+2020,46080433,Nasir Montgomery, ATH ,5-11.5,180,East Orange Campus,East Orange,NJ,0.8160,NA,176,50,NULL
+2020,46095149,Justin Harris, CB ,5-11,178,Peach County,Fort Valley,GA,0.8160,NA,208,202,georgia southern
+2020,46086523,Trey Bedosky, OT ,6-6,260,Landmark Christian School,Fairburn,GA,0.8160,NA,177,203,alabama birmingham
+2020,46052266,Evan Anderson, OG ,6-3,325,Jones,Orlando,FL,0.8159,NA,147,309,florida atlantic
+2020,46035429,MyJaden Horton, DUAL ,6-2,186,Lakota West,West Chester,OH,0.8159,NA,46,85,akron
+2020,46056353,Jalen McNair, S ,5-9,165,Good Counsel,Olney,MD,0.8159,NA,173,54,buffalo
+2020,45572793,VJ Johnson, WR ,5-8.5,155,Catholic,Virginia Beach,VA,0.8159,NA,289,45,vmi
+2020,46079395,Gerad Lichtenhan, OT ,6-8.5,345,Davis Senior,Davis,CA,0.8159,NA,178,208,colorado
+2020,46036595,Dane Jackson, OC ,6-0,275,Madison Southern,Berea,KY,0.8158,NA,43,18,north texas
+2020,46086617,Collin McCarthy, SDE ,6-7,240,Jackson Memorial,Jackson,NJ,0.8158,NA,117,51,uconn
+2020,46082010,Casey Case, DUAL ,6-6,195,Winter Park,Winter Park,FL,0.8158,NA,47,310,buffalo
+2020,46076565,Isaiah Connelly, RB ,5-9,185,Edgewater,Orlando,FL,0.8154,NA,140,311,coastal carolina
+2020,46078996,Myles McNeal, CB ,5-11,180,Grand Blanc Community,Grand Blanc,MI,0.8154,NA,209,49,eastern michigan
+2020,46055264,Deshawn Walker, ILB ,6-1,210,River Rouge,River Rouge,MI,0.8154,NA,96,50,toledo
+2020,46079540,Broc Lane, TE ,6-4.5,230,Perry,Gilbert,AZ,0.8154,NA,110,53,utah state
+2020,46085889,Lance Robinson, SDE ,6-4,255,Mitchell County,Camilla,GA,0.8154,NA,118,204,middle tennessee state
+2020,46055972,Dupree Williams, S ,6-2,175,Compton Dominguez,Compton,CA,0.8154,NA,174,209,fresno state
+2020,46053364,Khalil Griffin, S ,5-11.5,185,Sparkman ,Harvest,AL,0.8154,NA,175,92,NULL
+2020,46085085,Reignings Awah, WDE ,6-4,235,Clarkson Football North,Mississauga,ON,0.8154,NA,108,5,kent state
+2020,46057251,Trevor Willard, WDE ,6-5,230,Reagan,Pfafftown,NC,0.8154,NA,109,79,appalachian state
+2020,46081375,Keyshown Lindsey, RB ,6-2,220,Westover,Fayetteville,NC,0.8154,NA,141,80,NULL
+2020,46082797,Jamoi Mayes, WR ,5-10,190,Griffin,Griffin,GA,0.8154,NA,290,205,chattanooga
+2020,46081433,Reginald Neely, CB ,6-1,175,Briarcrest Christian,Memphis,TN,0.8154,NA,210,61,tulane
+2020,46079388,Khalil Arnold, DUAL ,6-2.5,225,Lovejoy,Hampton,GA,0.8154,NA,48,206,eastern kentucky
+2020,46038862,Shemar Paul, RB ,5-9,160,Booker T. Washington,Miami,FL,0.8154,NA,142,312,NULL
+2020,46081507,Quinn Potts, S ,5-11,192,Compton Dominguez,Compton,CA,0.8154,NA,176,210,new mexico
+2020,46084504,Gary Simpson, WR ,6-3,170,McEachern,Powder Springs,GA,0.8154,NA,291,207,NULL
+2020,46039783,Terry Lindsey, ATH ,6-0,174,Evangelical Christian School,Fort Myers,FL,0.8154,NA,177,313,NULL
+2020,46037305,Karleon Gray-Johnson, OLB ,6-2,184,Norland,Miami,FL,0.8154,NA,149,314,NULL
+2020,46054573,Baron Grant, WR ,6-1,194,Miami Central,Miami,FL,0.8154,NA,292,315,NULL
+2020,46055681,Terrell Battle, SDE ,6-3,240,South Dade,Homestead,FL,0.8154,NA,119,316,NULL
+2020,46081283,Kohl Herbolsheimer, OG ,6-3,277,Millard South,Omaha,NE,0.8154,NA,148,6,wyoming
+2020,46086469,Jesse Sanders, TE ,6-4,240,South Aiken,Aiken,SC,0.8154,NA,111,53,south carolina
+2020,46081001,Kajuan Robinson, DT ,6-2,300,Bryant,Bryant,AR,0.8154,NA,161,16,memphis
+2020,46098826,Kory Gainwell, RB ,5-8,180,Yazoo County,Yazoo City,MS,0.8154,NA,143,55,memphis
+2020,46049026,Isaiah McElvane, ATH ,5-10.5,183,Valley Christian,San Jose,CA,0.8153,NA,178,211,san diego state
+2020,46079277,Josh Henderson, ILB ,6-2,200,Grace Brethren,Simi Valley,CA,0.8153,NA,97,212,cal poly
+2020,46058475,Elijah Wood, OLB ,6-3,205,St. Mary's,Stockton,CA,0.8153,NA,150,213,san jose state
+2020,46058752,Terion Stewart, RB ,5-9,205,Sandusky,Sandusky,OH,0.8153,NA,144,86,bowling green
+2020,46078930,Matthew Lombardi, OT ,6-7,277,St. Joseph's Prep School,Philadelphia,PA,0.8152,NA,179,30,tulane
+2020,46081807,Isaiah Brooks, OG ,6-5,305,West Forsyth,Clemmons,NC,0.8152,NA,149,81,ncat
+2020,46086084,Chevez Trask, SDE ,6-5,210,Evans,Evans,GA,0.8152,NA,120,208,temple
+2020,46049886,Kalvin Souders, WR ,6-3,195,Central Catholic,Portland,OR,0.8152,NA,293,13,unlv
+2020,46086618,Christopher Fortin, OT ,6-5,270,Cegep du Vieux ,Montreal,QC,0.8152,NA,180,3,uconn
+2020,46098722,JaCobian Morgan, PRO ,6-4,200,Canton,Canton,MS,0.8152,NA,79,56,syracuse
+2020,46056992,Antonio Webb Jr., CB ,5-10,170,Life Christian Academy,Norfolk,VA,0.8147,NA,211,46,james madison
+2020,46086167,Cleveland Harris, ATH ,6-3,190,Comeaux,Lafayette,LA,0.8147,NA,179,99,louisiana tech
+2020,46080863,Bert Hale, OG ,6-3,338,Oak Grove,Oak Grove,LA,0.8147,NA,150,100,louisiana tech
+2020,46076839,Te'Rai Powell, ATH ,6-0,188,St. Joseph Regional ,Montvale,NJ,0.8147,NA,180,52,massachusetts
+2020,46086112,Bryce Bailey, ATH ,5-10,163,Bleckley County,Cochran,GA,0.8147,NA,181,209,middle tennessee state
+2020,46055126,Eli Sammons, PRO ,6-5.5,195,Greenup County,Greenup,KY,0.8146,NA,80,19,marshall
+2020,46050517,Anton Hall, APB ,5-9,180,Gulliver Prep,Miami,FL,0.8146,NA,29,317,navy
+2020,46059498,Tanner Wigand, OT ,6-7,265,Lincoln,Manitowoc,WI,0.8145,NA,181,18,toledo
+2020,46086716,Iopu Tauiliili, OLB ,6-4,206,Chaparral,Las Vegas,NV,0.8145,NA,151,13,NULL
+2020,46085746,Jacob Hopper, TE ,6-6,230,Sardis,Boaz,AL,0.8142,NA,112,93,south alabama
+2020,46081137,Tommy Lorincz, OT ,6-6,295,Avon,Avon,OH,0.8140,NA,182,87,ball state
+2020,46084573,K'Ron Ferrell, CB ,5-11,170,Woodland,Dorchester,SC,0.8140,NA,212,54,old dominion
+2020,46082578,Dominique Ratcliff, DT ,6-2.5,266,Conroe,Conroe,TX,0.8140,NA,162,300,louisiana
+2020,46048607,C.J. Brown, S ,5-10,180,Walled Lake Western,Walled Lake,MI,0.8139,NA,177,51,northern illinois
+2020,46058799,Matthew Johnson, WDE ,6-2.5,215,West Aurora,Aurora,IL,0.8139,NA,110,41,northern illinois
+2020,46082209,Justin Lohrenz, WDE ,6-4,240,Columbine,Littleton,CO,0.8139,NA,111,13,washington state
+2020,46081530,Jalon Daniels, DUAL ,6-0,206,Lawndale,Lawndale,CA,0.8139,NA,49,214,kansas
+2020,46082771,Jack Hugunin, DT ,6-3,275,Oswego,Oswego,IL,0.8139,NA,163,42,northern illinois
+2020,46059414,Jacob Barrett, WR ,6-0,170,Checotah,Checotah,OK,0.8139,NA,294,27,eastern michigan
+2020,46052950,Dabari Hawkins, CB ,6-2.5,185,Stafford,Stafford,TX,0.8139,NA,213,301,louisiana
+2020,46085307,Christian Thomas, WR ,6-3,190,Greater Atlanta Christian School,Norcross,GA,0.8139,NA,295,210,georgia state
+2020,46082213,Kerion Martin, S ,6-0.5,195,Capital,Charleston,WV,0.8139,NA,178,6,marshall
+2020,46081949,Zoe Roberts, WR ,5-9.5,168,Taylor County,Perry,FL,0.8139,NA,296,318,middle tennessee state
+2020,46085691,Shamar Sandgren, WR ,6-0,170,Islands,Savannah,GA,0.8139,NA,297,211,NULL
+2020,46094808,Tavion Prather, SDE ,6-3,230,Lafayette,Oxford,MS,0.8139,NA,121,57,louisiana monroe
+2020,46086416,Shedrick Rhodes, OT ,6-4,290,Eagle's Landing Christian,Mcdonough,GA,0.8139,NA,183,212,ohio
+2020,46098432,Trevon Locke, SDE ,6-4,260,Benedictine Military School,Savannah,GA,0.8139,NA,122,213,georgia southern
+2020,46083651,Joe Horn, OC ,6-1,301,Hun School ,Trenton,NJ,0.8135,NA,44,53,massachusetts
+2020,46046015,JL Lavea, ILB ,6-0,210,James Campbell,Ewa Beach,HI,0.8135,NA,98,21,NULL
+2020,46078980,Tui Brown, OLB ,6-3,215,Gateway,Monroeville,PA,0.8134,NA,152,31,uconn
+2020,46086613,Marques Alexander, WDE ,6-2,210,Lakewood,Saint Petersburg,FL,0.8134,NA,112,319,uconn
+2020,46085138,Alex Muti, OLB ,6-3,210,Konawaena,Kealakekua,HI,0.8133,NA,153,22,byu
+2020,46084070,Ahmon Green, PRO ,6-2,232,Westwood,Blythewood,SC,0.8132,NA,81,55,georgia state
+2020,46081891,Bryce McNair, OT ,6-3,274,Deerfield Beach,Deerfield Beach,FL,0.8127,NA,184,320,ohio
+2020,83875,Miquan Grace, CB ,5-11,190,Winton Woods,Cincinnati,OH,0.8126,NA,214,88,NULL
+2020,46083937,Dalton Elrod, ILB ,6-3,220,Arrowhead,Hartland,WI,0.8126,NA,99,19,ball state
+2020,46085497,Jalen Williams, S ,6-1,175,Lake Minneola,Lake Minneola,FL,0.8126,NA,179,321,NULL
+2020,46080040,Edward Core Jr., WR ,6-1,198,National Christian Academy,Fort Washington,MD,0.8126,NA,298,55,NULL
+2020,46083591,Andrew Volmar, S ,6-2,170,American Heritage,PLANTATION,FL,0.8126,NA,180,322,florida international
+2020,46056105,Jeshon Ingraham, CB ,6-2,175,Palm Beach Lakes,West Palm Beach,FL,0.8126,NA,215,323,tennessee state
+2020,46082362,Dontrez Brown, DT ,6-1,280,Fremont Ross,Fremont,OH,0.8126,NA,164,89,bowling green
+2020,46098363,Bryce Cabeldue, OT ,6-6,245,Clovis,Clovis,NM,0.8126,NA,185,3,kansas
+2020,46099275,Buck Coors, PRO ,5-11,170,Resurrection Christian School,Loveland,CO,0.8125,NA,82,14,wyoming
+2020,45573399,Campbell Speights, RB ,5-8,190,Memorial,Mcallen,TX,0.8123,NA,145,302,navy
+2020,46051849,Raequan Beal, PRO ,6-4,228,Renaissance,Detroit,MI,0.8123,NA,83,52,morgan state
+2020,46047431,Jasiah Snow-Marshall, WR ,6-1,200,Lincoln,Tacoma,WA,0.8123,NA,299,34,northern colorado
+2020,46081729,Reid Holskey, OT ,6-7,272,Licking Heights,Pataskala,OH,0.8123,NA,186,90,miami ohio
+2020,46084640,Dean Jones, S ,6-2,180,North Canyon,Phoenix,AZ,0.8123,NA,181,54,byu
+2020,46081805,Manny Stokes, CB ,5-8.5,161,Lake Nona,Orlando,FL,0.8123,NA,216,324,coastal carolina
+2020,46048396,Tiger Shanks, OT ,6-6,320,Lake Oswego,Lake Oswego,OR,0.8123,NA,187,14,unlv
+2020,46082703,Latarius Carr, ILB ,5-10,220,Olive Branch,Olive Branch,MS,0.8123,NA,100,58,south alabama
+2020,46085509,Tavorice Weaver, CB ,6-0,180,James Madison,Dallas,TX,0.8123,NA,217,303,north texas
+2020,46086854,Gabe Cantu, OC ,6-3,285,Union,Tulsa,OK,0.8123,NA,45,28,tulsa
+2020,46086747,Petey Tuipulotu, ATH ,6-3,190,Nation Ford,Fort Mill,SC,0.8123,NA,182,56,byu
+2020,46084290,Cameron Bariteau, DT ,6-1,300,The Peddie School,Hightstown,NJ,0.8123,NA,165,54,colorado state
+2020,46086710,Rashun Bass, S ,6-0,180,Marietta,Marietta,GA,0.8123,NA,182,214,NULL
+2020,46086712,Cameron Stone, CB ,5-10,175,Angleton,Angleton,TX,0.8123,NA,218,304,wyoming
+2020,46098822,Ian Shewell, DT ,6-3,248,Williams Field,Gilbert,AZ,0.8123,NA,166,55,new mexico
+2020,46085127,DeAndre Dingle-Prince, DT ,6-2,253,Lee County,Sanford,NC,0.8123,NA,167,82,appalachian state
+2020,46056962,Gavin Beerup, PRO ,6-4,179,St. Bonaventure,Ventura,CA,0.8119,NA,84,215,wyoming
+2020,46079845,Jake Tuatagaloa, OG ,6-2,288,Mililani,Mililani,HI,0.8119,NA,151,23,hawaii
+2020,46083383,Louis Passarello, TE ,6-5,240,Palo Alto,Palo Alto,CA,0.8118,NA,113,216,colorado
+2020,46051121,Andrew Nee, OG ,6-4,282,Buckingham Browne & Nichols School,Walpole,MA,0.8118,NA,152,15,NULL
+2020,46053541,Jayden Goodwin, S ,6-1,175,Cy Falls,Houston,TX,0.8118,NA,183,305,NULL
+2020,46083686,Tyler Pape, PRO ,6-4,215,Western,Parma,MI,0.8118,NA,85,53,central michigan
+2020,46081718,Jakob Robinson, CB ,5-10,155,Orem,Orem,UT,0.8118,NA,219,20,utah state
+2020,46077001,Henry Blackburn, WR ,6-1,187,Fairview,Boulder,CO,0.8118,NA,300,15,colorado state
+2020,46079978,Adam Vandervest, OT ,6-6,265,Verona Area,Verona,WI,0.8118,NA,188,20,western michigan
+2020,46082756,Deon Biggins, CB ,6-0,170,Horn Lake,Horn Lake,MS,0.8118,NA,220,59,liberty
+2020,46056765,Jasper Robinson, TE ,6-4,220,McKinley,Canton,OH,0.8118,NA,114,91,kent state
+2020,46081225,Savion Washington, OT ,6-8,340,St. Vincent-St. Mary,Akron,OH,0.8118,NA,189,92,kent state
+2020,46083431,Charles Rosser, WR ,6-3,207,Benedictine,Cleveland,OH,0.8118,NA,301,93,bowling green
+2020,46085643,Jaelon Travis, WR ,6-0,190,Mansfield Summit,Arlington,TX,0.8118,NA,302,306,kansas state
+2020,46085849,Talique Allen, S ,6-0,195,Peach County,Fort Valley,GA,0.8118,NA,184,215,western kentucky
+2020,46086138,Immanuel Bush, SDE ,6-1,251,Lancaster,Lancaster,SC,0.8118,NA,123,57,marshall
+2020,46085624,James Della Pesca, OLB ,6-3,225,Pascack Valley,Hillsdale,NJ,0.8118,NA,154,55,temple
+2020,46052755,Jordan Bennett, WR ,5-11,195,Pelham,Pelham,GA,0.8118,NA,303,216,georgia southern
+2020,46050444,Mike Welch, ATH ,5-10,170,Dickinson,Dickinson,TX,0.8118,NA,183,307,houston
+2020,46078988,Ubayd Steed, S ,5-11,180,Northeast,Philadelphia,PA,0.8116,NA,185,32,NULL
+2020,46054208,Anthony Fieldings, CB ,5-8.5,160,Apopka,Apopka,FL,0.8116,NA,221,325,georgia southern
+2020,46056637,KJ Murden, WR ,5-10,165,Central,Bolivar,TN,0.8114,NA,304,62,NULL
+2020,46058004,Adam Johnson, WR ,6-1,160,Olympic,Bremerton,WA,0.8114,NA,305,35,NULL
+2020,46040445,Myles Nash, APB ,5-6,171,Southwest Christian,Fort Worth,TX,0.8114,NA,30,308,NULL
+2020,46076878,Jeremiah Banks-Wall, OT ,6-6,250,Montini Catholic,Lombard,IL,0.8114,NA,190,43,bowling green
+2020,46097291,Jack Plank, OLB ,6-3,205,Georgetown Preparatory School,Rockville,MD,0.8114,NA,155,56,NULL
+2020,86239,Gerrian Christopher, S ,6-1,195,Life Christian Academy,Colonial Heights,VA,0.8114,NA,186,47,NULL
+2020,46047961,Jacob Saffold, RB ,5-9.5,190,Norfolk Academy,Norfolk,VA,0.8114,NA,146,48,NULL
+2020,46037411,Pearson Hendrix, RB ,5-11,180,Bishop Dunne,Dallas,TX,0.8114,NA,147,309,NULL
+2020,46086414,Quintarius Chapman, WR ,6-3,210,Bradwell Institute,Hinesville,GA,0.8114,NA,306,217,NULL
+2020,46058733,Cameron Sneed, RB ,5-10,180,Whitehaven,Memphis,TN,0.8114,NA,148,63,NULL
+2020,46082701,Kobe Dillon, ATH ,5-11.5,208,Ferriday,Ferriday,LA,0.8114,NA,184,101,southern
+2020,46053368,Josh White, WR ,5-6,145,St. Augustine,New Orleans,LA,0.8114,NA,307,102,NULL
+2020,46055002,Hunter Helms, PRO ,6-2,205,Gray Academy,Columbia,SC,0.8114,NA,86,58,clemson
+2020,46094170,Demick Starling, WR ,6-0,170,East Nashville Magnet School,Nashville,TN,0.8114,NA,308,64,virginia
+2020,46047594,James Davis, WR ,5-11,146,Glades Central,Belle Glade,FL,0.8114,NA,309,326,NULL
+2020,46054497,Ali Barkley, RB ,6-0,200,Whitehall,Whitehall,PA,0.8114,NA,149,33,NULL
+2020,46048898,Rahsaan Carlton Jr., DUAL ,6-1,190,Susquehanna Twp,Harrisburg,PA,0.8114,NA,50,34,NULL
+2020,46079318,Brian Burton, ILB ,5-11,215,Midway,Waco,TX,0.8114,NA,101,310,army
+2020,46056809,Kaelon Black, RB ,5-10,185,Salem HS,Virginia Beach,VA,0.8114,NA,150,49,james madison
+2020,46084188,Peter Warrick, CB ,5-10,183,Marietta,Marietta,GA,0.8114,NA,222,218,florida atlantic
+2020,46042569,Gerrien Christopher,  ,6-0,190,Life Christian Academy,Chesapeake,VA,0.8114,NA,1,50,NULL
+2020,46081689,Daytione Smith, WR ,5-11,160,Highland Springs,Highland Springs,VA,0.8114,NA,310,51,marshall
+2020,46079387,Noah Whittington, WR ,5-9,175,Peach County,Fort Valley,GA,0.8113,NA,311,219,western kentucky
+2020,46077076,Travis Lockhart, SDE ,6-3,225,Villa Rica,Villa Rica,GA,0.8113,NA,124,220,florida atlantic
+2020,46058233,Ezra Evaimalo, OLB ,6-2,230,Kamehameha,Honolulu,HI,0.8113,NA,156,24,hawaii
+2020,46086028,Jayle Stacks, RB ,6-0,225,Cherry Creek,Englewood,CO,0.8113,NA,151,16,colorado
+2020,46094839,Tyson Player, S ,6-1,177,Ridge View,Columbia,SC,0.8112,NA,187,59,unlv
+2020,46052265,Antonio Mason, RB ,5-11,208,Hueytown ,Hueytown,AL,0.8112,NA,152,94,alabama birmingham
+2020,46058892,Mac Dalena, WR ,5-10,165,San Joaquin Memorial,Fresno,CA,0.8111,NA,312,217,fresno state
+2020,46083384,Freddie Brock, ATH ,5-10,170,East,Rochester,NY,0.8111,NA,185,18,maine
+2020,46052229,Zion Pugh, CB ,6-1,180,Thomas Jefferson,Dallas,TX,0.8111,NA,223,311,NULL
+2020,46081881,Andrew Henley, WR ,5-6,147,Hallandale,Hallandale,FL,0.8111,NA,313,327,tennessee martin
+2020,46076691,Isaiah Bess, PRO ,6-4,200,Shelby,Shelby,NC,0.8111,NA,87,83,NULL
+2020,46097481,Daiyaan Hawkins, CB ,5-11,170,Haverford School,Haverford,PA,0.8111,NA,224,35,temple
+2020,46080255,Donald Dillon, S ,5-10,175,Kenwood Academy,Chicago,IL,0.8111,NA,188,44,NULL
+2020,46083466,Jack Haglage, ILB ,6-1,205,William Mason,Mason,OH,0.8111,NA,102,94,navy
+2020,46081320,Jamari Bradley, WR ,6-1,190,Cleburne,Cleburne,TX,0.8111,NA,314,312,NULL
+2020,46086918,Javon Ellis, S ,6-1,170,Phillips Academy,Chicago,IL,0.8111,NA,189,45,army
+2020,46086920,Raleigh Oxendine, DT ,6-2,275,Jesuit,Tampa,FL,0.8111,NA,168,328,army
+2020,46057249,Lamagea McDowell, RB ,6-1,215,Charlotte Catholic,Charlotte,NC,0.8111,NA,153,84,campbell
+2020,46086924,Tommy Zitiello, S ,6-1,180,Ponte Vedra,Ponte Vedra Beach,FL,0.8111,NA,190,329,army
+2020,46057245,Tyrell Ford, CB ,5-11,170,Leesville Road,Raleigh,NC,0.8111,NA,225,85,NULL
+2020,46057244,Gabriel Hollingsworth, PRO ,6-3,205,Reagan,Pfafftown,NC,0.8111,NA,88,86,columbia
+2020,46042187,Tren Jones, CB ,6-0,170,Arp,Arp,TX,0.8111,NA,226,313,NULL
+2020,46055070,Miko Maessner, ATH ,6-1,180,Kearney,Kearney,NE,0.8111,NA,186,7,princeton
+2020,46086921,Aaron Adams, APB ,5-9,165,Suncoast,West Palm Beach,FL,0.8111,NA,31,330,army
+2020,46057227,Kaiser Cambra-Cho, S ,6-2,195,St Louis School,Honolulu,HI,0.8110,NA,191,25,air force
+2020,46053613,Stiles Moore, WDE ,6-3,255,Cocke County,Newport,TN,0.8107,NA,113,65,western michigan
+2020,46080669,Nasir Clerk, CB ,6-2,168,Irvington,Irvington,NJ,0.8105,NA,227,56,east carolina
+2020,46042328,Kolbe Burrell, RB ,5-9,189,St. Joseph's,Philadelphia,PA,0.8105,NA,154,36,buffalo
+2020,46055499,Dominique Perry, SDE ,6-3,245,Northwest,Germantown,MD,0.8105,NA,125,57,cincinnati
+2020,46076867,Alonzo Ford, DT ,6-3,290,Varina,Richmond,VA,0.8105,NA,169,52,old dominion
+2020,46080838,Fred Watson, S ,6-0,196,Lake Cormorant,Lake Cormorant,MS,0.8105,NA,192,60,NULL
+2020,46080160,Felix Anudike, WDE ,6-4,220,Lee's Summit,Lees Summit,MO,0.8105,NA,114,42,kansas state
+2020,46085211,Travis Collier, ATH ,6-2,185,Douglas County,Douglasville,GA,0.8105,NA,187,221,western kentucky
+2020,46080756,Cameron Peters, PRO ,6-3.5,188,Stafford,Stafford,TX,0.8105,NA,89,314,utsa
+2020,46086497,Ralpheal Marshall, S ,6-1,190,Pearland,Pearland,TX,0.8105,NA,193,315,louisiana tech
+2020,46095152,Anthony Smith, OG ,6-3,280,Lakeland,Lakeland,FL,0.8105,NA,153,331,iowa state
+2020,83300,Aidan Gaines, OC ,6-1.5,285,Rome,Rome,GA,0.8104,NA,46,222,army
+2020,46050430,Ja'Kobi Holland, RB ,5-11,180,West Brook,Beaumont,TX,0.8104,NA,155,316,NULL
+2020,46083177,Otto Tia, WR ,6-3,205,Northridge,Layton,UT,0.8104,NA,315,21,utah state
+2020,46085851,Marcellus Marshall, OT ,6-5,310,Morgantown,Morgantown,WV,0.8104,NA,191,7,kent state
+2020,46051519,The'Andris Freeman, WR ,5-11,175,St. Thomas Aquinas,Fort Lauderdale,FL,0.8104,NA,316,332,NULL
+2020,46058338,Elijah Sybblis, WDE ,6-4,235,Clearwater Academy International,Hamilton,ON,0.8104,NA,115,333,NULL
+2020,46081294,Kyan Graham, RB ,5-10,170,Winter Park,Orlando,FL,0.8104,NA,156,334,NULL
+2020,46082778,Jhalyn Shuler, OLB ,6-1,200,Abbeville,Abbeville,SC,0.8104,NA,157,60,NULL
+2020,46083293,Mana Taimani, OT ,6-4.5,306,Clayton Valley,Concord,CA,0.8104,NA,192,218,wyoming
+2020,46053214,Dontae Lunan, OLB ,5-10,209,St. Thomas Aquinas,Fort Lauderdale,FL,0.8104,NA,158,335,NULL
+2020,46082240,Nahji Logan, OLB ,6-3,217,Hatboro-Horsham,Horsham,PA,0.8104,NA,159,37,massachusetts
+2020,46085907,Jacquez Warren, S ,6-1,180,Southern,Durham,NC,0.8103,NA,194,87,miami ohio
+2020,46084142,Justin Lewis, DUAL ,6-2,185,Harrison,Kennesaw,GA,0.8103,NA,51,223,NULL
+2020,46058742,Courtney Eubanks, CB ,5-10,170,Admiral Farragut Academy,Clearwater,FL,0.8103,NA,228,336,north dakota state
+2020,46054921,Dominique Anthony, PRO ,6-1,219,Potomac,Oxon Hill,MD,0.8103,NA,90,58,old dominion
+2020,46086616,Reyan Blake, CB ,6-0,190,Seminole Ridge,Loxahatchee,FL,0.8101,NA,229,337,uconn
+2020,46081149,Tommy Brandt, OT ,6-4,275,St Thomas Academy,Saint Paul,MN,0.8101,NA,193,14,NULL
+2020,46084431,Devon Dorsey, WR ,6-1,175,Eagle's Landing Christian,Mcdonough,GA,0.8100,NA,317,224,miami ohio
+2020,46050922,Anthony Simpson, S ,5-10,180,Bloomfield,Pawling,NY,0.8100,NA,195,16,NULL
+2020,46080804,Jacob Gardner, OT ,6-5,285,Los Osos,Rancho Cucamonga,CA,0.8099,NA,194,219,nevada
+2020,46080977,Michael James Jr., WR ,6-0,200,Life Christian Academy,Colonial Heights,VA,0.8099,NA,318,53,liberty
+2020,46083909,Zach Gulley, S ,5-10,177,Newton,Newton,TX,0.8099,NA,196,317,louisiana monroe
+2020,46094266,Kris Byrd, TE ,6-3,225,Byrnes,Duncan,SC,0.8098,NA,115,61,georgia state
+2020,46097570,Jashon Prophete, CB ,6-0,171,Blanche Ely,Pompano Beach,FL,0.8098,NA,230,338,northern illinois
+2020,46085653,Shykieim Gloster, WDE ,6-3,215,Monsignor Pace,Opa Locka,FL,0.8098,NA,116,339,florida international
+2020,46059222,Khalid Shabazz-Williams, WR ,6-2,190,Unity Reed,Manassas,VA,0.8098,NA,319,54,NULL
+2020,46085213,Grady Liddell, S ,6-1,197,Adolfo Camarillo,Camarillo,CA,0.8098,NA,197,220,ucla
+2020,46049633,Blake Sturgill, PRO ,6-2,215,Moorpark,Moorpark,CA,0.8098,NA,91,221,NULL
+2020,46079412,Keegan Thompson, DUAL ,6-4.5,190,Rigby,Rigby,ID,0.8098,NA,52,5,idaho state
+2020,46081402,Trayveon Newton, DT ,6-2,285,Lancaster,Lancaster,TX,0.8098,NA,170,318,NULL
+2020,46055934,Ke'shun Ford, WR ,6-0,175,Lincoln,San Diego,CA,0.8098,NA,320,222,NULL
+2020,46053748,Deven Vanderbilt, CB ,5-11,152,Valley Christian,San Jose,CA,0.8098,NA,231,223,NULL
+2020,46048392,Christian Galvan, ATH ,5-9,180,Bothell,Bothell,WA,0.8098,NA,188,36,washington
+2020,46051978,Fresh Ison, RB ,5-10,185,Moreau Catholic,Hayward,CA,0.8098,NA,157,224,NULL
+2020,46050320,Peyton Brammer, WR ,6-5,205,Hockinson,Brush Prairie,WA,0.8098,NA,321,37,montana
+2020,46055976,Logan Bruce, OG ,6-5,300,Lake Stevens,Lake Stevens,WA,0.8098,NA,154,38,washington
+2020,46080104,Jalyne McFall, WR ,6-2,205,Grover Cleveland,Reseda,CA,0.8098,NA,322,225,new mexico state
+2020,46052277,Decarius Hawthorne, SDE ,6-2,268,Center Point,Birmingham,AL,0.8098,NA,126,95,florida atlantic
+2020,46049613,DJ Ralph, PRO ,6-2,200,Cathedral Catholic,San Diego,CA,0.8098,NA,92,226,new mexico state
+2020,46057292,Xzavier Ford, RB ,6-0,198,Glendora,Glendora,CA,0.8098,NA,158,227,NULL
+2020,46058296,Derrick Smith, OLB ,6-2,210,Archbishop Mitty,San Jose,CA,0.8098,NA,160,228,NULL
+2020,46079308,Jack Mills, OT ,6-5,280,Dexter School,Medfield,MA,0.8098,NA,195,16,georgetown
+2020,46052046,Kendrick Rogers, WR ,5-10,170,Prattville,Prattville,AL,0.8098,NA,323,96,NULL
+2020,46080979,Chancellor Handy, DT ,6-2,290,Saraland,Saraland,AL,0.8098,NA,171,97,NULL
+2020,46084639,Miles Davis, WR ,6-1,195,Las Vegas,Las Vegas,NV,0.8098,NA,324,14,byu
+2020,46056162,William Paden, S ,6-2,190,Desert Pines,Las Vegas,NV,0.8098,NA,198,15,NULL
+2020,46084708,Hayden Engel, OT ,6-5,275,Bishop Gorman,Las Vegas,NV,0.8098,NA,196,16,NULL
+2020,46059406,Rashawn McAlpine, RB ,5-11,204,Saraland,Saraland,AL,0.8098,NA,159,98,NULL
+2020,46054846,Eython Daugherty, TE ,6-2,215,Graham-Kapowsin,Graham,WA,0.8098,NA,116,39,NULL
+2020,46056355,Puka Sokimi, WR ,6-2,200,Bethel,Spanaway,WA,0.8098,NA,325,40,NULL
+2020,46082041,Dylan Ridolph, ILB ,5-11.5,216,Wiregrass Ranch,Zephyrhills,FL,0.8098,NA,103,340,NULL
+2020,46079903,Von Hill, WR ,6-0,172,Pine Forest,Pensacola,FL,0.8098,NA,326,341,NULL
+2020,46081633,Sayeed Shah, WDE ,6-3,223,Narbonne,Harbor City,CA,0.8098,NA,117,229,tennessee
+2020,46079179,Timothy Christopher, WR ,6-2.5,170,Helix,La Mesa,CA,0.8098,NA,327,230,NULL
+2020,46080271,Cody Johnson, OG ,6-2,275,The Woodlands,The Woodlands,TX,0.8098,NA,155,319,fordham
+2020,46049962,Nicholas Caldwell, CB ,5-11,175,American Collegiate Academy,Clearwater,FL,0.8098,NA,232,342,NULL
+2020,46057996,Jalin Wilson, S ,6-0,185,South Dade,Homestead,FL,0.8098,NA,199,343,NULL
+2020,46039822,Keith Savage, RB ,5-9,175,St. John Bosco,Bellflower,CA,0.8098,NA,160,231,NULL
+2020,46049672,Elijah Burrell, DUAL ,6-2,175,Tulare Western,Tulare,CA,0.8098,NA,53,232,davidson
+2020,46082815,Cole Hagen, DUAL ,6-2,180,Corner Canyon,Draper,UT,0.8098,NA,54,22,yale
+2020,46056285,Jared Fotu, ILB ,5-11,224,Lone Peak,American Fork,UT,0.8098,NA,104,23,NULL
+2020,46093728,Trajan Hansen, WR ,6-3,185,Lone Peak,American Fork,UT,0.8098,NA,328,24,NULL
+2020,46093615,Daniel Yamada, RB ,6-1,205,Lone Peak,American Fork,UT,0.8098,NA,161,25,NULL
+2020,46084919,Nehemiah Magalei, OG ,6-0,300,Chandler,Chandler,AZ,0.8098,NA,156,56,northern arizona
+2020,46081862,Elijah Ervin, WR ,6-2,180,Desert Vista,Phoenix,AZ,0.8098,NA,329,57,NULL
+2020,46083577,Willie Grier, ATH ,6-1,220,Woodstock,Woodstock,GA,0.8098,NA,189,225,NULL
+2020,46081624,Marco Siderman, DUAL ,6-0.5,208,Westlake,Westlake Village,CA,0.8098,NA,55,233,holy cross
+2020,46054691,Ke’ontae Springs, APB ,5-10,175,Madison,San Diego,CA,0.8098,NA,32,234,NULL
+2020,46054694,Olan Cazad, CB ,6-2,185,Kearny,San Diego,CA,0.8098,NA,233,235,new mexico state
+2020,46081621,Justin Williams, OG ,6-3,265,Tesoro,Rancho Santa Margarita,CA,0.8098,NA,157,236,ucla
+2020,46058345,Rasun Williams, ATH ,6-1,200,Steilacoom,Steilacoom,WA,0.8098,NA,190,41,idaho
+2020,46059140,Grant Daley, WR ,6-0.5,178,De La Salle,Concord,CA,0.8098,NA,330,237,california
